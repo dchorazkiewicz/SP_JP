@@ -6,11 +6,18 @@ theme:
   name: readthedocs
   language: pl
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search
 
 nav:
   - Start: index.md
   - Gramatyka:
-      - gramatyka/index.md
-      - Zaimki: gramatyka/zaimki/index.md
+      - Wprowadzenie: gramatyka/index.md
+      - Zagadnienia:
+          - Czasownik: gramatyka/czasownik/index.md
+          - Przymiotnik: gramatyka/przymiotnik/index.md
+          - Rzeczownik: gramatyka/rzeczownik/index.md
+          - Zaimki: gramatyka/zaimki/index.md
