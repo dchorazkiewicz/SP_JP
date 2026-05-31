@@ -1,0 +1,130 @@
+:root {
+  --sp-accent: #2f6f5e;
+  --sp-accent-dark: #1f4f43;
+  --sp-line: #d8dedb;
+  --sp-soft: #f5f7f6;
+  --sp-text-soft: #5c6964;
+}
+
+.wy-nav-content {
+  max-width: 980px;
+}
+
+.wy-nav-side {
+  background: #1f2528;
+}
+
+.wy-menu-vertical header,
+.wy-menu-vertical p.caption {
+  color: #95c7b7;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.wy-menu-vertical li.current > a,
+.wy-menu-vertical li.toctree-l1.current > a {
+  border-color: var(--sp-accent);
+}
+
+.wy-menu-vertical li.toctree-l2 a {
+  padding-left: 2.6em;
+}
+
+.wy-menu-vertical li.toctree-l3 a {
+  padding-left: 3.4em;
+  font-size: 0.92em;
+}
+
+.rst-content h1,
+.rst-content h2 {
+  font-weight: 700;
+}
+
+.rst-content h1 {
+  border-bottom: 3px solid var(--sp-accent);
+  padding-bottom: 0.35rem;
+}
+
+.section-grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  margin: 1rem 0 1.5rem;
+}
+
+.section-card,
+.pdf-item {
+  border: 1px solid var(--sp-line);
+  border-radius: 6px;
+  color: #25302c;
+  display: flex;
+  text-decoration: none;
+}
+
+.section-card {
+  background: linear-gradient(180deg, #ffffff 0%, var(--sp-soft) 100%);
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem;
+}
+
+.section-card:hover,
+.pdf-item:hover {
+  border-color: var(--sp-accent);
+  box-shadow: 0 4px 16px rgba(31, 79, 67, 0.12);
+  color: var(--sp-accent-dark);
+}
+
+.section-card strong {
+  font-size: 1.25rem;
+}
+
+.section-card span:last-child {
+  color: var(--sp-text-soft);
+}
+
+.section-kicker {
+  color: var(--sp-accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.pdf-list {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.pdf-item {
+  align-items: center;
+  background: #fff;
+  gap: 0.85rem;
+  padding: 0.85rem 1rem;
+}
+
+.pdf-badge {
+  align-items: center;
+  background: var(--sp-accent);
+  border-radius: 4px;
+  color: #fff;
+  display: inline-flex;
+  flex: 0 0 auto;
+  font-size: 0.76rem;
+  font-weight: 700;
+  height: 2rem;
+  justify-content: center;
+  width: 3rem;
+}
+
+.pdf-item strong,
+.pdf-item small {
+  display: block;
+}
+
+.pdf-item small {
+  color: var(--sp-text-soft);
+  font-size: 0.9rem;
+  margin-top: 0.1rem;
+}
