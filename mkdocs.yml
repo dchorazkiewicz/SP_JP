@@ -1,0 +1,16 @@
+site_name: Dokumentacja języka polskiego
+site_description: Materiały do nauki gramatyki języka polskiego
+site_url: ""
+
+theme:
+  name: readthedocs
+  language: pl
+
+plugins:
+  - search
+
+nav:
+  - Start: index.md
+  - Gramatyka:
+      - gramatyka/index.md
+      - Zaimki: gramatyka/zaimki/index.md
