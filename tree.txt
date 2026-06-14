@@ -156,6 +156,8 @@
 ./docs/gramatyka/skladnia/przydawka/rozpoznawanie-i-grupa-rzeczownikowa.md
 ./docs/gramatyka/skladnia/przydawka/szyk-i-znaczenie.md
 ./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
+./docs/gramatyka/skladnia/zwiazki-skladniowe
+./docs/gramatyka/skladnia/zwiazki-skladniowe/index.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
