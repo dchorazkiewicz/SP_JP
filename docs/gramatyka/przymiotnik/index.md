@@ -1,15 +1,14 @@
 # Przymiotnik
 
-Materiały PDF do przeglądania w przeglądarce.
+Ta sekcja będzie rozwijana jako zestaw materiałów dydaktycznych o przymiotniku w języku polskim.
 
-## Dokumenty
+## Planowane zagadnienia
 
-<div class="pdf-list">
-  <a class="pdf-item" href="pdf/przymiotnik_w_jezyku_polskim_rozszerzone_notatki.pdf">
-    <span class="pdf-badge">PDF</span>
-    <span>
-      <strong>Przymiotnik w języku polskim</strong>
-      <small>Rozszerzone notatki</small>
-    </span>
-  </a>
-</div>
+- czym jest przymiotnik,
+- związek przymiotnika z rzeczownikiem,
+- odmiana przez przypadki, liczby i rodzaje,
+- stopniowanie,
+- funkcje przymiotnika w zdaniu,
+- przykłady użycia.
+
+Dotychczasowe opracowanie jest dostępne w [Archiwum PDF](../../pdf/).
