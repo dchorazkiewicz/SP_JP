@@ -1,203 +1,139 @@
-# Tryby czasownika
+# Informacja, możliwość i polecenie
 
 <div class="verb-lesson" markdown>
 
 <div class="lead-box">
-Tryb pokazuje stosunek mówiącego do czynności. Możemy informować o faktach, mówić o możliwości zależnej od warunku albo kierować do kogoś polecenie, prośbę lub zachętę.
+Tryb czasownika pokazuje, jak osoba mówiąca przedstawia czynność. Może opisywać ją jako fakt, rozważać jako możliwość albo kierować do kogoś prośbę, radę lub polecenie.
 </div>
 
-## Trzy tryby w podobnych zdaniach
+<div class="verb-story">
+  <div class="verb-story__title">Otwarte okno</div>
+  <div class="verb-story__body" markdown>
+
+W klasie zrobiło się chłodno. Nauczyciel spojrzał na otwarte okno.
+
+> Maja <span class="verb-form">zamyka</span> okno.
+
+To zwykła informacja o tym, co się dzieje.
+
+> Maja <span class="verb-form">zamknęłaby</span> okno, gdyby siedziała bliżej.
+
+Teraz czynność nie jest przedstawiona jako fakt. Jest możliwa, ale zależy od warunku.
+
+> Maju, <span class="verb-form">zamknij</span> okno, proszę.
+
+W tym zdaniu mówiący zwraca się do Mai z prośbą.
+
+  </div>
+</div>
+
+<div class="verb-observation">
+<div class="verb-question">Czy zmieniła się sama czynność?</div>
+Nie. W każdym zdaniu chodzi o zamknięcie okna. Zmienił się sposób przedstawienia tej czynności. Tę różnicę nazywamy trybem czasownika.
+</div>
+
+## Trzy tryby
 
 <div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">oznajmujący</span>
-    <p>Maria <span class="verb-form">zamyka</span> okno przed wyjściem.</p>
-    <span class="verb-note">informacja o czynności</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">warunkowy</span>
-    <p>Maria <span class="verb-form"><span class="verb-stem">zamknęła</span><span class="verb-particle">by</span></span> okno, gdyby zrobiło się zimno.</p>
-    <span class="verb-note">czynność zależna od warunku</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">rozkazujący</span>
-    <p>Mario, <span class="verb-form">zamknij</span> okno przed wyjściem.</p>
-    <span class="verb-note">polecenie lub prośba</span>
-  </div>
+  <div class="verb-row"><span class="verb-badge">oznajmujący</span><p>Maja <span class="verb-form">zamyka</span> okno.</p><span class="verb-note">informacja</span></div>
+  <div class="verb-row"><span class="verb-badge">przypuszczający</span><p>Maja <span class="verb-form">zamknęłaby</span> okno.</p><span class="verb-note">możliwość lub przypuszczenie</span></div>
+  <div class="verb-row"><span class="verb-badge">rozkazujący</span><p>Maju, <span class="verb-form">zamknij</span> okno.</p><span class="verb-note">prośba, rada lub polecenie</span></div>
 </div>
 
 ## Tryb oznajmujący
 
-Tryb oznajmujący służy przede wszystkim do przedstawiania czynności, stanów i zdarzeń jako faktów, pytań albo informacji.
+Tryb oznajmujący przedstawia czynność, stan albo zdarzenie jako informację.
 
-- Teraz Anna **pisze** raport w swoim gabinecie.
-- Wczoraj Anna **pisała** raport przez trzy godziny.
-- Do jutra Anna **napisze** cały raport.
-- Czy Anna **wysłała** już gotowy raport?
+> Lena <span class="verb-form">czyta</span> książkę.  
+> Wczoraj Lena <span class="verb-form">czytała</span> książkę.  
+> Jutro Lena <span class="verb-form">przeczyta</span> książkę.
 
-Tryb oznajmujący może występować w czasie teraźniejszym, przeszłym i przyszłym.
+Może też wystąpić w pytaniu:
 
-## Tryb warunkowy — forma z cząstką „by”
+> Czy Lena <span class="verb-form">przeczytała</span> książkę?
 
-W trybie warunkowym forma czasownika łączy się z cząstkami **bym, byś, by, byśmy, byście**. W zapisie z osobową formą czasownika cząstki te zapisujemy łącznie.
+Pytanie nie zmienia trybu. Nadal pytamy o fakt.
 
-<div class="verb-key">
-  <span><span class="verb-key-stem">forma rodzajowa</span></span>
-  <span><span class="verb-key-particle">cząstka trybu warunkowego</span></span>
-</div>
+## Tryb przypuszczający
 
-<div class="verb-series">
-  <div class="verb-series__header"><strong>czytać</strong> <span>tryb warunkowy</span></div>
-  <div class="verb-row">
-    <span class="verb-badge">ja — mężczyzna</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytał</span><span class="verb-particle">bym</span></span> dłużej, gdybym miał więcej czasu.</p>
-    <span class="verb-note">czytał + bym</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ja — kobieta</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytała</span><span class="verb-particle">bym</span></span> dłużej, gdybym miała więcej czasu.</p>
-    <span class="verb-note">czytała + bym</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ty — mężczyzna</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytał</span><span class="verb-particle">byś</span></span> szybciej w cichszym pokoju.</p>
-    <span class="verb-note">czytał + byś</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ty — kobieta</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytała</span><span class="verb-particle">byś</span></span> szybciej w cichszym pokoju.</p>
-    <span class="verb-note">czytała + byś</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">on</span>
-    <p>Paweł <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-particle">by</span></span> tę książkę, gdyby ją znalazł.</p>
-    <span class="verb-note">czytał + by</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ona</span>
-    <p>Maria <span class="verb-form"><span class="verb-stem">czytała</span><span class="verb-particle">by</span></span> tę książkę, gdyby ją znalazła.</p>
-    <span class="verb-note">czytała + by</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">my — grupa męskoosobowa</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytali</span><span class="verb-particle">byśmy</span></span> wspólnie, gdybyśmy mieli jeden egzemplarz.</p>
-    <span class="verb-note">czytali + byśmy</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">my — grupa kobiet</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytały</span><span class="verb-particle">byśmy</span></span> wspólnie, gdybyśmy miały jeden egzemplarz.</p>
-    <span class="verb-note">czytały + byśmy</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">wy</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytali</span><span class="verb-particle">byście</span></span> uważniej, gdyby w sali było ciszej.</p>
-    <span class="verb-note">czytali + byście</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">oni/one</span>
-    <p>Uczniowie <span class="verb-form"><span class="verb-stem">czytali</span><span class="verb-particle">by</span></span> więcej, gdyby mieli dostęp do biblioteki wieczorem.</p>
-    <span class="verb-note">czytali + by</span>
-  </div>
-</div>
+Tryb przypuszczający pokazuje czynność możliwą, wyobrażoną, zależną od warunku albo przedstawioną uprzejmiej.
 
-## Warunek w całym zdaniu
+> Poszedłbym na spacer, gdyby przestało padać.  
+> Zjadłabym jeszcze kawałek ciasta.  
+> Czy podałbyś mi zeszyt?
 
-Tryb warunkowy często występuje w zdaniach z wyrazem **gdyby**.
+W starszych i niektórych dokładniejszych opisach spotyka się też nazwę **tryb warunkowy**, ponieważ często pojawia się przy warunku. W szkole najczęściej używa się nazwy **tryb przypuszczający**.
 
-<div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">warunek możliwy</span>
-    <p>Gdyby przestało padać, <span class="verb-form">poszlibyśmy</span> na spacer.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">warunek niespełniony w przeszłości</span>
-    <p>Gdyby autobus przyjechał wcześniej, <span class="verb-form">zdążylibyśmy</span> na pociąg.</p>
-  </div>
-</div>
+## Jak zbudowana jest forma przypuszczająca?
 
-W drugim zdaniu obie czynności dotyczą przeszłości, ale są przedstawione jako sytuacja, która się nie wydarzyła.
+> czytał + bym = <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-particle">bym</span></span>  
+> czytała + byś = <span class="verb-form"><span class="verb-stem">czytała</span><span class="verb-particle">byś</span></span>  
+> poszli + byśmy = <span class="verb-form"><span class="verb-stem">poszli</span><span class="verb-particle">byśmy</span></span>
 
-## Cząstka „by” może występować przy innym wyrazie
+Cząstki **bym, byś, by, byśmy, byście** pomagają rozpoznać tryb przypuszczający.
+
+## Dlaczego forma pokazuje rodzaj?
+
+> Czytałbym dłużej. — mówi chłopiec lub mężczyzna.  
+> Czytałabym dłużej. — mówi dziewczynka lub kobieta.
+
+Część **czytał / czytała** wskazuje rodzaj, a cząstka **bym** wskazuje pierwszą osobę.
+
+## Cząstka „by” nie zawsze stoi przy czasowniku
 
 Porównaj:
 
-- **Przeczytałbym** ten raport jeszcze dziś.
-- **Ja bym przeczytał** ten raport jeszcze dziś.
-- **Chętnie bym przeczytał** ten raport jeszcze dziś.
+> Przeczytałbym tę książkę.  
+> Ja bym przeczytał tę książkę.  
+> Chętnie bym przeczytał tę książkę.
 
-Znaczenie trybu warunkowego pozostaje podobne, ale rozłożenie elementów zdania zmienia akcent wypowiedzi. Gdy cząstka występuje bezpośrednio w formie **przeczytałbym**, zapisujemy ją łącznie z czasownikiem.
+Znaczenie pozostaje podobne, ale akcent pada na inny fragment wypowiedzi. W formie **przeczytałbym** zapisujemy cząstkę łącznie z czasownikiem.
 
-## Tryb rozkazujący
+## Tryb rozkazujący nie musi być rozkazem
 
-Tryb rozkazujący służy do wydawania poleceń, próśb, rad, zakazów i zachęt.
-
-<div class="verb-series">
-  <div class="verb-series__header"><strong>czytać</strong> <span>tryb rozkazujący</span></div>
-  <div class="verb-row">
-    <span class="verb-badge">ty</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytaj</span></span> tekst powoli i zaznaczaj ważne informacje.</p>
-    <span class="verb-note">czytaj</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">my</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytaj</span><span class="verb-ending">my</span></span> kolejny fragment razem.</p>
-    <span class="verb-note">zachęta do wspólnej czynności</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">wy</span>
-    <p><span class="verb-form"><span class="verb-stem">Czytaj</span><span class="verb-ending">cie</span></span> polecenia przed rozpoczęciem pracy.</p>
-    <span class="verb-note">czytajcie</span>
-  </div>
-</div>
-
-Często kierujemy polecenie do trzeciej osoby za pomocą wyrazu **niech**:
-
-- Niech Paweł **otworzy** okno.
-- Niech uczniowie **przeczytają** pierwszy rozdział.
-- Niech światło **zostanie** włączone przed wejściem gości.
-
-## Polecenie, prośba i rada mogą mieć tę samą formę
-
-Znaczenie zależy od intonacji i całego zdania.
+Ta sama forma może mieć różny ton.
 
 <div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">polecenie</span>
-    <p><span class="verb-form">Zamknij</span> drzwi natychmiast.</p>
-    <span class="verb-note">stanowczy ton</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">prośba</span>
-    <p><span class="verb-form">Zamknij</span> proszę drzwi, bo jest chłodno.</p>
-    <span class="verb-note">uprzejma prośba</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">rada</span>
-    <p><span class="verb-form">Zamknij</span> drzwi przed wyjściem, żeby nie trzaskały.</p>
-    <span class="verb-note">zalecenie</span>
-  </div>
+  <div class="verb-row"><span class="verb-badge">polecenie</span><p><span class="verb-form">Zamknij</span> drzwi natychmiast.</p><span class="verb-note">stanowczy ton</span></div>
+  <div class="verb-row"><span class="verb-badge">prośba</span><p><span class="verb-form">Zamknij</span> proszę drzwi.</p><span class="verb-note">uprzejmy ton</span></div>
+  <div class="verb-row"><span class="verb-badge">rada</span><p><span class="verb-form">Załóż</span> kurtkę, bo jest zimno.</p><span class="verb-note">zalecenie</span></div>
+  <div class="verb-row"><span class="verb-badge">zachęta</span><p><span class="verb-form">Chodźmy</span> na boisko.</p><span class="verb-note">wspólna czynność</span></div>
 </div>
 
-## Przeczenie w trybie rozkazującym
+Znaczenie rozpoznajemy z intonacji, słów takich jak **proszę** oraz z całej sytuacji.
 
-<div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">zakaz trwania lub powtarzania</span>
-    <p>Nie <span class="verb-form">otwieraj</span> okna podczas burzy.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">ostrzeżenie przed jednym skutkiem</span>
-    <p>Nie <span class="verb-form">otwórz</span> przez pomyłkę niewłaściwego pliku.</p>
-  </div>
+## Formy trybu rozkazującego
+
+> ty: czytaj, napisz, chodź;  
+> my: czytajmy, napiszmy, chodźmy;  
+> wy: czytajcie, napiszcie, chodźcie.
+
+Gdy mówimy o trzeciej osobie, używamy zwykle słowa **niech**:
+
+> Niech Kuba otworzy okno.  
+> Niech dzieci usiądą w kole.
+
+## Zakaz i aspekt
+
+> Nie otwieraj okna podczas burzy.  
+> Nie otwórz przez pomyłkę niewłaściwego pliku.
+
+Pierwsze zdanie zakazuje czynności trwającej lub powtarzanej. Drugie ostrzega przed jednym niepożądanym skutkiem. Różnicę tworzy aspekt czasownika.
+
+## Jak rozpoznać tryb?
+
+<div class="verb-step-list">
+  <div class="verb-step">Sprawdź, czy zdanie przedstawia czynność jako informację lub fakt.</div>
+  <div class="verb-step">Poszukaj cząstek <em>bym, byś, by, byśmy, byście</em> i znaczenia możliwości albo warunku.</div>
+  <div class="verb-step">Sprawdź, czy wypowiedź jest skierowana do odbiorcy jako prośba, rada, zachęta lub polecenie.</div>
+  <div class="verb-step">Czytaj całe zdanie. Sama forma rozkazująca nie mówi jeszcze, czy wypowiedź jest łagodna, czy stanowcza.</div>
 </div>
 
-Dobór aspektu zależy od sensu. Forma niedokonana często zakazuje trwającej lub powtarzanej czynności, a dokonana może ostrzegać przed jednorazowym skutkiem.
-
-<div class="verb-summary">
-<h3>Tryb zmienia sposób przedstawienia tej samej czynności</h3>
-<strong>Zamykasz okno</strong> informuje o czynności. <strong>Zamknąłbyś okno</strong> przedstawia możliwość lub uprzejmą prośbę. <strong>Zamknij okno</strong> kieruje do odbiorcy polecenie albo prośbę. Znaczenie rozpoznajemy z formy czasownika i z całego zdania.
+<div class="verb-mini-summary">
+<h3>Tryb pokazuje punkt widzenia mówiącego</h3>
+<em>Zamykasz</em> informuje. <em>Zamknąłbyś</em> przedstawia możliwość albo uprzejmą prośbę. <em>Zamknij</em> kieruje działanie do odbiorcy. Czynność jest podobna, ale sposób mówienia o niej się zmienia.
 </div>
 
-[Przejdź dalej: strony i formy nieosobowe](../strony-i-formy-nieosobowe/){ .md-button .md-button--primary }
+[Przejdź dalej: różne sposoby opowiadania o czynności](../strony-i-formy-nieosobowe/){ .md-button .md-button--primary }
 
 </div>
