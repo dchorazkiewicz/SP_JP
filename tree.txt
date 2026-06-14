@@ -11,6 +11,8 @@
 ./docs/gramatyka/czasownik/index.md
 ./docs/gramatyka/czasownik/pdf
 ./docs/gramatyka/czasownik/pdf/czasownik_w_jezyku_polskim_rozszerzone_notatki.pdf
+./docs/gramatyka/czesci-mowy
+./docs/gramatyka/czesci-mowy/index.md
 ./docs/gramatyka/index.md
 ./docs/gramatyka/podstawy
 ./docs/gramatyka/podstawy/index.md
