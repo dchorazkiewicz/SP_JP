@@ -29,6 +29,7 @@ extra_css:
   - stylesheets/noun-lesson.css
   - stylesheets/verb-lesson.css
   - stylesheets/remaining-parts.css
+  - stylesheets/lesson-style-compat.css
 
 plugins:
   - search:
