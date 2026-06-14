@@ -1,0 +1,17 @@
+/*
+  Shared component names are also used in the noun chapter.
+  These aliases preserve the noun chapter's own palette when the later
+  adjective/pronoun/numeral stylesheet is loaded globally by MkDocs.
+*/
+.noun-lesson {
+  --part-accent: var(--noun-accent);
+  --part-soft: var(--noun-soft);
+  --part-accent-soft: var(--noun-soft);
+  --part-border: var(--noun-border);
+  --form-bg: var(--noun-form-bg);
+  --form-line: var(--noun-form-line);
+  --ending-bg: var(--noun-ending-bg);
+  --ending-line: var(--noun-ending-line);
+  --change-bg: var(--noun-change-bg);
+  --change-line: var(--noun-change-line);
+}
