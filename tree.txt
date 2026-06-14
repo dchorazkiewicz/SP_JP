@@ -12,6 +12,7 @@
 ./docs/gramatyka/czasownik/pdf/czasownik_w_jezyku_polskim_rozszerzone_notatki.pdf
 ./docs/gramatyka/czesci-mowy
 ./docs/gramatyka/czesci-mowy/czasownik
+./docs/gramatyka/czesci-mowy/czasownik/aspekt.md
 ./docs/gramatyka/czesci-mowy/czasownik/czasy.md
 ./docs/gramatyka/czesci-mowy/czasownik/index.md
 ./docs/gramatyka/czesci-mowy/czasownik/osoby-i-liczby.md
