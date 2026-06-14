@@ -108,6 +108,7 @@
 ./docs/gramatyka/skladnia/orzeczenie/orzeczenie-zlozone.md
 ./docs/gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
 ./docs/gramatyka/skladnia/podmiot
+./docs/gramatyka/skladnia/podmiot/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/podmiot/index.md
 ./docs/gramatyka/skladnia/podmiot/podmiot-domyslny-i-zdania-bezpodmiotowe.md
 ./docs/gramatyka/skladnia/podmiot/podmiot-gramatyczny-i-sposoby-wyrazania.md
