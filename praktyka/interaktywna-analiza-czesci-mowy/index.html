@@ -53,8 +53,6 @@
     
       <link rel="stylesheet" href="../../stylesheets/extra.css">
     
-      <link rel="stylesheet" href="../../stylesheets/interactive-wide.css">
-    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -212,6 +210,8 @@
         <div class="md-main__inner md-grid">
           
             
+              
+                
               
               <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
@@ -826,7 +826,9 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -850,79 +852,24 @@
               <article class="md-content__inner md-typeset">
                 
                   
+  
 
 
 
-<h1 id="czytaj-i-sprawdzaj-tajemnica-szklanego-lasu">Czytaj i sprawdzaj: tajemnica Szklanego Lasu<a class="headerlink" href="#czytaj-i-sprawdzaj-tajemnica-szklanego-lasu" title="Permanent link">&para;</a></h1>
-<p>To nie jest zestaw suchych poleceń. Najpierw przeczytaj opowiadanie, a potem ucz się rozpoznawania części mowy bezpośrednio w tekście.</p>
-<ol>
-<li>Wybierz część mowy.</li>
-<li>Klikaj wyrazy, które według Ciebie należą do tej kategorii.</li>
-<li>Po każdym kliknięciu od razu zobaczysz, czy odpowiedź jest poprawna.</li>
-</ol>
-<div class="grammar-lab" data-grammar-lab>
-  <section class="grammar-picker" aria-labelledby="grammar-picker-title">
-    <h2 id="grammar-picker-title">Co chcesz rozpoznawać?</h2>
-    <div class="grammar-category-buttons" role="group" aria-label="Wybierz część mowy">
-      <button type="button" class="grammar-category-button category-noun" data-grammar-category="noun" aria-pressed="false">Rzeczowniki</button>
-      <button type="button" class="grammar-category-button category-verb" data-grammar-category="verb" aria-pressed="false">Czasowniki</button>
-      <button type="button" class="grammar-category-button category-adjective" data-grammar-category="adjective" aria-pressed="false">Przymiotniki</button>
-      <button type="button" class="grammar-category-button category-pronoun" data-grammar-category="pronoun" aria-pressed="false">Zaimki</button>
-    </div>
-  </section>
 
-  <section class="grammar-dashboard" aria-label="Wynik ćwiczenia">
-    <div class="grammar-metric"><span>Wybrana kategoria</span><strong data-active-category>Nie wybrano</strong></div>
-    <div class="grammar-metric"><span>Poprawnie znalezione</span><strong data-correct-count>0</strong></div>
-    <div class="grammar-metric"><span>Wszystkie próby</span><strong data-attempt-count>0</strong></div>
-    <div class="grammar-metric"><span>Skuteczność</span><strong data-accuracy>—</strong></div>
-  </section>
-
-  <div class="grammar-progress" aria-live="polite">
-    <span data-category-progress>Wybierz kategorię, aby rozpocząć.</span>
-  </div>
-
-  <div class="grammar-feedback is-neutral" data-grammar-feedback role="status" aria-live="polite">
-    Wybierz część mowy, a następnie kliknij wyraz w opowiadaniu.
-  </div>
-
-  <article class="grammar-story" data-grammar-story aria-label="Opowiadanie Tajemnica Szklanego Lasu">
-    <h2>Tajemnica Szklanego Lasu</h2>
-
-    <p><span class="story-number">1.</span> <button type="button" class="grammar-word" data-pos="preposition">W</button> <button type="button" class="grammar-word" data-pos="adjective">małej</button> <button type="button" class="grammar-word" data-pos="noun">wiosce</button> <button type="button" class="grammar-word" data-pos="preposition">pod</button> <button type="button" class="grammar-word" data-pos="noun">górami</button> <button type="button" class="grammar-word" data-pos="verb">mieszkała</button> <button type="button" class="grammar-word" data-pos="adjective">odważna</button> <button type="button" class="grammar-word" data-pos="noun">dziewczynka</button> <button type="button" class="grammar-word" data-pos="noun">Lena</button>.</p>
-    <p><span class="story-number">2.</span> <button type="button" class="grammar-word" data-pos="adverb">Rano</button> <button type="button" class="grammar-word" data-pos="pronoun">ona</button> <button type="button" class="grammar-word" data-pos="verb">zanosiła</button> <button type="button" class="grammar-word" data-pos="adjective">świeży</button> <button type="button" class="grammar-word" data-pos="noun">chleb</button> <button type="button" class="grammar-word" data-pos="adjective">staremu</button> <button type="button" class="grammar-word" data-pos="noun">strażnikowi</button> <button type="button" class="grammar-word" data-pos="noun">mostu</button>.</p>
-    <p><span class="story-number">3.</span> <button type="button" class="grammar-word" data-pos="noun">Wiosną</button> <button type="button" class="grammar-word" data-pos="noun">strażnik</button> <button type="button" class="grammar-word" data-pos="verb">pokazał</button> <button type="button" class="grammar-word" data-pos="pronoun">jej</button> <button type="button" class="grammar-word" data-pos="adjective">srebrny</button> <button type="button" class="grammar-word" data-pos="noun">klucz</button> <button type="button" class="grammar-word" data-pos="conjunction">oraz</button> <button type="button" class="grammar-word" data-pos="adjective">tajemniczą</button> <button type="button" class="grammar-word" data-pos="noun">mapę</button>.</p>
-    <p><span class="story-number">4.</span> <button type="button" class="grammar-word" data-pos="preposition">Na</button> <button type="button" class="grammar-word" data-pos="noun">mapie</button> <button type="button" class="grammar-word" data-pos="adjective">cienka</button> <button type="button" class="grammar-word" data-pos="noun">droga</button> <button type="button" class="grammar-word" data-pos="verb">biegła</button> <button type="button" class="grammar-word" data-pos="preposition">do</button> <button type="button" class="grammar-word" data-pos="adjective">Szklanego</button> <button type="button" class="grammar-word" data-pos="noun">Lasu</button>.</p>
-    <p><span class="story-number">5.</span> <button type="button" class="grammar-word" data-pos="pronoun">Nikt</button> <button type="button" class="grammar-word" data-pos="preposition">z</button> <button type="button" class="grammar-word" data-pos="noun">mieszkańców</button> <button type="button" class="grammar-word" data-pos="particle">nie</button> <button type="button" class="grammar-word" data-pos="verb">chciał</button> <button type="button" class="grammar-word" data-pos="adverb">tam</button> <button type="button" class="grammar-word" data-pos="verb">wejść</button> <button type="button" class="grammar-word" data-pos="preposition">po</button> <button type="button" class="grammar-word" data-pos="noun">zachodzie</button> <button type="button" class="grammar-word" data-pos="noun">słońca</button>.</p>
-    <p><span class="story-number">6.</span> <button type="button" class="grammar-word" data-pos="noun">Lena</button> <button type="button" class="grammar-word" data-pos="verb">schowała</button> <button type="button" class="grammar-word" data-pos="noun">klucz</button> <button type="button" class="grammar-word" data-pos="preposition">do</button> <button type="button" class="grammar-word" data-pos="noun">kieszeni</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">ruszyła</button> <button type="button" class="grammar-word" data-pos="adverb">samotnie</button> <button type="button" class="grammar-word" data-pos="preposition">przed</button> <button type="button" class="grammar-word" data-pos="pronoun">siebie</button>.</p>
-    <p><span class="story-number">7.</span> <button type="button" class="grammar-word" data-pos="preposition">W</button> <button type="button" class="grammar-word" data-pos="noun">lesie</button> <button type="button" class="grammar-word" data-pos="adjective">wysokie</button> <button type="button" class="grammar-word" data-pos="noun">drzewa</button> <button type="button" class="grammar-word" data-pos="verb">odbijały</button> <button type="button" class="grammar-word" data-pos="noun">księżyc</button> <button type="button" class="grammar-word" data-pos="conjunction">jak</button> <button type="button" class="grammar-word" data-pos="numeral">tysiące</button> <button type="button" class="grammar-word" data-pos="noun">luster</button>.</p>
-    <p><span class="story-number">8.</span> <button type="button" class="grammar-word" data-pos="preposition">Między</button> <button type="button" class="grammar-word" data-pos="pronoun">nimi</button> <button type="button" class="grammar-word" data-pos="verb">przemykały</button> <button type="button" class="grammar-word" data-pos="adjective">małe</button> <button type="button" class="grammar-word" data-pos="noun">światła</button>, <button type="button" class="grammar-word" data-pos="conjunction">ale</button> <button type="button" class="grammar-word" data-pos="pronoun">żadne</button> <button type="button" class="grammar-word" data-pos="particle">nie</button> <button type="button" class="grammar-word" data-pos="verb">zbliżało</button> <button type="button" class="grammar-word" data-pos="pronoun">się</button> <button type="button" class="grammar-word" data-pos="preposition">do</button> <button type="button" class="grammar-word" data-pos="pronoun">niej</button>.</p>
-    <p><span class="story-number">9.</span> <button type="button" class="grammar-word" data-pos="adverb">Nagle</button> <button type="button" class="grammar-word" data-pos="preposition">z</button> <button type="button" class="grammar-word" data-pos="adjective">ciemnej</button> <button type="button" class="grammar-word" data-pos="noun">ścieżki</button> <button type="button" class="grammar-word" data-pos="verb">wyszedł</button> <button type="button" class="grammar-word" data-pos="adjective">biały</button> <button type="button" class="grammar-word" data-pos="noun">wilk</button> <button type="button" class="grammar-word" data-pos="preposition">z</button> <button type="button" class="grammar-word" data-pos="adjective">błękitnymi</button> <button type="button" class="grammar-word" data-pos="noun">oczami</button>.</p>
-    <p><span class="story-number">10.</span> <button type="button" class="grammar-word" data-pos="pronoun">On</button> <button type="button" class="grammar-word" data-pos="particle">nie</button> <button type="button" class="grammar-word" data-pos="verb">warczał</button>, <button type="button" class="grammar-word" data-pos="particle">tylko</button> <button type="button" class="grammar-word" data-pos="adverb">spokojnie</button> <button type="button" class="grammar-word" data-pos="verb">położył</button> <button type="button" class="grammar-word" data-pos="preposition">przed</button> <button type="button" class="grammar-word" data-pos="pronoun">nią</button> <button type="button" class="grammar-word" data-pos="adjective">złoty</button> <button type="button" class="grammar-word" data-pos="noun">liść</button>.</p>
-    <p><span class="story-number">11.</span> <button type="button" class="grammar-word" data-pos="preposition">Na</button> <button type="button" class="grammar-word" data-pos="noun">liściu</button> <button type="button" class="grammar-word" data-pos="verb">widniał</button> <button type="button" class="grammar-word" data-pos="noun">napis</button>: <button type="button" class="grammar-word" data-pos="verb">Otwórz</button> <button type="button" class="grammar-word" data-pos="noun">bramę</button>, <button type="button" class="grammar-word" data-pos="conjunction">zanim</button> <button type="button" class="grammar-word" data-pos="verb">obudzi</button> <button type="button" class="grammar-word" data-pos="pronoun">się</button> <button type="button" class="grammar-word" data-pos="noun">król</button> <button type="button" class="grammar-word" data-pos="noun">cieni</button>.</p>
-    <p><span class="story-number">12.</span> <button type="button" class="grammar-word" data-pos="noun">Dziewczynka</button> <button type="button" class="grammar-word" data-pos="verb">pobiegła</button> <button type="button" class="grammar-word" data-pos="preposition">za</button> <button type="button" class="grammar-word" data-pos="noun">wilkiem</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">dotarła</button> <button type="button" class="grammar-word" data-pos="preposition">do</button> <button type="button" class="grammar-word" data-pos="adjective">kamiennej</button> <button type="button" class="grammar-word" data-pos="noun">wieży</button>.</p>
-    <p><span class="story-number">13.</span> <button type="button" class="grammar-word" data-pos="pronoun">Jej</button> <button type="button" class="grammar-word" data-pos="noun">drzwi</button> <button type="button" class="grammar-word" data-pos="verb">były</button> <button type="button" class="grammar-word" data-pos="adjective">ciężkie</button>, <button type="button" class="grammar-word" data-pos="conjunction">lecz</button> <button type="button" class="grammar-word" data-pos="adjective">srebrny</button> <button type="button" class="grammar-word" data-pos="noun">klucz</button> <button type="button" class="grammar-word" data-pos="verb">pasował</button> <button type="button" class="grammar-word" data-pos="adverb">idealnie</button>.</p>
-    <p><span class="story-number">14.</span> <button type="button" class="grammar-word" data-pos="preposition">W</button> <button type="button" class="grammar-word" data-pos="noun">środku</button> <button type="button" class="grammar-word" data-pos="adjective">ogromny</button> <button type="button" class="grammar-word" data-pos="noun">zegar</button> <button type="button" class="grammar-word" data-pos="verb">odmierzał</button> <button type="button" class="grammar-word" data-pos="adjective">ostatnie</button> <button type="button" class="grammar-word" data-pos="noun">minuty</button> <button type="button" class="grammar-word" data-pos="preposition">przed</button> <button type="button" class="grammar-word" data-pos="noun">północą</button>.</p>
-    <p><span class="story-number">15.</span> <button type="button" class="grammar-word" data-pos="noun">Lena</button> <button type="button" class="grammar-word" data-pos="verb">zobaczyła</button> <button type="button" class="grammar-word" data-pos="adjective">czarną</button> <button type="button" class="grammar-word" data-pos="noun">koronę</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">zrozumiała</button> <button type="button" class="grammar-word" data-pos="noun">plan</button> <button type="button" class="grammar-word" data-pos="adjective">ukrytego</button> <button type="button" class="grammar-word" data-pos="noun">władcy</button>.</p>
-    <p><span class="story-number">16.</span> <button type="button" class="grammar-word" data-pos="pronoun">To</button> <button type="button" class="grammar-word" data-pos="pronoun">on</button> <button type="button" class="grammar-word" data-pos="verb">wysyłał</button> <button type="button" class="grammar-word" data-pos="noun">cienie</button> <button type="button" class="grammar-word" data-pos="conjunction">aby</button> <button type="button" class="grammar-word" data-pos="verb">przestraszyć</button> <button type="button" class="grammar-word" data-pos="noun">ludzi</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">zdobyć</button> <button type="button" class="grammar-word" data-pos="noun">dolinę</button>.</p>
-    <p><span class="story-number">17.</span> <button type="button" class="grammar-word" data-pos="pronoun">Ona</button> <button type="button" class="grammar-word" data-pos="verb">podniosła</button> <button type="button" class="grammar-word" data-pos="noun">koronę</button>, <button type="button" class="grammar-word" data-pos="conjunction">lecz</button> <button type="button" class="grammar-word" data-pos="noun">wilk</button> <button type="button" class="grammar-word" data-pos="adverb">natychmiast</button> <button type="button" class="grammar-word" data-pos="verb">uderzył</button> <button type="button" class="grammar-word" data-pos="preposition">w</button> <button type="button" class="grammar-word" data-pos="pronoun">nią</button> <button type="button" class="grammar-word" data-pos="noun">łapą</button>.</p>
-    <p><span class="story-number">18.</span> <button type="button" class="grammar-word" data-pos="noun">Korona</button> <button type="button" class="grammar-word" data-pos="verb">pękła</button>, <button type="button" class="grammar-word" data-pos="conjunction">a</button> <button type="button" class="grammar-word" data-pos="preposition">z</button> <button type="button" class="grammar-word" data-pos="pronoun">jej</button> <button type="button" class="grammar-word" data-pos="noun">wnętrza</button> <button type="button" class="grammar-word" data-pos="verb">uleciał</button> <button type="button" class="grammar-word" data-pos="adjective">czerwony</button> <button type="button" class="grammar-word" data-pos="noun">dym</button>.</p>
-    <p><span class="story-number">19.</span> <button type="button" class="grammar-word" data-pos="adverb">Wtedy</button> <button type="button" class="grammar-word" data-pos="pronoun">wszystkie</button> <button type="button" class="grammar-word" data-pos="noun">lustra</button> <button type="button" class="grammar-word" data-pos="verb">rozbłysły</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">pokazały</button> <button type="button" class="grammar-word" data-pos="adjective">prawdziwą</button> <button type="button" class="grammar-word" data-pos="noun">drogę</button> <button type="button" class="grammar-word" data-pos="preposition">do</button> <button type="button" class="grammar-word" data-pos="noun">domu</button>.</p>
-    <p><span class="story-number">20.</span> <button type="button" class="grammar-word" data-pos="adjective">Biały</button> <button type="button" class="grammar-word" data-pos="noun">wilk</button> <button type="button" class="grammar-word" data-pos="verb">przemienił</button> <button type="button" class="grammar-word" data-pos="pronoun">się</button> <button type="button" class="grammar-word" data-pos="preposition">w</button> <button type="button" class="grammar-word" data-pos="adjective">młodego</button> <button type="button" class="grammar-word" data-pos="noun">księcia</button> <button type="button" class="grammar-word" data-pos="pronoun">którego</button> <button type="button" class="grammar-word" data-pos="verb">więziła</button> <button type="button" class="grammar-word" data-pos="noun">magia</button>.</p>
-    <p><span class="story-number">21.</span> <button type="button" class="grammar-word" data-pos="noun">Książę</button> <button type="button" class="grammar-word" data-pos="verb">podziękował</button> <button type="button" class="grammar-word" data-pos="noun">Lenie</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">obiecał</button> <button type="button" class="grammar-word" data-pos="verb">chronić</button> <button type="button" class="grammar-word" data-pos="noun">wioskę</button> <button type="button" class="grammar-word" data-pos="preposition">przed</button> <button type="button" class="grammar-word" data-pos="pronoun">każdym</button> <button type="button" class="grammar-word" data-pos="noun">niebezpieczeństwem</button>.</p>
-    <p><span class="story-number">22.</span> <button type="button" class="grammar-word" data-pos="preposition">O</button> <button type="button" class="grammar-word" data-pos="noun">świcie</button> <button type="button" class="grammar-word" data-pos="pronoun">oni</button> <button type="button" class="grammar-word" data-pos="verb">wrócili</button> <button type="button" class="grammar-word" data-pos="adverb">razem</button> <button type="button" class="grammar-word" data-pos="conjunction">i</button> <button type="button" class="grammar-word" data-pos="verb">nieśli</button> <button type="button" class="grammar-word" data-pos="adjective">srebrny</button> <button type="button" class="grammar-word" data-pos="noun">klucz</button> <button type="button" class="grammar-word" data-pos="conjunction">oraz</button> <button type="button" class="grammar-word" data-pos="adjective">złoty</button> <button type="button" class="grammar-word" data-pos="noun">liść</button>.</p>
-    <p><span class="story-number">23.</span> <button type="button" class="grammar-word" data-pos="preposition">Od</button> <button type="button" class="grammar-word" data-pos="pronoun">tego</button> <button type="button" class="grammar-word" data-pos="noun">dnia</button> <button type="button" class="grammar-word" data-pos="noun">dzieci</button> <button type="button" class="grammar-word" data-pos="verb">słuchały</button> <button type="button" class="grammar-word" data-pos="noun">opowieści</button> <button type="button" class="grammar-word" data-pos="noun">Leny</button> <button type="button" class="grammar-word" data-pos="preposition">przy</button> <button type="button" class="grammar-word" data-pos="adjective">ciepłym</button> <button type="button" class="grammar-word" data-pos="noun">ogniu</button>.</p>
-    <p><span class="story-number">24.</span> <button type="button" class="grammar-word" data-pos="pronoun">Każde</button> <button type="button" class="grammar-word" data-pos="preposition">z</button> <button type="button" class="grammar-word" data-pos="pronoun">nich</button> <button type="button" class="grammar-word" data-pos="verb">wiedziało</button>, <button type="button" class="grammar-word" data-pos="conjunction">że</button> <button type="button" class="grammar-word" data-pos="noun">odwaga</button> <button type="button" class="grammar-word" data-pos="verb">rośnie</button> <button type="button" class="grammar-word" data-pos="adverb">wtedy</button>, <button type="button" class="grammar-word" data-pos="conjunction">gdy</button> <button type="button" class="grammar-word" data-pos="pronoun">ktoś</button> <button type="button" class="grammar-word" data-pos="verb">pomaga</button> <button type="button" class="grammar-word" data-pos="pronoun">innym</button>.</p>
-  </article>
-
-  <div class="grammar-actions">
-    <button type="button" class="grammar-secondary-button" data-show-answers>Pokaż wszystkie odpowiedzi</button>
-    <button type="button" class="grammar-secondary-button" data-grammar-reset>Zacznij od początku</button>
-  </div>
-
-  <p class="grammar-note">Kolory oznaczają poprawnie rozpoznane wyrazy. Błędne kliknięcie nie zaznacza słowa na stałe — od razu otrzymujesz informację, jaką częścią mowy jest wybrany wyraz.</p>
+<h1 id="czytaj-i-sprawdzaj-tajemnica-szklanego-lasu">Czytaj i sprawdzaj: Tajemnica Szklanego Lasu<a class="headerlink" href="#czytaj-i-sprawdzaj-tajemnica-szklanego-lasu" title="Permanent link">&para;</a></h1>
+<p>Poniżej znajduje się niezależna aplikacja edukacyjna. Wybierz część mowy, klikaj wyrazy bezpośrednio w opowiadaniu i natychmiast sprawdzaj odpowiedzi.</p>
+<div class="interactive-app-shell">
+  <iframe
+    class="interactive-app-frame"
+    src="../apps/szklany-las/index.html"
+    title="Interaktywna analiza części mowy — Tajemnica Szklanego Lasu"
+    loading="eager"
+    scrolling="no">
+  </iframe>
 </div>
 
+<p><a class="md-button md-button--primary" href="../apps/szklany-las/index.html" target="_blank">Otwórz aplikację na całej stronie</a></p>
 
 
 
@@ -930,7 +877,13 @@
 
 
 
+  
+  
 
+
+
+
+  
 
 
 
@@ -981,8 +934,6 @@
     
     
       <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
-      
-        <script src="../../javascripts/grammar-highlighter.js"></script>
       
     
   </body>
