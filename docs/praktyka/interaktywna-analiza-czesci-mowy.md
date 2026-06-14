@@ -5,13 +5,13 @@ hide:
 
 # Czytaj i sprawdzaj: Tajemnica Szklanego Lasu
 
-Poniżej znajduje się niezależna aplikacja edukacyjna. Wybierz część mowy, klikaj wyrazy bezpośrednio w opowiadaniu i natychmiast sprawdzaj odpowiedzi.
+Poniżej znajduje się niezależna aplikacja edukacyjna z 50-zdaniowym opowiadaniem. Można w nim wyszukiwać wszystkie dziesięć części mowy: rzeczowniki, czasowniki, przymiotniki, liczebniki, zaimki, przysłówki, przyimki, spójniki, partykuły i wykrzykniki.
 
 <div class="interactive-app-shell">
   <iframe
     class="interactive-app-frame"
     src="../apps/szklany-las/index.html"
-    title="Interaktywna analiza części mowy — Tajemnica Szklanego Lasu"
+    title="Interaktywna analiza wszystkich części mowy — Tajemnica Szklanego Lasu"
     loading="eager"
     scrolling="no">
   </iframe>
