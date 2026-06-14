@@ -114,6 +114,7 @@
 ./docs/gramatyka/skladnia/podmiot/podmiot-gramatyczny-i-sposoby-wyrazania.md
 ./docs/gramatyka/skladnia/podmiot/podmiot-logiczny-i-konstrukcje-nietypowe.md
 ./docs/gramatyka/skladnia/podmiot/podmiot-wieloczlonowy.md
+./docs/gramatyka/skladnia/podmiot/podmioty-w-tekscie.md
 ./docs/gramatyka/skladnia/podmiot/rozpoznawanie.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
