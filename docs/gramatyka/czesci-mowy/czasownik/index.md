@@ -6,6 +6,15 @@
 Czasownik nie jest tylko nazwą do zapamiętania. To wyraz, który uruchamia zdanie: mówi, co ktoś robi, co się z kimś dzieje, w jakim jest stanie albo co właśnie się wydarzyło.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Jak czytać ten dział?</div>
+  <ul>
+    <li>Najpierw zobaczysz krótką sytuację lub opowieść.</li>
+    <li>Potem zatrzymamy się i nazwiemy to, co można było zauważyć.</li>
+    <li>Na końcu każdej części pojawi się krótkie podsumowanie z najważniejszymi pojęciami.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Plecak Kuby</div>
   <div class="verb-story__body" markdown>
@@ -36,6 +45,22 @@ Za każdym razem mamy tych samych bohaterów, ale inne zdarzenie. To właśnie r
 Czasownik odpowiada za najważniejszą informację o zdarzeniu. Pokazuje czynność, stan, zmianę albo wydarzenie. Jego forma może też zdradzić, kto działa i kiedy to się dzieje.
 </div>
 
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Czasownik</strong>
+  <p>To część mowy, która nazywa czynność, stan, zmianę, zdarzenie albo istnienie i może zmieniać formę, aby pokazać osobę, liczbę, czas oraz tryb.</p>
+</div>
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Pierwsze podsumowanie</div>
+  <ul>
+    <li>Czasownik mówi, co się dzieje.</li>
+    <li>Nie musi oznaczać ruchu: może opisywać stan, na przykład <strong>śpi</strong> albo <strong>jest</strong>.</li>
+    <li>Zmiana czasownika może całkowicie zmienić sens zdania.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowo-klucz:</strong> czasownik.</p>
+</div>
+
 ## Jak będziemy poznawać czasownik?
 
 Najpierw zobaczymy sytuację, potem porównamy zdania, zauważymy zmianę i dopiero na końcu poznamy nazwę gramatyczną.
@@ -64,7 +89,11 @@ Najpierw zobaczymy sytuację, potem porównamy zdania, zauważymy zmianę i dopi
 
 <div class="verb-mini-summary">
 <h3>Najważniejsza myśl</h3>
-Czasownik sprawia, że zdanie pokazuje ruch, stan, zmianę, czas, wykonawcę i sposób opowiadania o wydarzeniu.
+<ul>
+  <li>Czasownik uruchamia zdanie.</li>
+  <li>Opowiada o działaniu, stanie, zmianie lub wydarzeniu.</li>
+  <li>Jego forma może pokazać, kto działa i kiedy.</li>
+</ul>
 </div>
 
 [Zacznij od pierwszej opowieści](znaczenie-i-rozpoznawanie/){ .md-button .md-button--primary }
