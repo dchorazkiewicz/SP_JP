@@ -113,6 +113,7 @@
 ./docs/gramatyka/skladnia/dopelnienie/text-b.md
 ./docs/gramatyka/skladnia/index.md
 ./docs/gramatyka/skladnia/okolicznik
+./docs/gramatyka/skladnia/okolicznik/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/okolicznik/index.md
 ./docs/gramatyka/skladnia/okolicznik/miejsce-i-czas.md
 ./docs/gramatyka/skladnia/okolicznik/okolicznik-a-dopelnienie.md
