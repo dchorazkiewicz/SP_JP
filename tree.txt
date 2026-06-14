@@ -23,6 +23,7 @@
 ./docs/gramatyka/czesci-mowy/index.md
 ./docs/gramatyka/czesci-mowy/przymiotnik
 ./docs/gramatyka/czesci-mowy/przymiotnik/index.md
+./docs/gramatyka/czesci-mowy/przymiotnik/odmiana.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/znaczenie-i-zgoda.md
 ./docs/gramatyka/czesci-mowy/rzeczownik
 ./docs/gramatyka/czesci-mowy/rzeczownik/index.md
