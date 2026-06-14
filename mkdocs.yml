@@ -35,6 +35,7 @@ extra_css:
   - stylesheets/predicate-lesson.css
   - stylesheets/subject-lesson.css
   - stylesheets/object-lesson.css
+  - stylesheets/attribute-lesson.css
 
 plugins:
   - search:
@@ -160,6 +161,18 @@ nav:
               - Bezokolicznik i zdanie dopełnieniowe: gramatyka/skladnia/dopelnienie/lesson-7.md
               - Granice klasyfikacji: gramatyka/skladnia/dopelnienie/lesson-8.md
               - Dopełnienia w tekście: gramatyka/skladnia/dopelnienie/lesson-9.md
+          - Przydawka:
+              - Wprowadzenie: gramatyka/skladnia/przydawka/index.md
+              - Rozpoznawanie i grupa rzeczownikowa: gramatyka/skladnia/przydawka/rozpoznawanie-i-grupa-rzeczownikowa.md
+              - Przydawka przymiotna: gramatyka/skladnia/przydawka/przydawka-przymiotna.md
+              - Przydawka dopełniaczowa: gramatyka/skladnia/przydawka/przydawka-dopelniaczowa.md
+              - Przydawka przyimkowa i rzeczowna: gramatyka/skladnia/przydawka/przydawka-przyimkowa-i-rzeczowna.md
+              - Liczebna, zaimkowa i rozwinięta: gramatyka/skladnia/przydawka/liczebna-zaimkowa-i-rozwinieta.md
+              - Zdanie przydawkowe: gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
+              - Szyk i znaczenie: gramatyka/skladnia/przydawka/szyk-i-znaczenie.md
+              - Przydawka a inne funkcje: gramatyka/skladnia/przydawka/przydawka-a-inne-funkcje.md
+              - Granice klasyfikacji: gramatyka/skladnia/przydawka/granice-klasyfikacji.md
+              - Przydawki w tekście: gramatyka/skladnia/przydawka/przydawki-w-tekscie.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
