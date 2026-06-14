@@ -6,6 +6,7 @@
   <meta name="color-scheme" content="light dark">
   <title>Tajemnica Szklanego Lasu — wszystkie części mowy</title>
   <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="shape-cues.css">
 </head>
 <body>
   <main class="app" data-grammar-app>
@@ -13,6 +14,10 @@
       <p class="eyebrow">Interaktywne czytanie</p>
       <h1>Tajemnica Szklanego Lasu</h1>
       <p>Przeczytaj 50-zdaniowe opowiadanie i wyszukuj w nim wszystkie dziesięć części mowy. Po każdym kliknięciu otrzymasz natychmiastową informację zwrotną.</p>
+      <div class="shape-key" aria-label="Znaczenie kształtów">
+        <span class="shape-inflected">zaokrąglone — części mowy odmienne</span>
+        <span class="shape-uninflected">prostokątne — części mowy nieodmienne</span>
+      </div>
     </header>
 
     <div class="app-layout">
@@ -20,7 +25,7 @@
         <section>
           <h2>1. Wybierz część mowy</h2>
 
-          <p class="category-group-label">Odmienne części mowy</p>
+          <p class="category-group-label">Odmienne — zaokrąglone</p>
           <div class="category-grid" role="group" aria-label="Odmienne części mowy">
             <button type="button" class="category-button category-noun" data-category="noun" aria-pressed="false">Rzeczowniki</button>
             <button type="button" class="category-button category-verb" data-category="verb" aria-pressed="false">Czasowniki</button>
@@ -29,7 +34,7 @@
             <button type="button" class="category-button category-pronoun" data-category="pronoun" aria-pressed="false">Zaimki</button>
           </div>
 
-          <p class="category-group-label">Nieodmienne części mowy</p>
+          <p class="category-group-label">Nieodmienne — prostokątne</p>
           <div class="category-grid" role="group" aria-label="Nieodmienne części mowy">
             <button type="button" class="category-button category-adverb" data-category="adverb" aria-pressed="false">Przysłówki</button>
             <button type="button" class="category-button category-preposition" data-category="preposition" aria-pressed="false">Przyimki</button>
@@ -67,7 +72,7 @@
             <p class="eyebrow">50 zdań</p>
             <h2>Tajemnica Szklanego Lasu</h2>
           </div>
-          <div class="legend" aria-label="Kolory części mowy">
+          <div class="legend" aria-label="Kolory i kształty części mowy">
             <span class="legend-noun">rzeczownik</span>
             <span class="legend-verb">czasownik</span>
             <span class="legend-adjective">przymiotnik</span>
