@@ -116,6 +116,7 @@
 ./docs/gramatyka/skladnia/okolicznik/index.md
 ./docs/gramatyka/skladnia/okolicznik/miejsce-i-czas.md
 ./docs/gramatyka/skladnia/okolicznik/rozpoznawanie.md
+./docs/gramatyka/skladnia/okolicznik/sposob-stopien-i-miara.md
 ./docs/gramatyka/skladnia/orzeczenie
 ./docs/gramatyka/skladnia/orzeczenie/bezosobowe-i-niewlasciwe.md
 ./docs/gramatyka/skladnia/orzeczenie/forma-przeczenie-i-szyk.md
