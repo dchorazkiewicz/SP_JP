@@ -31,6 +31,7 @@
 ./docs/gramatyka/czesci-mowy/przyimek
 ./docs/gramatyka/czesci-mowy/przyimek/index.md
 ./docs/gramatyka/czesci-mowy/przyimek/przypadki-i-rekcja.md
+./docs/gramatyka/czesci-mowy/przyimek/znaczenie-i-rodzaje.md
 ./docs/gramatyka/czesci-mowy/przymiotnik
 ./docs/gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/index.md
