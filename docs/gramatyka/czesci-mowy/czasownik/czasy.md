@@ -1,219 +1,131 @@
-# Czasy czasownika
+# Wczoraj, dziś i jutro
 
 <div class="verb-lesson" markdown>
 
 <div class="lead-box">
-Czas pokazuje, czy czynność, stan lub zdarzenie zachodzi teraz, wydarzyło się wcześniej, czy nastąpi później. W języku polskim sposób tworzenia czasu przyszłego zależy również od aspektu czasownika.
+Czas czasownika umieszcza zdarzenie na osi czasu. Pokazuje, czy coś już się wydarzyło, dzieje się teraz, czy dopiero nastąpi. Najłatwiej to zrozumieć, przesuwając tę samą historię między wczoraj, dziś i jutro.
 </div>
 
-## Ten sam czasownik w trzech czasach
+<div class="verb-story">
+  <div class="verb-story__title">Karmnik Mai</div>
+  <div class="verb-story__body" markdown>
+
+Maja postanowiła zbudować karmnik dla ptaków. Zobaczmy tę samą czynność w trzech miejscach na osi czasu.
+
+> Wczoraj Maja <span class="verb-form">budowała</span> karmnik.  
+> Dziś Maja <span class="verb-form">buduje</span> karmnik.  
+> Jutro Maja <span class="verb-form"><span class="verb-aux">będzie</span> budowała</span> karmnik.
+
+Słowa **wczoraj**, **dziś** i **jutro** pomagają, ale najważniejsza zmiana zachodzi w samym czasowniku: **budowała — buduje — będzie budowała**.
+
+  </div>
+</div>
+
+## Oś czasu
 
 <div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">teraźniejszość</span>
-    <p>Teraz <span class="verb-form">czytam</span> reportaż przy biurku.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">przeszłość</span>
-    <p>Wczoraj <span class="verb-form">czytałem</span> reportaż w pociągu.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">przyszłość</span>
-    <p>Jutro <span class="verb-form"><span class="verb-aux">będę</span>czytać</span> reportaż w bibliotece.</p>
-  </div>
+  <div class="verb-comparison__item"><span class="verb-label">przeszłość</span><p>Coś wydarzyło się wcześniej: Maja <span class="verb-form">budowała</span>.</p></div>
+  <div class="verb-comparison__item"><span class="verb-label">teraźniejszość</span><p>Coś dzieje się teraz: Maja <span class="verb-form">buduje</span>.</p></div>
+  <div class="verb-comparison__item"><span class="verb-label">przyszłość</span><p>Coś wydarzy się później: Maja <span class="verb-form">będzie budowała</span>.</p></div>
 </div>
 
-Przysłówki **teraz, wczoraj, jutro** pomagają zrozumieć czas zdania, ale najważniejsza jest forma czasownika: **czytam → czytałem → będę czytać**.
-
-## Czas teraźniejszy
-
-Czas teraźniejszy opisuje czynność trwającą teraz, powtarzającą się albo uznawaną za stałą.
-
-<div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">czynność teraz</span>
-    <p>W tej chwili Marta <span class="verb-form">rozmawia</span> z nauczycielem.</p>
-    <span class="verb-note">dzieje się teraz</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">czynność powtarzalna</span>
-    <p>W każdy poniedziałek Marta <span class="verb-form">rozmawia</span> z nauczycielem.</p>
-    <span class="verb-note">powtarza się</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">prawidłowość</span>
-    <p>Zimą woda <span class="verb-form">zamarza</span> przy odpowiednio niskiej temperaturze.</p>
-    <span class="verb-note">ogólna zależność</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">zaplanowana przyszłość</span>
-    <p>Jutro o siódmej <span class="verb-form">wyjeżdżamy</span> do Krakowa.</p>
-    <span class="verb-note">forma teraźniejsza, sens przyszły</span>
-  </div>
+<div class="verb-observation">
+<div class="verb-question">Czy słowo „jutro” samo tworzy czas przyszły?</div>
+Nie. Ono tylko podpowiada, kiedy coś się wydarzy. Czas gramatyczny rozpoznajemy przede wszystkim po formie czasownika. W zdaniu <em>Jutro wyjeżdżamy</em> forma jest teraźniejsza, ale całe zdanie mówi o zaplanowanej przyszłości.
 </div>
 
-Ostatnie zdanie pokazuje, że kontekst może nadawać formie teraźniejszej znaczenie przyszłe. Forma **wyjeżdżamy** pozostaje jednak formą osobową czasu teraźniejszego czasownika niedokonanego.
+## Czas teraźniejszy nie mówi tylko o tej sekundzie
+
+> Teraz Lena <span class="verb-form">czyta</span> książkę. — czynność trwa w tej chwili.  
+> Lena codziennie <span class="verb-form">czyta</span> przed snem. — czynność się powtarza.  
+> Zimą woda <span class="verb-form">zamarza</span>. — ogólna prawidłowość.  
+> Jutro rano <span class="verb-form">wyjeżdżamy</span>. — forma teraźniejsza opisuje ustalony plan.
+
+Ta sama forma może więc mieć kilka zastosowań. Znaczenie rozpoznajemy z całego zdania.
 
 ## Czas przeszły pokazuje także rodzaj
 
-W czasie przeszłym forma czasownika zależy od liczby, osoby, a często również od rodzaju osoby lub grupy.
+Porównaj:
 
 <div class="verb-series">
-  <div class="verb-series__header"><strong>czytać</strong> <span>czas przeszły, liczba pojedyncza</span></div>
-  <div class="verb-row">
-    <span class="verb-badge">ja — mężczyzna</span>
-    <p>Wczoraj <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-ending">em</span></span> instrukcję bardzo uważnie.</p>
-    <span class="verb-note">czytałem</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ja — kobieta</span>
-    <p>Wczoraj <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-ending">am</span></span> instrukcję bardzo uważnie.</p>
-    <span class="verb-note">czytałam</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ty — mężczyzna</span>
-    <p>Wieczorem <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-ending">eś</span></span> rozdział przy lampie.</p>
-    <span class="verb-note">czytałeś</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ty — kobieta</span>
-    <p>Wieczorem <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-ending">aś</span></span> rozdział przy lampie.</p>
-    <span class="verb-note">czytałaś</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">on</span>
-    <p>Paweł <span class="verb-form"><span class="verb-stem">czytał</span><span class="verb-zero">∅</span></span> reportaż w pociągu.</p>
-    <span class="verb-note">czytał</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ona</span>
-    <p>Maria <span class="verb-form"><span class="verb-stem verb-stem--changed">czytała</span><span class="verb-zero">∅</span></span> reportaż w pociągu.</p>
-    <span class="verb-note">czytała</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ono</span>
-    <p>Dziecko <span class="verb-form"><span class="verb-stem verb-stem--changed">czytało</span><span class="verb-zero">∅</span></span> podpis pod obrazkiem.</p>
-    <span class="verb-note">czytało</span>
-  </div>
+  <div class="verb-row"><span class="verb-badge">chłopiec</span><p>Kuba <span class="verb-form">czytał</span> komiks.</p><span class="verb-note">rodzaj męski</span></div>
+  <div class="verb-row"><span class="verb-badge">dziewczynka</span><p>Maja <span class="verb-form">czytała</span> komiks.</p><span class="verb-note">rodzaj żeński</span></div>
+  <div class="verb-row"><span class="verb-badge">dziecko</span><p>Dziecko <span class="verb-form">czytało</span> komiks.</p><span class="verb-note">rodzaj nijaki</span></div>
 </div>
 
-W liczbie mnogiej ważne jest rozróżnienie między formą męskoosobową i niemęskoosobową.
+Nie zmieniła się czynność. Zmienił się wykonawca, więc czasownik przyjął inną formę.
+
+W liczbie mnogiej ważne są dwa wzory:
+
+> Chłopcy <span class="verb-form">czytali</span>.  
+> Dziewczynki <span class="verb-form">czytały</span>.
+
+Forma **czytali** jest męskoosobowa. Forma **czytały** jest niemęskoosobowa.
+
+## Gdzie ukrywa się osoba w czasie przeszłym?
+
+> Czytałem. — mówi chłopiec lub mężczyzna.  
+> Czytałam. — mówi dziewczynka lub kobieta.  
+> Czytaliśmy. — mówi grupa zawierająca mężczyznę lub chłopca.  
+> Czytałyśmy. — mówi grupa dziewcząt lub kobiet.
+
+Końcowe fragmenty **-em, -am, -śmy** pomagają rozpoznać osobę, a części **-ł, -ła, -li, -ły** pokazują rodzaj i liczbę.
+
+## Dwa sposoby mówienia o przyszłości
+
+Wróćmy do karmnika Mai.
 
 <div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">grupa męskoosobowa</span>
-    <p>Uczniowie <span class="verb-form">czytali</span> tekst na głos.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">grupa niemęskoosobowa</span>
-    <p>Uczennice <span class="verb-form">czytały</span> tekst na głos.</p>
-  </div>
+  <div class="verb-comparison__item"><span class="verb-label">czynność będzie trwała</span><p>Jutro Maja <span class="verb-form"><span class="verb-aux">będzie</span> budowała</span> karmnik.</p></div>
+  <div class="verb-comparison__item"><span class="verb-label">rezultat będzie gotowy</span><p>Do wieczora Maja <span class="verb-form">zbuduje</span> karmnik.</p></div>
 </div>
 
-<div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">my — grupa męskoosobowa</span>
-    <p>Wczoraj <span class="verb-form"><span class="verb-stem">czytali</span><span class="verb-ending">śmy</span></span> wspólny artykuł.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">my — grupa kobiet</span>
-    <p>Wczoraj <span class="verb-form"><span class="verb-stem">czytały</span><span class="verb-ending">śmy</span></span> wspólny artykuł.</p>
-  </div>
+Pierwsze zdanie skupia się na przebiegu pracy. Drugie mówi, że karmnik zostanie ukończony.
+
+## Przyszłość złożona
+
+Czasowniki opisujące czynność w trakcie tworzą przyszłość za pomocą formy **będę, będziesz, będzie, będziemy, będziecie, będą**.
+
+> Będę czytać.  
+> Będziesz malować.  
+> Będziemy sprzątać.
+
+Można też powiedzieć:
+
+> Będę czytał.  
+> Będę czytała.
+
+Druga wersja dodatkowo ujawnia rodzaj osoby mówiącej.
+
+## Przyszłość prosta
+
+Czasowniki pokazujące ukończony rezultat używają jednej formy:
+
+> przeczytam;  
+> zbudujesz;  
+> posprzątają.
+
+Forma **przeczytam** wygląda podobnie do czasu teraźniejszego, ale nie może oznaczać czynności trwającej teraz. Oznacza przyszłe ukończenie czytania.
+
+<div class="verb-why">
+<strong>Dlaczego nie mówimy „teraz przeczytam” o trwającej czynności?</strong>
+Bo czasownik <em>przeczytać</em> pokazuje czynność jako zakończoną całość. Dla czynności trwającej teraz mówimy: <em>teraz czytam</em> albo <em>właśnie kończę czytać</em>.
 </div>
 
-## Czas przyszły złożony — czasowniki niedokonane
+## Czas i aspekt spotykają się w jednym zdaniu
 
-Czasowniki niedokonane tworzą czas przyszły za pomocą formy czasownika **być** oraz bezokolicznika albo formy przypominającej czas przeszły.
+> Wczoraj Maja <span class="verb-form">budowała</span> karmnik. — przeszłość, czynność w trakcie.  
+> Wczoraj Maja <span class="verb-form">zbudowała</span> karmnik. — przeszłość, ukończony rezultat.  
+> Jutro Maja <span class="verb-form">będzie budowała</span> karmnik. — przyszłość, przebieg.  
+> Jutro Maja <span class="verb-form">zbuduje</span> karmnik. — przyszłość, rezultat.
 
-<div class="verb-key">
-  <span><span class="verb-key-aux">czasownik posiłkowy</span></span>
-  <span><span class="verb-key-stem">główna forma czasownika</span></span>
+Czas odpowiada na pytanie **kiedy?**, a aspekt pokazuje **jak patrzymy na czynność**. To dwie różne informacje.
+
+<div class="verb-mini-summary">
+<h3>Co pokazuje czas?</h3>
+Czas ustawia zdarzenie przed chwilą mówienia, w jej trakcie albo po niej. Forma czasownika jest ważniejsza niż pojedyncze słowa takie jak <em>wczoraj</em> i <em>jutro</em>, choć cały kontekst pomaga odczytać sens zdania.
 </div>
 
-<div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">ja</span>
-    <p>Jutro <span class="verb-form"><span class="verb-aux">będę</span>czytać</span> dokumenty w archiwum.</p>
-    <span class="verb-note">będę + bezokolicznik</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ty</span>
-    <p>Wieczorem <span class="verb-form"><span class="verb-aux">będziesz</span>czytać</span> dzieciom opowiadanie.</p>
-    <span class="verb-note">będziesz + bezokolicznik</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">my</span>
-    <p>W przyszłym tygodniu <span class="verb-form"><span class="verb-aux">będziemy</span>czytać</span> nową powieść.</p>
-    <span class="verb-note">będziemy + bezokolicznik</span>
-  </div>
-</div>
-
-Możliwa jest także konstrukcja z formą rodzajową:
-
-<div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">mężczyzna</span>
-    <p>Jutro <span class="verb-form"><span class="verb-aux">będę</span>czytał</span> dokumenty w archiwum.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">kobieta</span>
-    <p>Jutro <span class="verb-form"><span class="verb-aux">będę</span>czytała</span> dokumenty w archiwum.</p>
-  </div>
-</div>
-
-Zdania **będę czytać** i **będę czytał/czytała** są poprawne. Druga konstrukcja dodatkowo ujawnia rodzaj mówiącego.
-
-## Czas przyszły prosty — czasowniki dokonane
-
-Czasownik dokonany wyraża przyszłość jedną formą osobową.
-
-<div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">ja</span>
-    <p>Do wieczora <span class="verb-form"><span class="verb-stem">przeczyt</span><span class="verb-ending">am</span></span> cały raport.</p>
-    <span class="verb-note">rezultat w przyszłości</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">ty</span>
-    <p>Jutro <span class="verb-form"><span class="verb-stem">przeczyt</span><span class="verb-ending">asz</span></span> ostatni rozdział.</p>
-    <span class="verb-note">przeczytasz</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">oni/one</span>
-    <p>Uczniowie <span class="verb-form"><span class="verb-stem">przeczyt</span><span class="verb-ending">ają</span></span> tekst przed następną lekcją.</p>
-    <span class="verb-note">przeczytają</span>
-  </div>
-</div>
-
-Forma **przeczytam** wygląda podobnie do form teraźniejszych, ale czasownik dokonany **przeczytać** nie opisuje trwającej teraźniejszości. Zdanie **Przeczytam raport** dotyczy przyszłego ukończenia czynności.
-
-## Jeden temat, różne czasy
-
-<div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">teraźniejszy</span>
-    <p>Teraz Anna <span class="verb-form">pisze</span> wiadomość do klienta.</p>
-    <span class="verb-note">czynność trwa</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">przeszły</span>
-    <p>Wczoraj Anna <span class="verb-form">pisała</span> wiadomość do klienta.</p>
-    <span class="verb-note">czynność trwała wcześniej</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">przyszły złożony</span>
-    <p>Jutro Anna <span class="verb-form"><span class="verb-aux">będzie</span>pisała</span> wiadomość do klienta.</p>
-    <span class="verb-note">czynność będzie trwała</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">przyszły prosty</span>
-    <p>Do południa Anna <span class="verb-form">napisze</span> wiadomość do klienta.</p>
-    <span class="verb-note">wiadomość będzie gotowa</span>
-  </div>
-</div>
-
-Ostatnie dwa zdania różnią się nie tylko czasem przyszłym, ale także aspektem. **Będzie pisała** skupia uwagę na przebiegu, a **napisze** na ukończonym rezultacie.
-
-[Przejdź dalej: aspekt](../aspekt/){ .md-button .md-button--primary }
+[Przejdź dalej: czynność w trakcie i gotowy rezultat](../aspekt/){ .md-button .md-button--primary }
 
 </div>
