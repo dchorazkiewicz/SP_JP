@@ -6,7 +6,7 @@
 Poniższa historia została podzielona na pięć scen. Po każdej z nich zatrzymujemy się i sprawdzamy, co dokładnie zrobiły czasowniki: jaki pokazały czas, kto wykonał czynność, czy pokazały proces, rezultat albo ukrytego wykonawcę.
 </div>
 
-<div class="verb-reading">
+<div class="verb-reading" markdown>
   <div class="verb-reading__header">
     <h2>Noc, w której zatrzymał się miejski zegar</h2>
     <p>Kolory pomagają zauważyć formy, ale najważniejsze są komentarze po każdej scenie.</p>
@@ -17,7 +17,7 @@ Poniższa historia została podzielona na pięć scen. Po każdej z nich zatrzym
       <span class="verb-impersonal">formy bezosobowe</span>
     </div>
   </div>
-  <div class="verb-reading__text">
+  <div class="verb-reading__text" markdown>
 
 <div class="verb-scene-break">Scena 1. Zegar milknie</div>
 
