@@ -35,6 +35,9 @@ extra_css:
   - stylesheets/predicate-lesson.css
   - stylesheets/subject-lesson.css
 
+extra_javascript:
+  - javascripts/font-size-control.js
+
 plugins:
   - search:
       lang: pl
