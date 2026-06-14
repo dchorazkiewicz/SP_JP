@@ -3,189 +3,421 @@
 <div class="verb-lesson" markdown>
 
 <div class="lead-box">
-Czas czasownika umieszcza zdarzenie na osi czasu. Pokazuje, czy coś już się wydarzyło, dzieje się teraz, czy dopiero nastąpi. Najłatwiej to zrozumieć, przesuwając tę samą historię między wczoraj, dziś i jutro.
+Czas czasownika nie jest tylko etykietą „przeszły”, „teraźniejszy” albo „przyszły”. Pozwala ustawić wydarzenia względem chwili, w której ktoś mówi. Dzięki niemu możemy opowiedzieć, co już się stało, co właśnie trwa i co dopiero nastąpi.
 </div>
 
-<div class="verb-learning-goals">
-  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
-  <ul>
-    <li>czym różnią się czas przeszły, teraźniejszy i przyszły;</li>
-    <li>dlaczego sam wyraz <strong>jutro</strong> nie tworzy czasu przyszłego;</li>
-    <li>jak czas przeszły pokazuje rodzaj;</li>
-    <li>dlaczego przyszłość może być prosta albo złożona.</li>
-  </ul>
-</div>
+## Trzy dni z jednym karmnikiem
 
 <div class="verb-story" markdown>
-  <div class="verb-story__title">Karmnik Mai</div>
+  <div class="verb-story__title">Piątek, sobota i niedziela Mai</div>
   <div class="verb-story__body" markdown>
 
-Maja postanowiła zbudować karmnik dla ptaków. Zobaczmy tę samą czynność w trzech miejscach na osi czasu.
+W piątek po lekcjach Maja wróciła do domu z nietypowym zadaniem. Nauczyciel przyrody poprosił uczniów, aby przygotowali coś, co pomoże ptakom przetrwać zimę. Jedni planowali przynieść ziarno, inni chcieli zrobić poidełka, a Maja postanowiła zbudować karmnik.
 
-> Wczoraj Maja <span class="verb-form">budowała</span> karmnik.  
-> Dziś Maja <span class="verb-form">buduje</span> karmnik.  
-> Jutro Maja <span class="verb-form"><span class="verb-aux">będzie</span> budowała</span> karmnik.
+Najpierw usiadła przy biurku i narysowała projekt. Na kartce pojawił się prostokątny domek z szerokim daszkiem, podłogą i czterema podpórkami. Maja zmierzyła wolne miejsce na balkonie, policzyła potrzebne deseczki i zapisała wszystko w zeszycie.
 
-Słowa **wczoraj**, **dziś** i **jutro** pomagają, ale najważniejsza zmiana zachodzi w samym czasowniku: **budowała — buduje — będzie budowała**.
+Wieczorem powiedziała tacie:
+
+— Jutro <span class="verb-form">buduję</span> karmnik. Mam już plan.
+
+Tata spojrzał na rysunek i odpowiedział:
+
+— Dobrze. Rano <span class="verb-form">przyniosę</span> narzędzia, a ty <span class="verb-form">przygotujesz</span> deseczki.
+
+W sobotę po śniadaniu oboje wyszli do garażu. Tata rozłożył na stole piłę, młotek, miarkę i papier ścierny. Maja położyła obok siebie wszystkie deseczki, ale szybko zauważyła, że jedna z nich jest za długa.
+
+— Najpierw ją <span class="verb-form">skracamy</span> — powiedział tata.
+
+Maja przytrzymała deskę, a tata zaznaczył ołówkiem linię cięcia. Potem dziewczynka przez kilka minut wygładzała krawędzie papierem ściernym. Pył osiadał na stole, rękawicach i podłodze. Praca szła wolniej, niż się spodziewała, ale karmnik stopniowo nabierał kształtu.
+
+W południe mama zajrzała do garażu.
+
+— Jak wam idzie?
+
+— <span class="verb-form">Budujemy</span> już daszek — odpowiedziała Maja. — Podłoga <span class="verb-form">jest</span> gotowa, a podpórki <span class="verb-form">czekają</span> na przybicie.
+
+Po obiedzie Maja malowała karmnik zieloną farbą. Tata w tym czasie przygotowywał metalowy uchwyt. Kiedy farba wyschła, wspólnie przymocowali daszek. Ostatni gwóźdź wszedł trochę krzywo, więc trzeba było go wyjąć i wbić ponownie.
+
+Pod wieczór Maja odstawiła młotek i powiedziała:
+
+— <span class="verb-form">Zbudowaliśmy</span> karmnik.
+
+To zdanie nie znaczyło już, że praca trwa. Oznaczało, że rezultat jest gotowy. Na stole stał prawdziwy karmnik, a nie tylko szkic w zeszycie.
+
+W niedzielę rano Maja wsypała do środka ziarno. Potem wyszła na balkon i zawiesiła karmnik na przygotowanym uchwycie. Przez pierwszą godzinę nic się nie działo. Maja co kilka minut podchodziła do okna, ale balkon pozostawał pusty.
+
+Dopiero przed południem na poręczy usiadła sikorka. Rozejrzała się, przeskoczyła bliżej karmnika i ostrożnie dziobnęła pierwsze ziarno.
+
+Maja zawołała rodziców:
+
+— <span class="verb-form">Przyleciała</span>! <span class="verb-form">Je</span> z naszego karmnika!
+
+Tata podszedł do okna i powiedział:
+
+— Wczoraj <span class="verb-form">budowaliśmy</span>, dzisiaj ptaki już <span class="verb-form">korzystają</span>, a za kilka dni pewnie <span class="verb-form">przylecą</span> następne.
+
+Maja zapisała w zeszycie trzy zdania:
+
+> Wczoraj <span class="verb-form">budowaliśmy</span> karmnik.  
+> Dzisiaj sikorka <span class="verb-form">je</span> ziarno.  
+> Jutro być może <span class="verb-form">przylecą</span> kolejne ptaki.
+
+Wszystkie trzy zdania mówią o tym samym karmniku, ale każde ustawia wydarzenie w innym miejscu na osi czasu.
 
   </div>
 </div>
 
-## Oś czasu
+Opowieść rozciąga się od piątku do niedzieli. Niektóre czynności już się zakończyły, inne trwają w chwili obserwacji, a jeszcze inne są dopiero przewidywane. Czasownik pozwala czytelnikowi uporządkować te wydarzenia bez konieczności każdorazowego wyjaśniania całej sytuacji.
 
-<div class="verb-comparison">
-  <div class="verb-comparison__item"><span class="verb-label">przeszłość</span><p>Coś wydarzyło się wcześniej: Maja <span class="verb-form">budowała</span>.</p></div>
-  <div class="verb-comparison__item"><span class="verb-label">teraźniejszość</span><p>Coś dzieje się teraz: Maja <span class="verb-form">buduje</span>.</p></div>
-  <div class="verb-comparison__item"><span class="verb-label">przyszłość</span><p>Coś wydarzy się później: Maja <span class="verb-form">będzie budowała</span>.</p></div>
-</div>
+## Chwila mówienia jest punktem odniesienia
 
-<div class="verb-concept">
-  <span class="verb-concept__label">Nowe pojęcie</span>
-  <strong>Czas gramatyczny</strong>
-  <p>To informacja zapisana w formie czasownika, która pokazuje, czy zdarzenie jest wcześniejsze, równoczesne z chwilą mówienia, czy późniejsze.</p>
-</div>
+Gdy mówimy o czasie gramatycznym, potrzebujemy punktu odniesienia. Najczęściej jest nim chwila, w której ktoś wypowiada zdanie.
 
-<div class="verb-observation">
-<div class="verb-question">Czy słowo „jutro” samo tworzy czas przyszły?</div>
-Nie. Ono tylko podpowiada, kiedy coś się wydarzy. Czas gramatyczny rozpoznajemy przede wszystkim po formie czasownika. W zdaniu <em>Jutro wyjeżdżamy</em> forma jest teraźniejsza, ale całe zdanie mówi o zaplanowanej przyszłości.
-</div>
+Wyobraźmy sobie, że Maja stoi w niedzielę przy oknie.
+
+> Wczoraj <span class="verb-form">zawiesiłam</span> karmnik.
+
+Czynność wydarzyła się wcześniej niż chwila mówienia, dlatego używamy czasu przeszłego.
+
+> Teraz sikorka <span class="verb-form">siedzi</span> na poręczy.
+
+Czynność albo stan są równoczesne z chwilą mówienia, dlatego pojawia się czas teraźniejszy.
+
+> Jutro <span class="verb-form">dosypię</span> ziarna.
+
+Czynność nastąpi później, dlatego zdanie mówi o przyszłości.
+
+Najważniejsze nie jest więc samo słowo **wczoraj**, **teraz** lub **jutro**. Najważniejsza jest relacja wydarzenia do chwili mówienia.
+
+## Te same deseczki w trzech czasach
+
+Spójrzmy na jedną czynność przedstawioną na trzy sposoby.
+
+> Wczoraj Maja <span class="verb-form">malowała</span> deseczki.  
+> Dzisiaj Maja <span class="verb-form">maluje</span> deseczki.  
+> Jutro Maja <span class="verb-form">będzie malowała</span> deseczki.
+
+Zmienia się forma czasownika, ponieważ czynność zostaje przesunięta na osi czasu.
+
+- **malowała** — wcześniej;
+- **maluje** — teraz;
+- **będzie malowała** — później.
+
+Możemy usunąć wyrazy **wczoraj**, **dzisiaj** i **jutro**, a forma czasownika nadal niesie podstawową informację:
+
+> Maja malowała deseczki.  
+> Maja maluje deseczki.  
+> Maja będzie malowała deseczki.
+
+Dodatkowe określenia czasu doprecyzowują sytuację, ale nie tworzą czasu gramatycznego samodzielnie.
+
+## Słowo „jutro” i forma teraźniejsza mogą wystąpić razem
+
+W piątek Maja powiedziała:
+
+> Jutro <span class="verb-form">buduję</span> karmnik.
+
+Forma **buduję** wygląda jak czas teraźniejszy, ale całe zdanie dotyczy soboty. Dzieje się tak dlatego, że w polszczyźnie czasu teraźniejszego możemy użyć do opisu ustalonego planu.
+
+Podobnie mówimy:
+
+> Jutro <span class="verb-form">jedziemy</span> na wycieczkę.  
+> Za godzinę <span class="verb-form">zaczynamy</span> próbę.  
+> W poniedziałek <span class="verb-form">piszemy</span> sprawdzian.
+
+Forma gramatyczna jest teraźniejsza, ale określenie czasu i sytuacja kierują nas ku przyszłości. To pokazuje, że znaczenie zdania powstaje z połączenia formy czasownika z całym kontekstem.
+
+Nie należy więc bezmyślnie uznawać, że każde zdanie zawierające słowo **jutro** ma czasownik w czasie przyszłym.
+
+## Czas teraźniejszy ma więcej niż jedno zadanie
+
+Czas teraźniejszy może opisywać to, co dzieje się dokładnie teraz:
+
+> Sikorka <span class="verb-form">dziobie</span> ziarno.  
+> Maja <span class="verb-form">patrzy</span> przez okno.  
+> Śnieg <span class="verb-form">pada</span> na balkon.
+
+Może też nazywać czynność powtarzaną:
+
+> Maja codziennie <span class="verb-form">dosypuje</span> ziarna.  
+> Ptaki rano <span class="verb-form">przylatują</span> do karmnika.  
+> Tata co tydzień <span class="verb-form">czyści</span> balkon.
+
+W tych zdaniach czynność nie musi odbywać się dokładnie w chwili mówienia. Opisujemy zwyczaj lub powtarzający się rytm.
+
+Czas teraźniejszy służy także do wyrażania prawidłowości i faktów ogólnych:
+
+> Zimą wiele ptaków <span class="verb-form">szuka</span> dodatkowego pożywienia.  
+> Woda <span class="verb-form">zamarza</span> w temperaturze zera stopni Celsjusza.  
+> Drewno <span class="verb-form">pęcznieje</span>, gdy wchłania wilgoć.
+
+Nie chodzi tu o jedną konkretną chwilę. Zdanie mówi o tym, co dzieje się zwykle albo zgodnie z ogólną zasadą.
+
+Czasem teraźniejszość pojawia się również w żywym opowiadaniu o przeszłości:
+
+> Maja podchodzi do okna, patrzy, a tam na poręczy siedzi sikorka.
+
+Narrator może użyć czasu teraźniejszego, aby dawne wydarzenie wydawało się bliższe i bardziej dynamiczne. Wydarzenie nadal należy do przeszłości, lecz sposób opowiadania przenosi czytelnika w sam środek sceny.
 
 <div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Podsumowanie: trzy czasy</div>
+  <div class="verb-checkpoint__title">Co naprawdę może oznaczać czas teraźniejszy?</div>
   <ul>
-    <li><strong>budowała</strong> — czas przeszły;</li>
-    <li><strong>buduje</strong> — czas teraźniejszy;</li>
-    <li><strong>będzie budowała</strong> — czas przyszły;</li>
-    <li>wyrazy <strong>wczoraj</strong>, <strong>dziś</strong> i <strong>jutro</strong> pomagają, ale nie zastępują formy czasownika.</li>
+    <li>czynność trwającą właśnie teraz;</li>
+    <li>czynność powtarzaną lub zwyczaj;</li>
+    <li>ogólną prawidłowość;</li>
+    <li>ustalony plan dotyczący przyszłości;</li>
+    <li>żywe opowiadanie o wydarzeniu z przeszłości.</li>
   </ul>
-  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> przeszłość, teraźniejszość, przyszłość.</p>
+  <p class="verb-checkpoint__term"><strong>Wniosek:</strong> formę czasownika zawsze odczytujemy razem z całym zdaniem.</p>
 </div>
 
-## Czas teraźniejszy nie mówi tylko o tej sekundzie
+## Czas przeszły pokazuje więcej niż „wcześniej”
 
-> Teraz Lena <span class="verb-form">czyta</span> książkę. — czynność trwa w tej chwili.  
-> Lena codziennie <span class="verb-form">czyta</span> przed snem. — czynność się powtarza.  
-> Zimą woda <span class="verb-form">zamarza</span>. — ogólna prawidłowość.  
-> Jutro rano <span class="verb-form">wyjeżdżamy</span>. — forma teraźniejsza opisuje ustalony plan.
-
-Ta sama forma może więc mieć kilka zastosowań. Znaczenie rozpoznajemy z całego zdania.
-
-## Czas przeszły pokazuje także rodzaj
+W czasie przeszłym forma czasownika często informuje również o rodzaju wykonawcy.
 
 Porównaj:
 
-<div class="verb-series">
-  <div class="verb-row"><span class="verb-badge">chłopiec</span><p>Kuba <span class="verb-form">czytał</span> komiks.</p><span class="verb-note">rodzaj męski</span></div>
-  <div class="verb-row"><span class="verb-badge">dziewczynka</span><p>Maja <span class="verb-form">czytała</span> komiks.</p><span class="verb-note">rodzaj żeński</span></div>
-  <div class="verb-row"><span class="verb-badge">dziecko</span><p>Dziecko <span class="verb-form">czytało</span> komiks.</p><span class="verb-note">rodzaj nijaki</span></div>
-</div>
+> Kuba <span class="verb-form">malował</span> karmnik.  
+> Maja <span class="verb-form">malowała</span> karmnik.  
+> Dziecko <span class="verb-form">malowało</span> karmnik.
 
-Nie zmieniła się czynność. Zmienił się wykonawca, więc czasownik przyjął inną formę.
+Czynność jest taka sama, ale zakończenie formy zmienia się razem z rodzajem wykonawcy.
 
-W liczbie mnogiej ważne są dwa wzory:
+- **malował** — rodzaj męski;
+- **malowała** — rodzaj żeński;
+- **malowało** — rodzaj nijaki.
 
-> Chłopcy <span class="verb-form">czytali</span>.  
-> Dziewczynki <span class="verb-form">czytały</span>.
+W liczbie mnogiej pojawia się jeszcze jedno ważne rozróżnienie:
 
-Forma **czytali** jest męskoosobowa. Forma **czytały** jest niemęskoosobowa.
+> Kuba i tata <span class="verb-form">malowali</span> karmnik.  
+> Maja i mama <span class="verb-form">malowały</span> karmnik.  
+> Dzieci <span class="verb-form">malowały</span> karmnik.  
+> Pędzle <span class="verb-form">leżały</span> na stole.
 
-## Gdzie ukrywa się osoba w czasie przeszłym?
+Forma **malowali** jest męskoosobowa. Używamy jej, gdy grupa obejmuje przynajmniej jednego mężczyznę lub chłopca i mówimy o osobach.
 
-> Czytałem. — mówi chłopiec lub mężczyzna.  
-> Czytałam. — mówi dziewczynka lub kobieta.  
-> Czytaliśmy. — mówi grupa zawierająca mężczyznę lub chłopca.  
-> Czytałyśmy. — mówi grupa dziewcząt lub kobiet.
+Forma **malowały** jest niemęskoosobowa. Pojawia się przy grupach kobiet, dziewcząt, dzieci, zwierząt i rzeczy.
 
-Końcowe fragmenty **-em, -am, -śmy** pomagają rozpoznać osobę, a części **-ł, -ła, -li, -ły** pokazują rodzaj i liczbę.
+To nie znaczy, że dziecko od razu musi analizować każdy szczegół. Najpierw warto zauważyć regularną różnicę:
+
+> chłopcy robili — dziewczynki robiły  
+> uczniowie przyszli — uczennice przyszły
+
+## Gdy osoba mówiąca opowiada o przeszłości
+
+Czas przeszły może pokazać także osobę mówiącą.
+
+Maja mówi:
+
+> Wczoraj <span class="verb-form">malowałam</span> karmnik.
+
+Końcówka **-am** podpowiada, że mówi dziewczynka lub kobieta.
+
+Kuba mówi:
+
+> Wczoraj <span class="verb-form">malowałem</span> karmnik.
+
+Forma **malowałem** wskazuje chłopca lub mężczyznę.
+
+Grupa chłopców lub grupa mieszana może powiedzieć:
+
+> <span class="verb-form">Malowaliśmy</span> karmnik.
+
+Grupa samych dziewcząt lub kobiet powie:
+
+> <span class="verb-form">Malowałyśmy</span> karmnik.
+
+W jednym wyrazie spotykają się więc trzy informacje:
+
+- czynność wydarzyła się wcześniej;
+- wykonawca ma określony rodzaj i liczbę;
+- forma wskazuje osobę mówiącą.
+
+Spójrzmy na słowo **zbudowaliśmy**. Możemy z niego odczytać, że:
+
+- czynność należy do przeszłości;
+- wykonawców było wielu;
+- grupa jest męskoosobowa;
+- mówi grupa obejmująca osobę mówiącą, czyli „my”.
+
+## Nie każda przeszłość oznacza zakończony rezultat
+
+Porównaj:
+
+> W sobotę Maja <span class="verb-form">budowała</span> karmnik.  
+> W sobotę Maja <span class="verb-form">zbudowała</span> karmnik.
+
+Oba czasowniki są w czasie przeszłym. Pierwszy pokazuje pracę w trakcie i nie rozstrzyga, czy karmnik został ukończony. Drugi informuje o osiągniętym rezultacie.
+
+Różnica nie dotyczy czasu, lecz aspektu. Ten temat jest rozwinięty na następnej podstronie, ale już tutaj warto zauważyć, że czas odpowiada na pytanie **kiedy?**, a aspekt pokazuje **jak widzimy przebieg czynności**.
+
+## Przyszłość może mieć jedną albo kilka części
+
+Maja może opowiedzieć o kolejnym weekendzie na dwa sposoby:
+
+> W sobotę <span class="verb-form"><span class="verb-aux">będę</span> budować</span> poidełko.  
+> W sobotę <span class="verb-form"><span class="verb-aux">będę</span> budowała</span> poidełko.
+
+Obie formy są poprawne. Składają się z formy czasownika **być** oraz bezokolicznika albo formy na **-ł**.
+
+Pierwsza wersja:
+
+> będę budować
+
+nie ujawnia rodzaju osoby mówiącej.
+
+Druga wersja:
+
+> będę budował / będę budowała
+
+pokazuje rodzaj.
+
+Taką przyszłość nazywamy **złożoną**, ponieważ tworzy ją więcej niż jeden wyraz.
+
+Odmiana czasownika **być** wskazuje osobę i liczbę:
+
+> będę budować — ja  
+> będziesz budować — ty  
+> będzie budować — on, ona lub ono  
+> będziemy budować — my  
+> będziecie budować — wy  
+> będą budować — oni lub one
+
+## Przyszłość prosta jest zapisana jednym wyrazem
+
+Maja może też powiedzieć:
+
+> Jutro <span class="verb-form">pomaluję</span> daszek.  
+> Wieczorem <span class="verb-form">przybiję</span> podpórki.  
+> Do niedzieli <span class="verb-form">skończę</span> karmnik.
+
+Formy **pomaluję**, **przybiję** i **skończę** są zapisane jednym wyrazem. Nazywamy je przyszłością prostą.
+
+Te czasowniki pokazują czynności jako prowadzące do końca lub rezultatu:
+
+> pomaluję — daszek będzie pomalowany;  
+> przybiję — podpórki zostaną przymocowane;  
+> skończę — praca będzie zakończona.
+
+Dlatego nie mówimy o takich czasownikach w czasie teraźniejszym w zwykłym znaczeniu czynności trwającej teraz.
+
+> Teraz maluję daszek. — czynność trwa.  
+> Za chwilę pomaluję daszek. — czynność zostanie wykonana.
+
+Forma **pomaluję** wygląda podobnie do form czasu teraźniejszego, ale ma znaczenie przyszłe.
+
+## „Będę zbudować” jest formą niepoprawną
+
+Czasowniki dokonane, takie jak **zbudować**, **przeczytać** czy **naprawić**, tworzą przyszłość prostą:
+
+> zbuduję, przeczytam, naprawię.
+
+Nie łączymy ich zwykle z formą **będę**:
+
+> niepoprawnie: będę zbudować;  
+> poprawnie: zbuduję.
+
+Czasowniki niedokonane, takie jak **budować**, **czytać** czy **naprawiać**, tworzą przyszłość złożoną:
+
+> będę budować, będę czytać, będę naprawiać.
+
+Ta różnica wynika z aspektu, ale można ją zapamiętać przez obserwację znaczenia:
+
+- jeśli patrzymy na przyszłą czynność w trakcie — **będę budować**;
+- jeśli patrzymy na jej przyszłe ukończenie — **zbuduję**.
+
+## Jedna przyszłość, różne spojrzenia
+
+Porównaj cztery zdania:
+
+> Jutro <span class="verb-form">będę czytać</span> książkę.  
+> Jutro <span class="verb-form">przeczytam</span> książkę.  
+> Jutro <span class="verb-form">będę sprzątać</span> pokój.  
+> Jutro <span class="verb-form">posprzątam</span> pokój.
+
+W pierwszym i trzecim zdaniu najważniejszy jest przebieg przyszłej czynności. W drugim i czwartym — jej zakończenie.
+
+Nie znaczy to, że forma złożona opisuje czynność „gorszą” albo niedokończoną. Mówiący po prostu wybiera inną perspektywę.
+
+> Jutro przez dwie godziny będę czytać.
+
+To poprawna i pełna informacja. Celem zdania jest powiedzenie, czym ktoś będzie się zajmował, a nie czy dotrze do końca książki.
 
 <div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Podsumowanie: czas przeszły</div>
+  <div class="verb-checkpoint__title">Dwa sposoby mówienia o przyszłości</div>
   <ul>
-    <li>Czas przeszły pokazuje nie tylko wcześniejsze zdarzenie, lecz także rodzaj.</li>
-    <li><strong>czytał</strong>, <strong>czytała</strong>, <strong>czytało</strong> różnią się rodzajem.</li>
-    <li><strong>czytali</strong> to forma męskoosobowa, a <strong>czytały</strong> — niemęskoosobowa.</li>
-    <li>Końcówki osobowe pomagają rozpoznać, kto mówi.</li>
+    <li><strong>będę budować</strong> albo <strong>będę budowała</strong> — przyszłość złożona;</li>
+    <li><strong>zbuduję</strong> — przyszłość prosta;</li>
+    <li>forma złożona pokazuje zwykle przebieg lub trwanie;</li>
+    <li>forma prosta pokazuje zwykle przyszły rezultat.</li>
   </ul>
-  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> rodzaj męski, żeński, nijaki, męskoosobowy, niemęskoosobowy.</p>
+  <p class="verb-checkpoint__term"><strong>Nie łączymy:</strong> „będę zbudować”. Mówimy: „będę budować” albo „zbuduję”.</p>
 </div>
 
-## Dwa sposoby mówienia o przyszłości
+## Czas gramatyczny i prawdziwy czas wydarzenia
 
-Wróćmy do karmnika Mai.
+W większości zdań forma czasownika i czas wydarzenia pasują do siebie w prosty sposób:
 
-<div class="verb-comparison">
-  <div class="verb-comparison__item"><span class="verb-label">czynność będzie trwała</span><p>Jutro Maja <span class="verb-form"><span class="verb-aux">będzie</span> budowała</span> karmnik.</p></div>
-  <div class="verb-comparison__item"><span class="verb-label">rezultat będzie gotowy</span><p>Do wieczora Maja <span class="verb-form">zbuduje</span> karmnik.</p></div>
-</div>
+> Wczoraj padało. — przeszłość.  
+> Teraz pada. — teraźniejszość.  
+> Jutro będzie padać. — przyszłość.
 
-Pierwsze zdanie skupia się na przebiegu pracy. Drugie mówi, że karmnik zostanie ukończony.
+Język potrafi jednak być bardziej elastyczny.
 
-## Przyszłość złożona
+> Jutro jedziemy do babci.
 
-Czasowniki opisujące czynność w trakcie tworzą przyszłość za pomocą formy **będę, będziesz, będzie, będziemy, będziecie, będą**.
+Forma **jedziemy** jest teraźniejsza, ale zdanie dotyczy przyszłego planu.
 
-> Będę czytać.  
-> Będziesz malować.  
-> Będziemy sprzątać.
+> I wtedy Maja otwiera drzwi, patrzy, a za nimi stoi cała klasa.
 
-Można też powiedzieć:
+Formy **otwiera**, **patrzy**, **stoi** są teraźniejsze, lecz narrator może opowiadać o przeszłym wydarzeniu w sposób żywy.
 
-> Będę czytał.  
-> Będę czytała.
+> Autobus odjeżdża o siódmej.
 
-Druga wersja dodatkowo ujawnia rodzaj osoby mówiącej.
+Zdanie może mówić o stałym rozkładzie albo o przyszłym odjeździe. Znaczenie zależy od sytuacji.
 
-## Przyszłość prosta
+Dlatego poprawna analiza nie polega na wyszukaniu jednego słowa. Trzeba czytać całe zdanie i wiedzieć, w jakim kontekście zostało wypowiedziane.
 
-Czasowniki pokazujące ukończony rezultat używają jednej formy:
+## Jak rozpoznać czas bez mechanicznego zgadywania?
 
-> przeczytam;  
-> zbudujesz;  
-> posprzątają.
+Spójrz na zdanie:
 
-Forma **przeczytam** wygląda podobnie do czasu teraźniejszego, ale nie może oznaczać czynności trwającej teraz. Oznacza przyszłe ukończenie czytania.
+> Wczoraj o tej porze Maja malowała daszek.
 
-<div class="verb-why">
-<strong>Dlaczego nie mówimy „teraz przeczytam” o trwającej czynności?</strong>
-Bo czasownik <em>przeczytać</em> pokazuje czynność jako zakończoną całość. Dla czynności trwającej teraz mówimy: <em>teraz czytam</em> albo <em>właśnie kończę czytać</em>.
-</div>
+Forma **malowała** wskazuje czas przeszły. Wyrażenie **wczoraj o tej porze** potwierdza tę interpretację.
 
-<div class="verb-concept">
-  <span class="verb-concept__label">Nowe pojęcia</span>
-  <strong>Przyszłość złożona i prosta</strong>
-  <p><strong>Będę czytać</strong> jest formą złożoną z dwóch wyrazów. <strong>Przeczytam</strong> jest formą prostą zapisaną jednym wyrazem.</p>
-</div>
+> Maja właśnie maluje daszek.
 
-<div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Podsumowanie: przyszłość</div>
-  <ul>
-    <li><strong>będę budować</strong> pokazuje przyszłą czynność w trakcie;</li>
-    <li><strong>zbuduję</strong> pokazuje przyszły rezultat;</li>
-    <li>przyszłość złożona ma formę czasownika <strong>być</strong> i bezokolicznik albo formę na <strong>-ł</strong>;</li>
-    <li>przyszłość prosta jest zapisana jednym wyrazem.</li>
-  </ul>
-  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> przyszłość złożona, przyszłość prosta.</p>
-</div>
+Forma **maluje** i wyraz **właśnie** pokazują teraźniejszość.
 
-## Czas i aspekt spotykają się w jednym zdaniu
+> Jutro Maja będzie malowała daszek.
 
-> Wczoraj Maja <span class="verb-form">budowała</span> karmnik. — przeszłość, czynność w trakcie.  
-> Wczoraj Maja <span class="verb-form">zbudowała</span> karmnik. — przeszłość, ukończony rezultat.  
-> Jutro Maja <span class="verb-form">będzie budowała</span> karmnik. — przyszłość, przebieg.  
-> Jutro Maja <span class="verb-form">zbuduje</span> karmnik. — przyszłość, rezultat.
+Forma **będzie malowała** jest czasem przyszłym złożonym.
 
-Czas odpowiada na pytanie **kiedy?**, a aspekt pokazuje **jak patrzymy na czynność**. To dwie różne informacje.
+> Jutro Maja pomaluje daszek.
 
-<div class="verb-mini-summary">
-<h3>Do zapamiętania</h3>
-<ul>
-  <li>Czas przeszły mówi o tym, co było wcześniej.</li>
-  <li>Czas teraźniejszy mówi o teraźniejszości, zwyczaju, prawidłowości albo zaplanowanej przyszłości.</li>
-  <li>Czas przyszły może być prosty albo złożony.</li>
-  <li>Czas i aspekt to dwie różne informacje.</li>
-</ul>
-</div>
+Forma **pomaluję** lub **pomaluję**? W tym zdaniu podmiotem jest Maja, dlatego poprawna forma brzmi **pomaluję** tylko wtedy, gdy mówi Maja o sobie. Gdy opowiadamy o niej, mówimy:
 
-[Przejdź dalej: czynność w trakcie i gotowy rezultat](../aspekt/){ .md-button .md-button--primary }
+> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
 
-</div>
+To zdanie jest błędne, ponieważ forma **pomaluję** oznacza „ja”. Poprawnie:
+
+> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
+
+Zatrzymajmy się: zapis nadal nie pasuje. W trzeciej osobie poprawna forma brzmi:
+
+> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
+
+Ten przykład pokazuje, jak łatwo pomieszać czas z osobą. Dla formy „ona” potrzebujemy czasownika **pomaluję**? Nie — poprawnie mówimy:
+
+> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
+
+Aby uniknąć utrwalenia błędu, zapiszmy poprawną parę wyraźnie:
+
+> Ja jutro <span class="verb-form">pomaluję</span> daszek.  
+> Maja jutro <span class="verb-form">pomaluję</span> daszek.
+
+W tym miejscu widać, że sama przyszłość nie wystarcza — trzeba jeszcze dopasować osobę. Poprawna forma dla Mai to **pomaluję**? Nie. Właściwie:
+
+> Maja jutro <span class="verb-form">pomaluję</span> daszek.
+
