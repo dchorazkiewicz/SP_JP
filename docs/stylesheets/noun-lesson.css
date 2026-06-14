@@ -1,0 +1,212 @@
+.noun-lesson {
+  --noun-accent: #356f63;
+  --noun-border: #d8e1dd;
+  --noun-soft: #f6f9f8;
+  --noun-person-bg: #e8f1ff;
+  --noun-person-line: #7aa7dc;
+  --noun-place-bg: #e8f6ed;
+  --noun-place-line: #78b98d;
+  --noun-object-bg: #fff4d9;
+  --noun-object-line: #d7ad55;
+  --noun-abstract-bg: #f2eafb;
+  --noun-abstract-line: #aa88c8;
+}
+
+[data-md-color-scheme="slate"] .noun-lesson {
+  --noun-border: #46515a;
+  --noun-soft: #202a31;
+  --noun-person-bg: #1c3554;
+  --noun-person-line: #78a7db;
+  --noun-place-bg: #183f2d;
+  --noun-place-line: #70b989;
+  --noun-object-bg: #4d3b16;
+  --noun-object-line: #d5ac54;
+  --noun-abstract-bg: #3d2850;
+  --noun-abstract-line: #a887c5;
+}
+
+.noun-lesson .lead-box {
+  background: linear-gradient(135deg, rgba(53, 111, 99, 0.13), rgba(53, 111, 99, 0.03));
+  border: 1px solid var(--noun-border);
+  border-left: 5px solid var(--noun-accent);
+  border-radius: 0.8rem;
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.1rem;
+}
+
+.noun-lesson .concept-grid {
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  margin: 1rem 0 1.5rem;
+}
+
+.noun-lesson .concept-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--noun-border);
+  border-radius: 0.75rem;
+  padding: 0.9rem 1rem;
+}
+
+.noun-lesson .concept-card strong {
+  color: var(--noun-accent);
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.noun-lesson .definition-strip {
+  align-items: center;
+  background: var(--noun-soft);
+  border: 1px solid var(--noun-border);
+  border-radius: 0.7rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1rem 0;
+  padding: 0.8rem 0.9rem;
+}
+
+.noun-lesson .definition-strip span {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--noun-border);
+  border-radius: 999px;
+  font-weight: 650;
+  padding: 0.28rem 0.6rem;
+}
+
+.noun-lesson .grammar-table th {
+  white-space: nowrap;
+}
+
+.noun-lesson .grammar-table td:first-child {
+  font-weight: 700;
+}
+
+.noun-lesson .example-pair {
+  display: grid;
+  gap: 0.7rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  margin: 0.9rem 0;
+}
+
+.noun-lesson .example-box {
+  background: var(--noun-soft);
+  border: 1px solid var(--noun-border);
+  border-radius: 0.7rem;
+  padding: 0.8rem 0.9rem;
+}
+
+.noun-lesson .example-box b {
+  color: var(--noun-accent);
+}
+
+.noun-reading {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--noun-border);
+  border-radius: 0.9rem;
+  margin-top: 1rem;
+  overflow: hidden;
+}
+
+.noun-reading__header {
+  background: var(--noun-soft);
+  border-bottom: 1px solid var(--noun-border);
+  padding: 1rem 1.2rem;
+}
+
+.noun-reading__header h3 {
+  margin: 0 0 0.35rem;
+}
+
+.noun-reading__header p {
+  margin: 0;
+}
+
+.noun-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.8rem;
+}
+
+.noun-legend span,
+.noun-token {
+  border: 1px solid;
+  border-radius: 0.35rem;
+}
+
+.noun-legend span {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+}
+
+.noun-reading__text {
+  padding: 1rem 1.3rem 1.4rem;
+}
+
+.noun-reading__text p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.04rem;
+  line-height: 1.95;
+  margin: 0.55rem 0;
+}
+
+.noun-sentence-no {
+  color: var(--md-default-fg-color--light);
+  display: inline-block;
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.76rem;
+  font-weight: 800;
+  min-width: 2rem;
+}
+
+.noun-token {
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  font-weight: 650;
+  padding: 0.04rem 0.2rem;
+}
+
+.noun-person {
+  background: var(--noun-person-bg);
+  border-color: var(--noun-person-line);
+}
+
+.noun-place {
+  background: var(--noun-place-bg);
+  border-color: var(--noun-place-line);
+}
+
+.noun-object {
+  background: var(--noun-object-bg);
+  border-color: var(--noun-object-line);
+}
+
+.noun-abstract {
+  background: var(--noun-abstract-bg);
+  border-color: var(--noun-abstract-line);
+}
+
+.noun-summary {
+  background: var(--noun-soft);
+  border: 1px solid var(--noun-border);
+  border-radius: 0.8rem;
+  margin: 1.3rem 0;
+  padding: 1rem 1.1rem;
+}
+
+.noun-summary h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .noun-reading__text {
+    padding: 0.85rem;
+  }
+
+  .noun-reading__text p {
+    font-size: 1rem;
+    line-height: 1.85;
+  }
+}
