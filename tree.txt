@@ -109,6 +109,7 @@
 ./docs/gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
 ./docs/gramatyka/skladnia/podmiot
 ./docs/gramatyka/skladnia/podmiot/index.md
+./docs/gramatyka/skladnia/podmiot/rozpoznawanie.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
