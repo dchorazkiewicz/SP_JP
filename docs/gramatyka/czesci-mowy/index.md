@@ -2,6 +2,12 @@
 
 Dział obejmuje odmienne i nieodmienne części mowy oraz ich funkcje w wypowiedzeniu. Każda część mowy ma osobny rozdział z teorią, pełnymi zdaniami, zestawieniami i dłuższym tekstem pokazującym jej działanie.
 
+## Zanim zaczniesz klasyfikować
+
+Niektóre wyrazy zmieniają klasyfikację zależnie od zdania, a w części przypadków różne szkoły językoznawcze stosują odmienne nazwy. Osobna strona pokazuje takie sytuacje bez udawania, że każda z nich ma jedną mechaniczną odpowiedź:
+
+[Granice klasyfikacji: wyrazy sporne i wielofunkcyjne](granice-klasyfikacji/){ .md-button .md-button--primary }
+
 ## Odmienne części mowy
 
 - [czasownik](czasownik/),
