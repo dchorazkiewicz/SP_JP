@@ -6,6 +6,16 @@
 Nie każda forma czasownika mówi wprost, kto wykonuje czynność. Bezokolicznik tylko ją nazywa, a formy na <em>-no</em> i <em>-to</em> informują, że ktoś coś zrobił, ale nie podają wykonawcy.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>co to jest bezokolicznik;</li>
+    <li>dlaczego bezokolicznik nie wskazuje osoby, liczby ani czasu;</li>
+    <li>jak działają formy zakończone na <strong>-no</strong> i <strong>-to</strong>;</li>
+    <li>czym forma bezosobowa różni się od strony biernej.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Kartka na drzwiach pracowni</div>
   <div class="verb-story__body" markdown>
@@ -35,6 +45,12 @@ Bezokolicznik to podstawowa forma czasownika. Najczęściej kończy się na **-�
 
 Nie wskazuje osoby, liczby ani czasu.
 
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Bezokolicznik</strong>
+  <p>To podstawowa forma czasownika, która nazywa czynność, ale sama nie mówi, kto ją wykonuje ani kiedy.</p>
+</div>
+
 <div class="verb-comparison">
   <div class="verb-comparison__item"><span class="verb-label">forma osobowa</span><p>Ola <span class="verb-form">czyta</span> książkę.</p><p>Wiemy, kto wykonuje czynność.</p></div>
   <div class="verb-comparison__item"><span class="verb-label">bezokolicznik</span><p>Ola chce <span class="verb-form">czytać</span> książkę.</p><p>Wykonawcę poznajemy z reszty zdania.</p></div>
@@ -58,6 +74,17 @@ Nie wskazuje osoby, liczby ani czasu.
 
 Forma **czytać** nie zawiera informacji o uczestniku rozmowy. Potrzebuje innego wyrazu albo całego kontekstu.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: bezokolicznik</div>
+  <ul>
+    <li>Najczęściej kończy się na <strong>-ć</strong> albo <strong>-c</strong>.</li>
+    <li>Nie pokazuje osoby, liczby ani czasu.</li>
+    <li>Może wystąpić po czasownikach takich jak <strong>chcieć</strong>, <strong>móc</strong> i <strong>musieć</strong>.</li>
+    <li>Może też pojawić się w instrukcji lub ogólnym zaleceniu.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> chcę czytać, mogę pomóc, trzeba wrócić.</p>
+</div>
+
 ## Formy na „-no” i „-to”
 
 > Zamknięto okno.  
@@ -66,6 +93,12 @@ Forma **czytać** nie zawiera informacji o uczestniku rozmowy. Potrzebuje innego
 > Wybito piłkę poza boisko.
 
 Takie formy mówią, że czynność została wykonana, ale nie ujawniają osoby.
+
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Forma bezosobowa na -no lub -to</strong>
+  <p>Informuje, że ktoś wykonał czynność, ale zdanie nie podaje wykonawcy i nie tworzy zwykłego podmiotu.</p>
+</div>
 
 ## Wykonawca istnieje, choć go nie nazywamy
 
@@ -80,6 +113,17 @@ Ktoś ją otworzył: dyrektor, burmistrz albo pracownicy. Zdanie nie odpowiada n
 > Otwarto nowe sale.
 
 Forma **otwarto** pozostaje taka sama mimo zmiany rzeczownika.
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: formy bezosobowe</div>
+  <ul>
+    <li>Kończą się na <strong>-no</strong> albo <strong>-to</strong>.</li>
+    <li>Informują o wykonanej czynności.</li>
+    <li>Nie podają wykonawcy.</li>
+    <li>Nie zmieniają formy razem z rzeczownikiem.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> otwarto bibliotekę, otwarto sale.</p>
+</div>
 
 ## Forma bezosobowa a strona bierna
 
@@ -104,8 +148,13 @@ W takich zdaniach wykonawca może być ogólny, nieznany albo w ogóle niepotrze
 </div>
 
 <div class="verb-mini-summary">
-<h3>Co ukrywa wykonawcę?</h3>
-Bezokolicznik tylko nazywa czynność: <em>czytać</em>. Forma na <em>-no</em> lub <em>-to</em> mówi, że ktoś ją wykonał: <em>przeczytano</em>. W obu przypadkach osoba nie jest pokazana tak jak w formach <em>czytam</em> lub <em>czytasz</em>.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Bezokolicznik tylko nazywa czynność.</li>
+  <li>Forma na <strong>-no</strong> lub <strong>-to</strong> mówi o wykonanej czynności bez wskazania osoby.</li>
+  <li>Forma bezosobowa i strona bierna mogą ukrywać wykonawcę, ale mają inną budowę.</li>
+  <li>Zawsze trzeba sprawdzać całe zdanie.</li>
+</ul>
 </div>
 
 [Przejdź dalej: imiesłowy bez pośpiechu](../imieslowy/){ .md-button .md-button--primary }
