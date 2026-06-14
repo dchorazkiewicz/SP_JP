@@ -1,6 +1,7 @@
 .
 ./.github
 ./.github/workflows
+./.github/workflows/deploy-pages.yml
 ./.github/workflows/update-tree.yml
 ./.gitignore
 ./README.md
