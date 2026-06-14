@@ -45,8 +45,6 @@
 ./docs/gramatyka/zaimki/pdf/zaimki_50_przykladow_wspolczesniejsza_proza.pdf
 ./docs/gramatyka/zaimki/pdf/zaimki_w_jezyku_polskim_opracowanie.pdf
 ./docs/index.md
-./docs/javascripts
-./docs/javascripts/grammar-highlighter.js
 ./docs/materialy-dodatkowe
 ./docs/materialy-dodatkowe/index.md
 ./docs/materialy-dodatkowe/pdf
@@ -66,7 +64,6 @@
 ./docs/praktyka/interaktywna-analiza-czesci-mowy.md
 ./docs/stylesheets
 ./docs/stylesheets/extra.css
-./docs/stylesheets/interactive-wide.css
 ./mkdocs.yml
 ./requirements.txt
 ./tree.txt
