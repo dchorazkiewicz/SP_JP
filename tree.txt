@@ -157,6 +157,7 @@
 ./docs/gramatyka/skladnia/przydawka/szyk-i-znaczenie.md
 ./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe
+./docs/gramatyka/skladnia/zwiazki-skladniowe/analiza-wielopoziomowa.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/grupy-skladniowe.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/index.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/wspolrzednosc-i-szeregi.md
