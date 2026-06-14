@@ -1,1 +1,3 @@
-# Test 2
+# Rozpoznawanie dopełnienia
+
+Dopełnienie zależy od orzeczenia i uzupełnia jego znaczenie.
