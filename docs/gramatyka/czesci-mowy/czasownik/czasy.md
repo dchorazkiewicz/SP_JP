@@ -127,7 +127,7 @@ Podobnie mówimy:
 
 Forma gramatyczna jest teraźniejsza, ale określenie czasu i sytuacja kierują nas ku przyszłości. To pokazuje, że znaczenie zdania powstaje z połączenia formy czasownika z całym kontekstem.
 
-Nie należy więc bezmyślnie uznawać, że każde zdanie zawierające słowo **jutro** ma czasownik w czasie przyszłym.
+Nie należy więc automatycznie uznawać, że każde zdanie zawierające słowo **jutro** ma czasownik w czasie przyszłym.
 
 ## Czas teraźniejszy ma więcej niż jedno zadanie
 
@@ -198,7 +198,7 @@ Forma **malowali** jest męskoosobowa. Używamy jej, gdy grupa obejmuje przynajm
 
 Forma **malowały** jest niemęskoosobowa. Pojawia się przy grupach kobiet, dziewcząt, dzieci, zwierząt i rzeczy.
 
-To nie znaczy, że dziecko od razu musi analizować każdy szczegół. Najpierw warto zauważyć regularną różnicę:
+Na początku wystarczy zauważyć regularną różnicę:
 
 > chłopcy robili — dziewczynki robiły  
 > uczniowie przyszli — uczennice przyszły
@@ -370,7 +370,7 @@ Forma **jedziemy** jest teraźniejsza, ale zdanie dotyczy przyszłego planu.
 
 > I wtedy Maja otwiera drzwi, patrzy, a za nimi stoi cała klasa.
 
-Formy **otwiera**, **patrzy**, **stoi** są teraźniejsze, lecz narrator może opowiadać o przeszłym wydarzeniu w sposób żywy.
+Formy **otwiera**, **patrzy** i **stoi** są teraźniejsze, lecz narrator może opowiadać o przeszłym wydarzeniu w sposób żywy.
 
 > Autobus odjeżdża o siódmej.
 
@@ -380,44 +380,59 @@ Dlatego poprawna analiza nie polega na wyszukaniu jednego słowa. Trzeba czytać
 
 ## Jak rozpoznać czas bez mechanicznego zgadywania?
 
-Spójrz na zdanie:
+Spójrz na cztery zdania:
 
-> Wczoraj o tej porze Maja malowała daszek.
+> Wczoraj o tej porze Maja <span class="verb-form">malowała</span> daszek.  
+> Maja właśnie <span class="verb-form">maluje</span> daszek.  
+> Jutro Maja <span class="verb-form">będzie malowała</span> daszek.  
+> Jutro Maja <span class="verb-form">pomaluje</span> daszek.
 
-Forma **malowała** wskazuje czas przeszły. Wyrażenie **wczoraj o tej porze** potwierdza tę interpretację.
+Forma **malowała** wskazuje czas przeszły. Forma **maluje** jest teraźniejsza. Konstrukcja **będzie malowała** tworzy czas przyszły złożony, a forma **pomaluje** — przyszły prosty.
 
-> Maja właśnie maluje daszek.
-
-Forma **maluje** i wyraz **właśnie** pokazują teraźniejszość.
-
-> Jutro Maja będzie malowała daszek.
-
-Forma **będzie malowała** jest czasem przyszłym złożonym.
-
-> Jutro Maja pomaluje daszek.
-
-Forma **pomaluję** lub **pomaluję**? W tym zdaniu podmiotem jest Maja, dlatego poprawna forma brzmi **pomaluję** tylko wtedy, gdy mówi Maja o sobie. Gdy opowiadamy o niej, mówimy:
-
-> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
-
-To zdanie jest błędne, ponieważ forma **pomaluję** oznacza „ja”. Poprawnie:
-
-> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
-
-Zatrzymajmy się: zapis nadal nie pasuje. W trzeciej osobie poprawna forma brzmi:
-
-> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
-
-Ten przykład pokazuje, jak łatwo pomieszać czas z osobą. Dla formy „ona” potrzebujemy czasownika **pomaluję**? Nie — poprawnie mówimy:
-
-> Jutro Maja <span class="verb-form">pomaluję</span> daszek.
-
-Aby uniknąć utrwalenia błędu, zapiszmy poprawną parę wyraźnie:
+Trzeba przy tym pilnować także osoby:
 
 > Ja jutro <span class="verb-form">pomaluję</span> daszek.  
-> Maja jutro <span class="verb-form">pomaluję</span> daszek.
+> Ty jutro <span class="verb-form">pomalujesz</span> daszek.  
+> Maja jutro <span class="verb-form">pomaluje</span> daszek.  
+> My jutro <span class="verb-form">pomalujemy</span> daszek.
 
-W tym miejscu widać, że sama przyszłość nie wystarcza — trzeba jeszcze dopasować osobę. Poprawna forma dla Mai to **pomaluję**? Nie. Właściwie:
+Wszystkie formy dotyczą przyszłości, ale różnią się osobą i liczbą. Czas to tylko jedna z informacji zapisanych w czasowniku.
 
-> Maja jutro <span class="verb-form">pomaluję</span> daszek.
+## Gdy opowiadamy dłuższą historię
 
+W dłuższym tekście czas pomaga zachować porządek wydarzeń.
+
+> Maja najpierw <span class="verb-form">narysowała</span> projekt. Potem <span class="verb-form">przygotowała</span> deseczki. W sobotę <span class="verb-form">budowała</span> karmnik razem z tatą, a wieczorem go <span class="verb-form">skończyli</span>. Teraz karmnik <span class="verb-form">wisi</span> na balkonie. W przyszłym tygodniu Maja <span class="verb-form">będzie obserwowała</span> ptaki i <span class="verb-form">zapisze</span> ich nazwy w zeszycie.
+
+Najpierw pojawia się przeszłość, potem teraźniejszość, a na końcu przyszłość. Czytelnik bez trudu rozumie kolejność, ponieważ formy czasowników prowadzą go przez opowieść.
+
+Dobra narracja może czasem celowo zmienić czas, ale taka zmiana powinna mieć sens. Przypadkowe przeskakiwanie między formami utrudnia czytanie:
+
+> Maja weszła do garażu i rozkłada narzędzia. Potem przycięła deskę i maluje daszek.
+
+Takie zdanie miesza przeszłość z teraźniejszością bez wyraźnego powodu. Spójniej brzmi:
+
+> Maja weszła do garażu i rozłożyła narzędzia. Potem przycięła deskę i pomalowała daszek.
+
+Albo, jeśli chcemy prowadzić żywą narrację w teraźniejszości:
+
+> Maja wchodzi do garażu i rozkłada narzędzia. Potem przycina deskę i maluje daszek.
+
+## Mapa wiedzy po tej lekcji
+
+<div class="verb-mini-summary">
+<h3>Nie tylko trzy nazwy</h3>
+<ul>
+  <li><strong>Czas przeszły</strong> umieszcza wydarzenie przed chwilą mówienia i często pokazuje rodzaj wykonawcy.</li>
+  <li><strong>Czas teraźniejszy</strong> może opisywać chwilę obecną, zwyczaj, prawidłowość, plan lub żywą narrację.</li>
+  <li><strong>Czas przyszły złożony</strong> ma więcej niż jeden wyraz: <em>będę budować</em>, <em>będę budowała</em>.</li>
+  <li><strong>Czas przyszły prosty</strong> ma jedną formę: <em>zbuduję</em>, <em>przeczytam</em>, <em>naprawię</em>.</li>
+  <li>Wyrazy <strong>wczoraj</strong>, <strong>teraz</strong> i <strong>jutro</strong> pomagają, ale nie zastępują analizy formy czasownika.</li>
+  <li>Czas trzeba odróżniać od osoby, liczby, rodzaju i aspektu.</li>
+  <li>W dłuższej opowieści konsekwentne użycie czasu pomaga czytelnikowi śledzić kolejność wydarzeń.</li>
+</ul>
+</div>
+
+[Przejdź dalej: czynność w trakcie i gotowy rezultat](../aspekt/){ .md-button .md-button--primary }
+
+</div>
