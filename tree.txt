@@ -133,6 +133,7 @@
 ./docs/gramatyka/skladnia/podmiot/podmioty-w-tekscie.md
 ./docs/gramatyka/skladnia/podmiot/rozpoznawanie.md
 ./docs/gramatyka/skladnia/przydawka
+./docs/gramatyka/skladnia/przydawka/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/przydawka/index.md
 ./docs/gramatyka/skladnia/przydawka/liczebna-zaimkowa-i-rozwinieta.md
 ./docs/gramatyka/skladnia/przydawka/przydawka-a-inne-funkcje.md
