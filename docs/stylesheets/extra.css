@@ -3,46 +3,15 @@
   --sp-accent-dark: #1f4f43;
   --sp-line: #d8dedb;
   --sp-soft: #f5f7f6;
-  --sp-text-soft: #5c6964;
-  --sp-noun-bg: #dbeafe;
-  --sp-noun-line: #2563eb;
-  --sp-noun-text: #1e3a8a;
-  --sp-verb-bg: #dcfce7;
-  --sp-verb-line: #16a34a;
-  --sp-verb-text: #166534;
-  --sp-adjective-bg: #fef3c7;
-  --sp-adjective-line: #d97706;
-  --sp-adjective-text: #854d0e;
-  --sp-pronoun-bg: #f3e8ff;
-  --sp-pronoun-line: #9333ea;
-  --sp-pronoun-text: #6b21a8;
-  --sp-error-bg: #fee2e2;
-  --sp-error-line: #dc2626;
-  --sp-error-text: #991b1b;
-  --sp-success-bg: #ecfdf5;
-  --sp-warning-bg: #fff7ed;
 }
 
 [data-md-color-scheme="slate"] {
   --sp-line: #46515a;
   --sp-soft: #202a31;
-  --sp-text-soft: #b7c0c6;
-  --sp-noun-bg: #172554;
-  --sp-noun-text: #bfdbfe;
-  --sp-verb-bg: #14532d;
-  --sp-verb-text: #bbf7d0;
-  --sp-adjective-bg: #713f12;
-  --sp-adjective-text: #fde68a;
-  --sp-pronoun-bg: #581c87;
-  --sp-pronoun-text: #e9d5ff;
-  --sp-error-bg: #7f1d1d;
-  --sp-error-text: #fecaca;
-  --sp-success-bg: #064e3b;
-  --sp-warning-bg: #7c2d12;
 }
 
 .md-grid {
-  max-width: 1100px;
+  max-width: 1200px;
 }
 
 .section-grid {
@@ -124,274 +93,32 @@
   display: block;
 }
 
-.grammar-lab {
-  background: var(--md-default-bg-color);
-  border: 1px solid var(--sp-line);
-  border-radius: 1rem;
-  box-shadow: 0 12px 36px rgba(31, 79, 67, 0.08);
-  margin: 1.5rem 0;
-  overflow: hidden;
+.interactive-app-shell {
+  margin: 1.25rem 0;
+  width: 100%;
 }
 
-.grammar-picker {
-  background: linear-gradient(135deg, rgba(47, 111, 94, 0.12), rgba(47, 111, 94, 0.03));
-  border-bottom: 1px solid var(--sp-line);
-  padding: 1.25rem;
-}
-
-.grammar-picker h2,
-.grammar-story h2 {
-  margin-top: 0;
-}
-
-.grammar-category-buttons {
-  display: grid;
-  gap: 0.65rem;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-}
-
-.grammar-category-button,
-.grammar-secondary-button {
-  border: 1px solid var(--sp-line);
-  border-radius: 0.7rem;
-  cursor: pointer;
-  font: inherit;
-  font-weight: 700;
-  padding: 0.72rem 0.9rem;
-  transition: box-shadow 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
-}
-
-.grammar-category-button {
-  background: var(--md-default-bg-color);
-  color: var(--md-typeset-color);
-}
-
-.grammar-category-button:hover,
-.grammar-category-button:focus-visible,
-.grammar-secondary-button:hover,
-.grammar-secondary-button:focus-visible {
-  box-shadow: 0 5px 16px rgba(31, 79, 67, 0.14);
-  transform: translateY(-1px);
-}
-
-.grammar-category-button.category-noun.is-active {
-  background: var(--sp-noun-bg);
-  border-color: var(--sp-noun-line);
-  color: var(--sp-noun-text);
-}
-
-.grammar-category-button.category-verb.is-active {
-  background: var(--sp-verb-bg);
-  border-color: var(--sp-verb-line);
-  color: var(--sp-verb-text);
-}
-
-.grammar-category-button.category-adjective.is-active {
-  background: var(--sp-adjective-bg);
-  border-color: var(--sp-adjective-line);
-  color: var(--sp-adjective-text);
-}
-
-.grammar-category-button.category-pronoun.is-active {
-  background: var(--sp-pronoun-bg);
-  border-color: var(--sp-pronoun-line);
-  color: var(--sp-pronoun-text);
-}
-
-.grammar-dashboard {
-  display: grid;
-  gap: 0.65rem;
-  grid-template-columns: repeat(4, minmax(130px, 1fr));
-  padding: 1rem 1.25rem 0;
-}
-
-.grammar-metric {
-  background: var(--sp-soft);
-  border: 1px solid var(--sp-line);
-  border-radius: 0.7rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  min-height: 4.5rem;
-  padding: 0.7rem 0.8rem;
-}
-
-.grammar-metric span {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.76rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-}
-
-.grammar-metric strong {
-  font-size: 1.08rem;
-}
-
-.grammar-progress {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.92rem;
-  padding: 0.7rem 1.25rem 0;
-}
-
-.grammar-feedback {
-  border: 1px solid var(--sp-line);
-  border-left-width: 5px;
-  border-radius: 0.65rem;
-  font-weight: 650;
-  margin: 1rem 1.25rem;
-  min-height: 3.1rem;
-  padding: 0.75rem 0.9rem;
-}
-
-.grammar-feedback.is-neutral {
-  background: var(--sp-soft);
-  border-left-color: var(--sp-accent);
-}
-
-.grammar-feedback.is-correct {
-  background: var(--sp-success-bg);
-  border-left-color: var(--sp-verb-line);
-}
-
-.grammar-feedback.is-incorrect {
-  background: var(--sp-error-bg);
-  border-left-color: var(--sp-error-line);
-  color: var(--sp-error-text);
-}
-
-.grammar-feedback.is-warning {
-  background: var(--sp-warning-bg);
-  border-left-color: var(--sp-adjective-line);
-}
-
-.grammar-story {
-  border-top: 1px solid var(--sp-line);
-  padding: 1.3rem 1.5rem;
-}
-
-.grammar-story p {
-  font-size: 1.02rem;
-  line-height: 2.05;
-  margin: 0.7rem 0;
-}
-
-.story-number {
-  color: var(--md-default-fg-color--light);
-  display: inline-block;
-  font-size: 0.78rem;
-  font-weight: 700;
-  min-width: 1.8rem;
-}
-
-.grammar-word {
-  appearance: none;
+.interactive-app-frame {
   background: transparent;
   border: 0;
-  border-bottom: 1px dotted transparent;
-  border-radius: 0.28rem;
-  color: inherit;
-  cursor: pointer;
-  display: inline;
-  font: inherit;
-  line-height: inherit;
-  margin: 0;
-  padding: 0.02rem 0.13rem;
-  transition: background-color 0.12s ease, box-shadow 0.12s ease, color 0.12s ease;
+  display: block;
+  min-height: 900px;
+  overflow: hidden;
+  width: 100%;
 }
 
-.grammar-word:hover {
-  background: var(--sp-soft);
-  border-bottom-color: var(--sp-accent);
-}
-
-.grammar-word:focus-visible {
-  outline: 3px solid rgba(47, 111, 94, 0.35);
-  outline-offset: 2px;
-}
-
-.grammar-word.is-correct[data-pos="noun"],
-.grammar-lab.show-all-answers .grammar-word[data-pos="noun"] {
-  background: var(--sp-noun-bg);
-  box-shadow: inset 0 -3px 0 var(--sp-noun-line);
-  color: var(--sp-noun-text);
-}
-
-.grammar-word.is-correct[data-pos="verb"],
-.grammar-lab.show-all-answers .grammar-word[data-pos="verb"] {
-  background: var(--sp-verb-bg);
-  box-shadow: inset 0 -3px 0 var(--sp-verb-line);
-  color: var(--sp-verb-text);
-}
-
-.grammar-word.is-correct[data-pos="adjective"],
-.grammar-lab.show-all-answers .grammar-word[data-pos="adjective"] {
-  background: var(--sp-adjective-bg);
-  box-shadow: inset 0 -3px 0 var(--sp-adjective-line);
-  color: var(--sp-adjective-text);
-}
-
-.grammar-word.is-correct[data-pos="pronoun"],
-.grammar-lab.show-all-answers .grammar-word[data-pos="pronoun"] {
-  background: var(--sp-pronoun-bg);
-  box-shadow: inset 0 -3px 0 var(--sp-pronoun-line);
-  color: var(--sp-pronoun-text);
-}
-
-.grammar-word.is-wrong {
-  animation: grammar-shake 0.24s linear;
-  background: var(--sp-error-bg);
-  box-shadow: inset 0 -3px 0 var(--sp-error-line);
-  color: var(--sp-error-text);
-}
-
-.grammar-actions {
-  border-top: 1px solid var(--sp-line);
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.7rem;
-  padding: 1rem 1.25rem;
-}
-
-.grammar-secondary-button {
-  background: var(--md-default-bg-color);
-  color: var(--md-typeset-color);
-}
-
-.grammar-note {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.86rem;
-  margin: 0;
-  padding: 0 1.25rem 1.25rem;
-}
-
-@keyframes grammar-shake {
-  0%, 100% { transform: translateX(0); }
-  25% { transform: translateX(-3px); }
-  75% { transform: translateX(3px); }
-}
-
-@media (max-width: 760px) {
-  .grammar-dashboard {
-    grid-template-columns: repeat(2, minmax(120px, 1fr));
+@media screen and (min-width: 1220px) {
+  .md-main__inner:has(.interactive-app-frame) {
+    max-width: 1700px;
   }
 
-  .grammar-story {
-    padding: 1rem;
+  .md-main__inner:has(.interactive-app-frame) .md-content {
+    max-width: none;
   }
 
-  .grammar-story p {
-    font-size: 0.98rem;
-    line-height: 2;
-  }
-}
-
-@media (max-width: 480px) {
-  .grammar-dashboard {
-    grid-template-columns: 1fr;
-  }
-
-  .grammar-category-buttons {
-    grid-template-columns: 1fr 1fr;
+  .md-main__inner:has(.interactive-app-frame) .md-content__inner {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    max-width: none;
   }
 }
