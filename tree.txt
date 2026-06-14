@@ -71,6 +71,7 @@
 ./docs/gramatyka/czesci-mowy/wykrzyknik/index.md
 ./docs/gramatyka/czesci-mowy/wykrzyknik/rodzaje-i-znaczenie.md
 ./docs/gramatyka/czesci-mowy/wykrzyknik/skladnia-i-interpunkcja.md
+./docs/gramatyka/czesci-mowy/wykrzyknik/styl-i-kontekst.md
 ./docs/gramatyka/czesci-mowy/zaimki
 ./docs/gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
 ./docs/gramatyka/czesci-mowy/zaimki/index.md
