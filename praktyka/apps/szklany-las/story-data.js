@@ -1,62 +1,55 @@
 window.SZKLANY_LAS_STORY = [
-  [
-    {t:"W",p:"preposition"},{t:"małej",p:"adjective"},{t:"wiosce",p:"noun"},{t:"pod",p:"preposition"},{t:"górami",p:"noun"},{t:"mieszkała",p:"verb"},{t:"odważna",p:"adjective"},{t:"dziewczynka",p:"noun"},{t:"Lena",p:"noun",a:"."}
-  ],
-  [
-    {t:"Każdego",p:"pronoun"},{t:"ranka",p:"noun"},{t:"ona",p:"pronoun"},{t:"zanosiła",p:"verb"},{t:"świeży",p:"adjective"},{t:"chleb",p:"noun"},{t:"staremu",p:"adjective"},{t:"strażnikowi",p:"noun"},{t:"mostu",p:"noun",a:"."}
-  ],
-  [
-    {t:"Pewnego",p:"pronoun"},{t:"dnia",p:"noun"},{t:"strażnik",p:"noun"},{t:"pokazał",p:"verb"},{t:"jej",p:"pronoun"},{t:"srebrny",p:"adjective"},{t:"klucz",p:"noun"},{t:"oraz",p:"conjunction"},{t:"tajemniczą",p:"adjective"},{t:"mapę",p:"noun",a:"."}
-  ],
-  [
-    {t:"Na",p:"preposition"},{t:"mapie",p:"noun"},{t:"cienka",p:"adjective"},{t:"droga",p:"noun"},{t:"biegła",p:"verb"},{t:"prosto",p:"adverb"},{t:"do",p:"preposition"},{t:"Szklanego",p:"adjective"},{t:"Lasu",p:"noun",a:"."}
-  ],
-  [
-    {t:"Nikt",p:"pronoun"},{t:"z",p:"preposition"},{t:"mieszkańców",p:"noun"},{t:"nie",p:"particle"},{t:"chciał",p:"verb"},{t:"tam",p:"adverb"},{t:"wchodzić",p:"verb"},{t:"po",p:"preposition"},{t:"zachodzie",p:"noun"},{t:"słońca",p:"noun",a:"."}
-  ],
-  [
-    {t:"Lena",p:"noun"},{t:"schowała",p:"verb"},{t:"klucz",p:"noun"},{t:"do",p:"preposition"},{t:"kieszeni",p:"noun"},{t:"i",p:"conjunction"},{t:"wyruszyła",p:"verb"},{t:"samotnie",p:"adverb"},{t:"przed",p:"preposition"},{t:"siebie",p:"pronoun",a:"."}
-  ],
-  [
-    {t:"W",p:"preposition"},{t:"lesie",p:"noun"},{t:"wysokie",p:"adjective"},{t:"drzewa",p:"noun"},{t:"odbijały",p:"verb"},{t:"księżyc",p:"noun"},{t:"jak",p:"conjunction"},{t:"tysiące",p:"numeral"},{t:"luster",p:"noun",a:"."}
-  ],
-  [
-    {t:"Między",p:"preposition"},{t:"nimi",p:"pronoun"},{t:"przemykały",p:"verb"},{t:"małe",p:"adjective"},{t:"światła",p:"noun",a:","},{t:"ale",p:"conjunction"},{t:"żadne",p:"pronoun"},{t:"nie",p:"particle"},{t:"zbliżało",p:"verb"},{t:"się",p:"pronoun"},{t:"do",p:"preposition"},{t:"niej",p:"pronoun",a:"."}
-  ],
-  [
-    {t:"Nagle",p:"adverb"},{t:"z",p:"preposition"},{t:"ciemnej",p:"adjective"},{t:"ścieżki",p:"noun"},{t:"wyszedł",p:"verb"},{t:"biały",p:"adjective"},{t:"wilk",p:"noun"},{t:"z",p:"preposition"},{t:"błękitnymi",p:"adjective"},{t:"oczami",p:"noun",a:"."}
-  ],
-  [
-    {t:"On",p:"pronoun"},{t:"nie",p:"particle"},{t:"warczał",p:"verb",a:","},{t:"tylko",p:"particle"},{t:"spokojnie",p:"adverb"},{t:"położył",p:"verb"},{t:"przed",p:"preposition"},{t:"nią",p:"pronoun"},{t:"złoty",p:"adjective"},{t:"liść",p:"noun",a:"."}
-  ],
-  [
-    {t:"Na",p:"preposition"},{t:"liściu",p:"noun"},{t:"widniał",p:"verb"},{t:"krótki",p:"adjective"},{t:"napis",p:"noun",a:":"},{t:"Otwórz",p:"verb"},{t:"bramę",p:"noun"},{t:"zanim",p:"conjunction"},{t:"obudzi",p:"verb"},{t:"się",p:"pronoun"},{t:"król",p:"noun"},{t:"cieni",p:"noun",a:"."}
-  ],
-  [
-    {t:"Dziewczynka",p:"noun"},{t:"pobiegła",p:"verb"},{t:"za",p:"preposition"},{t:"wilkiem",p:"noun"},{t:"i",p:"conjunction"},{t:"dotarła",p:"verb"},{t:"do",p:"preposition"},{t:"kamiennej",p:"adjective"},{t:"wieży",p:"noun",a:"."}
-  ],
-  [
-    {t:"Jej",p:"pronoun"},{t:"drzwi",p:"noun"},{t:"były",p:"verb"},{t:"ciężkie",p:"adjective",a:","},{t:"lecz",p:"conjunction"},{t:"srebrny",p:"adjective"},{t:"klucz",p:"noun"},{t:"pasował",p:"verb"},{t:"idealnie",p:"adverb",a:"."}
-  ],
-  [
-    {t:"W",p:"preposition"},{t:"środku",p:"noun"},{t:"ogromny",p:"adjective"},{t:"zegar",p:"noun"},{t:"odmierzał",p:"verb"},{t:"ostatnie",p:"adjective"},{t:"minuty",p:"noun"},{t:"przed",p:"preposition"},{t:"północą",p:"noun",a:"."}
-  ],
-  [
-    {t:"Lena",p:"noun"},{t:"zobaczyła",p:"verb"},{t:"czarną",p:"adjective"},{t:"koronę",p:"noun"},{t:"i",p:"conjunction"},{t:"zrozumiała",p:"verb"},{t:"plan",p:"noun"},{t:"ukrytego",p:"adjective"},{t:"władcy",p:"noun",a:"."}
-  ],
-  [
-    {t:"To",p:"pronoun"},{t:"on",p:"pronoun"},{t:"wysyłał",p:"verb"},{t:"cienie",p:"noun"},{t:"aby",p:"conjunction"},{t:"przestraszyć",p:"verb"},{t:"ludzi",p:"noun"},{t:"i",p:"conjunction"},{t:"zdobyć",p:"verb"},{t:"dolinę",p:"noun",a:"."}
-  ],
-  [
-    {t:"Ona",p:"pronoun"},{t:"podniosła",p:"verb"},{t:"koronę",p:"noun",a:","},{t:"lecz",p:"conjunction"},{t:"wilk",p:"noun"},{t:"natychmiast",p:"adverb"},{t:"uderzył",p:"verb"},{t:"w",p:"preposition"},{t:"nią",p:"pronoun"},{t:"łapą",p:"noun",a:"."}
-  ],
-  [
-    {t:"Korona",p:"noun"},{t:"pękła",p:"verb",a:","},{t:"a",p:"conjunction"},{t:"z",p:"preposition"},{t:"jej",p:"pronoun"},{t:"wnętrza",p:"noun"},{t:"uleciał",p:"verb"},{t:"czerwony",p:"adjective"},{t:"dym",p:"noun",a:"."}
-  ],
-  [
-    {t:"Wtedy",p:"adverb"},{t:"wszystkie",p:"pronoun"},{t:"lustra",p:"noun"},{t:"rozbłysły",p:"verb"},{t:"i",p:"conjunction"},{t:"pokazały",p:"verb"},{t:"prawdziwą",p:"adjective"},{t:"drogę",p:"noun"},{t:"do",p:"preposition"},{t:"domu",p:"noun",a:"."}
-  ],
-  [
-    {t:"Biały",p:"adjective"},{t:"wilk",p:"noun"},{t:"przemienił",p:"verb"},{t:"się",p:"pronoun"},{t:"w",p:"preposition"},{t:"młodego",p:"adjective"},{t:"księcia",p:"noun",a:","},{t:"którego",p:"pronoun"},{t:"więziła",p:"verb"},{t:"stara",p:"adjective"},{t:"magia",p:"noun",a:"."}
-  ]
-];
+  "W|preposition małej|adjective wiosce|noun pod|preposition górami|noun mieszkała|verb odważna|adjective dziewczynka|noun Lena|noun|.",
+  "Każdego|pronoun ranka|noun ona|pronoun zanosiła|verb świeży|adjective chleb|noun staremu|adjective strażnikowi|noun mostu|noun|.",
+  "Pewnego|pronoun dnia|noun strażnik|noun pokazał|verb jej|pronoun srebrny|adjective klucz|noun oraz|conjunction tajemniczą|adjective mapę|noun|.",
+  "Na|preposition mapie|noun cienka|adjective droga|noun biegła|verb prosto|adverb do|preposition Szklanego|adjective Lasu|noun|.",
+  "Nikt|pronoun z|preposition mieszkańców|noun nie|particle chciał|verb tam|adverb wchodzić|verb po|preposition zachodzie|noun słońca|noun|.",
+  "Lena|noun schowała|verb klucz|noun do|preposition kieszeni|noun i|conjunction wyruszyła|verb samotnie|adverb przed|preposition siebie|pronoun|.",
+  "W|preposition lesie|noun wysokie|adjective drzewa|noun odbijały|verb księżyc|noun jak|conjunction tysiące|numeral luster|noun|.",
+  "Między|preposition nimi|pronoun przemykały|verb małe|adjective światła|noun|, ale|conjunction żadne|pronoun nie|particle zbliżało|verb się|pronoun do|preposition niej|pronoun|.",
+  "Nagle|adverb z|preposition ciemnej|adjective ścieżki|noun wyszedł|verb biały|adjective wilk|noun z|preposition błękitnymi|adjective oczami|noun|.",
+  "Ach|interjection|, westchnęła|verb Lena|noun|, ponieważ|conjunction zwierzę|noun wyglądało|verb niezwykle|adverb dostojnie|adverb|.",
+  "On|pronoun nie|particle warczał|verb|, tylko|particle spokojnie|adverb położył|verb przed|preposition nią|pronoun złoty|adjective liść|noun|.",
+  "Na|preposition liściu|noun widniał|verb krótki|adjective napis|noun|: Otwórz|verb bramę|noun zanim|conjunction obudzi|verb się|pronoun król|noun cieni|noun|.",
+  "Dziewczynka|noun pobiegła|verb za|preposition wilkiem|noun i|conjunction dotarła|verb do|preposition kamiennej|adjective wieży|noun|.",
+  "Jej|pronoun drzwi|noun były|verb ciężkie|adjective|, lecz|conjunction srebrny|adjective klucz|noun pasował|verb idealnie|adverb|.",
+  "W|preposition środku|noun ogromny|adjective zegar|noun odmierzał|verb ostatnie|adjective trzy|numeral minuty|noun przed|preposition północą|noun|.",
+  "Hej|interjection|! Zawołał|verb ktoś|pronoun z|preposition górnego|adjective balkonu|noun|.",
+  "Lena|noun spojrzała|verb wysoko|adverb i|conjunction zobaczyła|verb dwie|numeral postacie|noun w|preposition szarych|adjective płaszczach|noun|.",
+  "Pierwsza|numeral postać|noun trzymała|verb czarną|adjective koronę|noun|, a|conjunction druga|numeral niosła|verb długi|adjective miecz|noun|.",
+  "Czy|particle to|pronoun wy|pronoun strzeżecie|verb tej|pronoun wieży|noun|?",
+  "Nie|particle|, odpowiedział|verb pierwszy|numeral wędrowiec|noun|, my|pronoun szukamy|verb ukrytego|adjective wyjścia|noun|.",
+  "Biały|adjective wilk|noun cicho|adverb warknął|verb|, więc|conjunction obaj|numeral przybysze|noun cofnęli|verb się|pronoun|.",
+  "Ojej|interjection|, szepnęła|verb Lena|noun|, ten|pronoun zegar|noun właśnie|particle przyspieszył|verb|.",
+  "Po|preposition pierwszym|numeral uderzeniu|noun kamienna|adjective podłoga|noun zadrżała|verb bardzo|adverb mocno|adverb|.",
+  "Po|preposition drugim|numeral uderzeniu|noun z|preposition sufitu|noun spadło|verb pięć|numeral srebrnych|adjective piór|noun|.",
+  "Po|preposition trzecim|numeral uderzeniu|noun wszystkie|pronoun lustra|noun nagle|adverb rozbłysły|verb|.",
+  "Hura|interjection|! Krzyknęła|verb Lena|noun|, gdy|conjunction zobaczyła|verb otwartą|adjective bramę|noun|.",
+  "Za|preposition bramą|noun ciągnął|verb się|pronoun wąski|adjective korytarz|noun o|preposition stu|numeral stopniach|noun|.",
+  "Brr|interjection|! Zawołał|verb jeden|numeral wędrowiec|noun|, tutaj|adverb jest|verb naprawdę|adverb zimno|adverb|.",
+  "Drugi|numeral wędrowiec|noun tylko|particle wzruszył|verb ramionami|noun i|conjunction poszedł|verb dalej|adverb|.",
+  "Na|preposition dole|noun czekała|verb okrągła|adjective sala|noun z|preposition dziesięcioma|numeral zamkniętymi|adjective drzwiami|noun|.",
+  "Nad|preposition każdymi|pronoun drzwiami|noun wisiał|verb inny|pronoun kolorowy|adjective znak|noun|.",
+  "Lena|noun wybrała|verb siódme|numeral drzwi|noun|, bo|conjunction ich|pronoun znak|noun przypominał|verb jej|pronoun gwiazdę|noun|.",
+  "Pst|interjection|! Odezwał|verb się|pronoun wilk|noun|, nie|particle dotykaj|verb teraz|adverb klamki|noun|.",
+  "Dziewczynka|noun uważnie|adverb obejrzała|verb mały|adjective otwór|noun i|conjunction znalazła|verb w|preposition nim|pronoun trzy|numeral igły|noun|.",
+  "Jedna|numeral igła|noun była|verb złota|adjective|, druga|numeral srebrna|adjective|, a|conjunction trzecia|numeral czarna|adjective|.",
+  "Lena|noun wyjęła|verb tylko|particle złotą|adjective igłę|noun|, ponieważ|conjunction ona|pronoun świeciła|verb najmocniej|adverb|.",
+  "Hop|interjection|! Igła|noun wskoczyła|verb do|preposition zamka|noun i|conjunction drzwi|noun otworzyły|verb się|pronoun same|pronoun|.",
+  "Za|preposition nimi|pronoun stał|verb niski|adjective tron|noun oraz|conjunction stary|adjective król|noun w|preposition czarnej|adjective masce|noun|.",
+  "Król|noun uniósł|verb jedną|numeral rękę|noun i|conjunction przywołał|verb setki|numeral ruchliwych|adjective cieni|noun|.",
+  "Niech|particle nikt|pronoun nie|particle opuści|verb mojego|pronoun zamku|noun|!",
+  "Och|interjection|, odpowiedziała|verb Lena|noun|, my|pronoun właśnie|particle zamierzamy|verb stąd|adverb wyjść|verb|.",
+  "Wtedy|adverb wilk|noun skoczył|verb szybko|adverb na|preposition tron|noun i|conjunction strącił|verb czarną|adjective koronę|noun|.",
+  "Korona|noun pękła|verb|, a|conjunction z|preposition jej|pronoun wnętrza|noun uleciał|verb czerwony|adjective dym|noun|.",
+  "Król|noun zdjął|verb maskę|noun i|conjunction okazał|verb się|pronoun młodym|adjective księciem|noun|.",
+  "To|pronoun zła|adjective korona|noun więziła|verb mnie|pronoun przez|preposition sto|numeral długich|adjective lat|noun|.",
+  "Brawo|interjection|! Zawołali|verb obaj|numeral wędrowcy|noun|, a|conjunction Lena|noun uśmiechnęła|verb się|pronoun radośnie|adverb|.",
+  "Książę|noun podarował|verb jej|pronoun dwa|numeral magiczne|adjective pióra|noun oraz|conjunction jeden|numeral błękitny|adjective kamień|noun|.",
+  "Nazajutrz|adverb wszyscy|pronoun wrócili|verb bezpiecznie|adverb do|preposition wioski|noun|, gdzie|pronoun czekały|verb szczęśliwe|adjective rodziny|noun|.",
+  "Od|preposition tego|pronoun dnia|noun Szklany|adjective Las|noun już|particle nie|particle budził|verb strachu|noun|.",
+  "Każde|pronoun dziecko|noun mogło|verb teraz|adverb wejść|verb między|preposition jasne|adjective drzewa|noun i|conjunction usłyszeć|verb ich|pronoun cichy|adjective śpiew|noun|."
+].map((sentence) => sentence.split(" ").map((item) => {
+  const [t, p, a = ""] = item.split("|");
+  return {t, p, a};
+}));
