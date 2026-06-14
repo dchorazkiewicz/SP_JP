@@ -25,6 +25,7 @@
 ./docs/gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/index.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/odmiana.md
+./docs/gramatyka/czesci-mowy/przymiotnik/przymiotniki-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/stopniowanie.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/znaczenie-i-zgoda.md
 ./docs/gramatyka/czesci-mowy/rzeczownik
