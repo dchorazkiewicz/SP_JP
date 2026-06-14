@@ -33,6 +33,8 @@
 ./docs/materialy-dodatkowe/pdf/analiza_czesci_mowy_katarynka.pdf
 ./docs/materialy-dodatkowe/pdf/czesci_mowy_powtorka_przed_sprawdzianem.pdf
 ./docs/materialy-dodatkowe/pdf/gramatyka+współczesnego+języka+polskiego+książka.pdf
+./docs/pdf
+./docs/pdf/index.md
 ./docs/stylesheets
 ./docs/stylesheets/extra.css
 ./mkdocs.yml
