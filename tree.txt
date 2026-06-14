@@ -101,6 +101,7 @@
 ./docs/gramatyka/skladnia/orzeczenie/forma-przeczenie-i-szyk.md
 ./docs/gramatyka/skladnia/orzeczenie/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/orzeczenie/index.md
+./docs/gramatyka/skladnia/orzeczenie/orzeczenia-w-tekscie.md
 ./docs/gramatyka/skladnia/orzeczenie/orzeczenie-czasownikowe.md
 ./docs/gramatyka/skladnia/orzeczenie/orzeczenie-imienne.md
 ./docs/gramatyka/skladnia/orzeczenie/orzeczenie-w-zdaniach-zlozonych.md
