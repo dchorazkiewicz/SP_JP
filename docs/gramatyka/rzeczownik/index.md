@@ -1,15 +1,15 @@
 # Rzeczownik
 
-Materiały PDF do przeglądania w przeglądarce.
+Ta sekcja będzie rozwijana jako zestaw materiałów dydaktycznych o rzeczowniku w języku polskim.
 
-## Dokumenty
+## Planowane zagadnienia
 
-<div class="pdf-list">
-  <a class="pdf-item" href="pdf/rzeczownik_w_jezyku_polskim_rozszerzone_notatki.pdf">
-    <span class="pdf-badge">PDF</span>
-    <span>
-      <strong>Rzeczownik w języku polskim</strong>
-      <small>Rozszerzone notatki</small>
-    </span>
-  </a>
-</div>
+- czym jest rzeczownik,
+- rodzaje gramatyczne,
+- liczba pojedyncza i mnoga,
+- przypadki,
+- deklinacja,
+- funkcje rzeczownika w zdaniu,
+- przykłady użycia.
+
+Dotychczasowe opracowanie jest dostępne w [Archiwum PDF](../../pdf/).
