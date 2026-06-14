@@ -96,6 +96,8 @@
 ./docs/gramatyka/rzeczownik/pdf/rzeczownik_w_jezyku_polskim_rozszerzone_notatki.pdf
 ./docs/gramatyka/skladnia
 ./docs/gramatyka/skladnia/index.md
+./docs/gramatyka/skladnia/orzeczenie
+./docs/gramatyka/skladnia/orzeczenie/index.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
