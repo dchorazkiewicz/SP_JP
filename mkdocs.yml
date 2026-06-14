@@ -36,9 +36,6 @@ extra_css:
   - stylesheets/subject-lesson.css
   - stylesheets/object-lesson.css
 
-extra_javascript:
-  - javascripts/font-size-control.js
-
 plugins:
   - search:
       lang: pl
