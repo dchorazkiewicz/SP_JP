@@ -6,6 +6,16 @@
 To samo wydarzenie można opowiedzieć z dwóch stron. Raz najważniejszy jest wykonawca czynności, a innym razem przedmiot, z którym coś się stało.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>czym różni się strona czynna od biernej;</li>
+    <li>jak zbudować typowe zdanie w stronie biernej;</li>
+    <li>dlaczego forma imiesłowu zmienia rodzaj i liczbę;</li>
+    <li>kiedy strony biernej nie da się utworzyć naturalnie.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Naprawa roweru</div>
   <div class="verb-story__body" markdown>
@@ -21,6 +31,12 @@ Kamera zdania jest skierowana na mechanika. To on znajduje się na pierwszym pla
 Wydarzenie się nie zmieniło. Zmienił się sposób opowiadania. Teraz na pierwszym planie znajduje się rower.
 
   </div>
+</div>
+
+<div class="verb-concept">
+  <span class="verb-concept__label">Dwa pojęcia</span>
+  <strong>Strona czynna i strona bierna</strong>
+  <p>W stronie czynnej podmiot jest wykonawcą. W stronie biernej podmiotem staje się przedmiot, którego dotyczy czynność.</p>
 </div>
 
 ## Strona czynna
@@ -45,6 +61,16 @@ Wykonawca może zostać pominięty:
 
 Zdanie nadal informuje, co stało się z pudełkiem.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: gdzie kierujemy uwagę?</div>
+  <ul>
+    <li><strong>Uczniowie zbudowali model</strong> — najważniejsi są wykonawcy.</li>
+    <li><strong>Model został zbudowany</strong> — najważniejszy jest model.</li>
+    <li>W stronie biernej wykonawca może pojawić się po słowie <strong>przez</strong> albo zostać pominięty.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Obraz pomocniczy:</strong> strona zmienia położenie kamery w zdaniu.</p>
+</div>
+
 ## Jak budujemy stronę bierną?
 
 Najczęściej łączymy formę czasownika **być** albo **zostać** z imiesłowem biernym.
@@ -62,6 +88,17 @@ Najczęściej łączymy formę czasownika **być** albo **zostać** z imiesłowe
 > Dokumenty zostały podpisane.
 
 Wyrazy **podpisany, podpisana, podpisane** dopasowują się do rzeczownika. Zmieniają rodzaj i liczbę podobnie jak przymiotniki.
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: budowa strony biernej</div>
+  <ul>
+    <li>Typowy wzór to <strong>jest / został + imiesłów bierny</strong>.</li>
+    <li><strong>jest naprawiany</strong> pokazuje trwającą czynność.</li>
+    <li><strong>został naprawiony</strong> pokazuje zakończony rezultat.</li>
+    <li>Imiesłów dopasowuje rodzaj i liczbę do rzeczownika.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> lampa została naprawiona; lampy zostały naprawione.</p>
+</div>
 
 ## Nie każdy czasownik tworzy stronę bierną
 
@@ -89,8 +126,13 @@ Strona bierna jest przydatna, gdy wykonawca nie jest znany, nie jest ważny albo
 Najważniejsza jest informacja o moście, nie osoba, która wydała decyzję.
 
 <div class="verb-mini-summary">
-<h3>Kamera zdania</h3>
-Strona czynna kieruje uwagę na wykonawcę: <em>uczniowie zbudowali model</em>. Strona bierna kieruje ją na przedmiot: <em>model został zbudowany przez uczniów</em>.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Strona czynna pokazuje wykonawcę.</li>
+  <li>Strona bierna pokazuje przedmiot objęty czynnością.</li>
+  <li>Strona bierna często zawiera <strong>być</strong> lub <strong>zostać</strong> i imiesłów bierny.</li>
+  <li>Nie każdy czasownik pozwala utworzyć stronę bierną.</li>
+</ul>
 </div>
 
 [Przejdź dalej: czynność bez podanej osoby](../bezokolicznik-i-formy-bezosobowe/){ .md-button .md-button--primary }
