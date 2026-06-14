@@ -68,15 +68,16 @@ Przymiotnik odmienia się przez rodzaje, liczby i przypadki. Nie wybiera formy s
   <div class="example-row"><span class="grammar-badge">Ms.</span><p>Opowiadamy o <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ych</span></span> uczniach.</p><span class="change-note">-ych</span></div>
 </div>
 
-## Przymiotniki o miękkim zakończeniu
+## Przymiotniki o zakończeniu „-i”
 
-Przymiotniki zakończone na **-i**, na przykład **tani, obcy, głupi**, mają własne zmiany pisowni.
+Przymiotniki zakończone na **-i**, na przykład **tani, obcy, głupi**, zmieniają formę razem z rodzajem i liczbą rzeczownika.
 
 <div class="example-series">
-  <div class="example-row"><span class="grammar-badge">męski</span><p>W sklepie znalazłem <span class="form-focus">tani</span> notes.</p><span class="change-note">tani</span></div>
-  <div class="example-row"><span class="grammar-badge">żeński</span><p>W sklepie znalazłam <span class="form-focus">tanią</span> torbę.</p><span class="change-note">tanią</span></div>
-  <div class="example-row"><span class="grammar-badge">nijaki</span><p>W sklepie znalazłem <span class="form-focus">tanie</span> krzesło.</p><span class="change-note">tanie</span></div>
-  <div class="example-row"><span class="grammar-badge">męskoosobowy lm.</span><p><span class="form-focus">Tani</span> pracownicy nie istnieją — poprawnie mówimy o <span class="form-focus">tanich usługach</span>, nie o wartości ludzi.</p><span class="change-note">kontekst wpływa na sens</span></div>
+  <div class="example-row"><span class="grammar-badge">męski</span><p>W sklepie znalazłem <span class="form-focus">tani</span> notes.</p><span class="change-note">tani notes</span></div>
+  <div class="example-row"><span class="grammar-badge">żeński</span><p>W sklepie znalazłam <span class="form-focus">tanią</span> torbę.</p><span class="change-note">tania torba</span></div>
+  <div class="example-row"><span class="grammar-badge">nijaki</span><p>W sklepie znalazłem <span class="form-focus">tanie</span> krzesło.</p><span class="change-note">tanie krzesło</span></div>
+  <div class="example-row"><span class="grammar-badge">męskoosobowy lm.</span><p><span class="form-focus">Tani</span> przewodnicy oferowali krótkie wycieczki po mieście.</p><span class="change-note">tani przewodnicy</span></div>
+  <div class="example-row"><span class="grammar-badge">niemęskoosobowy lm.</span><p><span class="form-focus">Tanie</span> bilety szybko się sprzedały.</p><span class="change-note">tanie bilety</span></div>
 </div>
 
 <div class="lesson-summary">
