@@ -3,12 +3,13 @@
     noun: {label: "Rzeczowniki", singular: "rzeczownik", searched: "rzeczowników"},
     verb: {label: "Czasowniki", singular: "czasownik", searched: "czasowników"},
     adjective: {label: "Przymiotniki", singular: "przymiotnik", searched: "przymiotników"},
+    numeral: {label: "Liczebniki", singular: "liczebnik", searched: "liczebników"},
     pronoun: {label: "Zaimki", singular: "zaimek", searched: "zaimków"},
-    adverb: {label: "Przysłówki", singular: "przysłówek"},
-    preposition: {label: "Przyimki", singular: "przyimek"},
-    conjunction: {label: "Spójniki", singular: "spójnik"},
-    particle: {label: "Partykuły", singular: "partykuła"},
-    numeral: {label: "Liczebniki", singular: "liczebnik"}
+    adverb: {label: "Przysłówki", singular: "przysłówek", searched: "przysłówków"},
+    preposition: {label: "Przyimki", singular: "przyimek", searched: "przyimków"},
+    conjunction: {label: "Spójniki", singular: "spójnik", searched: "spójników"},
+    particle: {label: "Partykuły", singular: "partykuła", searched: "partykuł"},
+    interjection: {label: "Wykrzykniki", singular: "wykrzyknik", searched: "wykrzykników"}
   };
 
   const app = document.querySelector("[data-grammar-app]");
@@ -128,6 +129,11 @@
     const actualCategory = word.dataset.pos;
     const actualInfo = categoryInfo[actualCategory];
 
+    if (!actualInfo) {
+      setFeedback(`Brak zdefiniowanej kategorii dla wyrazu „${word.textContent}”.`, "incorrect");
+      return;
+    }
+
     if (correctWords.has(id)) {
       setFeedback(`Wyraz „${word.textContent}” został już poprawnie rozpoznany jako ${actualInfo.singular}.`, "neutral");
       return;
@@ -193,7 +199,7 @@
     showAnswersButton.setAttribute("aria-pressed", String(answersVisible));
     setFeedback(
       answersVisible
-        ? "Pokazano odpowiedzi dla czterech ćwiczonych części mowy."
+        ? "Pokazano odpowiedzi dla wszystkich dziesięciu części mowy."
         : "Odpowiedzi ukryto. Możesz kontynuować samodzielną pracę.",
       "neutral"
     );
