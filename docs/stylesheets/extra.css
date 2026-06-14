@@ -3,6 +3,23 @@
   --sp-accent-dark: #1f4f43;
   --sp-line: #d8dedb;
   --sp-soft: #f5f7f6;
+  --sp-font-scale: 1;
+}
+
+html[data-sp-font-scale="small"] {
+  --sp-font-scale: 0.9;
+}
+
+html[data-sp-font-scale="normal"] {
+  --sp-font-scale: 1;
+}
+
+html[data-sp-font-scale="large"] {
+  --sp-font-scale: 1.15;
+}
+
+html[data-sp-font-scale="xlarge"] {
+  --sp-font-scale: 1.3;
 }
 
 [data-md-color-scheme="slate"] {
@@ -12,6 +29,70 @@
 
 .md-grid {
   max-width: 1200px;
+}
+
+.md-typeset {
+  font-size: calc(0.8rem * var(--sp-font-scale));
+}
+
+.md-nav,
+.md-nav__link,
+.md-nav__title {
+  font-size: calc(0.7rem * var(--sp-font-scale));
+}
+
+.sp-font-controls {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.08rem;
+  height: 2.4rem;
+  margin-left: 0.2rem;
+  margin-right: 0.15rem;
+}
+
+.sp-font-controls__button {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  border-radius: 0.3rem;
+  color: var(--md-primary-bg-color);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 0.63rem;
+  font-weight: 750;
+  height: 1.75rem;
+  justify-content: center;
+  line-height: 1;
+  min-width: 1.65rem;
+  padding: 0 0.25rem;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.sp-font-controls__button:hover,
+.sp-font-controls__button:focus-visible {
+  background: color-mix(in srgb, var(--md-primary-bg-color) 16%, transparent);
+  outline: none;
+}
+
+.sp-font-controls__button[aria-pressed="true"] {
+  background: color-mix(in srgb, var(--md-primary-bg-color) 22%, transparent);
+}
+
+.sp-font-controls__button--reset {
+  min-width: 1.45rem;
+}
+
+.sp-font-controls__status {
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
 }
 
 .section-grid {
@@ -105,6 +186,20 @@
   min-height: 900px;
   overflow: hidden;
   width: 100%;
+}
+
+@media screen and (max-width: 720px) {
+  .sp-font-controls {
+    gap: 0;
+    margin-left: 0;
+    margin-right: 0.05rem;
+  }
+
+  .sp-font-controls__button {
+    font-size: 0.58rem;
+    min-width: 1.45rem;
+    padding: 0 0.18rem;
+  }
 }
 
 @media screen and (min-width: 1220px) {
