@@ -30,6 +30,7 @@
 ./docs/gramatyka/czesci-mowy/liczebnik/zbiorowe-ulamkowe-i-pisownia.md
 ./docs/gramatyka/czesci-mowy/partykula
 ./docs/gramatyka/czesci-mowy/partykula/index.md
+./docs/gramatyka/czesci-mowy/partykula/znaczenie-i-rozpoznawanie.md
 ./docs/gramatyka/czesci-mowy/przyimek
 ./docs/gramatyka/czesci-mowy/przyimek/index.md
 ./docs/gramatyka/czesci-mowy/przyimek/przyimki-w-tekscie.md
