@@ -6,6 +6,16 @@
 Nazwy „pierwsza osoba”, „druga osoba” i „trzecia osoba” nie są przypadkowe. Pokazują trzy miejsca w rozmowie: osobę, która mówi, osobę, do której się mówi, oraz osobę lub rzecz, o której się mówi.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>co oznaczają pierwsza, druga i trzecia osoba;</li>
+    <li>czym różni się liczba pojedyncza od mnogiej;</li>
+    <li>dlaczego często nie trzeba zapisywać zaimków <strong>ja</strong>, <strong>ty</strong>, <strong>my</strong> i <strong>wy</strong>;</li>
+    <li>jak osoba i liczba są zapisane w formie czasownika.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Trzy miejsca w rozmowie</div>
   <div class="verb-story__body" markdown>
@@ -34,6 +44,22 @@ Lena jest osobą, która mówi — dlatego używa formy **rysuję**. Kuba jest o
 Bo punktem wyjścia rozmowy jest osoba mówiąca. Potem jest odbiorca, czyli druga osoba. Trzecia osoba znajduje się poza bezpośrednią rozmową — to ktoś lub coś, o czym opowiadamy.
 </div>
 
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Osoba czasownika</strong>
+  <p>Pokazuje, czy czynność wykonuje mówiący, odbiorca wypowiedzi, czy ktoś lub coś, o czym się mówi.</p>
+</div>
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: osoby czasownika</div>
+  <ul>
+    <li><strong>1. osoba</strong>: ja lub my — osoba mówiąca;</li>
+    <li><strong>2. osoba</strong>: ty lub wy — odbiorca;</li>
+    <li><strong>3. osoba</strong>: on, ona, ono, oni lub one — bohater wypowiedzi.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowo-klucz:</strong> osoba czasownika.</p>
+</div>
+
 ## Liczba pojedyncza i mnoga
 
 Liczba mówi, ilu wykonawców obejmuje forma czasownika.
@@ -49,6 +75,12 @@ Zmienił się wykonawca, więc musiała zmienić się również forma czasownika
 > Lampy <span class="verb-form">świecą</span>.
 
 Nie chodzi tylko o ludzi. Liczba czasownika dostosowuje się również do rzeczy, zwierząt i zjawisk.
+
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Liczba czasownika</strong>
+  <p>Liczba pojedyncza wskazuje jednego wykonawcę, a liczba mnoga — więcej niż jednego.</p>
+</div>
 
 ## Dlaczego często nie zapisujemy zaimka?
 
@@ -83,6 +115,17 @@ Najczęściej wtedy, gdy chcemy kogoś podkreślić albo przeciwstawić dwie oso
 
 Kolorowy podział pokazuje część wspólną i fragment, który się zmienia. Nie każdy czasownik dzieli się równie prosto, dlatego traktujemy to jako pomoc wzrokową, a nie jedyny możliwy opis budowy wyrazu.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: jak czytać formę czasownika</div>
+  <ul>
+    <li>Forma czasownika może jednocześnie pokazywać osobę i liczbę.</li>
+    <li><strong>Czytam</strong> oznacza 1. osobę liczby pojedynczej.</li>
+    <li><strong>Czytacie</strong> oznacza 2. osobę liczby mnogiej.</li>
+    <li><strong>Czytają</strong> oznacza 3. osobę liczby mnogiej.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Skróty:</strong> os. = osoba, lp. = liczba pojedyncza, lm. = liczba mnoga.</p>
+</div>
+
 ## Nie wszystkie czasowniki mają takie same zakończenia
 
 Porównaj:
@@ -106,8 +149,13 @@ Formy są bardzo różne. Nie da się ich utworzyć przez proste dodanie jednej 
 Forma **wyjeżdżamy** jest pierwszą osobą liczby mnogiej, bo mówi o „nas”. Słowo **jutro** pokazuje, że czynność nastąpi później. Osoba odpowiada na pytanie **kto?**, a czas na pytanie **kiedy?**.
 
 <div class="verb-mini-summary">
-<h3>Co trzeba rozumieć, a nie tylko zapamiętać?</h3>
-Pierwsza osoba mówi, druga słucha, a trzecia jest bohaterem opowieści. Liczba pokazuje, czy wykonawca jest jeden, czy jest ich więcej. Forma czasownika często wystarcza, aby rozpoznać obie informacje.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Osoba pokazuje miejsce wykonawcy w rozmowie.</li>
+  <li>Liczba pokazuje, czy wykonawca jest jeden, czy jest ich więcej.</li>
+  <li>Końcówka czasownika często pozwala pominąć zaimek.</li>
+  <li>Nie wszystkie czasowniki odmieniają się według jednego wzoru.</li>
+</ul>
 </div>
 
 [Przejdź dalej: wczoraj, dziś i jutro](../czasy/){ .md-button .md-button--primary }
