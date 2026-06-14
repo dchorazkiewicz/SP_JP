@@ -6,10 +6,19 @@
 Poniższa historia została podzielona na pięć scen. Po każdej z nich zatrzymujemy się i sprawdzamy, co dokładnie zrobiły czasowniki: jaki pokazały czas, kto wykonał czynność, czy pokazały proces, rezultat albo ukrytego wykonawcę.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Jak pracować z opowieścią?</div>
+  <ul>
+    <li>Najpierw przeczytaj scenę jak zwykłą historię.</li>
+    <li>Następnie przeczytaj podsumowanie i połącz przykłady z nazwami gramatycznymi.</li>
+    <li>Kolory pomagają znaleźć formy, ale najważniejsze jest zrozumienie ich roli.</li>
+  </ul>
+</div>
+
 <div class="verb-reading" markdown>
   <div class="verb-reading__header">
     <h2>Noc, w której zatrzymał się miejski zegar</h2>
-    <p>Kolory pomagają zauważyć formy, ale najważniejsze są komentarze po każdej scenie.</p>
+    <p>Każda scena kończy się krótką notatką: co wydarzyło się w opowieści i jak nazywa się to w gramatyce.</p>
     <div class="verb-reading__legend">
       <span class="verb-personal">formy osobowe</span>
       <span class="verb-infinitive">bezokoliczniki</span>
@@ -32,10 +41,15 @@ Poniższa historia została podzielona na pięć scen. Po każdej z nich zatrzym
 <p><span class="verb-sentence-no">9.</span> Pociąg jednak <span class="verb-token verb-personal">opóźnił się</span> z powodu silnego wiatru.</p>
 <p><span class="verb-sentence-no">10.</span> W ratuszu <span class="verb-token verb-impersonal">postanowiono</span> <span class="verb-token verb-infinitive">otworzyć</span> wieżę bez niego.</p>
 
-<div class="verb-reading__commentary" markdown>
-<strong>Co pokazały czasowniki?</strong>
-
-Formy **zatrzymał się, zauważyli, wezwał** opowiadają o zakończonych wydarzeniach w czasie przeszłym. Forma **otwierał** nie opisuje jednego otwarcia, lecz zwyczaj piekarza. Bezokolicznik **przyjechać** nie wskazuje sam wykonawcy — wiemy z wcześniejszego słowa, że chodzi o zegarmistrza. Forma **postanowiono** ukrywa osobę, która podjęła decyzję.
+<div class="verb-reading__commentary">
+<strong>Podsumowanie sceny 1</strong>
+<ul>
+  <li><strong>zatrzymał się, zauważyli, wezwał</strong> — zakończone wydarzenia w czasie przeszłym;</li>
+  <li><strong>otwierał</strong> — czynność powtarzana, czyli zwyczaj;</li>
+  <li><strong>przyjechać</strong> — bezokolicznik, który sam nie wskazuje osoby;</li>
+  <li><strong>postanowiono</strong> — forma bezosobowa ukrywająca wykonawcę.</li>
+</ul>
+<p><strong>Terminy:</strong> czas przeszły, aspekt niedokonany, bezokolicznik, forma bezosobowa.</p>
 </div>
 
 <div class="verb-scene-break">Scena 2. Anna wchodzi na wieżę</div>
@@ -51,10 +65,16 @@ Formy **zatrzymał się, zauważyli, wezwał** opowiadają o zakończonych wydar
 <p><span class="verb-sentence-no">19.</span> Nie <span class="verb-token verb-personal">mogła</span> jednak <span class="verb-token verb-infinitive">użyć</span> zbyt dużej siły.</p>
 <p><span class="verb-sentence-no">20.</span> Dlatego <span class="verb-token verb-personal">zadzwoniła</span> do konserwatora Jana.</p>
 
-<div class="verb-reading__commentary" markdown>
-<strong>Co pokazały czasowniki?</strong>
-
-Forma **wspinała się** pokazuje czynność w trakcie, a **dotarła** — jej osiągnięty koniec. Imiesłów **niosąc** łączy dwie czynności tej samej osoby: Anna niosła latarkę i sprawdzała stopnie. Wyraz **pokryte** określa koła, dlatego zachowuje się podobnie do przymiotnika. Bezokoliczniki **poruszyć** i **użyć** uzupełniają czasowniki **próbowała** i **mogła**.
+<div class="verb-reading__commentary">
+<strong>Podsumowanie sceny 2</strong>
+<ul>
+  <li><strong>wspinała się</strong> — czynność w trakcie;</li>
+  <li><strong>dotarła</strong> — osiągnięty koniec czynności;</li>
+  <li><strong>niosąc</strong> — imiesłów łączący dwie równoczesne czynności Anny;</li>
+  <li><strong>pokryte</strong> — imiesłów określający rzeczownik <em>koła</em>;</li>
+  <li><strong>poruszyć, użyć</strong> — bezokoliczniki zależne od form <em>próbowała</em> i <em>mogła</em>.</li>
+</ul>
+<p><strong>Terminy:</strong> aspekt, imiesłów przysłówkowy, imiesłów przymiotnikowy, bezokolicznik.</p>
 </div>
 
 <div class="verb-scene-break">Scena 3. Instrukcja z archiwum</div>
@@ -70,10 +90,15 @@ Forma **wspinała się** pokazuje czynność w trakcie, a **dotarła** — jej o
 <p><span class="verb-sentence-no">29.</span> Z dokumentu <span class="verb-token verb-personal">wynikało</span>, że mechanizm <span class="verb-token verb-personal">wymaga</span> oliwienia.</p>
 <p><span class="verb-sentence-no">30.</span> Aby <span class="verb-token verb-infinitive">uruchomić</span> zegar, należało <span class="verb-token verb-infinitive">nacisnąć</span> ukrytą dźwignię.</p>
 
-<div class="verb-reading__commentary" markdown>
-<strong>Co pokazały czasowniki?</strong>
-
-Formy **dotykaj** i **poczekaj** są w trybie rozkazującym, ale w tej sytuacji brzmią jak ostrzeżenie i rada. Formy **szukano** i **znaleziono** nie wskazują wykonawcy. Zdanie **instrukcja została napisana** używa strony biernej: najważniejsza jest instrukcja, a wykonawca pojawia się dopiero po słowie **przez**. Bezokoliczniki **uruchomić** i **nacisnąć** pokazują kolejne czynności w instrukcji.
+<div class="verb-reading__commentary">
+<strong>Podsumowanie sceny 3</strong>
+<ul>
+  <li><strong>dotykaj, poczekaj</strong> — tryb rozkazujący użyty jako ostrzeżenie i rada;</li>
+  <li><strong>szukano, znaleziono</strong> — formy bezosobowe;</li>
+  <li><strong>instrukcja została napisana</strong> — strona bierna;</li>
+  <li><strong>uruchomić, nacisnąć</strong> — bezokoliczniki opisujące kolejne działania.</li>
+</ul>
+<p><strong>Terminy:</strong> tryb rozkazujący, forma bezosobowa, strona bierna, bezokolicznik.</p>
 </div>
 
 <div class="verb-scene-break">Scena 4. Mechanizm rusza</div>
@@ -89,10 +114,15 @@ Formy **dotykaj** i **poczekaj** są w trybie rozkazującym, ale w tej sytuacji 
 <p><span class="verb-sentence-no">39.</span> Zegarmistrz <span class="verb-token verb-personal">powiedział</span>, że bez instrukcji długo <span class="verb-token verb-personal">szukałby</span> przyczyny.</p>
 <p><span class="verb-sentence-no">40.</span> „Gdyby Anna nie <span class="verb-token verb-personal">weszła</span> na wieżę, nadal <span class="verb-token verb-personal">czekalibyśmy</span>” — <span class="verb-token verb-personal">dodał</span>.</p>
 
-<div class="verb-reading__commentary" markdown>
-<strong>Co pokazały czasowniki?</strong>
-
-Formy **odnalazła, nacisnęła, ruszył** są dokonane — pokazują kolejne osiągnięte rezultaty. Konstrukcja **zaczęło obracać się** składa się z formy osobowej i bezokolicznika. Formy **szukałby** i **czekalibyśmy** należą do trybu przypuszczającego. Mówią o sytuacji wyobrażonej, która mogłaby się wydarzyć bez pomocy Anny.
+<div class="verb-reading__commentary">
+<strong>Podsumowanie sceny 4</strong>
+<ul>
+  <li><strong>odnalazła, nacisnęła, ruszył</strong> — czasowniki dokonane pokazujące rezultaty;</li>
+  <li><strong>zaczęło obracać się</strong> — forma osobowa połączona z bezokolicznikiem;</li>
+  <li><strong>szukałby, czekalibyśmy</strong> — tryb przypuszczający;</li>
+  <li>zdania z <strong>gdyby</strong> opisują sytuację wyobrażoną.</li>
+</ul>
+<p><strong>Terminy:</strong> aspekt dokonany, bezokolicznik, tryb przypuszczający.</p>
 </div>
 
 <div class="verb-scene-break">Scena 5. Miasto zapamiętuje lekcję</div>
@@ -108,18 +138,29 @@ Formy **odnalazła, nacisnęła, ruszył** są dokonane — pokazują kolejne os
 <p><span class="verb-sentence-no">49.</span> Uczniowie <span class="verb-token verb-personal">mogli</span> czasem <span class="verb-token verb-infinitive">obserwować</span> pracę zegara.</p>
 <p><span class="verb-sentence-no">50.</span> <span class="verb-token verb-participle">Patrząc</span> na <span class="verb-token verb-participle">poruszające się</span> koła, dzieci <span class="verb-token verb-personal">rozumiały</span>, że gramatyka opisuje prawdziwe zdarzenia.</p>
 
-<div class="verb-reading__commentary" markdown>
-<strong>Co pokazały czasowniki?</strong>
-
-Forma **grano** ukrywa wykonawców, bo ważniejsza jest muzyka i atmosfera wydarzenia. Imiesłów **naprawiony** określa zegar. Imiesłowy **przechodząc** i **patrząc** łączą równoczesne czynności tych samych osób. Czasowniki **sprawdzano** i **zapraszano** pokazują nowy zwyczaj, który powtarzał się od dnia naprawy.
+<div class="verb-reading__commentary">
+<strong>Podsumowanie sceny 5</strong>
+<ul>
+  <li><strong>grano, sprawdzano, zapraszano</strong> — formy bezosobowe;</li>
+  <li><strong>naprawiony</strong> — imiesłów przymiotnikowy określający zegar;</li>
+  <li><strong>przechodząc, patrząc</strong> — imiesłowy przysłówkowe łączące równoczesne czynności;</li>
+  <li>formy niedokonane pokazują czynności powtarzane po naprawie zegara.</li>
+</ul>
+<p><strong>Terminy:</strong> forma bezosobowa, imiesłów przymiotnikowy, imiesłów przysłówkowy, aspekt niedokonany.</p>
 </div>
 
   </div>
 </div>
 
 <div class="verb-mini-summary">
-<h3>Po co była ta opowieść?</h3>
-Czasowniki nie są osobnymi hasłami z tabeli. W opowieści przesuwają czas, pokazują wykonawcę, ukrywają go, łączą czynności, wyrażają polecenia i przypuszczenia oraz odróżniają trwający proces od osiągniętego rezultatu.
+<h3>Cały rozdział w jednym miejscu</h3>
+<ul>
+  <li>Osoba i liczba pokazują wykonawcę.</li>
+  <li>Czas umieszcza wydarzenie na osi czasu.</li>
+  <li>Aspekt odróżnia proces od rezultatu.</li>
+  <li>Tryb pokazuje, czy mówimy o fakcie, możliwości czy poleceniu.</li>
+  <li>Strona, bezokolicznik, formy bezosobowe i imiesłowy zmieniają sposób opowiadania o czynności.</li>
+</ul>
 </div>
 
 [Wróć do przeglądu czasownika](../){ .md-button }
