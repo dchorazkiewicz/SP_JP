@@ -37,6 +37,7 @@ extra_css:
   - stylesheets/object-lesson.css
   - stylesheets/attribute-lesson.css
   - stylesheets/adverbial-lesson.css
+  - stylesheets/syntactic-relations.css
 
 plugins:
   - search:
@@ -186,6 +187,17 @@ nav:
               - Szyk i zakres: gramatyka/skladnia/okolicznik/szyk-i-zakres.md
               - Granice klasyfikacji: gramatyka/skladnia/okolicznik/granice-klasyfikacji.md
               - Okoliczniki w tekście: gramatyka/skladnia/okolicznik/okoliczniki-w-tekscie.md
+          - Związki składniowe:
+              - Wprowadzenie: gramatyka/skladnia/zwiazki-skladniowe/index.md
+              - Wyraz nadrzędny i podrzędny: gramatyka/skladnia/zwiazki-skladniowe/wyraz-nadrzedny-i-podrzedny.md
+              - Związek zgody: gramatyka/skladnia/zwiazki-skladniowe/zwiazek-zgody.md
+              - Związek rządu: gramatyka/skladnia/zwiazki-skladniowe/zwiazek-rzadu.md
+              - Związek przynależności: gramatyka/skladnia/zwiazki-skladniowe/zwiazek-przynaleznosci.md
+              - Współrzędność i szeregi: gramatyka/skladnia/zwiazki-skladniowe/wspolrzednosc-i-szeregi.md
+              - Grupy składniowe: gramatyka/skladnia/zwiazki-skladniowe/grupy-skladniowe.md
+              - Analiza wielopoziomowa: gramatyka/skladnia/zwiazki-skladniowe/analiza-wielopoziomowa.md
+              - Granice klasyfikacji: gramatyka/skladnia/zwiazki-skladniowe/granice-klasyfikacji.md
+              - Związki w tekście: gramatyka/skladnia/zwiazki-skladniowe/zwiazki-w-tekscie.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
