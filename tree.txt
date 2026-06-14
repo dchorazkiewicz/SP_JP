@@ -158,6 +158,7 @@
 ./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/index.md
+./docs/gramatyka/skladnia/zwiazki-skladniowe/wspolrzednosc-i-szeregi.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/wyraz-nadrzedny-i-podrzedny.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazek-przynaleznosci.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazek-rzadu.md
