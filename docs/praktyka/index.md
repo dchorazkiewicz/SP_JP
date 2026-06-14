@@ -1,20 +1,15 @@
-# Praktyka i analiza tekstu
+# Czytanie i analiza w praktyce
 
-Ten dział łączy wiedzę gramatyczną z analizą rzeczywistych wypowiedzi.
+Ten dział służy do nauki gramatyki bezpośrednio podczas czytania. Zamiast oderwanych poleceń otrzymujesz tekst, w którym można klikać wyrazy, sprawdzać własne rozpoznanie i natychmiast zobaczyć poprawną odpowiedź.
 
-## Rodzaje materiałów
+## Materiały interaktywne
 
-- rozpoznawanie części mowy,
-- rozpoznawanie części zdania,
-- analiza fleksyjna,
-- analiza składniowa,
-- analiza słowotwórcza,
-- komentarze do krótkich tekstów,
-- materiały interaktywne,
-- teksty pokazujące typowe błędy i ich poprawę.
+<div class="section-grid">
+  <a class="section-card" href="interaktywna-analiza-czesci-mowy/">
+    <span class="section-kicker">Opowiadanie interaktywne</span>
+    <strong>Tajemnica Szklanego Lasu</strong>
+    <span>Wybierz część mowy, klikaj wyrazy w opowiadaniu i od razu sprawdzaj odpowiedzi.</span>
+  </a>
+</div>
 
-Materiały praktyczne mogą być tworzone jako zwykłe strony Markdown albo jako interaktywne strony wykorzystujące HTML, CSS i JavaScript.
-
-## Przykład interaktywny
-
-- [Opowieść o wieży nad Doliną Mgły](interaktywna-analiza-czesci-mowy.md)
+W kolejnych materiałach ten sam mechanizm może służyć do rozpoznawania części zdania, form fleksyjnych, związków składniowych oraz środków językowych.
