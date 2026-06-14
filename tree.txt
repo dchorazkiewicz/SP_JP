@@ -130,6 +130,7 @@
 ./docs/stylesheets/indeclinable-parts.css
 ./docs/stylesheets/lesson-style-compat.css
 ./docs/stylesheets/noun-lesson.css
+./docs/stylesheets/predicate-lesson.css
 ./docs/stylesheets/remaining-parts.css
 ./docs/stylesheets/verb-lesson.css
 ./mkdocs.yml
