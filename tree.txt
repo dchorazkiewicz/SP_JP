@@ -58,6 +58,7 @@
 ./docs/gramatyka/czesci-mowy/spojnik
 ./docs/gramatyka/czesci-mowy/spojnik/index.md
 ./docs/gramatyka/czesci-mowy/spojnik/podrzedne-i-interpunkcja.md
+./docs/gramatyka/czesci-mowy/spojnik/wielowyrazowe-i-styl.md
 ./docs/gramatyka/czesci-mowy/spojnik/wspolrzedne.md
 ./docs/gramatyka/czesci-mowy/zaimki
 ./docs/gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
