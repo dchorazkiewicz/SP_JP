@@ -1,8 +1,10 @@
-# Dokumentacja języka polskiego
+# Język polski po ludzku
 
-Materiały dydaktyczne do nauki i powtarzania zagadnień z języka polskiego.
+**Język polski taki, jakiego brakowało: jasno, konkretnie i interaktywnie.**
 
-Treści będą rozwijane przede wszystkim jako czytelne strony Markdown i HTML. Dzięki temu materiały można łatwo aktualizować, przeszukiwać i czytać na komputerze, tablecie oraz telefonie.
+Znajdziesz tutaj uporządkowane materiały do nauki i powtarzania gramatyki, przykłady użycia języka oraz interaktywne teksty, w których można od razu sprawdzać swoje odpowiedzi.
+
+Treści są rozwijane przede wszystkim jako czytelne strony Markdown i HTML. Dzięki temu można je łatwo aktualizować, przeszukiwać i wygodnie czytać na komputerze, tablecie oraz telefonie.
 
 ## Działy
 
@@ -11,6 +13,11 @@ Treści będą rozwijane przede wszystkim jako czytelne strony Markdown i HTML. 
     <span class="section-kicker">Dział</span>
     <strong>Gramatyka</strong>
     <span>Uporządkowane zagadnienia, przykłady i objaśnienia.</span>
+  </a>
+  <a class="section-card" href="praktyka/">
+    <span class="section-kicker">Interaktywnie</span>
+    <strong>Czytanie i analiza</strong>
+    <span>Teksty, w których można rozpoznawać części mowy i natychmiast sprawdzać odpowiedzi.</span>
   </a>
   <a class="section-card" href="materialy-dodatkowe/">
     <span class="section-kicker">Dział</span>
