@@ -38,6 +38,8 @@
 ./docs/gramatyka/zaimki/pdf/zaimki_50_przykladow_wspolczesniejsza_proza.pdf
 ./docs/gramatyka/zaimki/pdf/zaimki_w_jezyku_polskim_opracowanie.pdf
 ./docs/index.md
+./docs/javascripts
+./docs/javascripts/grammar-highlighter.js
 ./docs/materialy-dodatkowe
 ./docs/materialy-dodatkowe/index.md
 ./docs/materialy-dodatkowe/pdf
