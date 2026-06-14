@@ -67,6 +67,8 @@
 ./docs/gramatyka/czesci-mowy/spojnik/spojniki-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/spojnik/wielowyrazowe-i-styl.md
 ./docs/gramatyka/czesci-mowy/spojnik/wspolrzedne.md
+./docs/gramatyka/czesci-mowy/wykrzyknik
+./docs/gramatyka/czesci-mowy/wykrzyknik/index.md
 ./docs/gramatyka/czesci-mowy/zaimki
 ./docs/gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
 ./docs/gramatyka/czesci-mowy/zaimki/index.md
