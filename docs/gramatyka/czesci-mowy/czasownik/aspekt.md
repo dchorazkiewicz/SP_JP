@@ -6,6 +6,16 @@
 Aspekt nie mówi, kiedy wydarzyła się czynność. Pokazuje, jak na nią patrzymy: jak na trwający proces albo jak na zakończoną całość z widocznym skutkiem.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>czym różni się czasownik niedokonany od dokonanego;</li>
+    <li>dlaczego aspekt nie jest tym samym co czas;</li>
+    <li>jak rozpoznać proces, powtarzanie i rezultat;</li>
+    <li>dlaczego nie każdy przedrostek tworzy prostą parę aspektową.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Model samolotu Antka</div>
   <div class="verb-story__body" markdown>
@@ -37,10 +47,22 @@ Nie czas — oba zdania mogą dotyczyć wczoraj. Zmienił się sposób pokazania
   <div class="verb-comparison__item"><span class="verb-label">dokonany</span><p>Maja <span class="verb-form">przeczytała</span> książkę.</p><p>Wiemy, że dotarła do końca.</p></div>
 </div>
 
-Nazwy brzmią trudno, ale ich sens jest prosty:
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcia</span>
+  <strong>Aspekt niedokonany i dokonany</strong>
+  <p>Czasownik niedokonany pokazuje przebieg, trwanie lub powtarzanie. Czasownik dokonany pokazuje czynność jako ukończoną całość.</p>
+</div>
 
-- **czasownik niedokonany** pokazuje trwanie, przebieg albo powtarzanie;
-- **czasownik dokonany** pokazuje czynność jako zakończoną całość.
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: dwa aspekty</div>
+  <ul>
+    <li><strong>czytała</strong> — widzimy czynność w trakcie;</li>
+    <li><strong>przeczytała</strong> — widzimy ukończony rezultat;</li>
+    <li>oba czasowniki mogą wystąpić w czasie przeszłym;</li>
+    <li>aspekt pokazuje sposób widzenia czynności, a nie jej miejsce na osi czasu.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> aspekt niedokonany, aspekt dokonany.</p>
+</div>
 
 ## Dlaczego nie wystarczy pytanie „kiedy?”
 
@@ -80,6 +102,16 @@ To zdanie nie mówi, czy rower zaczął działać.
 
 Tutaj wynik jest jasny: naprawa się udała.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: proces, zwyczaj i rezultat</div>
+  <ul>
+    <li>Aspekt niedokonany może pokazywać czynność trwającą albo powtarzaną.</li>
+    <li>Aspekt dokonany pokazuje pojedynczą całość i osiągnięty skutek.</li>
+    <li>Zdanie z czasownikiem niedokonanym nie musi mówić, czy czynność się udała.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> sprzątał — proces; posprzątał — rezultat.</p>
+</div>
+
 ## Aspekt w przyszłości
 
 <div class="verb-comparison">
@@ -110,6 +142,16 @@ Czasowniki takie jak **mieć**, **należeć** albo **istnieć** zwykle nie mają
 
 Nie próbujemy tworzyć sztucznych form tylko po to, aby uzyskać parę.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: czego nie robić mechanicznie</div>
+  <ul>
+    <li>Nie każdy czasownik z przedrostkiem jest tylko dokonanym odpowiednikiem innego czasownika.</li>
+    <li>Przedrostek może zmienić znaczenie: <strong>pisać</strong>, <strong>podpisać</strong>, <strong>przepisać</strong>.</li>
+    <li>Nie każdy czasownik ma prostą parę aspektową.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Najważniejsze kryterium:</strong> sens całego czasownika w zdaniu.</p>
+</div>
+
 ## Jak rozpoznać aspekt w zdaniu?
 
 <div class="verb-step-list">
@@ -120,8 +162,13 @@ Nie próbujemy tworzyć sztucznych form tylko po to, aby uzyskać parę.
 </div>
 
 <div class="verb-mini-summary">
-<h3>Najprostszy obraz aspektu</h3>
-Czasownik niedokonany przypomina film pokazujący przebieg pracy. Czasownik dokonany przypomina zdjęcie gotowego rezultatu. Oba mówią o tej samej dziedzinie czynności, ale kierują uwagę na coś innego.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Niedokonany pokazuje przebieg, trwanie lub powtarzanie.</li>
+  <li>Dokonany pokazuje ukończoną całość.</li>
+  <li>Aspekt nie jest czasem.</li>
+  <li>Znaczenie czasownika jest ważniejsze niż sam przedrostek.</li>
+</ul>
 </div>
 
 [Przejdź dalej: informacja, możliwość i polecenie](../tryby/){ .md-button .md-button--primary }
