@@ -120,6 +120,7 @@
 ./docs/gramatyka/skladnia/okolicznik/rozpoznawanie.md
 ./docs/gramatyka/skladnia/okolicznik/sposob-stopien-i-miara.md
 ./docs/gramatyka/skladnia/okolicznik/warunek-i-przyzwolenie.md
+./docs/gramatyka/skladnia/okolicznik/zdania-okolicznikowe.md
 ./docs/gramatyka/skladnia/orzeczenie
 ./docs/gramatyka/skladnia/orzeczenie/bezosobowe-i-niewlasciwe.md
 ./docs/gramatyka/skladnia/orzeczenie/forma-przeczenie-i-szyk.md
