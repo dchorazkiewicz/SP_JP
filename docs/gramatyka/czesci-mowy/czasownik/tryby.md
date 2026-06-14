@@ -6,6 +6,16 @@
 Tryb czasownika pokazuje, jak osoba mówiąca przedstawia czynność. Może opisywać ją jako fakt, rozważać jako możliwość albo kierować do kogoś prośbę, radę lub polecenie.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>czym różnią się tryb oznajmujący, przypuszczający i rozkazujący;</li>
+    <li>jak rozpoznać formy z cząstkami <strong>bym, byś, by</strong>;</li>
+    <li>dlaczego tryb rozkazujący może wyrażać także prośbę lub radę;</li>
+    <li>jak kontekst zmienia ton wypowiedzi.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Otwarte okno</div>
   <div class="verb-story__body" markdown>
@@ -40,6 +50,22 @@ Nie. W każdym zdaniu chodzi o zamknięcie okna. Zmienił się sposób przedstaw
   <div class="verb-row"><span class="verb-badge">rozkazujący</span><p>Maju, <span class="verb-form">zamknij</span> okno.</p><span class="verb-note">prośba, rada lub polecenie</span></div>
 </div>
 
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Tryb czasownika</strong>
+  <p>To sposób przedstawienia czynności przez mówiącego: jako fakt, możliwość albo działanie kierowane do odbiorcy.</p>
+</div>
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: trzy sposoby mówienia</div>
+  <ul>
+    <li><strong>zamyka</strong> — informacja, czyli tryb oznajmujący;</li>
+    <li><strong>zamknęłaby</strong> — możliwość, czyli tryb przypuszczający;</li>
+    <li><strong>zamknij</strong> — prośba lub polecenie, czyli tryb rozkazujący.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> oznajmujący, przypuszczający, rozkazujący.</p>
+</div>
+
 ## Tryb oznajmujący
 
 Tryb oznajmujący przedstawia czynność, stan albo zdarzenie jako informację.
@@ -53,6 +79,12 @@ Może też wystąpić w pytaniu:
 > Czy Lena <span class="verb-form">przeczytała</span> książkę?
 
 Pytanie nie zmienia trybu. Nadal pytamy o fakt.
+
+<div class="verb-concept">
+  <span class="verb-concept__label">Definicja</span>
+  <strong>Tryb oznajmujący</strong>
+  <p>Przedstawia czynność, stan lub zdarzenie jako informację, pytanie o fakt albo opis rzeczywistości.</p>
+</div>
 
 ## Tryb przypuszczający
 
@@ -89,6 +121,17 @@ Porównaj:
 
 Znaczenie pozostaje podobne, ale akcent pada na inny fragment wypowiedzi. W formie **przeczytałbym** zapisujemy cząstkę łącznie z czasownikiem.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: tryb przypuszczający</div>
+  <ul>
+    <li>Pokazuje możliwość, życzenie, warunek albo uprzejmą prośbę.</li>
+    <li>Często zawiera cząstki <strong>bym, byś, by, byśmy, byście</strong>.</li>
+    <li>Forma może pokazywać osobę i rodzaj: <strong>czytałbym</strong>, <strong>czytałabym</strong>.</li>
+    <li>Cząstka <strong>by</strong> może stać przy innym wyrazie, zależnie od nacisku.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> zrobił + bym = zrobiłbym.</p>
+</div>
+
 ## Tryb rozkazujący nie musi być rozkazem
 
 Ta sama forma może mieć różny ton.
@@ -120,6 +163,17 @@ Gdy mówimy o trzeciej osobie, używamy zwykle słowa **niech**:
 
 Pierwsze zdanie zakazuje czynności trwającej lub powtarzanej. Drugie ostrzega przed jednym niepożądanym skutkiem. Różnicę tworzy aspekt czasownika.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: tryb rozkazujący</div>
+  <ul>
+    <li>Może wyrażać rozkaz, prośbę, radę albo zachętę.</li>
+    <li>Formy dla <strong>ty</strong>, <strong>my</strong> i <strong>wy</strong> są różne.</li>
+    <li>Dla trzeciej osoby często używamy słowa <strong>niech</strong>.</li>
+    <li>Ton wypowiedzi zależy od sytuacji, intonacji i dodatkowych słów.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> czytaj — czytajmy — czytajcie.</p>
+</div>
+
 ## Jak rozpoznać tryb?
 
 <div class="verb-step-list">
@@ -130,8 +184,13 @@ Pierwsze zdanie zakazuje czynności trwającej lub powtarzanej. Drugie ostrzega 
 </div>
 
 <div class="verb-mini-summary">
-<h3>Tryb pokazuje punkt widzenia mówiącego</h3>
-<em>Zamykasz</em> informuje. <em>Zamknąłbyś</em> przedstawia możliwość albo uprzejmą prośbę. <em>Zamknij</em> kieruje działanie do odbiorcy. Czynność jest podobna, ale sposób mówienia o niej się zmienia.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Oznajmujący informuje.</li>
+  <li>Przypuszczający pokazuje możliwość, warunek lub życzenie.</li>
+  <li>Rozkazujący kieruje działanie do odbiorcy.</li>
+  <li>Tryb rozpoznajemy z formy czasownika i sensu całego zdania.</li>
+</ul>
 </div>
 
 [Przejdź dalej: różne sposoby opowiadania o czynności](../strony-i-formy-nieosobowe/){ .md-button .md-button--primary }
