@@ -3,14 +3,43 @@ site_description: Materiały dydaktyczne do nauki gramatyki języka polskiego
 site_url: ""
 
 theme:
-  name: readthedocs
+  name: material
   language: pl
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Włącz tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Włącz tryb jasny
 
 extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - search
+  - search:
+      lang: pl
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
 
 nav:
   - Start: index.md
