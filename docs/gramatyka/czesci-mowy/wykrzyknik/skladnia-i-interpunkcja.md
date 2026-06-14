@@ -31,7 +31,7 @@ Przy słabszej emocji można użyć przecinka:
 
 ## Wykrzyknik wewnątrz wypowiedzi
 
-> To, **niestety**, nie jest już wykrzyknik, lecz przysłówek komentujący zdanie.
+> To, **niestety**, nie jest już wykrzyknikiem, lecz przysłówkiem komentującym zdanie.
 
 Typowe wykrzykniki mogą zostać wtrącone:
 
