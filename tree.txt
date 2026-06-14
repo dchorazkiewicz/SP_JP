@@ -15,6 +15,10 @@
 ./docs/gramatyka/czesci-mowy/czasownik
 ./docs/gramatyka/czesci-mowy/czasownik/index.md
 ./docs/gramatyka/czesci-mowy/index.md
+./docs/gramatyka/czesci-mowy/przymiotnik
+./docs/gramatyka/czesci-mowy/przymiotnik/index.md
+./docs/gramatyka/czesci-mowy/rzeczownik
+./docs/gramatyka/czesci-mowy/rzeczownik/index.md
 ./docs/gramatyka/fleksja
 ./docs/gramatyka/fleksja/index.md
 ./docs/gramatyka/index.md
