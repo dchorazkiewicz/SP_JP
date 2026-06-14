@@ -6,7 +6,7 @@
 Najłatwiej rozpoznać czasownik wtedy, gdy zobaczymy, co robi w całym zdaniu. Nie zawsze nazywa ruch. Może również opisywać stan, zmianę, istnienie albo zdarzenie.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Poranek w sali numer 12</div>
   <div class="verb-story__body" markdown>
 
