@@ -27,6 +27,37 @@
   margin-bottom: 0;
 }
 
+.verb-learning-goals {
+  background: color-mix(in srgb, var(--verb-accent) 8%, var(--md-default-bg-color));
+  border: 1px solid var(--verb-border);
+  border-radius: 0.8rem;
+  margin: 1rem 0 1.5rem;
+  padding: 0.95rem 1.1rem;
+}
+
+.verb-learning-goals__title {
+  color: var(--verb-accent);
+  font-size: 0.84rem;
+  font-weight: 850;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.45rem;
+  text-transform: uppercase;
+}
+
+.verb-learning-goals ul,
+.verb-checkpoint ul,
+.verb-mini-summary ul {
+  margin: 0.45rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.verb-learning-goals li,
+.verb-checkpoint li,
+.verb-mini-summary li {
+  line-height: 1.55;
+  margin: 0.25rem 0;
+}
+
 .verb-observation {
   background: var(--verb-accent-soft);
   border-left: 5px solid var(--verb-accent);
@@ -41,6 +72,64 @@
   font-size: 1.05rem;
   font-weight: 800;
   margin-bottom: 0.35rem;
+}
+
+.verb-concept {
+  align-items: start;
+  background: var(--md-default-bg-color);
+  border: 2px solid var(--verb-accent);
+  border-radius: 0.75rem;
+  display: grid;
+  gap: 0.25rem 0.8rem;
+  grid-template-columns: auto minmax(0, 1fr);
+  margin: 1rem 0 1.5rem;
+  padding: 0.9rem 1rem;
+}
+
+.verb-concept__label {
+  background: var(--verb-accent);
+  border-radius: 999px;
+  color: var(--md-primary-bg-color);
+  font-size: 0.72rem;
+  font-weight: 850;
+  grid-row: 1 / span 2;
+  letter-spacing: 0.04em;
+  padding: 0.25rem 0.55rem;
+  text-transform: uppercase;
+}
+
+.verb-concept strong {
+  color: var(--verb-accent);
+}
+
+.verb-concept p {
+  line-height: 1.55;
+  margin: 0.2rem 0 0;
+}
+
+.verb-checkpoint {
+  background: color-mix(in srgb, #d99b2b 11%, var(--md-default-bg-color));
+  border: 1px solid color-mix(in srgb, #d99b2b 55%, var(--verb-border));
+  border-radius: 0.8rem;
+  margin: 1.3rem 0 1.7rem;
+  padding: 0.95rem 1.05rem;
+}
+
+.verb-checkpoint__title {
+  color: color-mix(in srgb, #a56700 82%, var(--md-typeset-color));
+  font-weight: 850;
+  margin-bottom: 0.35rem;
+}
+
+[data-md-color-scheme="slate"] .verb-checkpoint__title {
+  color: #e5b45c;
+}
+
+.verb-checkpoint__term {
+  border-top: 1px solid color-mix(in srgb, #d99b2b 40%, var(--verb-border));
+  line-height: 1.55;
+  margin: 0.7rem 0 0;
+  padding-top: 0.65rem;
 }
 
 .verb-step-list {
@@ -158,12 +247,18 @@
 }
 
 @media (max-width: 700px) {
-  .verb-change-line {
+  .verb-change-line,
+  .verb-concept {
     grid-template-columns: 1fr;
   }
 
   .verb-change-line__arrow {
     justify-self: center;
     transform: rotate(90deg);
+  }
+
+  .verb-concept__label {
+    grid-row: auto;
+    justify-self: start;
   }
 }
