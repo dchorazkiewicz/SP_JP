@@ -4,8 +4,8 @@ Dział obejmuje odmienne i nieodmienne części mowy oraz ich funkcje w wypowied
 
 ## Odmienne części mowy
 
-- rzeczownik,
 - czasownik,
+- rzeczownik,
 - przymiotnik,
 - liczebnik,
 - zaimek.
