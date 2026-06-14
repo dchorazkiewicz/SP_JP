@@ -6,6 +6,16 @@
 Imiesłów ma w sobie coś z czasownika, bo odnosi się do czynności, ale w zdaniu zachowuje się częściowo jak przymiotnik albo przysłówek. Dlatego najlepiej poznawać go na konkretnych scenach.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>czym różnią się imiesłowy przymiotnikowe i przysłówkowe;</li>
+    <li>jak rozpoznać formy na <strong>-ący</strong>, <strong>-ny</strong>, <strong>-ty</strong>, <strong>-ąc</strong>, <strong>-wszy</strong> i <strong>-łszy</strong>;</li>
+    <li>dlaczego imiesłów może zachowywać się podobnie do przymiotnika;</li>
+    <li>dlaczego przy imiesłowie przysłówkowym obie czynności muszą mieć tego samego wykonawcę.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Biblioteka przed konkursem</div>
   <div class="verb-story__body" markdown>
@@ -27,6 +37,22 @@ Wszystkie wyróżnione wyrazy są związane z czynnością czytania, ale każdy 
 <div class="verb-comparison">
   <div class="verb-comparison__item"><span class="verb-label">przymiotnikowe</span><p><strong>czytająca uczennica</strong><br><strong>przeczytana książka</strong></p><p>Określają rzeczownik i odmieniają się jak przymiotniki.</p></div>
   <div class="verb-comparison__item"><span class="verb-label">przysłówkowe</span><p><strong>czytając, robił notatki</strong><br><strong>przeczytawszy, odłożył książkę</strong></p><p>Nie odmieniają się i łączą dwie czynności.</p></div>
+</div>
+
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Imiesłów</strong>
+  <p>To forma utworzona od czasownika, która zachowuje znaczenie czynności, ale w zdaniu działa podobnie do przymiotnika albo przysłówka.</p>
+</div>
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: dwie rodziny</div>
+  <ul>
+    <li>Imiesłów przymiotnikowy określa rzeczownik.</li>
+    <li>Imiesłów przysłówkowy łączy lub dopowiada czynność.</li>
+    <li>Przymiotnikowe się odmieniają, a przysłówkowe pozostają nieodmienne.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> imiesłów przymiotnikowy, imiesłów przysłówkowy.</p>
 </div>
 
 ## Imiesłów przymiotnikowy czynny
@@ -78,6 +104,17 @@ Mimo tego nadal zachowuje związek z czasownikiem:
 
 Wyraz **czytający** może mieć własne dopełnienie **książkę**.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: imiesłowy przymiotnikowe</div>
+  <ul>
+    <li><strong>czytający</strong> opisuje wykonawcę czynności.</li>
+    <li><strong>przeczytany</strong> opisuje przedmiot objęty czynnością.</li>
+    <li>Oba typy dopasowują rodzaj, liczbę i przypadek do rzeczownika.</li>
+    <li>Mogą mieć własne uzupełnienia, bo zachowują część właściwości czasownika.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> czytająca uczennica; przeczytana książka.</p>
+</div>
+
 ## Imiesłów przysłówkowy współczesny
 
 Kończy się na **-ąc** i pokazuje dwie czynności odbywające się równocześnie.
@@ -118,6 +155,17 @@ Najpierw wyszedł, potem sobie przypomniał.
 
 Takie formy są dziś częstsze w tekstach pisanych i bardziej oficjalnych niż w zwykłej rozmowie.
 
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: imiesłowy przysłówkowe</div>
+  <ul>
+    <li>Forma na <strong>-ąc</strong> pokazuje czynności równoczesne.</li>
+    <li>Formy na <strong>-wszy</strong> i <strong>-łszy</strong> pokazują czynność wcześniejszą.</li>
+    <li>Imiesłowy przysłówkowe się nie odmieniają.</li>
+    <li>Obie czynności muszą mieć tego samego wykonawcę.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Wzór:</strong> czytając — równocześnie; przeczytawszy — wcześniej.</p>
+</div>
+
 ## Imiesłów a zwykły przymiotnik
 
 > zamknięte drzwi
@@ -141,8 +189,13 @@ Dla ucznia najważniejsze jest najpierw rozpoznanie, że forma pochodzi od czaso
 </div>
 
 <div class="verb-mini-summary">
-<h3>Imiesłów stoi na granicy</h3>
-Imiesłów zachowuje znaczenie czynności, ale może określać rzeczownik jak przymiotnik albo dopowiadać drugą czynność jak przysłówek. Dlatego jego nazwę rozumiemy dopiero po zobaczeniu funkcji w zdaniu.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Imiesłów pochodzi od czasownika.</li>
+  <li>Przymiotnikowy określa rzeczownik i się odmienia.</li>
+  <li>Przysłówkowy łączy czynności i się nie odmienia.</li>
+  <li>Przy formach przysłówkowych najważniejszy jest wspólny wykonawca.</li>
+</ul>
 </div>
 
 [Przejdź dalej: czasowniki w opowieści](../czasowniki-w-tekscie/){ .md-button .md-button--primary }
