@@ -13,6 +13,8 @@
 ./docs/gramatyka/czasownik/pdf/czasownik_w_jezyku_polskim_rozszerzone_notatki.pdf
 ./docs/gramatyka/czesci-mowy
 ./docs/gramatyka/czesci-mowy/index.md
+./docs/gramatyka/fleksja
+./docs/gramatyka/fleksja/index.md
 ./docs/gramatyka/index.md
 ./docs/gramatyka/podstawy
 ./docs/gramatyka/podstawy/index.md
@@ -24,6 +26,8 @@
 ./docs/gramatyka/rzeczownik/index.md
 ./docs/gramatyka/rzeczownik/pdf
 ./docs/gramatyka/rzeczownik/pdf/rzeczownik_w_jezyku_polskim_rozszerzone_notatki.pdf
+./docs/gramatyka/skladnia
+./docs/gramatyka/skladnia/index.md
 ./docs/gramatyka/zaimki
 ./docs/gramatyka/zaimki/index.md
 ./docs/gramatyka/zaimki/pdf
