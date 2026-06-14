@@ -159,6 +159,7 @@
 ./docs/gramatyka/skladnia/zwiazki-skladniowe
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/index.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/wyraz-nadrzedny-i-podrzedny.md
+./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazek-zgody.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
