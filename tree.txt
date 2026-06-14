@@ -59,6 +59,7 @@
 ./docs/praktyka/apps
 ./docs/praktyka/apps/szklany-las
 ./docs/praktyka/apps/szklany-las/index.html
+./docs/praktyka/apps/szklany-las/story-data.js
 ./docs/praktyka/index.md
 ./docs/praktyka/interaktywna-analiza-czesci-mowy.md
 ./docs/stylesheets
