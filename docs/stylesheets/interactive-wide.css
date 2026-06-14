@@ -1,0 +1,48 @@
+@media screen and (min-width: 1220px) {
+  .md-main__inner:has(.grammar-lab) {
+    max-width: 1580px;
+  }
+
+  .md-main__inner:has(.grammar-lab) .md-sidebar--secondary {
+    display: none;
+  }
+
+  .md-main__inner:has(.grammar-lab) .md-content {
+    max-width: none;
+  }
+
+  .md-main__inner:has(.grammar-lab) .md-content__inner {
+    margin-left: 1.2rem;
+    margin-right: 1.2rem;
+    max-width: none;
+  }
+
+  .md-main__inner:has(.grammar-lab) .grammar-category-buttons {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md-main__inner:has(.grammar-lab) .grammar-dashboard {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md-main__inner:has(.grammar-lab) .grammar-story {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .md-main__inner:has(.grammar-lab) .grammar-story p {
+    font-size: 1.05rem;
+    line-height: 2;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .md-main__inner:has(.grammar-lab) {
+    max-width: 1680px;
+  }
+
+  .md-main__inner:has(.grammar-lab) .md-content__inner {
+    margin-left: 1.8rem;
+    margin-right: 1.8rem;
+  }
+}
