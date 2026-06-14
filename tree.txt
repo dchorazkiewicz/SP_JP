@@ -18,6 +18,7 @@
 ./docs/gramatyka/czesci-mowy/przymiotnik/index.md
 ./docs/gramatyka/czesci-mowy/rzeczownik
 ./docs/gramatyka/czesci-mowy/rzeczownik/index.md
+./docs/gramatyka/czesci-mowy/rzeczownik/przypadki-i-odmiana.md
 ./docs/gramatyka/czesci-mowy/rzeczownik/rodzaj-i-liczba.md
 ./docs/gramatyka/czesci-mowy/rzeczownik/znaczenie-i-typy.md
 ./docs/gramatyka/czesci-mowy/zaimki
