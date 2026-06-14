@@ -33,15 +33,15 @@ Porównaj, jak ten sam rzeczownik zmienia formę pod wpływem czasownika:
 ## Plan rozdziału
 
 <div class="object-topic-grid">
-  <a class="object-topic-card" href="rozpoznawanie-i-rekcja/"><span class="object-topic-number">01</span><strong>Rozpoznawanie i rekcja</strong><span>Jak czasownik otwiera miejsce dla dopełnienia i narzuca mu formę.</span></a>
-  <a class="object-topic-card" href="przypadki-dopelnienia/"><span class="object-topic-number">02</span><strong>Przypadki dopełnienia</strong><span>Dopełniacz, celownik, biernik, narzędnik i miejscownik w pełnych zdaniach.</span></a>
-  <a class="object-topic-card" href="blizsze-i-dalsze/"><span class="object-topic-number">03</span><strong>Dopełnienie bliższe i dalsze</strong><span>Test strony biernej, dwa dopełnienia przy jednym orzeczeniu i ograniczenia testu.</span></a>
-  <a class="object-topic-card" href="przeczenie-i-zmiana-przypadku/"><span class="object-topic-number">04</span><strong>Przeczenie i zmiana przypadku</strong><span>Raport — raportu, kawę — kawy i sytuacje, w których dopełniacz nie jest obowiązkowy.</span></a>
-  <a class="object-topic-card" href="strona-bierna-i-transformacje/"><span class="object-topic-number">05</span><strong>Strona bierna i transformacje</strong><span>Jak dopełnienie bliższe staje się podmiotem oraz co dzieje się z wykonawcą.</span></a>
-  <a class="object-topic-card" href="dopelnienie-a-okolicznik/"><span class="object-topic-number">06</span><strong>Dopełnienie a okolicznik</strong><span>Rozmawia z kolegą, mieszka z kolegą, jedzie do miasta — zależność czy okoliczność?</span></a>
-  <a class="object-topic-card" href="bezokolicznik-i-zdanie-dopelnieniowe/"><span class="object-topic-number">07</span><strong>Bezokolicznik i zdanie dopełnieniowe</strong><span>Chcę wyjść, wiem, że wrócił, pytam, czy przyjdzie.</span></a>
-  <a class="object-topic-card" href="granice-klasyfikacji/"><span class="object-topic-number">08</span><strong>Granice klasyfikacji</strong><span>Przypadki, w których dopełnienie graniczy z okolicznikiem, orzecznikiem lub częścią konstrukcji złożonej.</span></a>
-  <a class="object-topic-card" href="dopelnienia-w-tekscie/"><span class="object-topic-number">09</span><strong>Dopełnienia w tekście</strong><span>50 zdań z dopełnieniami bliższymi, dalszymi, przyimkowymi i zdaniowymi.</span></a>
+  <a class="object-topic-card" href="lesson-1/"><span class="object-topic-number">01</span><strong>Rozpoznawanie i rekcja</strong><span>Jak czasownik otwiera miejsce dla dopełnienia i narzuca mu formę.</span></a>
+  <a class="object-topic-card" href="lesson-2/"><span class="object-topic-number">02</span><strong>Przypadki dopełnienia</strong><span>Dopełniacz, celownik, biernik, narzędnik i miejscownik w pełnych zdaniach.</span></a>
+  <a class="object-topic-card" href="lesson-3/"><span class="object-topic-number">03</span><strong>Dopełnienie bliższe i dalsze</strong><span>Test strony biernej, dwa dopełnienia przy jednym orzeczeniu i ograniczenia testu.</span></a>
+  <a class="object-topic-card" href="lesson-4/"><span class="object-topic-number">04</span><strong>Przeczenie i zmiana przypadku</strong><span>Raport — raportu, kawę — kawy i sytuacje, w których dopełniacz nie jest obowiązkowy.</span></a>
+  <a class="object-topic-card" href="page5/"><span class="object-topic-number">05</span><strong>Strona bierna i transformacje</strong><span>Jak dopełnienie bliższe staje się podmiotem oraz co dzieje się z wykonawcą.</span></a>
+  <a class="object-topic-card" href="lesson-6/"><span class="object-topic-number">06</span><strong>Dopełnienie a okolicznik</strong><span>Rozmawia z kolegą, mieszka z kolegą, jedzie do miasta — zależność czy okoliczność?</span></a>
+  <a class="object-topic-card" href="lesson-7/"><span class="object-topic-number">07</span><strong>Bezokolicznik i zdanie dopełnieniowe</strong><span>Chcę wyjść, wiem, że wrócił, pytam, czy przyjdzie.</span></a>
+  <a class="object-topic-card" href="lesson-8/"><span class="object-topic-number">08</span><strong>Granice klasyfikacji</strong><span>Przypadki, w których dopełnienie graniczy z okolicznikiem, orzecznikiem lub częścią konstrukcji złożonej.</span></a>
+  <a class="object-topic-card" href="lesson-9/"><span class="object-topic-number">09</span><strong>Dopełnienia w tekście</strong><span>50 zdań z dopełnieniami bliższymi, dalszymi, przyimkowymi i zdaniowymi.</span></a>
 </div>
 
 <div class="object-checklist">
