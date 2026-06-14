@@ -34,6 +34,7 @@ extra_css:
   - stylesheets/borderline-classification.css
   - stylesheets/predicate-lesson.css
   - stylesheets/subject-lesson.css
+  - stylesheets/object-lesson.css
 
 extra_javascript:
   - javascripts/font-size-control.js
@@ -151,6 +152,17 @@ nav:
               - Podmiot logiczny: gramatyka/skladnia/podmiot/podmiot-logiczny-i-konstrukcje-nietypowe.md
               - Formy orzeczenia i granice analizy: gramatyka/skladnia/podmiot/granice-klasyfikacji.md
               - Podmioty w tekście: gramatyka/skladnia/podmiot/podmioty-w-tekscie.md
+          - Dopełnienie:
+              - Wprowadzenie: gramatyka/skladnia/dopelnienie/index.md
+              - Rozpoznawanie i rekcja: gramatyka/skladnia/dopelnienie/lesson-1.md
+              - Przypadki dopełnienia: gramatyka/skladnia/dopelnienie/lesson-2.md
+              - Dopełnienie bliższe i dalsze: gramatyka/skladnia/dopelnienie/lesson-3.md
+              - Przeczenie i zmiana przypadku: gramatyka/skladnia/dopelnienie/lesson-4.md
+              - Strona bierna i transformacje: gramatyka/skladnia/dopelnienie/page5.md
+              - Dopełnienie a okolicznik: gramatyka/skladnia/dopelnienie/lesson-6.md
+              - Bezokolicznik i zdanie dopełnieniowe: gramatyka/skladnia/dopelnienie/lesson-7.md
+              - Granice klasyfikacji: gramatyka/skladnia/dopelnienie/lesson-8.md
+              - Dopełnienia w tekście: gramatyka/skladnia/dopelnienie/lesson-9.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
