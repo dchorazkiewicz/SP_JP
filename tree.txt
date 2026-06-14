@@ -98,6 +98,7 @@
 ./docs/gramatyka/skladnia/index.md
 ./docs/gramatyka/skladnia/orzeczenie
 ./docs/gramatyka/skladnia/orzeczenie/index.md
+./docs/gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
