@@ -24,6 +24,7 @@
 ./docs/gramatyka/czesci-mowy/liczebnik
 ./docs/gramatyka/czesci-mowy/liczebnik/index.md
 ./docs/gramatyka/czesci-mowy/liczebnik/liczebnik-z-rzeczownikiem.md
+./docs/gramatyka/czesci-mowy/liczebnik/odmiana.md
 ./docs/gramatyka/czesci-mowy/liczebnik/rodzaje-i-znaczenie.md
 ./docs/gramatyka/czesci-mowy/przymiotnik
 ./docs/gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
