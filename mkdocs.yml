@@ -26,10 +26,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/interactive-wide.css
-
-extra_javascript:
-  - javascripts/grammar-highlighter.js
 
 plugins:
   - search:
