@@ -31,6 +31,7 @@ extra_css:
   - stylesheets/remaining-parts.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
+  - stylesheets/borderline-classification.css
 
 plugins:
   - search:
@@ -53,6 +54,7 @@ nav:
       - Podstawy gramatyki: gramatyka/podstawy/index.md
       - Części mowy:
           - Przegląd: gramatyka/czesci-mowy/index.md
+          - Granice klasyfikacji: gramatyka/czesci-mowy/granice-klasyfikacji.md
           - Czasownik:
               - Wprowadzenie: gramatyka/czesci-mowy/czasownik/index.md
               - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/czasownik/znaczenie-i-rozpoznawanie.md
