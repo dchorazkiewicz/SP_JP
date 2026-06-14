@@ -6,7 +6,7 @@
 To samo wydarzenie można opowiedzieć z dwóch stron. Raz najważniejszy jest wykonawca czynności, a innym razem przedmiot, z którym coś się stało.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Naprawa roweru</div>
   <div class="verb-story__body" markdown>
 
