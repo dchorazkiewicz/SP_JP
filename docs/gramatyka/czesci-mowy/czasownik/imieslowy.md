@@ -6,7 +6,7 @@
 Imiesłów ma w sobie coś z czasownika, bo odnosi się do czynności, ale w zdaniu zachowuje się częściowo jak przymiotnik albo przysłówek. Dlatego najlepiej poznawać go na konkretnych scenach.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Biblioteka przed konkursem</div>
   <div class="verb-story__body" markdown>
 
@@ -96,7 +96,7 @@ Maja czytała i składała w tym samym czasie.
 
 Kuba wracał i Kuba zobaczył.
 
-Niepoprawne byłoby zdanie:
+Zdanie wymagające poprawy:
 
 > Wracając ze szkoły, zaczął padać deszcz.
 
