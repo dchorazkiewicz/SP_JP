@@ -33,6 +33,7 @@ extra_css:
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
   - stylesheets/predicate-lesson.css
+  - stylesheets/subject-lesson.css
 
 plugins:
   - search:
@@ -129,7 +130,7 @@ nav:
           - Wprowadzenie: gramatyka/skladnia/index.md
           - Orzeczenie:
               - Wprowadzenie: gramatyka/skladnia/orzeczenie/index.md
-              - Jak znaleźć orzeczenie: gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
+              - Rozpoznawanie orzeczenia: gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
               - Orzeczenie czasownikowe: gramatyka/skladnia/orzeczenie/orzeczenie-czasownikowe.md
               - Orzeczenie imienne: gramatyka/skladnia/orzeczenie/orzeczenie-imienne.md
               - Orzeczenie złożone: gramatyka/skladnia/orzeczenie/orzeczenie-zlozone.md
@@ -138,6 +139,15 @@ nav:
               - Orzeczenie w zdaniach złożonych: gramatyka/skladnia/orzeczenie/orzeczenie-w-zdaniach-zlozonych.md
               - Granice klasyfikacji: gramatyka/skladnia/orzeczenie/granice-klasyfikacji.md
               - Orzeczenia w tekście: gramatyka/skladnia/orzeczenie/orzeczenia-w-tekscie.md
+          - Podmiot:
+              - Wprowadzenie: gramatyka/skladnia/podmiot/index.md
+              - Rozpoznawanie podmiotu: gramatyka/skladnia/podmiot/rozpoznawanie.md
+              - Podmiot gramatyczny: gramatyka/skladnia/podmiot/podmiot-gramatyczny-i-sposoby-wyrazania.md
+              - Podmiot domyślny i bezpodmiotowość: gramatyka/skladnia/podmiot/podmiot-domyslny-i-zdania-bezpodmiotowe.md
+              - Podmiot wieloczłonowy: gramatyka/skladnia/podmiot/podmiot-wieloczlonowy.md
+              - Podmiot logiczny: gramatyka/skladnia/podmiot/podmiot-logiczny-i-konstrukcje-nietypowe.md
+              - Formy orzeczenia i granice analizy: gramatyka/skladnia/podmiot/granice-klasyfikacji.md
+              - Podmioty w tekście: gramatyka/skladnia/podmiot/podmioty-w-tekscie.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
