@@ -27,6 +27,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/noun-lesson.css
+  - stylesheets/verb-lesson.css
 
 plugins:
   - search:
@@ -49,8 +50,15 @@ nav:
       - Podstawy gramatyki: gramatyka/podstawy/index.md
       - Części mowy:
           - Przegląd: gramatyka/czesci-mowy/index.md
-          - Czasownik: gramatyka/czesci-mowy/czasownik/index.md
-          - Przymiotnik: gramatyka/czesci-mowy/przymiotnik/index.md
+          - Czasownik:
+              - Wprowadzenie: gramatyka/czesci-mowy/czasownik/index.md
+              - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/czasownik/znaczenie-i-rozpoznawanie.md
+              - Osoby i liczby: gramatyka/czesci-mowy/czasownik/osoby-i-liczby.md
+              - Czasy: gramatyka/czesci-mowy/czasownik/czasy.md
+              - Aspekt: gramatyka/czesci-mowy/czasownik/aspekt.md
+              - Tryby: gramatyka/czesci-mowy/czasownik/tryby.md
+              - Strony i formy nieosobowe: gramatyka/czesci-mowy/czasownik/strony-i-formy-nieosobowe.md
+              - Czasowniki w tekście: gramatyka/czesci-mowy/czasownik/czasowniki-w-tekscie.md
           - Rzeczownik:
               - Wprowadzenie: gramatyka/czesci-mowy/rzeczownik/index.md
               - Znaczenie i typy: gramatyka/czesci-mowy/rzeczownik/znaczenie-i-typy.md
@@ -59,6 +67,7 @@ nav:
               - Rzeczownik w zdaniu: gramatyka/czesci-mowy/rzeczownik/rzeczownik-w-zdaniu.md
               - Słowotwórstwo i pisownia: gramatyka/czesci-mowy/rzeczownik/slowotworstwo-i-pisownia.md
               - Rzeczowniki w tekście: gramatyka/czesci-mowy/rzeczownik/rzeczowniki-w-tekscie.md
+          - Przymiotnik: gramatyka/czesci-mowy/przymiotnik/index.md
           - Zaimki: gramatyka/czesci-mowy/zaimki/index.md
       - Fleksja: gramatyka/fleksja/index.md
       - Składnia: gramatyka/skladnia/index.md
