@@ -115,6 +115,7 @@
 ./docs/gramatyka/skladnia/okolicznik
 ./docs/gramatyka/skladnia/okolicznik/index.md
 ./docs/gramatyka/skladnia/okolicznik/miejsce-i-czas.md
+./docs/gramatyka/skladnia/okolicznik/okolicznik-a-dopelnienie.md
 ./docs/gramatyka/skladnia/okolicznik/przyczyna-i-cel.md
 ./docs/gramatyka/skladnia/okolicznik/rozpoznawanie.md
 ./docs/gramatyka/skladnia/okolicznik/sposob-stopien-i-miara.md
