@@ -13,6 +13,7 @@
 ./docs/gramatyka/czesci-mowy
 ./docs/gramatyka/czesci-mowy/czasownik
 ./docs/gramatyka/czesci-mowy/czasownik/aspekt.md
+./docs/gramatyka/czesci-mowy/czasownik/czasowniki-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/czasownik/czasy.md
 ./docs/gramatyka/czesci-mowy/czasownik/index.md
 ./docs/gramatyka/czesci-mowy/czasownik/osoby-i-liczby.md
