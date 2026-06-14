@@ -26,12 +26,12 @@ W stopniowaniu prostym zmienia się budowa jednego wyrazu.
 | wysoki | Wieża jest **wyższa** od ratusza. | Ten wieżowiec jest **najwyższy** w mieście. |
 | szeroki | Nowa droga jest **szersza** od starej. | Autostrada jest **najszersza** w tym regionie. |
 
-Podczas stopniowania mogą pojawić się zmiany wewnątrz wyrazu:
+Podczas stopniowania mogą pojawić się zmiany wewnątrz wyrazu albo samo dodanie przyrostka stopnia wyższego:
 
 <div class="example-series">
   <div class="example-row"><span class="grammar-badge">g → ż</span><p>Ten mur jest <span class="form-focus">długi</span>, ale tamten jest <span class="form-focus"><span class="stem-part stem-part--changed">dłuż</span><span class="ending-part">szy</span></span>.</p><span class="change-note">długi → dłuższy</span></div>
   <div class="example-row"><span class="grammar-badge">k → ż</span><p>Ta torba jest <span class="form-focus">lekka</span>, a plecak jest jeszcze <span class="form-focus"><span class="stem-part stem-part--changed">lżej</span><span class="ending-part">szy</span></span>.</p><span class="change-note">lekki → lżejszy</span></div>
-  <div class="example-row"><span class="grammar-badge">ch → sz</span><p>Ten pokój jest <span class="form-focus">cichy</span>, lecz gabinet jest <span class="form-focus"><span class="stem-part stem-part--changed">ci</span><span class="ending-part">chszy</span></span>.</p><span class="change-note">cichy → cichszy</span></div>
+  <div class="example-row"><span class="grammar-badge">dodanie -szy</span><p>Ten pokój jest <span class="form-focus">cichy</span>, lecz gabinet jest <span class="form-focus"><span class="stem-part">cich</span><span class="ending-part">szy</span></span>.</p><span class="change-note">cichy → cichszy</span></div>
 </div>
 
 ## Stopniowanie nieregularne
