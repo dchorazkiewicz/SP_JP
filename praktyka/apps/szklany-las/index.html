@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
-  <title>Tajemnica Szklanego Lasu — interaktywna analiza części mowy</title>
+  <title>Tajemnica Szklanego Lasu — wszystkie części mowy</title>
   <link rel="stylesheet" href="app.css">
 </head>
 <body>
@@ -12,18 +12,30 @@
     <header class="app-header">
       <p class="eyebrow">Interaktywne czytanie</p>
       <h1>Tajemnica Szklanego Lasu</h1>
-      <p>Wybierz część mowy, a następnie klikaj wyrazy bezpośrednio w opowiadaniu. Odpowiedź otrzymasz natychmiast.</p>
+      <p>Przeczytaj 50-zdaniowe opowiadanie i wyszukuj w nim wszystkie dziesięć części mowy. Po każdym kliknięciu otrzymasz natychmiastową informację zwrotną.</p>
     </header>
 
     <div class="app-layout">
       <aside class="control-panel" aria-label="Panel ćwiczenia">
         <section>
-          <h2>1. Wybierz kategorię</h2>
-          <div class="category-grid" role="group" aria-label="Części mowy">
+          <h2>1. Wybierz część mowy</h2>
+
+          <p class="category-group-label">Odmienne części mowy</p>
+          <div class="category-grid" role="group" aria-label="Odmienne części mowy">
             <button type="button" class="category-button category-noun" data-category="noun" aria-pressed="false">Rzeczowniki</button>
             <button type="button" class="category-button category-verb" data-category="verb" aria-pressed="false">Czasowniki</button>
             <button type="button" class="category-button category-adjective" data-category="adjective" aria-pressed="false">Przymiotniki</button>
+            <button type="button" class="category-button category-numeral" data-category="numeral" aria-pressed="false">Liczebniki</button>
             <button type="button" class="category-button category-pronoun" data-category="pronoun" aria-pressed="false">Zaimki</button>
+          </div>
+
+          <p class="category-group-label">Nieodmienne części mowy</p>
+          <div class="category-grid" role="group" aria-label="Nieodmienne części mowy">
+            <button type="button" class="category-button category-adverb" data-category="adverb" aria-pressed="false">Przysłówki</button>
+            <button type="button" class="category-button category-preposition" data-category="preposition" aria-pressed="false">Przyimki</button>
+            <button type="button" class="category-button category-conjunction" data-category="conjunction" aria-pressed="false">Spójniki</button>
+            <button type="button" class="category-button category-particle" data-category="particle" aria-pressed="false">Partykuły</button>
+            <button type="button" class="category-button category-interjection" data-category="interjection" aria-pressed="false">Wykrzykniki</button>
           </div>
         </section>
 
@@ -37,7 +49,7 @@
           </div>
           <p class="progress" data-progress>Wybierz kategorię, aby rozpocząć.</p>
           <div class="feedback is-neutral" data-feedback role="status" aria-live="polite">
-            Kliknij jedną z czterech kategorii.
+            Kliknij jedną z dziesięciu części mowy.
           </div>
         </section>
 
@@ -52,14 +64,20 @@
       <article class="story-panel">
         <div class="story-heading">
           <div>
-            <p class="eyebrow">Opowiadanie</p>
+            <p class="eyebrow">50 zdań</p>
             <h2>Tajemnica Szklanego Lasu</h2>
           </div>
-          <div class="legend" aria-label="Kolory odpowiedzi">
+          <div class="legend" aria-label="Kolory części mowy">
             <span class="legend-noun">rzeczownik</span>
             <span class="legend-verb">czasownik</span>
             <span class="legend-adjective">przymiotnik</span>
+            <span class="legend-numeral">liczebnik</span>
             <span class="legend-pronoun">zaimek</span>
+            <span class="legend-adverb">przysłówek</span>
+            <span class="legend-preposition">przyimek</span>
+            <span class="legend-conjunction">spójnik</span>
+            <span class="legend-particle">partykuła</span>
+            <span class="legend-interjection">wykrzyknik</span>
           </div>
         </div>
         <div class="story" data-story></div>
