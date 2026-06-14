@@ -16,6 +16,7 @@
 ./docs/gramatyka/czesci-mowy/czasownik/bezokolicznik-i-formy-bezosobowe.md
 ./docs/gramatyka/czesci-mowy/czasownik/czasowniki-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/czasownik/czasy.md
+./docs/gramatyka/czesci-mowy/czasownik/imieslowy.md
 ./docs/gramatyka/czesci-mowy/czasownik/index.md
 ./docs/gramatyka/czesci-mowy/czasownik/osoby-i-liczby.md
 ./docs/gramatyka/czesci-mowy/czasownik/strona-czynna-i-bierna.md
