@@ -1,0 +1,182 @@
+.adverbial-lesson {
+  --adv-accent:#4d6f95;
+  --adv-soft:#f3f7fb;
+  --adv-border:#d5dfeb;
+  --adv-place:#e7f1ff;
+  --adv-place-line:#5f8fc8;
+  --adv-time:#fff3d8;
+  --adv-time-line:#c99a3d;
+  --adv-manner:#e9f6ec;
+  --adv-manner-line:#6ca277;
+  --adv-cause:#f8e9ef;
+  --adv-cause-line:#b66f8d;
+  --adv-purpose:#f2ecfb;
+  --adv-purpose-line:#8c73b2;
+  --adv-condition:#eef0f5;
+  --adv-condition-line:#7f8798;
+}
+
+[data-md-color-scheme="slate"] .adverbial-lesson {
+  --adv-accent:#91b5dc;
+  --adv-soft:#24313d;
+  --adv-border:#465463;
+  --adv-place:#1f3854;
+  --adv-place-line:#7da7d4;
+  --adv-time:#4b3b19;
+  --adv-time-line:#d4ad58;
+  --adv-manner:#213d2a;
+  --adv-manner-line:#8abd93;
+  --adv-cause:#452c38;
+  --adv-cause-line:#d195ad;
+  --adv-purpose:#382d49;
+  --adv-purpose-line:#ae98ce;
+  --adv-condition:#303541;
+  --adv-condition-line:#9ea6b8;
+}
+
+.adverbial-lesson > * + * { margin-top:1rem; }
+.adverbial-lesson h2 { margin-top:2.2rem; margin-bottom:.9rem; }
+
+.adverbial-lead {
+  background:linear-gradient(135deg,color-mix(in srgb,var(--adv-accent) 14%,transparent),transparent);
+  border:1px solid var(--adv-border);
+  border-left:6px solid var(--adv-accent);
+  border-radius:.85rem;
+  line-height:1.65;
+  margin:1rem 0 1.7rem;
+  padding:1rem 1.15rem;
+}
+
+.adverbial-topic-grid,
+.adverbial-type-grid {
+  display:grid;
+  gap:1rem;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  margin:1rem 0 1.8rem;
+}
+
+.adverbial-topic-card {
+  background:var(--md-default-bg-color);
+  border:1px solid var(--adv-border);
+  border-radius:.8rem;
+  color:var(--md-typeset-color);
+  display:grid;
+  gap:.35rem .8rem;
+  grid-template-columns:auto minmax(0,1fr);
+  padding:1rem;
+  text-decoration:none;
+  transition:border-color .15s ease,box-shadow .15s ease,transform .15s ease;
+}
+.adverbial-topic-card:hover {
+  border-color:var(--adv-accent);
+  box-shadow:0 7px 22px color-mix(in srgb,var(--adv-accent) 16%,transparent);
+  transform:translateY(-2px);
+}
+.adverbial-topic-card strong { grid-column:2; }
+.adverbial-topic-card > span:last-child { color:var(--md-default-fg-color--light); grid-column:2; line-height:1.45; }
+.adverbial-topic-number {
+  align-items:center;
+  align-self:start;
+  background:var(--adv-soft);
+  border:1px solid var(--adv-border);
+  border-radius:999px;
+  color:var(--adv-accent);
+  display:inline-flex;
+  font-size:.72rem;
+  font-weight:800;
+  grid-row:1 / span 2;
+  height:2.2rem;
+  justify-content:center;
+  width:2.2rem;
+}
+
+.adverbial-type-card {
+  background:var(--md-default-bg-color);
+  border-radius:.75rem;
+  line-height:1.55;
+  min-height:7rem;
+  padding:1rem 1.05rem;
+}
+.adverbial-type-card strong { display:block; margin-bottom:.55rem; }
+.adverbial-type-card--place { border:2px solid var(--adv-place-line); }
+.adverbial-type-card--time { border:1px solid var(--adv-time-line); border-bottom:5px solid var(--adv-time-line); }
+.adverbial-type-card--manner { border:2px dashed var(--adv-manner-line); }
+.adverbial-type-card--cause { border:3px double var(--adv-cause-line); }
+.adverbial-type-card--purpose { border:2px dotted var(--adv-purpose-line); }
+.adverbial-type-card--condition { border:1px solid var(--adv-condition-line); box-shadow:inset 0 0 0 3px color-mix(in srgb,var(--adv-condition-line) 18%,transparent); }
+
+.adverbial-mark { box-decoration-break:clone; -webkit-box-decoration-break:clone; display:inline; font-weight:750; padding:.08rem .32rem; }
+.adverbial-mark--place { background:var(--adv-place); border:2px solid var(--adv-place-line); border-radius:.5rem; }
+.adverbial-mark--time { background:var(--adv-time); border:1px solid var(--adv-time-line); border-bottom-width:4px; border-radius:.15rem; }
+.adverbial-mark--manner { background:var(--adv-manner); border:2px dashed var(--adv-manner-line); border-radius:.75rem; }
+.adverbial-mark--cause { background:var(--adv-cause); border:3px double var(--adv-cause-line); border-radius:.35rem; }
+.adverbial-mark--purpose { background:var(--adv-purpose); border:2px dotted var(--adv-purpose-line); border-radius:.75rem .2rem .75rem .2rem; }
+.adverbial-mark--condition { background:var(--adv-condition); border:1px solid var(--adv-condition-line); box-shadow:inset 0 0 0 2px color-mix(in srgb,var(--adv-condition-line) 18%,transparent); border-radius:.25rem; }
+
+.adverbial-predicate { border-bottom:3px solid var(--adv-accent); font-weight:800; }
+
+.adverbial-series {
+  border:1px solid var(--adv-border);
+  border-radius:.85rem;
+  margin:1rem 0 1.5rem;
+  overflow:hidden;
+}
+.adverbial-row {
+  align-items:center;
+  display:grid;
+  gap:.8rem;
+  grid-template-columns:minmax(140px,190px) minmax(0,1fr) auto;
+  padding:.8rem 1rem;
+}
+.adverbial-row + .adverbial-row { border-top:1px solid var(--adv-border); }
+.adverbial-row p { margin:0; }
+.adverbial-badge { color:var(--adv-accent); font-size:.72rem; font-weight:800; letter-spacing:.04em; text-transform:uppercase; }
+.adverbial-note { border:1px solid var(--adv-border); border-radius:.35rem; font-size:.76rem; font-weight:700; padding:.2rem .45rem; white-space:nowrap; }
+
+.adverbial-comparison {
+  border:1px solid var(--adv-border);
+  border-radius:.85rem;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  margin:1rem 0 1.5rem;
+  overflow:hidden;
+}
+.adverbial-comparison-item { padding:1rem; }
+.adverbial-comparison-item + .adverbial-comparison-item { border-left:1px solid var(--adv-border); }
+.adverbial-comparison-label { color:var(--adv-accent); display:block; font-size:.72rem; font-weight:800; letter-spacing:.04em; margin-bottom:.45rem; text-transform:uppercase; }
+.adverbial-comparison-item p { margin:.35rem 0 0; }
+
+.adverbial-summary {
+  background:var(--adv-soft);
+  border:1px solid var(--adv-border);
+  border-radius:.85rem;
+  line-height:1.6;
+  margin:1.5rem 0;
+  padding:1rem 1.1rem;
+}
+.adverbial-summary h3 { margin:0 0 .45rem; }
+
+.adverbial-reading {
+  border:1px solid var(--adv-border);
+  border-radius:.85rem;
+  margin:1rem 0 1.5rem;
+  overflow:hidden;
+}
+.adverbial-reading-header { background:var(--adv-soft); border-bottom:1px solid var(--adv-border); padding:1rem; }
+.adverbial-reading-header h2 { color:var(--adv-accent); margin:0; }
+.adverbial-reading-legend { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.8rem; }
+.adverbial-reading-text { padding:1rem 1.25rem 1.4rem; font-size:inherit; line-height:inherit; }
+.adverbial-reading-text p { font-family:inherit; font-size:inherit; line-height:inherit; margin:.6rem 0; }
+.adverbial-sentence-no { color:var(--md-default-fg-color--light); display:inline-block; font-size:.76rem; font-weight:800; min-width:2rem; }
+
+@media (max-width:820px) {
+  .adverbial-row { align-items:start; grid-template-columns:1fr; gap:.35rem; }
+  .adverbial-note { justify-self:start; }
+  .adverbial-comparison-item + .adverbial-comparison-item { border-left:0; border-top:1px solid var(--adv-border); }
+}
+
+@media (max-width:700px) {
+  .adverbial-topic-grid,
+  .adverbial-type-grid { grid-template-columns:1fr; }
+  .adverbial-reading-text { padding:.9rem; }
+}
