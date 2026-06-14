@@ -1,0 +1,98 @@
+.borderline-lesson {
+  --ind-accent:#4f6673;
+  --ind-soft:#f0f5f7;
+  --ind-accent-soft:#dfe9ed;
+  --ind-border:#d6dde0;
+  --ind-form-bg:#edf5ff;
+  --ind-form-line:#6f9fd0;
+  --ind-note-bg:#fff0c7;
+  --ind-note-line:#d3a33b;
+  --ind-change-bg:#f2e9fb;
+  --ind-change-line:#9f7dbb;
+}
+
+[data-md-color-scheme="slate"] .borderline-lesson {
+  --ind-accent:#a7c0cb;
+  --ind-soft:#253238;
+  --ind-accent-soft:#30434b;
+  --ind-border:#4a565c;
+  --ind-form-bg:#1c3554;
+  --ind-form-line:#78a7db;
+  --ind-note-bg:#4d3b16;
+  --ind-note-line:#d5ac54;
+  --ind-change-bg:#3d2850;
+  --ind-change-line:#a887c5;
+}
+
+.borderline-status {
+  border:1px solid var(--ind-border);
+  border-radius:.8rem;
+  display:grid;
+  gap:.75rem;
+  grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+  margin:1rem 0 1.5rem;
+  padding:.9rem;
+}
+
+.borderline-status-card {
+  background:var(--md-default-bg-color);
+  border-left:4px solid var(--ind-accent);
+  border-radius:.5rem;
+  padding:.8rem .9rem;
+}
+
+.borderline-status-card strong {
+  color:var(--ind-accent);
+  display:block;
+  margin-bottom:.25rem;
+}
+
+.borderline-verdict {
+  background:var(--ind-soft);
+  border:1px solid var(--ind-border);
+  border-radius:.65rem;
+  margin:.75rem 0 1.2rem;
+  padding:.8rem 1rem;
+}
+
+.borderline-verdict strong {
+  color:var(--ind-accent);
+}
+
+.borderline-method {
+  counter-reset:borderline-step;
+  display:grid;
+  gap:.65rem;
+  margin:1rem 0 1.5rem;
+}
+
+.borderline-method > div {
+  border:1px solid var(--ind-border);
+  border-radius:.65rem;
+  padding:.75rem .9rem .75rem 3.2rem;
+  position:relative;
+}
+
+.borderline-method > div::before {
+  align-items:center;
+  background:var(--ind-soft);
+  border:1px solid var(--ind-border);
+  border-radius:999px;
+  color:var(--ind-accent);
+  content:counter(borderline-step);
+  counter-increment:borderline-step;
+  display:flex;
+  font-weight:800;
+  height:1.8rem;
+  justify-content:center;
+  left:.75rem;
+  position:absolute;
+  top:.7rem;
+  width:1.8rem;
+}
+
+.borderline-source-note {
+  color:var(--md-default-fg-color--light);
+  font-size:.82rem;
+  margin-top:1.5rem;
+}
