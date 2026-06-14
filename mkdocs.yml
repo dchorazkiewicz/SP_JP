@@ -36,6 +36,7 @@ extra_css:
   - stylesheets/subject-lesson.css
   - stylesheets/object-lesson.css
   - stylesheets/attribute-lesson.css
+  - stylesheets/adverbial-lesson.css
 
 plugins:
   - search:
@@ -173,6 +174,18 @@ nav:
               - Przydawka a inne funkcje: gramatyka/skladnia/przydawka/przydawka-a-inne-funkcje.md
               - Granice klasyfikacji: gramatyka/skladnia/przydawka/granice-klasyfikacji.md
               - Przydawki w tekście: gramatyka/skladnia/przydawka/przydawki-w-tekscie.md
+          - Okolicznik:
+              - Wprowadzenie: gramatyka/skladnia/okolicznik/index.md
+              - Rozpoznawanie okolicznika: gramatyka/skladnia/okolicznik/rozpoznawanie.md
+              - Miejsce i czas: gramatyka/skladnia/okolicznik/miejsce-i-czas.md
+              - Sposób, stopień i miara: gramatyka/skladnia/okolicznik/sposob-stopien-i-miara.md
+              - Przyczyna i cel: gramatyka/skladnia/okolicznik/przyczyna-i-cel.md
+              - Warunek i przyzwolenie: gramatyka/skladnia/okolicznik/warunek-i-przyzwolenie.md
+              - Okolicznik a dopełnienie: gramatyka/skladnia/okolicznik/okolicznik-a-dopelnienie.md
+              - Zdania okolicznikowe: gramatyka/skladnia/okolicznik/zdania-okolicznikowe.md
+              - Szyk i zakres: gramatyka/skladnia/okolicznik/szyk-i-zakres.md
+              - Granice klasyfikacji: gramatyka/skladnia/okolicznik/granice-klasyfikacji.md
+              - Okoliczniki w tekście: gramatyka/skladnia/okolicznik/okoliczniki-w-tekscie.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
