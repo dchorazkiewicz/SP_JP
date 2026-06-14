@@ -38,7 +38,20 @@ html[data-sp-font-scale="xxlarge"] {
 }
 
 .md-grid {
-  max-width: 1200px;
+  max-width: none;
+  width: min(80vw, 1800px);
+}
+
+.md-main__inner {
+  width: min(80vw, 1800px);
+}
+
+.md-content {
+  min-width: 0;
+}
+
+.md-content__inner {
+  max-width: none;
 }
 
 .md-typeset {
@@ -211,6 +224,13 @@ html[data-sp-font-scale="xxlarge"] {
   min-height: 900px;
   overflow: hidden;
   width: 100%;
+}
+
+@media screen and (max-width: 960px) {
+  .md-grid,
+  .md-main__inner {
+    width: calc(100vw - 2rem);
+  }
 }
 
 @media screen and (max-width: 720px) {
