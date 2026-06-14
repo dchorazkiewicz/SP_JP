@@ -6,7 +6,7 @@
 Nie każda forma czasownika pokazuje osobę tak wyraźnie jak <em>czytam</em> albo <em>piszesz</em>. Czasem zdanie skupia uwagę na wykonawcy, czasem na przedmiocie, a czasem w ogóle nie podaje, kto wykonał czynność.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Jedno wydarzenie, cztery sposoby opowiadania</div>
   <div class="verb-story__body" markdown>
 
