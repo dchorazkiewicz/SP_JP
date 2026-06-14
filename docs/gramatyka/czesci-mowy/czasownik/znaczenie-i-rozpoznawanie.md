@@ -1,147 +1,126 @@
-# Znaczenie i rozpoznawanie czasowników
+# Jak czasownik uruchamia zdanie
 
 <div class="verb-lesson" markdown>
 
 <div class="lead-box">
-Czasownik nie oznacza wyłącznie wyraźnej czynności. Może również nazywać stan, proces, zmianę, zdarzenie, istnienie, posiadanie albo możliwość wykonania czegoś.
+Najłatwiej rozpoznać czasownik wtedy, gdy zobaczymy, co robi w całym zdaniu. Nie zawsze nazywa ruch. Może również opisywać stan, zmianę, istnienie albo zdarzenie.
 </div>
 
-## Co może nazywać czasownik?
+<div class="verb-story">
+  <div class="verb-story__title">Poranek w sali numer 12</div>
+  <div class="verb-story__body" markdown>
 
-| Znaczenie | Pełne zdanie | Czasownik w zdaniu |
-|---|---|---|
-| czynność | Marta **rysuje** plan miasta. | rysuje |
-| ruch | Pociąg **wjeżdża** na stację. | wjeżdża |
-| stan | Dziecko **śpi** w swoim pokoju. | śpi |
-| proces | Śnieg powoli **topnieje** na chodniku. | topnieje |
-| zmiana | Niebo nagle **pociemniało**. | pociemniało |
-| zdarzenie | W nocy **wybuchła** burza. | wybuchła |
-| istnienie | Na wzgórzu **stoi** stara wieża. | stoi |
-| posiadanie | Julia **ma** dwa bilety. | ma |
-| możliwość | Piotr **może** dziś zostać dłużej. | może |
-| konieczność | Uczniowie **muszą** oddać prace do piątku. | muszą |
+Kiedy Lena weszła do klasy, wszystko było jeszcze nieruchome.
 
-## Czasownik osobowy pokazuje wykonawcę
+> Plecaki <span class="verb-form">leżały</span> pod ławkami.  
+> Na parapecie <span class="verb-form">stała</span> doniczka.  
+> W sali <span class="verb-form">panowała</span> cisza.
 
-W formie osobowej często nie trzeba osobno podawać zaimka, ponieważ końcówka wskazuje osobę.
+Po chwili pojawili się pozostali uczniowie.
+
+> Kuba <span class="verb-form">otworzył</span> okno.  
+> Maja <span class="verb-form">podlała</span> kwiat.  
+> Dzwonek nagle <span class="verb-form">zadzwonił</span>.
+
+W pierwszych zdaniach czasowniki nie pokazują wyraźnego działania. Opisują położenie i stan. W kolejnych zdaniach nazywają czynności oraz wydarzenie.
+
+  </div>
+</div>
+
+<div class="verb-observation">
+<div class="verb-question">Czy czasownik zawsze odpowiada na pytanie „co robi?”</div>
+Nie. Pytanie pomaga, ale czasownik może też odpowiadać na pytania: <strong>co się dzieje?</strong>, <strong>w jakim stanie jest ktoś lub coś?</strong>, <strong>co się zmieniło?</strong>.
+</div>
+
+## Czynność, stan, zmiana i zdarzenie
+
+<div class="verb-series">
+  <div class="verb-row"><span class="verb-badge">czynność</span><p>Kuba <span class="verb-form">otwiera</span> okno.</p><span class="verb-note">ktoś coś robi</span></div>
+  <div class="verb-row"><span class="verb-badge">stan</span><p>Dziecko <span class="verb-form">śpi</span>.</p><span class="verb-note">ktoś jest w określonym stanie</span></div>
+  <div class="verb-row"><span class="verb-badge">zmiana</span><p>Niebo <span class="verb-form">ciemnieje</span>.</p><span class="verb-note">coś staje się inne</span></div>
+  <div class="verb-row"><span class="verb-badge">zdarzenie</span><p>Nagle <span class="verb-form">zgasło</span> światło.</p><span class="verb-note">coś się wydarzyło</span></div>
+  <div class="verb-row"><span class="verb-badge">istnienie</span><p>Na strychu <span class="verb-form">jest</span> stare pudełko.</p><span class="verb-note">informacja, że coś istnieje</span></div>
+</div>
+
+## Dlaczego sama nazwa czynności nie wystarcza?
+
+Porównaj:
 
 <div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">z zaimkiem</span>
-    <p><strong>Ja czytam</strong> artykuł przy biurku.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">bez zaimka</span>
-    <p><strong>Czytam</strong> artykuł przy biurku.</p>
-  </div>
+  <div class="verb-comparison__item"><span class="verb-label">czasownik</span><p>Ola codziennie <span class="verb-form">biega</span>.</p></div>
+  <div class="verb-comparison__item"><span class="verb-label">rzeczownik</span><p>Codzienne <strong>bieganie</strong> wzmacnia nogi.</p></div>
 </div>
 
-W obu zdaniach forma **czytam** wskazuje pierwszą osobę liczby pojedynczej. Zaimek **ja** może zostać użyty dla podkreślenia lub przeciwstawienia:
+Oba wyrazy dotyczą podobnej czynności, ale zachowują się inaczej.
 
-> **Ja czytam** artykuł, a ty oglądasz film.
-
-## Forma osobowa i bezokolicznik
-
-<div class="verb-comparison">
-  <div class="verb-comparison__item">
-    <span class="verb-label">forma osobowa</span>
-    <p>Ola <strong>pisze</strong> wiadomość do nauczyciela.</p>
-  </div>
-  <div class="verb-comparison__item">
-    <span class="verb-label">bezokolicznik</span>
-    <p>Ola chce <strong>napisać</strong> wiadomość do nauczyciela.</p>
-  </div>
+<div class="verb-change-line">
+  <div class="verb-change-line__box"><strong>biega</strong><br>mogę zmienić: biegam, biegasz, biegaliśmy</div>
+  <div class="verb-change-line__arrow">→</div>
+  <div class="verb-change-line__box">to forma czasownika</div>
 </div>
 
-Forma **pisze** wskazuje osobę, liczbę i czas. Bezokolicznik **napisać** nie wskazuje bezpośrednio osoby ani liczby; jego wykonawcę rozpoznajemy z pozostałej części zdania.
+<div class="verb-change-line">
+  <div class="verb-change-line__box"><strong>bieganie</strong><br>mogę odmienić: biegania, bieganiu, bieganiem</div>
+  <div class="verb-change-line__arrow">→</div>
+  <div class="verb-change-line__box">to rzeczownik nazywający czynność</div>
+</div>
+
+<div class="verb-why">
+<strong>Dlaczego to ważne?</strong>
+O części mowy nie decyduje samo znaczenie. Trzeba sprawdzić, jak wyraz zachowuje się w zdaniu i jak można zmieniać jego formę.
+</div>
+
+## Forma osobowa pokazuje wykonawcę
+
+> <span class="verb-form">Czytam</span> książkę.
+
+Nie napisaliśmy słowa **ja**, a jednak wiadomo, kto mówi. Forma **czytam** wskazuje pierwszą osobę liczby pojedynczej.
+
+> <span class="verb-form">Czytasz</span> książkę.
+
+Forma **czytasz** wskazuje osobę, do której się zwracamy.
+
+> Dzieci <span class="verb-form">czytają</span> książkę.
+
+Forma **czytają** pasuje do wielu wykonawców.
+
+## Bezokolicznik tylko nazywa czynność
+
+> Ola chce <span class="verb-form">przeczytać</span> książkę.
+
+Wyraz **przeczytać** nie mówi sam, kto wykona czynność ani kiedy ona się wydarzy. Tę informację daje reszta zdania: wykonawcą jest Ola, a czynność jest dopiero zamierzona.
 
 Najczęstsze zakończenia bezokolicznika to **-ć** i **-c**:
 
-- Marta chce **czytać** tę powieść wieczorem.
-- Piotr musi **wrócić** przed zmrokiem.
-- Anna potrafi **biec** bardzo długo.
-- Nie mogę dziś **pomóc** sąsiadowi.
+- czytać;
+- napisać;
+- wrócić;
+- biec;
+- pomóc.
 
-## Czasowniki modalne w zdaniach
+## Czasownik „być” też jest czasownikiem
 
-Czasowniki **móc, musieć, chcieć, powinien** łączą się często z bezokolicznikiem i informują o możliwości, konieczności, zamiarze albo powinności.
+> Zosia <span class="verb-form">jest</span> zmęczona.  
+> Klucze <span class="verb-form">są</span> w szufladzie.  
+> Na końcu ulicy <span class="verb-form">jest</span> piekarnia.
 
-<div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">możliwość</span>
-    <p>Karol <span class="verb-form">może</span> <span class="verb-form">przyjść</span> na spotkanie wcześniej.</p>
-    <span class="verb-note">może + bezokolicznik</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">konieczność</span>
-    <p>Musimy <span class="verb-form">zakończyć</span> pracę przed wieczorem.</p>
-    <span class="verb-note">musimy + bezokolicznik</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">zamiar</span>
-    <p>Chcę <span class="verb-form">przeczytać</span> tę książkę podczas wakacji.</p>
-    <span class="verb-note">chcę + bezokolicznik</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">powinność</span>
-    <p>Powinniście <span class="verb-form">sprawdzić</span> wynik jeszcze raz.</p>
-    <span class="verb-note">powinniście + bezokolicznik</span>
-  </div>
+W tych zdaniach nikt nie wykonuje wyraźnego ruchu. Czasownik **być** informuje o stanie, położeniu albo istnieniu.
+
+## Jak rozpoznawać czasownik krok po kroku?
+
+<div class="verb-step-list">
+  <div class="verb-step">Przeczytaj całe zdanie i znajdź informację o czynności, stanie, zmianie lub zdarzeniu.</div>
+  <div class="verb-step">Spróbuj zmienić osobę: <em>czytam → czytasz → czytamy</em>.</div>
+  <div class="verb-step">Spróbuj zmienić czas: <em>czytam → czytałem → będę czytać</em>.</div>
+  <div class="verb-step">Sprawdź, czy wyraz nie jest bezokolicznikiem, na przykład <em>czytać</em> albo <em>pomóc</em>.</div>
+  <div class="verb-step">Nie kieruj się tylko znaczeniem. Porównuj formę i zachowanie wyrazu w zdaniu.</div>
 </div>
 
-## Czasowniki osobowe i bezosobowe
-
-Większość czasowników tworzy formy osobowe:
-
-> Ja **otwieram** okno, ty **otwierasz** drzwi, a oni **otwierają** bramę.
-
-Niektóre zdania nie wskazują konkretnego wykonawcy:
-
-- Wieczorem szybko **ściemnia się** nad jeziorem.
-- Od rana **pada** i mocno **wieje**.
-- W sali **zgaszono** wszystkie lampy.
-- Nowy most **otwarto** w poniedziałek.
-
-Formy **zgaszono** i **otwarto** informują o wykonanej czynności, ale nie podają osoby, która ją wykonała.
-
-## Czasownik „być” nie zawsze oznacza działanie
-
-Czasownik **być** może informować o istnieniu, położeniu, stanie albo łączyć podmiot z informacją o nim.
-
-<div class="verb-series">
-  <div class="verb-row">
-    <span class="verb-badge">istnienie</span>
-    <p>Na końcu ulicy <span class="verb-form">jest</span> mała piekarnia.</p>
-    <span class="verb-note">informacja o istnieniu</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">położenie</span>
-    <p>Klucze <span class="verb-form">są</span> w górnej szufladzie.</p>
-    <span class="verb-note">informacja o miejscu</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">stan</span>
-    <p>Po długiej podróży wszyscy <span class="verb-form">byli</span> zmęczeni.</p>
-    <span class="verb-note">informacja o stanie</span>
-  </div>
-  <div class="verb-row">
-    <span class="verb-badge">orzeczenie imienne</span>
-    <p>Maria <span class="verb-form">jest</span> lekarką.</p>
-    <span class="verb-note">łączy podmiot z orzecznikiem</span>
-  </div>
+<div class="verb-mini-summary">
+<h3>Co już wiemy?</h3>
+Czasownik uruchamia zdanie. Może nazywać działanie, stan, zmianę, zdarzenie lub istnienie. Rozpoznajemy go nie tylko po pytaniu, lecz także po tym, że jego forma może pokazywać osobę, liczbę i czas.
 </div>
 
-## Jak rozpoznać czasownik w zdaniu?
-
-1. Sprawdź, czy wyraz nazywa czynność, stan, proces albo zdarzenie.
-2. Spróbuj zmienić osobę: *czytam → czytasz → czytamy*.
-3. Spróbuj zmienić czas: *czytam → czytałem → będę czytać*.
-4. Sprawdź, czy forma jest bezokolicznikiem, imiesłowem albo formą na *-no, -to*.
-5. Czytaj całe zdanie, ponieważ pojedyncza forma nie zawsze pokazuje wszystkie kategorie gramatyczne.
-
-!!! note "Nie każda nazwa czynności jest czasownikiem"
-    W zdaniu „Codzienne **czytanie** rozwija pamięć” wyraz **czytanie** jest rzeczownikiem. W zdaniu „Codziennie **czytam** przez pół godziny” wyraz **czytam** jest czasownikiem. Znaczenie jest podobne, ale forma i zachowanie gramatyczne są inne.
-
-[Przejdź dalej: osoby i liczby](../osoby-i-liczby/){ .md-button .md-button--primary }
+[Przejdź dalej: kto mówi, do kogo i o kim?](../osoby-i-liczby/){ .md-button .md-button--primary }
 
 </div>
