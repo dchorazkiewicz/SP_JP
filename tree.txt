@@ -60,6 +60,7 @@
 ./docs/praktyka/interaktywna-analiza-czesci-mowy.md
 ./docs/stylesheets
 ./docs/stylesheets/extra.css
+./docs/stylesheets/interactive-wide.css
 ./mkdocs.yml
 ./requirements.txt
 ./tree.txt
