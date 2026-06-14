@@ -38,6 +38,7 @@
 ./docs/gramatyka/czesci-mowy/przyslowek
 ./docs/gramatyka/czesci-mowy/przyslowek/funkcje-i-pisownia.md
 ./docs/gramatyka/czesci-mowy/przyslowek/index.md
+./docs/gramatyka/czesci-mowy/przyslowek/przyslowki-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/przyslowek/stopniowanie-i-tworzenie.md
 ./docs/gramatyka/czesci-mowy/przyslowek/znaczenie-i-rozpoznawanie.md
 ./docs/gramatyka/czesci-mowy/rzeczownik
