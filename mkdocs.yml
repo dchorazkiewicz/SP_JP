@@ -52,9 +52,9 @@ nav:
       - Części mowy:
           - Przegląd: gramatyka/czesci-mowy/index.md
           - Czasownik: gramatyka/czesci-mowy/czasownik/index.md
-          - Przymiotnik: gramatyka/przymiotnik/index.md
-          - Rzeczownik: gramatyka/rzeczownik/index.md
-          - Zaimki: gramatyka/zaimki/index.md
+          - Przymiotnik: gramatyka/czesci-mowy/przymiotnik/index.md
+          - Rzeczownik: gramatyka/czesci-mowy/rzeczownik/index.md
+          - Zaimki: gramatyka/czesci-mowy/zaimki/index.md
       - Fleksja: gramatyka/fleksja/index.md
       - Składnia: gramatyka/skladnia/index.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
