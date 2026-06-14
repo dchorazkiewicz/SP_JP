@@ -139,6 +139,7 @@
 ./docs/gramatyka/skladnia/przydawka/przydawka-przyimkowa-i-rzeczowna.md
 ./docs/gramatyka/skladnia/przydawka/przydawka-przymiotna.md
 ./docs/gramatyka/skladnia/przydawka/rozpoznawanie-i-grupa-rzeczownikowa.md
+./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
