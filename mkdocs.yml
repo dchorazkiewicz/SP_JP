@@ -27,6 +27,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/grammar-highlighter.js
+
 plugins:
   - search:
       lang: pl
@@ -44,10 +47,19 @@ markdown_extensions:
 nav:
   - Start: index.md
   - Gramatyka:
-      - Wprowadzenie: gramatyka/index.md
-      - Czasownik: gramatyka/czasownik/index.md
-      - Przymiotnik: gramatyka/przymiotnik/index.md
-      - Rzeczownik: gramatyka/rzeczownik/index.md
-      - Zaimki: gramatyka/zaimki/index.md
+      - Przegląd: gramatyka/index.md
+      - Podstawy gramatyki: gramatyka/podstawy/index.md
+      - Części mowy:
+          - Przegląd: gramatyka/czesci-mowy/index.md
+          - Czasownik: gramatyka/czesci-mowy/czasownik/index.md
+          - Przymiotnik: gramatyka/przymiotnik/index.md
+          - Rzeczownik: gramatyka/rzeczownik/index.md
+          - Zaimki: gramatyka/zaimki/index.md
+      - Fleksja: gramatyka/fleksja/index.md
+      - Składnia: gramatyka/skladnia/index.md
+      - Słowotwórstwo: gramatyka/slowotworstwo/index.md
+  - Praktyka i analiza tekstu:
+      - Wprowadzenie: praktyka/index.md
+      - Interaktywna analiza części mowy: praktyka/interaktywna-analiza-czesci-mowy.md
   - Materiały dodatkowe: materialy-dodatkowe/index.md
   - Archiwum PDF: pdf/index.md
