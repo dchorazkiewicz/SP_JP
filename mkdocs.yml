@@ -1,5 +1,5 @@
 site_name: Dokumentacja języka polskiego
-site_description: Materiały do nauki gramatyki języka polskiego
+site_description: Materiały dydaktyczne do nauki gramatyki języka polskiego
 site_url: ""
 
 theme:
@@ -16,9 +16,9 @@ nav:
   - Start: index.md
   - Gramatyka:
       - Wprowadzenie: gramatyka/index.md
-      - Zagadnienia:
-          - Czasownik: gramatyka/czasownik/index.md
-          - Przymiotnik: gramatyka/przymiotnik/index.md
-          - Rzeczownik: gramatyka/rzeczownik/index.md
-          - Zaimki: gramatyka/zaimki/index.md
+      - Czasownik: gramatyka/czasownik/index.md
+      - Przymiotnik: gramatyka/przymiotnik/index.md
+      - Rzeczownik: gramatyka/rzeczownik/index.md
+      - Zaimki: gramatyka/zaimki/index.md
   - Materiały dodatkowe: materialy-dodatkowe/index.md
+  - Archiwum PDF: pdf/index.md
