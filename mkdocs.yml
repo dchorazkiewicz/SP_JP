@@ -32,6 +32,7 @@ extra_css:
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
+  - stylesheets/predicate-lesson.css
 
 plugins:
   - search:
@@ -124,7 +125,19 @@ nav:
               - Styl i kontekst: gramatyka/czesci-mowy/wykrzyknik/styl-i-kontekst.md
               - Wykrzykniki w tekście: gramatyka/czesci-mowy/wykrzyknik/wykrzykniki-w-tekscie.md
       - Fleksja: gramatyka/fleksja/index.md
-      - Składnia: gramatyka/skladnia/index.md
+      - Składnia:
+          - Wprowadzenie: gramatyka/skladnia/index.md
+          - Orzeczenie:
+              - Wprowadzenie: gramatyka/skladnia/orzeczenie/index.md
+              - Jak znaleźć orzeczenie: gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
+              - Orzeczenie czasownikowe: gramatyka/skladnia/orzeczenie/orzeczenie-czasownikowe.md
+              - Orzeczenie imienne: gramatyka/skladnia/orzeczenie/orzeczenie-imienne.md
+              - Orzeczenie złożone: gramatyka/skladnia/orzeczenie/orzeczenie-zlozone.md
+              - Bezosobowość i czasowniki niewłaściwe: gramatyka/skladnia/orzeczenie/bezosobowe-i-niewlasciwe.md
+              - Forma, przeczenie i szyk: gramatyka/skladnia/orzeczenie/forma-przeczenie-i-szyk.md
+              - Orzeczenie w zdaniach złożonych: gramatyka/skladnia/orzeczenie/orzeczenie-w-zdaniach-zlozonych.md
+              - Granice klasyfikacji: gramatyka/skladnia/orzeczenie/granice-klasyfikacji.md
+              - Orzeczenia w tekście: gramatyka/skladnia/orzeczenie/orzeczenia-w-tekscie.md
       - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
