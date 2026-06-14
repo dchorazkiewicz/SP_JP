@@ -123,7 +123,7 @@ Rdzeniem orzecznika jest **kierowniczką**, ale cała grupa rozwija jego znaczen
 ## Orzecznik a zwykłe określenie
 
 <div class="predicate-comparison">
-  <div class="predicate-comparison-item"><span class="predicate-comparison-label">orzecznik</span><p>Marta <span class="predicate-mark predicate-mark--nominal">wróciła? — nie</span></p><p>W zdaniu „Marta jest zmęczona” cecha <em>zmęczona</em> jest obowiązkową częścią orzeczenia imiennego.</p></div>
+  <div class="predicate-comparison-item"><span class="predicate-comparison-label">orzecznik</span><p>Marta <span class="predicate-mark predicate-mark--nominal">jest zmęczona</span>.</p><p>Cecha <em>zmęczona</em> jest obowiązkową częścią orzeczenia imiennego.</p></div>
   <div class="predicate-comparison-item"><span class="predicate-comparison-label">dodatkowa cecha</span><p>Marta <span class="predicate-mark predicate-mark--verbal">wróciła</span> zmęczona.</p><p><em>Zmęczona</em> opisuje stan Marty podczas powrotu, ale podstawowe orzeczenie to <em>wróciła</em>.</p></div>
 </div>
 
