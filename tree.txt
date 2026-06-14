@@ -37,6 +37,7 @@
 ./docs/gramatyka/czesci-mowy/rzeczownik/slowotworstwo-i-pisownia.md
 ./docs/gramatyka/czesci-mowy/rzeczownik/znaczenie-i-typy.md
 ./docs/gramatyka/czesci-mowy/zaimki
+./docs/gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
 ./docs/gramatyka/czesci-mowy/zaimki/index.md
 ./docs/gramatyka/czesci-mowy/zaimki/rodzaje-i-funkcje.md
 ./docs/gramatyka/czesci-mowy/zaimki/zaimki-osobowe-i-odmiana.md
