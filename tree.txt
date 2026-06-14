@@ -166,6 +166,7 @@
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazek-przynaleznosci.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazek-rzadu.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazek-zgody.md
+./docs/gramatyka/skladnia/zwiazki-skladniowe/zwiazki-w-tekscie.md
 ./docs/gramatyka/slowotworstwo
 ./docs/gramatyka/slowotworstwo/index.md
 ./docs/gramatyka/zaimki
