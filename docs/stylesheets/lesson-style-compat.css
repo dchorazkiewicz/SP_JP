@@ -15,3 +15,13 @@
   --change-bg: var(--noun-change-bg);
   --change-line: var(--noun-change-line);
 }
+
+/*
+  Long, sentence-based reading examples must use the same typography as
+  ordinary MkDocs paragraphs. The component stylesheet previously forced
+  1rem, which made these texts visibly larger than the rest of the lesson.
+*/
+.reading-text p {
+  font-size: inherit;
+  line-height: inherit;
+}
