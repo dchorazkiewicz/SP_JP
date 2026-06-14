@@ -26,6 +26,7 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/noun-lesson.css
 
 plugins:
   - search:
