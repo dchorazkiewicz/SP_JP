@@ -6,7 +6,7 @@
 Tryb czasownika pokazuje, jak osoba mówiąca przedstawia czynność. Może opisywać ją jako fakt, rozważać jako możliwość albo kierować do kogoś prośbę, radę lub polecenie.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Otwarte okno</div>
   <div class="verb-story__body" markdown>
 
