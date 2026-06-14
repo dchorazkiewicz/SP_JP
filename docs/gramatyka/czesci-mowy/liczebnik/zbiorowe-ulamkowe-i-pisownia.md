@@ -57,7 +57,7 @@ Po **półtora/półtorej** rzeczownik występuje w dopełniaczu liczby pojedync
 - Uczniowie wykonali **dwie trzecie zadania**.
 - W zbiorniku pozostała **jedna czwarta paliwa**.
 - Sprzedano **trzy i pół tony zboża**.
-- Trasa miała **siedem i jedną drugą kilometra** długości.
+- Trasa miała **siedem i pół kilometra** długości.
 - Marta przeczytała **pół książki** przed obiadem.
 
 W zwykłych tekstach formę ułamka dobieramy do znaczenia i jednostki. W dokumentach technicznych często używa się zapisu cyframi, ale w narracji zapis słowny bywa czytelniejszy.
