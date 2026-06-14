@@ -3,23 +3,33 @@
   --sp-accent-dark: #1f4f43;
   --sp-line: #d8dedb;
   --sp-soft: #f5f7f6;
-  --sp-font-scale: 1;
+  --sp-typeset-size: 0.8rem;
+  --sp-nav-size: 0.7rem;
 }
 
 html[data-sp-font-scale="small"] {
-  --sp-font-scale: 0.9;
+  --sp-typeset-size: 0.704rem;
+  --sp-nav-size: 0.616rem;
 }
 
 html[data-sp-font-scale="normal"] {
-  --sp-font-scale: 1;
+  --sp-typeset-size: 0.8rem;
+  --sp-nav-size: 0.7rem;
 }
 
 html[data-sp-font-scale="large"] {
-  --sp-font-scale: 1.15;
+  --sp-typeset-size: 0.944rem;
+  --sp-nav-size: 0.826rem;
 }
 
 html[data-sp-font-scale="xlarge"] {
-  --sp-font-scale: 1.3;
+  --sp-typeset-size: 1.088rem;
+  --sp-nav-size: 0.952rem;
+}
+
+html[data-sp-font-scale="xxlarge"] {
+  --sp-typeset-size: 1.232rem;
+  --sp-nav-size: 1.078rem;
 }
 
 [data-md-color-scheme="slate"] {
@@ -32,67 +42,82 @@ html[data-sp-font-scale="xlarge"] {
 }
 
 .md-typeset {
-  font-size: calc(0.8rem * var(--sp-font-scale));
+  font-size: var(--sp-typeset-size);
 }
 
-.md-nav,
-.md-nav__link,
-.md-nav__title {
-  font-size: calc(0.7rem * var(--sp-font-scale));
+.md-sidebar .md-nav,
+.md-sidebar .md-nav__link,
+.md-sidebar .md-nav__title,
+.md-nav--primary,
+.md-nav--secondary {
+  font-size: var(--sp-nav-size);
 }
 
 .sp-font-controls {
   align-items: center;
+  color: inherit;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 0.08rem;
+  gap: 0.12rem;
   height: 2.4rem;
   margin-left: 0.2rem;
   margin-right: 0.15rem;
+  pointer-events: auto;
+  position: relative;
+  z-index: 4;
 }
 
 .sp-font-controls__button {
   align-items: center;
   background: transparent;
-  border: 0;
-  border-radius: 0.3rem;
-  color: var(--md-primary-bg-color);
+  border: 1px solid color-mix(in srgb, currentColor 38%, transparent);
+  border-radius: 0.32rem;
+  color: inherit;
   cursor: pointer;
   display: inline-flex;
   font-family: inherit;
-  font-size: 0.63rem;
-  font-weight: 750;
+  font-size: 0.64rem;
+  font-weight: 800;
   height: 1.75rem;
   justify-content: center;
   line-height: 1;
-  min-width: 1.65rem;
-  padding: 0 0.25rem;
-  transition: background-color 0.15s ease, color 0.15s ease;
+  min-width: 1.72rem;
+  padding: 0 0.26rem;
+  transition: background-color 0.15s ease, opacity 0.15s ease, transform 0.15s ease;
 }
 
 .sp-font-controls__button:hover,
 .sp-font-controls__button:focus-visible {
-  background: color-mix(in srgb, var(--md-primary-bg-color) 16%, transparent);
-  outline: none;
+  background: color-mix(in srgb, currentColor 15%, transparent);
+  outline: 2px solid color-mix(in srgb, currentColor 45%, transparent);
+  outline-offset: 1px;
+}
+
+.sp-font-controls__button:active {
+  transform: translateY(1px);
 }
 
 .sp-font-controls__button[aria-pressed="true"] {
-  background: color-mix(in srgb, var(--md-primary-bg-color) 22%, transparent);
+  background: color-mix(in srgb, currentColor 22%, transparent);
+}
+
+.sp-font-controls__button:disabled {
+  cursor: default;
+  opacity: 0.35;
 }
 
 .sp-font-controls__button--reset {
-  min-width: 1.45rem;
+  min-width: 1.5rem;
 }
 
 .sp-font-controls__status {
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px;
   clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
   white-space: nowrap;
+  width: 1px;
 }
 
 .section-grid {
@@ -190,7 +215,7 @@ html[data-sp-font-scale="xlarge"] {
 
 @media screen and (max-width: 720px) {
   .sp-font-controls {
-    gap: 0;
+    gap: 0.06rem;
     margin-left: 0;
     margin-right: 0.05rem;
   }
