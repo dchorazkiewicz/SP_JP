@@ -109,6 +109,7 @@
 ./docs/gramatyka/skladnia/dopelnienie/lesson.md
 ./docs/gramatyka/skladnia/dopelnienie/page5.md
 ./docs/gramatyka/skladnia/dopelnienie/test.md
+./docs/gramatyka/skladnia/dopelnienie/text-a.md
 ./docs/gramatyka/skladnia/index.md
 ./docs/gramatyka/skladnia/orzeczenie
 ./docs/gramatyka/skladnia/orzeczenie/bezosobowe-i-niewlasciwe.md
