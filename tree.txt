@@ -12,6 +12,8 @@
 ./docs/gramatyka/czasownik/pdf
 ./docs/gramatyka/czasownik/pdf/czasownik_w_jezyku_polskim_rozszerzone_notatki.pdf
 ./docs/gramatyka/index.md
+./docs/gramatyka/podstawy
+./docs/gramatyka/podstawy/index.md
 ./docs/gramatyka/przymiotnik
 ./docs/gramatyka/przymiotnik/index.md
 ./docs/gramatyka/przymiotnik/pdf
