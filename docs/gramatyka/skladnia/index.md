@@ -4,11 +4,13 @@ Składnia opisuje budowę wypowiedzeń oraz związki między wyrazami.
 
 ## Części zdania
 
-- podmiot,
 - orzeczenie,
-- przydawka,
+- podmiot,
 - dopełnienie,
+- przydawka,
 - okolicznik.
+
+Orzeczenie będzie pierwszym rozwijanym zagadnieniem, ponieważ organizuje zdanie i pozwala ustalić, jakie inne składniki mogą się z nim łączyć.
 
 ## Budowa wypowiedzeń
 
