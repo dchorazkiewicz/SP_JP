@@ -31,6 +31,7 @@
 ./docs/gramatyka/czesci-mowy/partykula
 ./docs/gramatyka/czesci-mowy/partykula/index.md
 ./docs/gramatyka/czesci-mowy/partykula/nie-by-czy-niech.md
+./docs/gramatyka/czesci-mowy/partykula/partykuly-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/partykula/zakres-znaczenia-i-pisownia.md
 ./docs/gramatyka/czesci-mowy/partykula/znaczenie-i-rozpoznawanie.md
 ./docs/gramatyka/czesci-mowy/przyimek
