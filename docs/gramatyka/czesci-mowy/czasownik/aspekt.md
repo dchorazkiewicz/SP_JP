@@ -6,7 +6,7 @@
 Aspekt nie mówi, kiedy wydarzyła się czynność. Pokazuje, jak na nią patrzymy: jak na trwający proces albo jak na zakończoną całość z widocznym skutkiem.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Model samolotu Antka</div>
   <div class="verb-story__body" markdown>
 
