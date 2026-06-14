@@ -69,6 +69,7 @@
 ./docs/gramatyka/czesci-mowy/spojnik/wspolrzedne.md
 ./docs/gramatyka/czesci-mowy/wykrzyknik
 ./docs/gramatyka/czesci-mowy/wykrzyknik/index.md
+./docs/gramatyka/czesci-mowy/wykrzyknik/rodzaje-i-znaczenie.md
 ./docs/gramatyka/czesci-mowy/zaimki
 ./docs/gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
 ./docs/gramatyka/czesci-mowy/zaimki/index.md
