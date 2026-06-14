@@ -6,6 +6,16 @@
 Czas czasownika umieszcza zdarzenie na osi czasu. Pokazuje, czy coś już się wydarzyło, dzieje się teraz, czy dopiero nastąpi. Najłatwiej to zrozumieć, przesuwając tę samą historię między wczoraj, dziś i jutro.
 </div>
 
+<div class="verb-learning-goals">
+  <div class="verb-learning-goals__title">Po tej stronie będziesz wiedzieć</div>
+  <ul>
+    <li>czym różnią się czas przeszły, teraźniejszy i przyszły;</li>
+    <li>dlaczego sam wyraz <strong>jutro</strong> nie tworzy czasu przyszłego;</li>
+    <li>jak czas przeszły pokazuje rodzaj;</li>
+    <li>dlaczego przyszłość może być prosta albo złożona.</li>
+  </ul>
+</div>
+
 <div class="verb-story" markdown>
   <div class="verb-story__title">Karmnik Mai</div>
   <div class="verb-story__body" markdown>
@@ -29,9 +39,26 @@ Słowa **wczoraj**, **dziś** i **jutro** pomagają, ale najważniejsza zmiana z
   <div class="verb-comparison__item"><span class="verb-label">przyszłość</span><p>Coś wydarzy się później: Maja <span class="verb-form">będzie budowała</span>.</p></div>
 </div>
 
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcie</span>
+  <strong>Czas gramatyczny</strong>
+  <p>To informacja zapisana w formie czasownika, która pokazuje, czy zdarzenie jest wcześniejsze, równoczesne z chwilą mówienia, czy późniejsze.</p>
+</div>
+
 <div class="verb-observation">
 <div class="verb-question">Czy słowo „jutro” samo tworzy czas przyszły?</div>
 Nie. Ono tylko podpowiada, kiedy coś się wydarzy. Czas gramatyczny rozpoznajemy przede wszystkim po formie czasownika. W zdaniu <em>Jutro wyjeżdżamy</em> forma jest teraźniejsza, ale całe zdanie mówi o zaplanowanej przyszłości.
+</div>
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: trzy czasy</div>
+  <ul>
+    <li><strong>budowała</strong> — czas przeszły;</li>
+    <li><strong>buduje</strong> — czas teraźniejszy;</li>
+    <li><strong>będzie budowała</strong> — czas przyszły;</li>
+    <li>wyrazy <strong>wczoraj</strong>, <strong>dziś</strong> i <strong>jutro</strong> pomagają, ale nie zastępują formy czasownika.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> przeszłość, teraźniejszość, przyszłość.</p>
 </div>
 
 ## Czas teraźniejszy nie mówi tylko o tej sekundzie
@@ -70,6 +97,17 @@ Forma **czytali** jest męskoosobowa. Forma **czytały** jest niemęskoosobowa.
 > Czytałyśmy. — mówi grupa dziewcząt lub kobiet.
 
 Końcowe fragmenty **-em, -am, -śmy** pomagają rozpoznać osobę, a części **-ł, -ła, -li, -ły** pokazują rodzaj i liczbę.
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: czas przeszły</div>
+  <ul>
+    <li>Czas przeszły pokazuje nie tylko wcześniejsze zdarzenie, lecz także rodzaj.</li>
+    <li><strong>czytał</strong>, <strong>czytała</strong>, <strong>czytało</strong> różnią się rodzajem.</li>
+    <li><strong>czytali</strong> to forma męskoosobowa, a <strong>czytały</strong> — niemęskoosobowa.</li>
+    <li>Końcówki osobowe pomagają rozpoznać, kto mówi.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> rodzaj męski, żeński, nijaki, męskoosobowy, niemęskoosobowy.</p>
+</div>
 
 ## Dwa sposoby mówienia o przyszłości
 
@@ -112,6 +150,23 @@ Forma **przeczytam** wygląda podobnie do czasu teraźniejszego, ale nie może o
 Bo czasownik <em>przeczytać</em> pokazuje czynność jako zakończoną całość. Dla czynności trwającej teraz mówimy: <em>teraz czytam</em> albo <em>właśnie kończę czytać</em>.
 </div>
 
+<div class="verb-concept">
+  <span class="verb-concept__label">Nowe pojęcia</span>
+  <strong>Przyszłość złożona i prosta</strong>
+  <p><strong>Będę czytać</strong> jest formą złożoną z dwóch wyrazów. <strong>Przeczytam</strong> jest formą prostą zapisaną jednym wyrazem.</p>
+</div>
+
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Podsumowanie: przyszłość</div>
+  <ul>
+    <li><strong>będę budować</strong> pokazuje przyszłą czynność w trakcie;</li>
+    <li><strong>zbuduję</strong> pokazuje przyszły rezultat;</li>
+    <li>przyszłość złożona ma formę czasownika <strong>być</strong> i bezokolicznik albo formę na <strong>-ł</strong>;</li>
+    <li>przyszłość prosta jest zapisana jednym wyrazem.</li>
+  </ul>
+  <p class="verb-checkpoint__term"><strong>Słowa-klucze:</strong> przyszłość złożona, przyszłość prosta.</p>
+</div>
+
 ## Czas i aspekt spotykają się w jednym zdaniu
 
 > Wczoraj Maja <span class="verb-form">budowała</span> karmnik. — przeszłość, czynność w trakcie.  
@@ -122,8 +177,13 @@ Bo czasownik <em>przeczytać</em> pokazuje czynność jako zakończoną całoś�
 Czas odpowiada na pytanie **kiedy?**, a aspekt pokazuje **jak patrzymy na czynność**. To dwie różne informacje.
 
 <div class="verb-mini-summary">
-<h3>Co pokazuje czas?</h3>
-Czas ustawia zdarzenie przed chwilą mówienia, w jej trakcie albo po niej. Forma czasownika jest ważniejsza niż pojedyncze słowa takie jak <em>wczoraj</em> i <em>jutro</em>, choć cały kontekst pomaga odczytać sens zdania.
+<h3>Do zapamiętania</h3>
+<ul>
+  <li>Czas przeszły mówi o tym, co było wcześniej.</li>
+  <li>Czas teraźniejszy mówi o teraźniejszości, zwyczaju, prawidłowości albo zaplanowanej przyszłości.</li>
+  <li>Czas przyszły może być prosty albo złożony.</li>
+  <li>Czas i aspekt to dwie różne informacje.</li>
+</ul>
 </div>
 
 [Przejdź dalej: czynność w trakcie i gotowy rezultat](../aspekt/){ .md-button .md-button--primary }
