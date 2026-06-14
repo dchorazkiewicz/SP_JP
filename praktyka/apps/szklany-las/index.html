@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Tajemnica Szklanego Lasu — interaktywna analiza części mowy</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <main class="app" data-grammar-app>
+    <header class="app-header">
+      <p class="eyebrow">Interaktywne czytanie</p>
+      <h1>Tajemnica Szklanego Lasu</h1>
+      <p>Wybierz część mowy, a następnie klikaj wyrazy bezpośrednio w opowiadaniu. Odpowiedź otrzymasz natychmiast.</p>
+    </header>
+
+    <div class="app-layout">
+      <aside class="control-panel" aria-label="Panel ćwiczenia">
+        <section>
+          <h2>1. Wybierz kategorię</h2>
+          <div class="category-grid" role="group" aria-label="Części mowy">
+            <button type="button" class="category-button category-noun" data-category="noun" aria-pressed="false">Rzeczowniki</button>
+            <button type="button" class="category-button category-verb" data-category="verb" aria-pressed="false">Czasowniki</button>
+            <button type="button" class="category-button category-adjective" data-category="adjective" aria-pressed="false">Przymiotniki</button>
+            <button type="button" class="category-button category-pronoun" data-category="pronoun" aria-pressed="false">Zaimki</button>
+          </div>
+        </section>
+
+        <section class="status-section">
+          <h2>2. Sprawdzaj wynik</h2>
+          <div class="metrics">
+            <div class="metric"><span>Kategoria</span><strong data-active-category>Nie wybrano</strong></div>
+            <div class="metric"><span>Poprawne</span><strong data-correct-count>0</strong></div>
+            <div class="metric"><span>Próby</span><strong data-attempt-count>0</strong></div>
+            <div class="metric"><span>Skuteczność</span><strong data-accuracy>—</strong></div>
+          </div>
+          <p class="progress" data-progress>Wybierz kategorię, aby rozpocząć.</p>
+          <div class="feedback is-neutral" data-feedback role="status" aria-live="polite">
+            Kliknij jedną z czterech kategorii.
+          </div>
+        </section>
+
+        <section class="actions">
+          <button type="button" class="secondary-button" data-show-answers aria-pressed="false">Pokaż odpowiedzi</button>
+          <button type="button" class="secondary-button" data-reset>Zacznij od początku</button>
+        </section>
+
+        <p class="hint">Błędnie wskazany wyraz zostanie na chwilę zaznaczony na czerwono, a komunikat pokaże jego prawidłową kategorię.</p>
+      </aside>
+
+      <article class="story-panel">
+        <div class="story-heading">
+          <div>
+            <p class="eyebrow">Opowiadanie</p>
+            <h2>Tajemnica Szklanego Lasu</h2>
+          </div>
+          <div class="legend" aria-label="Kolory odpowiedzi">
+            <span class="legend-noun">rzeczownik</span>
+            <span class="legend-verb">czasownik</span>
+            <span class="legend-adjective">przymiotnik</span>
+            <span class="legend-pronoun">zaimek</span>
+          </div>
+        </div>
+        <div class="story" data-story></div>
+      </article>
+    </div>
+  </main>
+
+  <script src="story-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
