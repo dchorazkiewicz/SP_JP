@@ -43,16 +43,17 @@ Wykrzyknik może ujawniać stosunek mówiącego bez nazywania go wprost.
   <div class="indecl-row"><span class="indecl-badge">pst</span><p><span class="indecl-focus">Pst!</span> Spójrz na drzwi po lewej.</p><span class="indecl-note">ciche przywołanie</span></div>
 </div>
 
-## Pozdrowienia i formuły społeczne
+## Formuły kontaktu i grzecznościowe
 
-Niektóre tradycyjne klasyfikacje zaliczają do wykrzykników również utrwalone formuły kontaktu:
+Wykrzykniki często występują jako samodzielne formuły kontaktu, ale nie każda samodzielna formuła jest gramatycznie wykrzyknikiem:
 
-- **Cześć!** Miło cię widzieć.
-- **Dzień dobry!** Przyszedłem na umówione spotkanie.
-- **Do widzenia!** Wrócę jutro rano.
-- **Dziękuję!** Bardzo mi pomogłeś.
+- **Cześć!** Miło cię widzieć. — wykrzyknik lub utrwalona formuła powitania;
+- **Hej!** Zaczekaj chwilę. — wykrzyknik przywołujący;
+- **Dzień dobry!** Przyszedłem na umówione spotkanie. — formuła powitania;
+- **Do widzenia!** Wrócę jutro rano. — formuła pożegnania;
+- **Dziękuję!** Bardzo mi pomogłeś. — forma czasownika użyta jako samodzielna formuła grzecznościowa.
 
-Mają one własne znaczenie komunikacyjne i często tworzą samodzielne wypowiedzi.
+Wszystkie te wypowiedzi mogą działać samodzielnie komunikacyjnie, ale ich klasyfikacja gramatyczna nie jest identyczna.
 
 ## Wyrazy dźwiękonaśladowcze
 
