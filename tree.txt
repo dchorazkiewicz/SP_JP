@@ -8,7 +8,6 @@
 ./docs
 ./docs/gramatyka
 ./docs/gramatyka/czasownik
-./docs/gramatyka/czasownik/index.md
 ./docs/gramatyka/czasownik/pdf
 ./docs/gramatyka/czasownik/pdf/czasownik_w_jezyku_polskim_rozszerzone_notatki.pdf
 ./docs/gramatyka/czesci-mowy
