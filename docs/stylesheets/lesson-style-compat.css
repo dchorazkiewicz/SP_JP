@@ -18,10 +18,22 @@
 
 /*
   Long, sentence-based reading examples must use the same typography as
-  ordinary MkDocs paragraphs. The component stylesheet previously forced
-  1rem, which made these texts visibly larger than the rest of the lesson.
+  ordinary MkDocs paragraphs. Component styles must not enlarge them.
 */
-.reading-text p {
+.reading-text p,
+.verb-reading__text p,
+.subject-reading-text p,
+.object-reading-text p,
+.attribute-reading-text p {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.verb-reading__text,
+.subject-reading-text,
+.object-reading-text,
+.attribute-reading-text {
   font-size: inherit;
   line-height: inherit;
 }
