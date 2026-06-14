@@ -35,6 +35,8 @@
 ./docs/gramatyka/czesci-mowy/przymiotnik/przymiotniki-w-tekscie.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/stopniowanie.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/znaczenie-i-zgoda.md
+./docs/gramatyka/czesci-mowy/przyslowek
+./docs/gramatyka/czesci-mowy/przyslowek/index.md
 ./docs/gramatyka/czesci-mowy/rzeczownik
 ./docs/gramatyka/czesci-mowy/rzeczownik/index.md
 ./docs/gramatyka/czesci-mowy/rzeczownik/przypadki-i-odmiana.md
