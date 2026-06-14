@@ -46,6 +46,8 @@
 ./docs/materialy-dodatkowe/pdf/gramatyka+współczesnego+języka+polskiego+książka.pdf
 ./docs/pdf
 ./docs/pdf/index.md
+./docs/praktyka
+./docs/praktyka/index.md
 ./docs/stylesheets
 ./docs/stylesheets/extra.css
 ./mkdocs.yml
