@@ -20,6 +20,7 @@
 ./docs/gramatyka/czesci-mowy/czasownik/strony-i-formy-nieosobowe.md
 ./docs/gramatyka/czesci-mowy/czasownik/tryby.md
 ./docs/gramatyka/czesci-mowy/czasownik/znaczenie-i-rozpoznawanie.md
+./docs/gramatyka/czesci-mowy/granice-klasyfikacji.md
 ./docs/gramatyka/czesci-mowy/index.md
 ./docs/gramatyka/czesci-mowy/liczebnik
 ./docs/gramatyka/czesci-mowy/liczebnik/index.md
