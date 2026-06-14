@@ -79,6 +79,7 @@
 ./docs/stylesheets
 ./docs/stylesheets/extra.css
 ./docs/stylesheets/noun-lesson.css
+./docs/stylesheets/remaining-parts.css
 ./docs/stylesheets/verb-lesson.css
 ./mkdocs.yml
 ./requirements.txt
