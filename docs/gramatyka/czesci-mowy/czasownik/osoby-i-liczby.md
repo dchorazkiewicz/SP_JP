@@ -6,7 +6,7 @@
 Nazwy „pierwsza osoba”, „druga osoba” i „trzecia osoba” nie są przypadkowe. Pokazują trzy miejsca w rozmowie: osobę, która mówi, osobę, do której się mówi, oraz osobę lub rzecz, o której się mówi.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Trzy miejsca w rozmowie</div>
   <div class="verb-story__body" markdown>
 
