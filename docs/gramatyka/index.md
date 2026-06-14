@@ -1,6 +1,6 @@
 # Gramatyka
 
-Uporządkowane materiały gramatyczne. Każde zagadnienie ma osobną sekcję, żeby później dało się bez bałaganu dodawać kolejne działy i dokumenty.
+Ta część strony będzie rozwijana jako uporządkowany kurs gramatyki języka polskiego. Każde zagadnienie ma osobną sekcję, w której znajdą się objaśnienia, przykłady, tabele i komentarze dydaktyczne.
 
 ## Zagadnienia
 
@@ -8,21 +8,23 @@ Uporządkowane materiały gramatyczne. Każde zagadnienie ma osobną sekcję, ż
   <a class="section-card" href="czasownik/">
     <span class="section-kicker">Zagadnienie</span>
     <strong>Czasownik</strong>
-    <span>Rozszerzone notatki o czasowniku w języku polskim.</span>
+    <span>Znaczenie, odmiana, czasy, tryby, aspekt i przykłady użycia.</span>
   </a>
   <a class="section-card" href="przymiotnik/">
     <span class="section-kicker">Zagadnienie</span>
     <strong>Przymiotnik</strong>
-    <span>Rozszerzone notatki o przymiotniku w języku polskim.</span>
+    <span>Znaczenie, odmiana, stopniowanie i związki z rzeczownikiem.</span>
   </a>
   <a class="section-card" href="rzeczownik/">
     <span class="section-kicker">Zagadnienie</span>
     <strong>Rzeczownik</strong>
-    <span>Rozszerzone notatki o rzeczowniku w języku polskim.</span>
+    <span>Rodzaj, liczba, przypadki, deklinacja i funkcje w zdaniu.</span>
   </a>
   <a class="section-card" href="zaimki/">
     <span class="section-kicker">Zagadnienie</span>
     <strong>Zaimki</strong>
-    <span>Opracowanie oraz zbiory przykładów w formacie PDF.</span>
+    <span>Typy zaimków, odmiana, funkcje i przykłady użycia.</span>
   </a>
 </div>
+
+Dotychczasowe dokumenty PDF są dostępne w osobnej sekcji [Archiwum PDF](../pdf/).
