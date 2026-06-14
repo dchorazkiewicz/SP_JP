@@ -51,7 +51,14 @@ nav:
           - Przegląd: gramatyka/czesci-mowy/index.md
           - Czasownik: gramatyka/czesci-mowy/czasownik/index.md
           - Przymiotnik: gramatyka/czesci-mowy/przymiotnik/index.md
-          - Rzeczownik: gramatyka/czesci-mowy/rzeczownik/index.md
+          - Rzeczownik:
+              - Wprowadzenie: gramatyka/czesci-mowy/rzeczownik/index.md
+              - Znaczenie i typy: gramatyka/czesci-mowy/rzeczownik/znaczenie-i-typy.md
+              - Rodzaj i liczba: gramatyka/czesci-mowy/rzeczownik/rodzaj-i-liczba.md
+              - Przypadki i odmiana: gramatyka/czesci-mowy/rzeczownik/przypadki-i-odmiana.md
+              - Rzeczownik w zdaniu: gramatyka/czesci-mowy/rzeczownik/rzeczownik-w-zdaniu.md
+              - Słowotwórstwo i pisownia: gramatyka/czesci-mowy/rzeczownik/slowotworstwo-i-pisownia.md
+              - Rzeczowniki w tekście: gramatyka/czesci-mowy/rzeczownik/rzeczowniki-w-tekscie.md
           - Zaimki: gramatyka/czesci-mowy/zaimki/index.md
       - Fleksja: gramatyka/fleksja/index.md
       - Składnia: gramatyka/skladnia/index.md
