@@ -6,7 +6,7 @@
 Czas czasownika umieszcza zdarzenie na osi czasu. Pokazuje, czy coś już się wydarzyło, dzieje się teraz, czy dopiero nastąpi. Najłatwiej to zrozumieć, przesuwając tę samą historię między wczoraj, dziś i jutro.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Karmnik Mai</div>
   <div class="verb-story__body" markdown>
 
