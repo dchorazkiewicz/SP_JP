@@ -135,6 +135,7 @@
 ./docs/gramatyka/skladnia/przydawka
 ./docs/gramatyka/skladnia/przydawka/index.md
 ./docs/gramatyka/skladnia/przydawka/przydawka-dopelniaczowa.md
+./docs/gramatyka/skladnia/przydawka/przydawka-przyimkowa-i-rzeczowna.md
 ./docs/gramatyka/skladnia/przydawka/przydawka-przymiotna.md
 ./docs/gramatyka/skladnia/przydawka/rozpoznawanie-i-grupa-rzeczownikowa.md
 ./docs/gramatyka/slowotworstwo
