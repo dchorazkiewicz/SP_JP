@@ -28,6 +28,8 @@
 ./docs/gramatyka/czesci-mowy/liczebnik/odmiana.md
 ./docs/gramatyka/czesci-mowy/liczebnik/rodzaje-i-znaczenie.md
 ./docs/gramatyka/czesci-mowy/liczebnik/zbiorowe-ulamkowe-i-pisownia.md
+./docs/gramatyka/czesci-mowy/przyimek
+./docs/gramatyka/czesci-mowy/przyimek/index.md
 ./docs/gramatyka/czesci-mowy/przymiotnik
 ./docs/gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
 ./docs/gramatyka/czesci-mowy/przymiotnik/index.md
