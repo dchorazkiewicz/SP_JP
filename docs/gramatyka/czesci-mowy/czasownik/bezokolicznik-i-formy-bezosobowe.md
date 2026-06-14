@@ -6,7 +6,7 @@
 Nie każda forma czasownika mówi wprost, kto wykonuje czynność. Bezokolicznik tylko ją nazywa, a formy na <em>-no</em> i <em>-to</em> informują, że ktoś coś zrobił, ale nie podają wykonawcy.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Kartka na drzwiach pracowni</div>
   <div class="verb-story__body" markdown>
 
