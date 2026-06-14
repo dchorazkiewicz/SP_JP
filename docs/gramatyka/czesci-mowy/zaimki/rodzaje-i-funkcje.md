@@ -46,11 +46,11 @@ Zachowują się podobnie do przymiotników i określają rzeczownik.
 
 ### Zaimki liczebne
 
-Zastępują dokładną informację o liczbie lub kolejności.
+Zastępują dokładną informację o liczbie.
 
 - **Ile** osób przyszło na zebranie?
 - **Tyle** miejsc pozostało wolnych.
-- Nie wiem, **który** zawodnik wystartuje pierwszy.
+- Nie wiem, **ilu** zawodników wystartuje w biegu.
 
 ### Zaimki przysłowne
 
