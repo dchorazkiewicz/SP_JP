@@ -102,6 +102,7 @@
 ./docs/gramatyka/skladnia/dopelnienie/lesson-3.md
 ./docs/gramatyka/skladnia/dopelnienie/lesson-4.md
 ./docs/gramatyka/skladnia/dopelnienie/lesson-5.md
+./docs/gramatyka/skladnia/dopelnienie/lesson-6.md
 ./docs/gramatyka/skladnia/dopelnienie/lesson.md
 ./docs/gramatyka/skladnia/dopelnienie/page5.md
 ./docs/gramatyka/skladnia/dopelnienie/test.md
