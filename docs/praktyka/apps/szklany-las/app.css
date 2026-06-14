@@ -7,19 +7,6 @@
   --muted: #62706a;
   --line: #d7dfdb;
   --accent: #2f6f5e;
-  --accent-dark: #1f4f43;
-  --noun-bg: #dbeafe;
-  --noun-line: #2563eb;
-  --noun-text: #1e3a8a;
-  --verb-bg: #dcfce7;
-  --verb-line: #16a34a;
-  --verb-text: #166534;
-  --adjective-bg: #fef3c7;
-  --adjective-line: #d97706;
-  --adjective-text: #854d0e;
-  --pronoun-bg: #f3e8ff;
-  --pronoun-line: #9333ea;
-  --pronoun-text: #6b21a8;
   --error-bg: #fee2e2;
   --error-line: #dc2626;
   --error-text: #991b1b;
@@ -37,15 +24,6 @@
     --muted: #aab5bd;
     --line: #3b4853;
     --accent: #71b7a4;
-    --accent-dark: #9bd2c3;
-    --noun-bg: #172554;
-    --noun-text: #bfdbfe;
-    --verb-bg: #14532d;
-    --verb-text: #bbf7d0;
-    --adjective-bg: #713f12;
-    --adjective-text: #fde68a;
-    --pronoun-bg: #581c87;
-    --pronoun-text: #e9d5ff;
     --error-bg: #7f1d1d;
     --error-text: #fecaca;
     --success-bg: #064e3b;
@@ -74,7 +52,7 @@ button {
 
 .app {
   margin: 0 auto;
-  max-width: 1500px;
+  max-width: 1600px;
 }
 
 .app-header {
@@ -99,7 +77,7 @@ button {
 .app-header p:last-child {
   color: var(--muted);
   margin-bottom: 0;
-  max-width: 850px;
+  max-width: 980px;
 }
 
 .eyebrow {
@@ -115,7 +93,7 @@ button {
   align-items: start;
   display: grid;
   gap: 1rem;
-  grid-template-columns: minmax(280px, 340px) minmax(0, 1fr);
+  grid-template-columns: minmax(340px, 410px) minmax(0, 1fr);
 }
 
 .control-panel,
@@ -127,6 +105,8 @@ button {
 }
 
 .control-panel {
+  max-height: calc(100vh - 2rem);
+  overflow: auto;
   padding: 1rem;
   position: sticky;
   top: 1rem;
@@ -143,9 +123,18 @@ button {
   margin-bottom: 0.75rem;
 }
 
+.category-group-label {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  margin: 0.9rem 0 0.45rem;
+  text-transform: uppercase;
+}
+
 .category-grid {
   display: grid;
-  gap: 0.55rem;
+  gap: 0.5rem;
   grid-template-columns: 1fr 1fr;
 }
 
@@ -157,7 +146,8 @@ button {
   color: var(--text);
   cursor: pointer;
   font-weight: 750;
-  padding: 0.68rem 0.75rem;
+  min-height: 2.8rem;
+  padding: 0.62rem 0.7rem;
   transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
 }
 
@@ -171,28 +161,162 @@ button {
   transform: translateY(-1px);
 }
 
-.category-noun.is-active {
-  background: var(--noun-bg);
-  border-color: var(--noun-line);
-  color: var(--noun-text);
+.category-noun,
+.legend-noun,
+.word[data-pos="noun"] {
+  --category-bg: #dbeafe;
+  --category-line: #2563eb;
+  --category-text: #1e3a8a;
 }
 
-.category-verb.is-active {
-  background: var(--verb-bg);
-  border-color: var(--verb-line);
-  color: var(--verb-text);
+.category-verb,
+.legend-verb,
+.word[data-pos="verb"] {
+  --category-bg: #dcfce7;
+  --category-line: #16a34a;
+  --category-text: #166534;
 }
 
-.category-adjective.is-active {
-  background: var(--adjective-bg);
-  border-color: var(--adjective-line);
-  color: var(--adjective-text);
+.category-adjective,
+.legend-adjective,
+.word[data-pos="adjective"] {
+  --category-bg: #fef3c7;
+  --category-line: #d97706;
+  --category-text: #854d0e;
 }
 
-.category-pronoun.is-active {
-  background: var(--pronoun-bg);
-  border-color: var(--pronoun-line);
-  color: var(--pronoun-text);
+.category-numeral,
+.legend-numeral,
+.word[data-pos="numeral"] {
+  --category-bg: #cffafe;
+  --category-line: #0891b2;
+  --category-text: #155e75;
+}
+
+.category-pronoun,
+.legend-pronoun,
+.word[data-pos="pronoun"] {
+  --category-bg: #f3e8ff;
+  --category-line: #9333ea;
+  --category-text: #6b21a8;
+}
+
+.category-adverb,
+.legend-adverb,
+.word[data-pos="adverb"] {
+  --category-bg: #fce7f3;
+  --category-line: #db2777;
+  --category-text: #9d174d;
+}
+
+.category-preposition,
+.legend-preposition,
+.word[data-pos="preposition"] {
+  --category-bg: #ffedd5;
+  --category-line: #ea580c;
+  --category-text: #9a3412;
+}
+
+.category-conjunction,
+.legend-conjunction,
+.word[data-pos="conjunction"] {
+  --category-bg: #e0e7ff;
+  --category-line: #4f46e5;
+  --category-text: #3730a3;
+}
+
+.category-particle,
+.legend-particle,
+.word[data-pos="particle"] {
+  --category-bg: #e5e7eb;
+  --category-line: #4b5563;
+  --category-text: #1f2937;
+}
+
+.category-interjection,
+.legend-interjection,
+.word[data-pos="interjection"] {
+  --category-bg: #ffe4e6;
+  --category-line: #e11d48;
+  --category-text: #9f1239;
+}
+
+@media (prefers-color-scheme: dark) {
+  .category-noun,
+  .legend-noun,
+  .word[data-pos="noun"] {
+    --category-bg: #172554;
+    --category-text: #bfdbfe;
+  }
+
+  .category-verb,
+  .legend-verb,
+  .word[data-pos="verb"] {
+    --category-bg: #14532d;
+    --category-text: #bbf7d0;
+  }
+
+  .category-adjective,
+  .legend-adjective,
+  .word[data-pos="adjective"] {
+    --category-bg: #713f12;
+    --category-text: #fde68a;
+  }
+
+  .category-numeral,
+  .legend-numeral,
+  .word[data-pos="numeral"] {
+    --category-bg: #164e63;
+    --category-text: #a5f3fc;
+  }
+
+  .category-pronoun,
+  .legend-pronoun,
+  .word[data-pos="pronoun"] {
+    --category-bg: #581c87;
+    --category-text: #e9d5ff;
+  }
+
+  .category-adverb,
+  .legend-adverb,
+  .word[data-pos="adverb"] {
+    --category-bg: #831843;
+    --category-text: #fbcfe8;
+  }
+
+  .category-preposition,
+  .legend-preposition,
+  .word[data-pos="preposition"] {
+    --category-bg: #7c2d12;
+    --category-text: #fed7aa;
+  }
+
+  .category-conjunction,
+  .legend-conjunction,
+  .word[data-pos="conjunction"] {
+    --category-bg: #312e81;
+    --category-text: #c7d2fe;
+  }
+
+  .category-particle,
+  .legend-particle,
+  .word[data-pos="particle"] {
+    --category-bg: #374151;
+    --category-text: #f3f4f6;
+  }
+
+  .category-interjection,
+  .legend-interjection,
+  .word[data-pos="interjection"] {
+    --category-bg: #881337;
+    --category-text: #fecdd3;
+  }
+}
+
+.category-button.is-active {
+  background: var(--category-bg);
+  border-color: var(--category-line);
+  color: var(--category-text);
 }
 
 .metrics {
@@ -246,7 +370,7 @@ button {
 
 .feedback.is-correct {
   background: var(--success-bg);
-  border-left-color: var(--verb-line);
+  border-left-color: #16a34a;
 }
 
 .feedback.is-incorrect {
@@ -257,7 +381,7 @@ button {
 
 .feedback.is-warning {
   background: var(--warning-bg);
-  border-left-color: var(--adjective-line);
+  border-left-color: #d97706;
 }
 
 .actions {
@@ -295,27 +419,26 @@ button {
   flex-wrap: wrap;
   gap: 0.4rem;
   justify-content: flex-end;
+  max-width: 650px;
 }
 
 .legend span {
+  background: var(--category-bg);
+  border: 1px solid var(--category-line);
   border-radius: 999px;
-  font-size: 0.76rem;
+  color: var(--category-text);
+  font-size: 0.72rem;
   font-weight: 750;
-  padding: 0.25rem 0.55rem;
+  padding: 0.22rem 0.5rem;
 }
 
-.legend-noun {background: var(--noun-bg); color: var(--noun-text);}
-.legend-verb {background: var(--verb-bg); color: var(--verb-text);}
-.legend-adjective {background: var(--adjective-bg); color: var(--adjective-text);}
-.legend-pronoun {background: var(--pronoun-bg); color: var(--pronoun-text);}
-
 .story {
-  padding: 1.25rem 1.6rem 1.6rem;
+  padding: 1.25rem 1.6rem 1.8rem;
 }
 
 .story p {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(1.05rem, 1.4vw, 1.22rem);
+  font-size: clamp(1.05rem, 1.25vw, 1.2rem);
   line-height: 2.05;
   margin: 0.65rem 0;
 }
@@ -326,7 +449,7 @@ button {
   font-family: Inter, system-ui, sans-serif;
   font-size: 0.72rem;
   font-weight: 800;
-  min-width: 1.9rem;
+  min-width: 2rem;
 }
 
 .word {
@@ -355,32 +478,11 @@ button {
   outline-offset: 2px;
 }
 
-.word.is-correct[data-pos="noun"],
-.show-answers .word[data-pos="noun"] {
-  background: var(--noun-bg);
-  box-shadow: inset 0 -3px 0 var(--noun-line);
-  color: var(--noun-text);
-}
-
-.word.is-correct[data-pos="verb"],
-.show-answers .word[data-pos="verb"] {
-  background: var(--verb-bg);
-  box-shadow: inset 0 -3px 0 var(--verb-line);
-  color: var(--verb-text);
-}
-
-.word.is-correct[data-pos="adjective"],
-.show-answers .word[data-pos="adjective"] {
-  background: var(--adjective-bg);
-  box-shadow: inset 0 -3px 0 var(--adjective-line);
-  color: var(--adjective-text);
-}
-
-.word.is-correct[data-pos="pronoun"],
-.show-answers .word[data-pos="pronoun"] {
-  background: var(--pronoun-bg);
-  box-shadow: inset 0 -3px 0 var(--pronoun-line);
-  color: var(--pronoun-text);
+.word.is-correct,
+.show-answers .word {
+  background: var(--category-bg);
+  box-shadow: inset 0 -3px 0 var(--category-line);
+  color: var(--category-text);
 }
 
 .word.is-wrong {
@@ -396,7 +498,7 @@ button {
   75% {transform: translateX(3px);}
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1050px) {
   body {
     padding: 0.6rem;
   }
@@ -406,7 +508,13 @@ button {
   }
 
   .control-panel {
+    max-height: none;
+    overflow: visible;
     position: static;
+  }
+
+  .category-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .story-heading {
@@ -416,13 +524,13 @@ button {
   .legend {
     justify-content: flex-start;
     margin-top: 0.75rem;
+    max-width: none;
   }
 }
 
-@media (max-width: 520px) {
-  .category-grid,
-  .metrics {
-    grid-template-columns: 1fr;
+@media (max-width: 680px) {
+  .category-grid {
+    grid-template-columns: 1fr 1fr;
   }
 
   .story {
@@ -431,5 +539,12 @@ button {
 
   .story p {
     line-height: 1.95;
+  }
+}
+
+@media (max-width: 440px) {
+  .category-grid,
+  .metrics {
+    grid-template-columns: 1fr;
   }
 }
