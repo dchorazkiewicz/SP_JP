@@ -97,6 +97,7 @@
 ./docs/gramatyka/skladnia
 ./docs/gramatyka/skladnia/index.md
 ./docs/gramatyka/skladnia/orzeczenie
+./docs/gramatyka/skladnia/orzeczenie/bezosobowe-i-niewlasciwe.md
 ./docs/gramatyka/skladnia/orzeczenie/index.md
 ./docs/gramatyka/skladnia/orzeczenie/orzeczenie-czasownikowe.md
 ./docs/gramatyka/skladnia/orzeczenie/orzeczenie-imienne.md
