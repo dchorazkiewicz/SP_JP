@@ -78,7 +78,7 @@ Liczebnik porządkowy odmienia się jak przymiotnik i zgadza z rzeczownikiem.
 
 <div class="example-series">
   <div class="example-row"><span class="grammar-badge">M.</span><p><span class="agreement-mark">Drugi pociąg</span> odjechał punktualnie.</p><span class="change-note">który?</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>Nie zdążyłem na <span class="agreement-mark">drugiego pociągu</span>.</p><span class="change-note">którego?</span></div>
+  <div class="example-row"><span class="grammar-badge">D.</span><p>Nie doczekałem <span class="agreement-mark">drugiego pociągu</span>.</p><span class="change-note">którego?</span></div>
   <div class="example-row"><span class="grammar-badge">C.</span><p>Przyglądałem się <span class="agreement-mark">drugiemu pociągowi</span>.</p><span class="change-note">któremu?</span></div>
   <div class="example-row"><span class="grammar-badge">B.</span><p>Wybrałem <span class="agreement-mark">drugi pociąg</span>.</p><span class="change-note">który?</span></div>
   <div class="example-row"><span class="grammar-badge">N.</span><p>Pojechałem <span class="agreement-mark">drugim pociągiem</span>.</p><span class="change-note">którym?</span></div>
