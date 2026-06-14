@@ -6,7 +6,7 @@
 Czasownik nie jest tylko nazwą do zapamiętania. To wyraz, który uruchamia zdanie: mówi, co ktoś robi, co się z kimś dzieje, w jakim jest stanie albo co właśnie się wydarzyło.
 </div>
 
-<div class="verb-story">
+<div class="verb-story" markdown>
   <div class="verb-story__title">Plecak Kuby</div>
   <div class="verb-story__body" markdown>
 
