@@ -48,6 +48,7 @@
 ./docs/pdf/index.md
 ./docs/praktyka
 ./docs/praktyka/index.md
+./docs/praktyka/interaktywna-analiza-czesci-mowy.md
 ./docs/stylesheets
 ./docs/stylesheets/extra.css
 ./mkdocs.yml
