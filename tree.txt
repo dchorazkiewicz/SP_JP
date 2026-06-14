@@ -140,6 +140,7 @@
 ./docs/gramatyka/skladnia/przydawka/przydawka-dopelniaczowa.md
 ./docs/gramatyka/skladnia/przydawka/przydawka-przyimkowa-i-rzeczowna.md
 ./docs/gramatyka/skladnia/przydawka/przydawka-przymiotna.md
+./docs/gramatyka/skladnia/przydawka/przydawki-w-tekscie.md
 ./docs/gramatyka/skladnia/przydawka/rozpoznawanie-i-grupa-rzeczownikowa.md
 ./docs/gramatyka/skladnia/przydawka/szyk-i-znaczenie.md
 ./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
