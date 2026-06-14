@@ -1,37 +1,38 @@
 # Składnia
 
-Składnia opisuje, jak wyrazy tworzą grupy i zdania. Analizę zaczynamy od **orzeczenia**, ponieważ stanowi ono centrum zdania. Następnie przechodzimy do **podmiotu**, czyli składnika, o którym się orzeka.
+Składnia opisuje, jak wyrazy tworzą grupy i zdania. Analizę zaczynamy od **orzeczenia**, następnie wskazujemy **podmiot**, a potem sprawdzamy, jakich uzupełnień wymaga czasownik.
 
 ## 1. Orzeczenie
 
 [Przejdź do pełnego rozdziału o orzeczeniu](orzeczenie/){ .md-button .md-button--primary }
 
-Rozdział obejmuje rozpoznawanie orzeczenia, typy orzeczeń, konstrukcje bezosobowe, przeczenie, szyk, zdania złożone, przypadki graniczne oraz tekst 50-zdaniowy.
-
-> Młoda badaczka **dokładnie sprawdziła** wyniki doświadczenia.
-
-Najpierw wskazujemy orzeczenie **sprawdziła**.
+Rozdział obejmuje rozpoznawanie orzeczenia, jego typy, konstrukcje bezosobowe, przeczenie, szyk, zdania złożone i przypadki graniczne.
 
 ## 2. Podmiot
 
 [Przejdź do pełnego rozdziału o podmiocie](podmiot/){ .md-button .md-button--primary }
 
+Rozdział obejmuje podmiot gramatyczny, domyślny, logiczny, wieloczłonowy, zdania bezpodmiotowe i zgodę z orzeczeniem.
+
+## 3. Dopełnienie
+
+[Przejdź do pełnego rozdziału o dopełnieniu](dopelnienie/){ .md-button .md-button--primary }
+
 Rozdział obejmuje:
 
-- rozpoznawanie podmiotu przez orzeczenie;
-- podmiot gramatyczny i sposoby jego wyrażania;
-- podmiot domyślny;
-- zdania bezpodmiotowe;
-- podmiot wieloczłonowy i konstrukcje z przyimkiem „z”;
-- podmiot logiczny;
-- konstrukcje liczebnikowe;
-- formę orzeczenia przy różnych typach podmiotu;
+- rozpoznawanie dopełnienia przez rekcję;
+- przypadki dopełnienia;
+- dopełnienie bliższe i dalsze;
+- zmianę przypadku po przeczeniu;
+- stronę bierną i transformacje;
+- różnicę między dopełnieniem a okolicznikiem;
+- bezokolicznik i zdanie dopełnieniowe;
 - przypadki graniczne;
 - tekst 50-zdaniowy.
 
-> **Młoda badaczka** dokładnie sprawdziła wyniki doświadczenia.
+> Marta **przekazała** kierownikowi **raport**.
 
-Po wskazaniu orzeczenia pytamy, kto sprawdził wyniki. Podmiotem jest **badaczka**, a pełna grupa podmiotu brzmi **młoda badaczka**.
+Orzeczenie **przekazała** otwiera dwa miejsca: **komu? — kierownikowi** oraz **co? — raport**.
 
 ## Kolejność części zdania
 
@@ -43,18 +44,4 @@ Po wskazaniu orzeczenia pytamy, kto sprawdził wyniki. Podmiotem jest **badaczka
 
 ## Dalsza budowa działu
 
-Po częściach zdania pojawią się:
-
-- związki składniowe;
-- grupa podmiotu i grupa orzeczenia;
-- zdanie pojedyncze nierozwinięte i rozwinięte;
-- szyk wyrazów i rozkład informacji;
-- zdania złożone współrzędnie;
-- zdania złożone podrzędnie;
-- zdania wielokrotnie złożone;
-- interpunkcja wynikająca ze składni;
-- elipsa i elementy domyślne;
-- wykresy zdań;
-- granice analizy składniowej.
-
-W całym dziale pracujemy na pełnych zdaniach: najpierw wskazujemy centrum orzeczeniowe, potem podmiot i dalsze zależności.
+Po częściach zdania pojawią się związki składniowe, grupa podmiotu i grupa orzeczenia, zdania pojedyncze i złożone, szyk, interpunkcja, elipsa oraz wykresy zdań.
