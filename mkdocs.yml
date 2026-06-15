@@ -34,6 +34,7 @@ extra_css:
   - stylesheets/pronoun-narrative.css
   - stylesheets/numeral-narrative.css
   - stylesheets/adverb-narrative.css
+  - stylesheets/preposition-narrative.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
@@ -113,10 +114,10 @@ nav:
               - Przysłówki w opowieści: gramatyka/czesci-mowy/przyslowek/przyslowki-w-tekscie.md
           - Przyimek:
               - Wprowadzenie: gramatyka/czesci-mowy/przyimek/index.md
-              - Przypadki i rekcja: gramatyka/czesci-mowy/przyimek/przypadki-i-rekcja.md
-              - Znaczenie i rodzaje: gramatyka/czesci-mowy/przyimek/znaczenie-i-rodzaje.md
-              - Składnia i pisownia: gramatyka/czesci-mowy/przyimek/skladnia-i-pisownia.md
-              - Przyimki w tekście: gramatyka/czesci-mowy/przyimek/przyimki-w-tekscie.md
+              - Przyimek wybiera przypadek: gramatyka/czesci-mowy/przyimek/przypadki-i-rekcja.md
+              - Jaką relację buduje przyimek: gramatyka/czesci-mowy/przyimek/znaczenie-i-rodzaje.md
+              - Budowa, szyk i pisownia: gramatyka/czesci-mowy/przyimek/skladnia-i-pisownia.md
+              - Przyimki w opowieści: gramatyka/czesci-mowy/przyimek/przyimki-w-tekscie.md
           - Spójnik:
               - Wprowadzenie: gramatyka/czesci-mowy/spojnik/index.md
               - Spójniki współrzędne: gramatyka/czesci-mowy/spojnik/wspolrzedne.md
