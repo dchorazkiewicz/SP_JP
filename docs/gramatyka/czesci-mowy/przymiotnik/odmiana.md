@@ -42,12 +42,13 @@ W formach **dobr-y, dobr-ego, dobr-emu, dobr-ym** zwykle pozostaje temat **dobr-
 
 <div class="example-series">
   <div class="series-header"><strong>dobry przewodnik</strong></div>
-  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">y</span></span> <span class="noun-anchor">przewodnik</span> rozpoczął wycieczkę.</p><span class="change-note">kto?</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>Nie ma <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span>.</p><span class="change-note">kogo?</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>Pomagamy <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">emu</span></span> <span class="noun-anchor">przewodnikowi</span>.</p><span class="change-note">komu?</span></div>
-  <div class="example-row"><span class="grammar-badge">B.</span><p>Widzimy <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span>.</p><span class="change-note">jak dopełniacz</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>Idziemy z <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ym</span></span> <span class="noun-anchor">przewodnikiem</span>.</p><span class="change-note">z kim?</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms.</span><p>Mówimy o <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ym</span></span> <span class="noun-anchor">przewodniku</span>.</p><span class="change-note">o kim?</span></div>
+  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">y</span></span> <span class="noun-anchor">przewodnik</span></p><span class="change-note">kto?</span></div>
+  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span></p><span class="change-note">kogo?</span></div>
+  <div class="example-row"><span class="grammar-badge">C.</span><p>pomagam <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">emu</span></span> <span class="noun-anchor">przewodnikowi</span></p><span class="change-note">komu?</span></div>
+  <div class="example-row"><span class="grammar-badge">B.</span><p>widzę <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span></p><span class="change-note">jak dopełniacz</span></div>
+  <div class="example-row"><span class="grammar-badge">N.</span><p>idę z <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ym</span></span> <span class="noun-anchor">przewodnikiem</span></p><span class="change-note">z kim?</span></div>
+  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ym</span></span> <span class="noun-anchor">przewodniku</span></p><span class="change-note">o kim?</span></div>
+  <div class="example-row"><span class="grammar-badge">W.</span><p><span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">y</span></span> <span class="noun-anchor">przewodniku</span>!</p><span class="change-note">jak mianownik</span></div>
 </div>
 
 W bierniku rodzaju męskiego nie ma jednego wzoru:
@@ -62,31 +63,22 @@ Przy nazwach osób i wielu zwierząt biernik jest podobny do dopełniacza. Przy 
   <p>Forma przymiotnika zależy także od tego, czy rzeczownik rodzaju męskiego nazywa osobę, istotę żywą czy przedmiot nieożywiony.</p>
 </div>
 
-## Rodzaj żeński
+## Rodzaj żeński i nijaki
 
-<div class="example-series">
-  <div class="series-header"><strong>dobra książka</strong></div>
-  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus">dobra</span> <span class="noun-anchor">książka</span></p><span class="change-note">-a</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus">dobrej</span> <span class="noun-anchor">książki</span></p><span class="change-note">-ej</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>przyglądam się <span class="form-focus">dobrej</span> <span class="noun-anchor">książce</span></p><span class="change-note">-ej</span></div>
-  <div class="example-row"><span class="grammar-badge">B.</span><p>czytam <span class="form-focus">dobrą</span> <span class="noun-anchor">książkę</span></p><span class="change-note">-ą</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>idę z <span class="form-focus">dobrą</span> <span class="noun-anchor">książką</span></p><span class="change-note">-ą</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus">dobrej</span> <span class="noun-anchor">książce</span></p><span class="change-note">-ej</span></div>
-</div>
-
-## Rodzaj nijaki
-
-<div class="example-series">
-  <div class="series-header"><strong>dobre rozwiązanie</strong></div>
-  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus">dobre</span> <span class="noun-anchor">rozwiązanie</span></p><span class="change-note">-e</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus">dobrego</span> <span class="noun-anchor">rozwiązania</span></p><span class="change-note">-ego</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>przyglądam się <span class="form-focus">dobremu</span> <span class="noun-anchor">rozwiązaniu</span></p><span class="change-note">-emu</span></div>
-  <div class="example-row"><span class="grammar-badge">B.</span><p>wybieram <span class="form-focus">dobre</span> <span class="noun-anchor">rozwiązanie</span></p><span class="change-note">jak mianownik</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>pracuję nad <span class="form-focus">dobrym</span> <span class="noun-anchor">rozwiązaniem</span></p><span class="change-note">-ym</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus">dobrym</span> <span class="noun-anchor">rozwiązaniu</span></p><span class="change-note">-ym</span></div>
+<div class="comparison-grid">
+  <div class="comparison-item"><span class="comparison-label">rodzaj żeński</span><p><span class="form-focus">dobra</span> <span class="noun-anchor">książka</span><br>nie ma <span class="form-focus">dobrej</span> <span class="noun-anchor">książki</span><br>czytam <span class="form-focus">dobrą</span> <span class="noun-anchor">książkę</span><br>idę z <span class="form-focus">dobrą</span> <span class="noun-anchor">książką</span><br>mówię o <span class="form-focus">dobrej</span> <span class="noun-anchor">książce</span></p></div>
+  <div class="comparison-item"><span class="comparison-label">rodzaj nijaki</span><p><span class="form-focus">dobre</span> <span class="noun-anchor">rozwiązanie</span><br>nie ma <span class="form-focus">dobrego</span> <span class="noun-anchor">rozwiązania</span><br>wybieram <span class="form-focus">dobre</span> <span class="noun-anchor">rozwiązanie</span><br>pracuję nad <span class="form-focus">dobrym</span> <span class="noun-anchor">rozwiązaniem</span><br>mówię o <span class="form-focus">dobrym</span> <span class="noun-anchor">rozwiązaniu</span></p></div>
 </div>
 
 W rodzaju nijakim biernik liczby pojedynczej jest równy mianownikowi.
+
+Wołacz przymiotnika ma zwykle taką samą formę jak mianownik:
+
+> <span class="form-focus">dobry</span> <span class="noun-anchor">przewodniku</span>;  
+> <span class="form-focus">dobra</span> <span class="noun-anchor">książko</span>;  
+> <span class="form-focus">dobre</span> <span class="noun-anchor">dziecko</span>.
+
+Zwroty do przedmiotów, takie jak **dobra książko**, pojawiają się głównie w uosobieniu, poezji lub żarcie.
 
 ## Liczba mnoga
 
@@ -155,6 +147,7 @@ Przypadek ustalamy z całego zdania, a nie z samej końcówki.
   <li>Przymiotnik odmienia się razem z rzeczownikiem przez rodzaje, liczby i przypadki.</li>
   <li>W rodzaju męskim biernik zależy od znaczenia i żywotności rzeczownika.</li>
   <li>W liczbie mnogiej rozróżniamy formy męskoosobowe i niemęskoosobowe.</li>
+  <li>Wołacz przymiotnika jest zwykle równy mianownikowi.</li>
   <li>Odmiana może zmieniać końcówkę oraz głoski w temacie.</li>
   <li>Ta sama forma może należeć do różnych przypadków.</li>
   <li>Formę przymiotnika analizujemy w całej grupie rzeczownikowej i w pełnym zdaniu.</li>
