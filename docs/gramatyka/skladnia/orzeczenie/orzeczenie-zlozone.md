@@ -36,7 +36,7 @@ Samo **musi** wskazuje konieczność, ale bez kontekstu nie mówi jeszcze, czego
   <div class="predicate-row"><span class="predicate-badge">umiejętność</span><p>Marta <span class="predicate-mark predicate-mark--compound">potrafi obsługiwać</span> urządzenie.</p><span class="predicate-note">zdolność</span></div>
 </div>
 
-Każda konstrukcja mówi o tej samej możliwej czynności, ale inaczej ocenia jej wykonanie.
+Każda konstrukcja łączy ocenę albo warunek wykonania działania z bezokolicznikiem nazywającym czynność.
 
 <div class="predicate-comparison">
   <div class="predicate-comparison-item"><span class="predicate-comparison-label">konieczność</span><p>Marta <strong>musi przyjść</strong>.</p><p>Brak przyjścia byłby naruszeniem obowiązku.</p></div>
@@ -64,7 +64,7 @@ Czasownik fazowy pokazuje, na jakim etapie znajduje się czynność.
 
 <div class="predicate-series">
   <div class="predicate-row"><span class="predicate-badge">początek</span><p>Marta <span class="predicate-mark predicate-mark--compound">zaczęła pisać</span> raport o ósmej.</p><span class="predicate-note">czynność się rozpoczyna</span></div>
-  <div class="predicate-row"><span class="predicate-badge">kontynuacja</span><p>Marta <span class="predicate-mark predicate-mark--compound">kontynuowała sprawdzanie</span> wyników.</p><span class="predicate-note">dalszy ciąg</span></div>
+  <div class="predicate-row"><span class="predicate-badge">kontynuacja</span><p>Marta <span class="predicate-mark predicate-mark--compound">nie przestawała sprawdzać</span> wyników.</p><span class="predicate-note">czynność nadal trwa</span></div>
   <div class="predicate-row"><span class="predicate-badge">ponowienie</span><p>Marta <span class="predicate-mark predicate-mark--compound">zaczęła ponownie analizować</span> dane.</p><span class="predicate-note">nowy początek</span></div>
   <div class="predicate-row"><span class="predicate-badge">koniec</span><p>Marta <span class="predicate-mark predicate-mark--compound">przestała pisać</span> o siedemnastej.</p><span class="predicate-note">czynność się kończy</span></div>
   <div class="predicate-row"><span class="predicate-badge">zakończenie</span><p>Marta <span class="predicate-mark predicate-mark--compound">skończyła porządkować</span> dokumenty.</p><span class="predicate-note">czynność doprowadzona do końca</span></div>
