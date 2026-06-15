@@ -48,7 +48,7 @@ Nie wystarczy więc powiedzieć, że **właśnie** „podkreśla”. Trzeba jesz
 > <span class="indecl-focus">Przecież</span> ustaliliśmy termin wczoraj.  
 > <span class="indecl-focus">Przecież</span> mówiłam, że raport nie jest gotowy.
 
-Mówiący przedstawia treść jako wcześniej znaną, oczywistą albo możliwą do odtworzenia. W zależności od sytuacji **przecież** może brzmieć spokojnie, obronnie, zniecierpliwienie albo perswazyjnie.
+Mówiący przedstawia treść jako wcześniej znaną, oczywistą albo możliwą do odtworzenia. W zależności od sytuacji wypowiedź z **przecież** może być spokojnym przypomnieniem, obroną własnego stanowiska, wyrazem zniecierpliwienia albo próbą perswazji.
 
 > Przecież możesz zapytać.
 
