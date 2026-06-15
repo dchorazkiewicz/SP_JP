@@ -2,122 +2,227 @@
 
 <div class="noun-lesson" markdown>
 
-<div class="lead-box">
-Rzeczownik ma rodzaj gramatyczny i zwykle występuje w liczbie pojedynczej albo mnogiej. Te właściwości wpływają na formę wyrazów, które łączą się z rzeczownikiem.
+<div class="lead-box" markdown>
+
+Każdy rzeczownik ma rodzaj gramatyczny. Większość rzeczowników może też występować w liczbie pojedynczej i mnogiej. Te właściwości widać nie tylko w samym rzeczowniku, lecz również w formach przymiotników, zaimków, liczebników i czasowników, które się z nim łączą.
+
 </div>
 
-## Rodzaj widać w całym zdaniu
+## Trzy przedmioty z muzealnego magazynu
 
-Nie uczymy się rodzaju wyłącznie z pojedynczej etykiety. Najłatwiej zobaczyć go w połączeniu z zaimkiem, przymiotnikiem i czasownikiem.
+<div class="noun-story" markdown>
+  <div class="noun-story__title">Dom, szkoła i muzeum</div>
+  <div class="noun-story__body" markdown>
+
+Podczas przygotowywania wystawy uczniowie znaleźli trzy makiety: drewniany dom, dawną szkołę i małe muzeum.
+
+Pani Marta opisała je trzema zdaniami:
+
+> <span class="agreement-mark">Ten stary</span> <strong>dom</strong> <span class="agreement-mark">stał</span> kiedyś przy rynku.  
+> <span class="agreement-mark">Ta stara</span> <strong>szkoła</strong> <span class="agreement-mark">stała</span> obok kościoła.  
+> <span class="agreement-mark">To stare</span> <strong>muzeum</strong> <span class="agreement-mark">stało</span> nad rzeką.
+
+Rzeczowniki mają różne rodzaje. Widać to po całych połączeniach:
+
+> ten — stary — stał;  
+> ta — stara — stała;  
+> to — stare — stało.
+
+Inne wyrazy dopasowały swoją formę do rzeczownika.
+
+  </div>
+</div>
+
+## Rodzaj gramatyczny nie jest tym samym co płeć
+
+Rodzaj jest właściwością gramatyczną wyrazu. Czasem odpowiada płci osoby:
+
+> ten chłopiec; ta dziewczynka.
+
+Bardzo często nie ma jednak związku z płcią ani nawet z istotami żywymi:
+
+> ten stół — rodzaj męski;  
+> ta mapa — rodzaj żeński;  
+> to okno — rodzaj nijaki.
+
+Stół nie jest „mężczyzną”, a mapa „kobietą”. Rodzaj wskazuje sposób, w jaki rzeczownik łączy się z innymi wyrazami i odmienia.
+
+<div class="noun-checkpoint">
+  <div class="noun-checkpoint__title">Jak najłatwiej rozpoznać rodzaj?</div>
+  <p>Pomagają połączenia <strong>ten</strong>, <strong>ta</strong>, <strong>to</strong> oraz formy przymiotników: <em>ten nowy dom, ta nowa szkoła, to nowe muzeum</em>.</p>
+  <p class="noun-checkpoint__term">Rodzaj rozpoznajemy w liczbie pojedynczej.</p>
+</div>
+
+## Rodzaj męski, żeński i nijaki
 
 <div class="sentence-series sentence-series--compact">
-  <div class="sentence-row">
-    <span class="grammar-badge">męski</span>
-    <p><span class="agreement-mark">Ten nowy</span> <strong>dom</strong> <span class="agreement-mark">stał</span> przy rynku.</p>
-  </div>
-  <div class="sentence-row">
-    <span class="grammar-badge">żeński</span>
-    <p><span class="agreement-mark">Ta nowa</span> <strong>szkoła</strong> <span class="agreement-mark">stała</span> przy rynku.</p>
-  </div>
-  <div class="sentence-row">
-    <span class="grammar-badge">nijaki</span>
-    <p><span class="agreement-mark">To nowe</span> <strong>muzeum</strong> <span class="agreement-mark">stało</span> przy rynku.</p>
-  </div>
+  <div class="sentence-row"><span class="grammar-badge">męski</span><p><span class="agreement-mark">Ten wysoki</span> <strong>budynek</strong> <span class="agreement-mark">został odnowiony</span>.</p><span class="change-note">ten</span></div>
+  <div class="sentence-row"><span class="grammar-badge">żeński</span><p><span class="agreement-mark">Ta wysoka</span> <strong>wieża</strong> <span class="agreement-mark">została odnowiona</span>.</p><span class="change-note">ta</span></div>
+  <div class="sentence-row"><span class="grammar-badge">nijaki</span><p><span class="agreement-mark">To wysokie</span> <strong>okno</strong> <span class="agreement-mark">zostało odnowione</span>.</p><span class="change-note">to</span></div>
 </div>
 
-Zmienia się nie tylko rzeczownik. Do jego rodzaju dostosowują się także inne wyrazy: **ten–ta–to**, **nowy–nowa–nowe**, **stał–stała–stało**.
+Końcówka rzeczownika często podpowiada rodzaj, ale nie daje pewności.
 
-## Rodzaj męski: trzy ważne grupy
+Wiele rzeczowników żeńskich kończy się na **-a**:
 
-W rodzaju męskim rozróżniamy rzeczowniki męskoosobowe, męskożywotne nieosobowe i męskonieżywotne. Różnicę szczególnie dobrze widać w bierniku.
+> szkoła, mapa, książka.
+
+Są jednak rzeczowniki męskie zakończone na **-a**:
+
+> poeta, kierowca, kolega, mężczyzna.
+
+Istnieją też rzeczowniki żeńskie bez końcowego **-a**:
+
+> noc, mysz, radość, jesień.
+
+Dlatego bezpieczniej sprawdzać całe połączenie:
+
+> ten poeta; ta noc; ta radość.
+
+## Trzy grupy rzeczowników rodzaju męskiego
+
+W rodzaju męskim ważne jest rozróżnienie między nazwami osób, innych istot żywych i przedmiotów nieożywionych. Różnicę dobrze widać w bierniku liczby pojedynczej.
 
 <div class="sentence-series sentence-series--compact">
-  <div class="sentence-row">
-    <span class="grammar-badge">męskoosobowy</span>
-    <p>Na korytarzu spotkałem <span class="form-focus">uczni<span class="ending-part">a</span></span>.</p>
-    <span class="change-note">biernik jak dopełniacz</span>
-  </div>
-  <div class="sentence-row">
-    <span class="grammar-badge">męskożywotny</span>
-    <p>W ogrodzie zobaczyłem <span class="form-focus">ps<span class="ending-part">a</span></span>.</p>
-    <span class="change-note">biernik jak dopełniacz</span>
-  </div>
-  <div class="sentence-row">
-    <span class="grammar-badge">męskonieżywotny</span>
-    <p>W sklepie zobaczyłem <span class="form-focus">stół<span class="zero-ending">∅</span></span>.</p>
-    <span class="change-note">biernik jak mianownik</span>
-  </div>
+  <div class="sentence-row"><span class="grammar-badge">męskoosobowy</span><p>Spotkałem <span class="form-focus">uczni<span class="ending-part">a</span></span>.</p><span class="change-note">biernik jak dopełniacz</span></div>
+  <div class="sentence-row"><span class="grammar-badge">męskożywotny</span><p>Zobaczyłem <span class="form-focus">ps<span class="ending-part">a</span></span>.</p><span class="change-note">biernik jak dopełniacz</span></div>
+  <div class="sentence-row"><span class="grammar-badge">męskonieżywotny</span><p>Zobaczyłem <span class="form-focus">stół<span class="zero-ending">∅</span></span>.</p><span class="change-note">biernik jak mianownik</span></div>
 </div>
+
+Porównaj:
+
+> nie ma ucznia — widzę ucznia;  
+> nie ma psa — widzę psa;  
+> stoi stół — widzę stół.
+
+Nazwy osób i zwierząt mają w bierniku formę równą dopełniaczowi. Nazwy przedmiotów nieożywionych mają często biernik równy mianownikowi.
+
+To ogólna zasada, ale język zawiera wyjątki i wyrazy, których zachowanie zmieniało się historycznie. W podstawowej analizie najważniejsze jest rozpoznanie wzoru w konkretnym zdaniu.
 
 ## Rodzaj w liczbie mnogiej
 
-W liczbie mnogiej najważniejsze jest rozróżnienie między formami męskoosobowymi i niemęskoosobowymi.
+W liczbie mnogiej najważniejszy jest podział na formy **męskoosobowe** i **niemęskoosobowe**.
 
-<div class="sentence-comparison">
-  <div class="sentence-comparison__item">
-    <span class="comparison-label">męskoosobowy</span>
-    <p><span class="agreement-mark">Ci dobrzy</span> <strong>uczniowie</strong> <span class="agreement-mark">przyszli</span> wcześniej.</p>
-  </div>
-  <div class="sentence-comparison__item">
-    <span class="comparison-label">niemęskoosobowy</span>
-    <p><span class="agreement-mark">Te dobre</span> <strong>książki</strong> <span class="agreement-mark">leżały</span> na stole.</p>
-  </div>
-  <div class="sentence-comparison__item">
-    <span class="comparison-label">niemęskoosobowy</span>
-    <p><span class="agreement-mark">Te szybkie</span> <strong>psy</strong> <span class="agreement-mark">biegły</span> przez park.</p>
-  </div>
+### Grupy męskoosobowe
+
+> <span class="agreement-mark">Ci młodzi</span> <strong>uczniowie</strong> <span class="agreement-mark">przyszli</span> wcześniej.  
+> <span class="agreement-mark">Tamci doświadczeni</span> <strong>lekarze</strong> <span class="agreement-mark">zostali</span> w szpitalu.
+
+Forma męskoosobowa dotyczy grup obejmujących co najmniej jedną osobę rodzaju męskiego:
+
+> uczniowie; nauczyciele; Maja i Kuba przyszli.
+
+### Grupy niemęskoosobowe
+
+> <span class="agreement-mark">Te ciekawe</span> <strong>książki</strong> <span class="agreement-mark">leżały</span> na stole.  
+> <span class="agreement-mark">Te szybkie</span> <strong>psy</strong> <span class="agreement-mark">biegły</span> przez park.  
+> <span class="agreement-mark">Te młode</span> <strong>uczennice</strong> <span class="agreement-mark">przyszły</span> wcześniej.
+
+Do grup niemęskoosobowych należą między innymi nazwy kobiet, dzieci, zwierząt, roślin, przedmiotów i pojęć.
+
+<div class="noun-why">
+<strong>„Męskoosobowy” nie znaczy „złożony wyłącznie z mężczyzn”.</strong>
+Grupa <em>Maja i Kuba</em> wymaga formy <em>przyszli</em>, ponieważ obejmuje osobę rodzaju męskiego. Grupa <em>Maja i Lena</em> przyjmuje formę <em>przyszły</em>.
 </div>
 
-## Liczba pojedyncza i mnoga w zdaniach
+## Liczba pojedyncza i mnoga
 
-Poniżej ten sam rzeczownik występuje najpierw jako jeden obiekt, a potem jako kilka obiektów. Zmiana liczby wpływa również na przymiotnik i czasownik.
-
-<div class="number-pair">
-  <div class="number-pair__row">
-    <span class="grammar-badge">liczba pojedyncza</span>
-    <p>Na biurku <span class="agreement-mark">leżała</span> <span class="agreement-mark">jedna stara</span> <span class="form-focus">książk<span class="ending-part">a</span></span>.</p>
-  </div>
-  <div class="number-pair__row">
-    <span class="grammar-badge">liczba mnoga</span>
-    <p>Na biurku <span class="agreement-mark">leżały</span> <span class="agreement-mark">trzy stare</span> <span class="form-focus">książk<span class="ending-part">i</span></span>.</p>
-  </div>
-</div>
+Liczba pojedyncza wskazuje zwykle jeden obiekt, a liczba mnoga — więcej niż jeden:
 
 <div class="number-pair">
-  <div class="number-pair__row">
-    <span class="grammar-badge">liczba pojedyncza</span>
-    <p>Przed szkołą <span class="agreement-mark">czekał młody</span> <span class="form-focus">uczeń<span class="zero-ending">∅</span></span>.</p>
-  </div>
-  <div class="number-pair__row">
-    <span class="grammar-badge">liczba mnoga</span>
-    <p>Przed szkołą <span class="agreement-mark">czekali młodzi</span> <span class="form-focus">uczni<span class="ending-part">owie</span></span>.</p>
-  </div>
+  <div class="number-pair__row"><span class="grammar-badge">pojedyncza</span><p>Na biurku <span class="agreement-mark">leżała jedna stara</span> <span class="form-focus">książk<span class="ending-part">a</span></span>.</p></div>
+  <div class="number-pair__row"><span class="grammar-badge">mnoga</span><p>Na biurku <span class="agreement-mark">leżały trzy stare</span> <span class="form-focus">książk<span class="ending-part">i</span></span>.</p></div>
 </div>
 
 <div class="number-pair">
-  <div class="number-pair__row">
-    <span class="grammar-badge">liczba pojedyncza</span>
-    <p>W sali <span class="agreement-mark">było otwarte</span> <span class="form-focus">okn<span class="ending-part">o</span></span>.</p>
-  </div>
-  <div class="number-pair__row">
-    <span class="grammar-badge">liczba mnoga</span>
-    <p>W sali <span class="agreement-mark">były otwarte</span> <span class="form-focus">okn<span class="ending-part">a</span></span>.</p>
-  </div>
+  <div class="number-pair__row"><span class="grammar-badge">pojedyncza</span><p>Przed szkołą <span class="agreement-mark">czekał młody</span> <span class="form-focus">uczeń<span class="zero-ending">∅</span></span>.</p></div>
+  <div class="number-pair__row"><span class="grammar-badge">mnoga</span><p>Przed szkołą <span class="agreement-mark">czekali młodzi</span> <span class="form-focus">uczni<span class="ending-part">owie</span></span>.</p></div>
 </div>
 
-## Rzeczowniki występujące tylko w jednej liczbie
+<div class="number-pair">
+  <div class="number-pair__row"><span class="grammar-badge">pojedyncza</span><p>W sali <span class="agreement-mark">było otwarte</span> <span class="form-focus">okn<span class="ending-part">o</span></span>.</p></div>
+  <div class="number-pair__row"><span class="grammar-badge">mnoga</span><p>W sali <span class="agreement-mark">były otwarte</span> <span class="form-focus">okn<span class="ending-part">a</span></span>.</p></div>
+</div>
 
-Nie każdy rzeczownik ma naturalną parę liczby pojedynczej i mnogiej.
+Zmiana liczby wpływa na całą grupę wyrazów:
 
-| Typ | Zdanie | Komentarz |
-|---|---|---|
-| zwykle tylko liczba pojedyncza | **Mleko** stało w lodówce. | nazwa substancji |
-| zwykle tylko liczba pojedyncza | **Młodzież** zebrała się przed szkołą. | zbiorowość, mimo że oznacza wiele osób |
-| tylko liczba mnoga | **Drzwi** były zamknięte. | jeden obiekt ma formę mnogą |
-| tylko liczba mnoga | **Nożyczki** leżały na biurku. | forma mnoga niezależnie od liczby kompletów |
+> ta stara książka leżała;  
+> te stare książki leżały.
 
-!!! note "Znaczenie może zmieniać się wraz z liczbą"
-    W zdaniu „W szklance była **woda**” chodzi o substancję. W zdaniu „Wody Bałtyku były wzburzone” forma **wody** oznacza obszar lub masy wodne. Nie jest to zwykłe policzenie kilku sztuk wody.
+## Forma liczby nie zawsze odpowiada temu, ile elementów mamy na myśli
+
+### Rzeczowniki zbiorowe
+
+> <strong>Młodzież</strong> zebrała się przed szkołą.  
+> <strong>Rodzeństwo</strong> wróciło do domu.
+
+Wyrazy oznaczają wiele osób, ale mają formę liczby pojedynczej. Dlatego mówimy:
+
+> młodzież zebrała się, nie: ~~młodzież zebrali się~~.
+
+### Rzeczowniki używane zwykle tylko w liczbie mnogiej
+
+> <strong>Drzwi</strong> były zamknięte.  
+> <strong>Nożyczki</strong> leżały na biurku.  
+> <strong>Skrzypce</strong> znajdowały się w futerale.
+
+Jedne drzwi lub jedne nożyczki nadal mają formę liczby mnogiej. Takie rzeczowniki nazywa się **pluralia tantum**, czyli „występujące tylko w liczbie mnogiej”.
+
+### Rzeczowniki używane zwykle tylko w liczbie pojedynczej
+
+> <strong>Mleko</strong> stało w lodówce.  
+> <strong>Piasek</strong> był mokry.  
+> <strong>Cierpliwość</strong> okazała się potrzebna.
+
+Nazwy substancji, cech i pojęć abstrakcyjnych często nie mają zwykłej liczby mnogiej. Nazywa się je **singularia tantum**, czyli „występujące tylko w liczbie pojedynczej”.
+
+Nie oznacza to, że forma mnoga jest zawsze niemożliwa. Może pojawić się po zmianie znaczenia:
+
+> wody mineralne — różne rodzaje lub porcje wody;  
+> piaski pustyni — rozległe obszary piaszczyste;  
+> młodości bohaterów — różne okresy życia kilku osób.
+
+## Liczba może zmieniać znaczenie
+
+> Na stole leżał <strong>papier</strong>. — materiał albo pojedynczy arkusz.  
+> Urzędnik sprawdził <strong>papiery</strong>. — dokumenty.
+
+> W szklance była <strong>woda</strong>. — substancja.  
+> <strong>Wody</strong> Bałtyku były wzburzone. — obszar lub masy wodne.
+
+Forma mnoga nie zawsze oznacza zwykłe „kilka sztuk tego samego”. Czasem tworzy nowe, bardziej szczegółowe znaczenie.
+
+## Rzeczowniki o rodzaju zależnym od osoby
+
+Niektóre rzeczowniki mogą odnosić się do osoby różnych płci, a rodzaj określeń zależy od tego, o kim mówimy:
+
+> Ten maruda znowu narzekał.  
+> Ta maruda znowu narzekała.
+
+Podobnie zachowują się czasem wyrazy **sierota**, **gaduła**, **niezdara**. Nazywa się je rzeczownikami wspólnorodzajowymi. Ich forma pozostaje taka sama, lecz rodzaj ujawniają wyrazy towarzyszące.
+
+## Jak analizować rodzaj i liczbę?
+
+<div class="noun-step-list">
+  <div class="noun-step"><strong>Znajdź formę podstawową rzeczownika.</strong> <em>książkami → książka</em>, <em>uczniowie → uczeń</em>.</div>
+  <div class="noun-step"><strong>Sprawdź rodzaj w liczbie pojedynczej.</strong> Pomagają połączenia <em>ten, ta, to</em>.</div>
+  <div class="noun-step"><strong>Ustal liczbę użytej formy.</strong> Nie kieruj się wyłącznie liczbą elementów w rzeczywistości: <em>młodzież</em> ma liczbę pojedynczą, a <em>drzwi</em> mnogą.</div>
+  <div class="noun-step"><strong>Sprawdź zgodę.</strong> Zobacz, jak dopasowały się przymiotniki, zaimki i czasowniki.</div>
+  <div class="noun-step"><strong>W liczbie mnogiej rozróżnij formy męskoosobowe i niemęskoosobowe.</strong> <em>uczniowie przyszli</em>, ale <em>uczennice przyszły</em>.</div>
+</div>
+
+<div class="noun-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Rodzaj gramatyczny jest cechą rzeczownika, a nie opisem płci przedmiotu.</li>
+  <li>W liczbie pojedynczej wyróżniamy rodzaj męski, żeński i nijaki.</li>
+  <li>W rodzaju męskim ważne są grupy męskoosobowa, męskożywotna i męskonieżywotna.</li>
+  <li>W liczbie mnogiej rozróżniamy formy męskoosobowe i niemęskoosobowe.</li>
+  <li>Zmiana liczby rzeczownika wpływa na formę wyrazów, które się z nim łączą.</li>
+  <li>Niektóre rzeczowniki występują zwykle tylko w jednej liczbie albo mają formę liczby niezgodną z rzeczywistą liczbą elementów.</li>
+  <li>Kontekst może sprawić, że liczba mnoga przyniesie nowe znaczenie wyrazu.</li>
+</ul>
+</div>
 
 [Przejdź dalej: przypadki i odmiana](../przypadki-i-odmiana/){ .md-button .md-button--primary }
 
