@@ -35,6 +35,7 @@ extra_css:
   - stylesheets/numeral-narrative.css
   - stylesheets/adverb-narrative.css
   - stylesheets/preposition-narrative.css
+  - stylesheets/conjunction-narrative.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
@@ -120,10 +121,10 @@ nav:
               - Przyimki w opowieści: gramatyka/czesci-mowy/przyimek/przyimki-w-tekscie.md
           - Spójnik:
               - Wprowadzenie: gramatyka/czesci-mowy/spojnik/index.md
-              - Spójniki współrzędne: gramatyka/czesci-mowy/spojnik/wspolrzedne.md
-              - Podrzędne i interpunkcja: gramatyka/czesci-mowy/spojnik/podrzedne-i-interpunkcja.md
-              - Wielowyrazowe i styl: gramatyka/czesci-mowy/spojnik/wielowyrazowe-i-styl.md
-              - Spójniki w tekście: gramatyka/czesci-mowy/spojnik/spojniki-w-tekscie.md
+              - Relacje między równorzędnymi członami: gramatyka/czesci-mowy/spojnik/wspolrzedne.md
+              - Zależność i granice zdań: gramatyka/czesci-mowy/spojnik/podrzedne-i-interpunkcja.md
+              - Pary, zakres i styl: gramatyka/czesci-mowy/spojnik/wielowyrazowe-i-styl.md
+              - Spójniki w opowieści: gramatyka/czesci-mowy/spojnik/spojniki-w-tekscie.md
           - Partykuła:
               - Wprowadzenie: gramatyka/czesci-mowy/partykula/index.md
               - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/partykula/znaczenie-i-rozpoznawanie.md
