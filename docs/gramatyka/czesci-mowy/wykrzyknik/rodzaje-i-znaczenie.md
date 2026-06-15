@@ -2,93 +2,189 @@
 
 <div class="interjection-lesson" markdown>
 
-<div class="indecl-lead">
-Wykrzykniki nie opisują emocji tak jak zwykłe zdania — bezpośrednio je ujawniają. To samo słowo może mieć różne znaczenie zależnie od sytuacji, intonacji i znaku interpunkcyjnego.
+<div class="lesson-lead" markdown>
+
+Wykrzykniki tworzą niejednorodną grupę. Jedne ujawniają emocję, inne podtrzymują kontakt, przywołują odbiorcę lub zatrzymują działanie, a jeszcze inne odtwarzają dźwięki. Żeby zrozumieć wykrzyknik, trzeba pytać nie tylko **co oznacza**, lecz przede wszystkim **co robi w danej sytuacji**.
+
 </div>
 
-## Radość, zachwyt i ulga
+## Reakcja pojawia się przed opisem
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">radość</span><p><span class="indecl-focus">Hurra!</span> Wygraliśmy konkurs.</p><span class="indecl-note">silna radość</span></div>
-  <div class="indecl-row"><span class="indecl-badge">zachwyt</span><p><span class="indecl-focus">Och!</span> Jak pięknie wygląda to jezioro.</p><span class="indecl-note">zachwyt</span></div>
-  <div class="indecl-row"><span class="indecl-badge">ulga</span><p><span class="indecl-focus">Uff!</span> Zdążyliśmy przed zamknięciem.</p><span class="indecl-note">zakończenie napięcia</span></div>
-  <div class="indecl-row"><span class="indecl-badge">podziw</span><p><span class="indecl-focus">Brawo!</span> To była znakomita prezentacja.</p><span class="indecl-note">pochwała</span></div>
+> <span class="interjection-focus">Ojej!</span> Szyba pękła.  
+> <span class="interjection-focus">Au!</span> Skaleczyłem dłoń.  
+> <span class="interjection-emotion">Uff!</span> To tylko niewielkie pęknięcie.
+
+Wykrzykniki pojawiają się często jako pierwsza, niemal automatyczna odpowiedź na zdarzenie. Dopiero dalsze zdanie wyjaśnia, co się stało.
+
+- **ojej** sygnalizuje zaskoczenie lub niepokój;
+- **au** jest reakcją na ból;
+- **uff** pokazuje ustąpienie napięcia.
+
+Wykrzyknik nie musi nazywać emocji precyzyjnie. Jego znaczenie bywa szerokie, a właściwe odczytanie zależy od kontekstu.
+
+## Wykrzykniki emocjonalne
+
+<div class="interjection-series">
+  <div class="interjection-series__header"><strong>Emocja i bezpośrednia reakcja</strong></div>
+  <div class="interjection-row"><span class="interjection-badge">radość</span><p><span class="interjection-emotion">Hurra!</span> Udało nam się zakończyć projekt.</p><span class="interjection-note">silna radość</span></div>
+  <div class="interjection-row"><span class="interjection-badge">zachwyt</span><p><span class="interjection-emotion">Ach!</span> Jak spokojnie wygląda jezioro.</p><span class="interjection-note">podziw</span></div>
+  <div class="interjection-row"><span class="interjection-badge">ulga</span><p><span class="interjection-emotion">Uff!</span> Pociąg jeszcze nie odjechał.</p><span class="interjection-note">koniec napięcia</span></div>
+  <div class="interjection-row"><span class="interjection-badge">ból</span><p><span class="interjection-focus">Au!</span> To było gorące.</p><span class="interjection-note">reakcja fizyczna</span></div>
+  <div class="interjection-row"><span class="interjection-badge">niepokój</span><p><span class="interjection-focus">Ojej!</span> Drzwi zostały otwarte.</p><span class="interjection-note">zaskoczenie i obawa</span></div>
+  <div class="interjection-row"><span class="interjection-badge">niesmak</span><p><span class="interjection-focus">Fe!</span> Nie kładź jedzenia na podłodze.</p><span class="interjection-note">dezaprobata</span></div>
 </div>
 
-## Ból, strach i zaskoczenie
+Wykrzyknik emocjonalny ujawnia stan mówiącego, ale nie musi wskazywać jego przyczyny. Samo **uff!** może oznaczać ulgę po zdanym egzaminie, uniknięciu wypadku albo zakończeniu trudnej pracy. Przyczynę poznajemy dopiero z sytuacji lub dalszej wypowiedzi.
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">ból</span><p><span class="indecl-focus">Au!</span> Skaleczyłem palec.</p><span class="indecl-note">reakcja na ból</span></div>
-  <div class="indecl-row"><span class="indecl-badge">strach</span><p><span class="indecl-focus">Ojej!</span> Coś poruszyło się za drzwiami.</p><span class="indecl-note">niepokój</span></div>
-  <div class="indecl-row"><span class="indecl-badge">zaskoczenie</span><p><span class="indecl-focus">O!</span> Nie spodziewałem się ciebie tutaj.</p><span class="indecl-note">nagłe odkrycie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">alarm</span><p><span class="indecl-focus">Ratunku!</span> Łódź nabiera wody.</p><span class="indecl-note">wezwanie pomocy</span></div>
+## Ocena i stosunek do rozmówcy
+
+> <span class="interjection-focus">Brawo!</span> Świetnie poprowadziłaś spotkanie.  
+> <span class="interjection-focus">Phi!</span> To miało być trudne?  
+> <span class="interjection-focus">E tam!</span> Nie przesadzajmy z tym problemem.  
+> <span class="interjection-focus">No, no!</span> Tego się po tobie nie spodziewałem.
+
+Takie formy nie tylko ujawniają emocję. Mogą również oceniać cudze zachowanie, pochwalać, lekceważyć, podważać albo sygnalizować zdziwienie.
+
+Znaczenie **no, no** jest szczególnie zależne od tonu:
+
+> <span class="interjection-focus">No, no!</span> Bardzo dobra robota. — uznanie  
+> <span class="interjection-focus">No, no!</span> Tak nie wolno. — ostrzeżenie lub nagana
+
+Ten sam zapis może więc prowadzić do przeciwstawnych interpretacji.
+
+## Wahanie, namysł i znużenie
+
+> <span class="interjection-formula">Hm…</span> Muszę to jeszcze sprawdzić.  
+> <span class="interjection-formula">Eee…</span> Nie pamiętam dokładnej daty.  
+> <span class="interjection-formula">Ech…</span> Znowu zaczynamy od początku.  
+> <span class="interjection-formula">No cóż…</span> Trzeba zmienić plan.
+
+W takich wypowiedziach ważna jest nie tylko emocja, lecz także **przebieg mówienia**. Wykrzyknik może wypełniać pauzę, sygnalizować poszukiwanie odpowiedzi, przeciągnięcie namysłu albo rezygnację.
+
+W zapisie funkcję intonacji często przejmuje wielokropek. Pokazuje, że głos nie urywa się gwałtownie, lecz słabnie, przeciąga się lub pozostaje zawieszony.
+
+<div class="interjection-checkpoint">
+  <div class="interjection-checkpoint__title">Nie każda pauza jest wykrzyknikiem</div>
+  <p>W spontanicznej mowie pojawiają się także nieplanowane dźwięki i wypełniacze. W opisie gramatycznym warto odróżnić utrwalone wykrzykniki, takie jak <strong>hm</strong> i <strong>ech</strong>, od przypadkowego przeciągania głosu.</p>
 </div>
 
-## Dezaprobata, lekceważenie i wahanie
+## Wykrzykniki przywołujące i kontaktowe
 
-- **Fe!** Nie dotykaj tego brudnymi rękami.
-- **E tam!** To nie jest aż tak trudne.
-- **Phi!** Każdy potrafiłby to zrobić.
-- **Hm…** Muszę się nad tym zastanowić.
-- **Ech…** Znowu zapomniałem kluczy.
-
-Wykrzyknik może ujawniać stosunek mówiącego bez nazywania go wprost.
-
-## Wezwanie i zwrócenie uwagi
-
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">hej</span><p><span class="indecl-focus">Hej!</span> Poczekaj na mnie.</p><span class="indecl-note">zwrócenie uwagi</span></div>
-  <div class="indecl-row"><span class="indecl-badge">halo</span><p><span class="indecl-focus">Halo!</span> Czy ktoś mnie słyszy?</p><span class="indecl-note">nawiązanie kontaktu</span></div>
-  <div class="indecl-row"><span class="indecl-badge">stop</span><p><span class="indecl-focus">Stop!</span> Nie przechodź przez ulicę.</p><span class="indecl-note">zatrzymanie działania</span></div>
-  <div class="indecl-row"><span class="indecl-badge">pst</span><p><span class="indecl-focus">Pst!</span> Spójrz na drzwi po lewej.</p><span class="indecl-note">ciche przywołanie</span></div>
+<div class="interjection-series">
+  <div class="interjection-series__header"><strong>Nawiązanie lub podtrzymanie kontaktu</strong></div>
+  <div class="interjection-row"><span class="interjection-badge">przywołanie</span><p><span class="interjection-call">Hej!</span> Poczekaj na mnie.</p><span class="interjection-note">zwrócenie uwagi</span></div>
+  <div class="interjection-row"><span class="interjection-badge">kontakt</span><p><span class="interjection-call">Halo!</span> Czy ktoś mnie słyszy?</p><span class="interjection-note">sprawdzenie łączności</span></div>
+  <div class="interjection-row"><span class="interjection-badge">ciszej</span><p><span class="interjection-call">Pst!</span> Dziecko już śpi.</p><span class="interjection-note">ciche przywołanie</span></div>
+  <div class="interjection-row"><span class="interjection-badge">zwierzę</span><p><span class="interjection-call">Kici, kici!</span> Chodź tutaj.</p><span class="interjection-note">przywołanie kota</span></div>
 </div>
 
-## Formuły kontaktu i grzecznościowe
+Ich głównym zadaniem nie jest opis emocji, lecz skierowanie uwagi odbiorcy na mówiącego lub na określone działanie.
 
-Wykrzykniki często występują jako samodzielne formuły kontaktu, ale nie każda samodzielna formuła jest gramatycznie wykrzyknikiem:
+Wykrzyknik może wystąpić sam:
 
-- **Cześć!** Miło cię widzieć. — wykrzyknik lub utrwalona formuła powitania;
-- **Hej!** Zaczekaj chwilę. — wykrzyknik przywołujący;
-- **Dzień dobry!** Przyszedłem na umówione spotkanie. — formuła powitania;
-- **Do widzenia!** Wrócę jutro rano. — formuła pożegnania;
-- **Dziękuję!** Bardzo mi pomogłeś. — forma czasownika użyta jako samodzielna formuła grzecznościowa.
+> <span class="interjection-call">Halo!</span>
 
-Wszystkie te wypowiedzi mogą działać samodzielnie komunikacyjnie, ale ich klasyfikacja gramatyczna nie jest identyczna.
+albo otworzyć dłuższą wypowiedź:
+
+> <span class="interjection-call">Halo!</span> Proszę podejść do wejścia.
+
+## Wykrzykniki nakazujące i hamujące działanie
+
+> <span class="interjection-call">Stop!</span> Nie wchodź na jezdnię.  
+> <span class="interjection-call">Cicho!</span> Rozpoczyna się nagranie.  
+> <span class="interjection-call">Precz!</span> Odejdź od drzwi.  
+> <span class="interjection-call">Hura!</span> — reakcja emocjonalna, nie nakaz
+
+Formy takie jak **stop**, **cicho** czy **precz** mogą funkcjonować jako samodzielne polecenia. Ich klasyfikacja bywa zależna od przyjętego opisu gramatycznego, ponieważ niektóre mają także wyraźne związki z innymi częściami mowy.
+
+Porównaj:
+
+> <span class="interjection-call">Cicho!</span> — samodzielne wezwanie do zachowania ciszy  
+> Mów <span class="interjection-anchor">cicho</span>. — przysłówek określający sposób mówienia
+
+W pierwszym użyciu forma działa jak bezpośredni sygnał. W drugim odpowiada na pytanie **jak?** i określa czasownik.
 
 ## Wyrazy dźwiękonaśladowcze
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">uderzenie</span><p><span class="indecl-focus">Bach!</span> Pudełko spadło z półki.</p><span class="indecl-note">nagłe uderzenie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">pukanie</span><p><span class="indecl-focus">Puk, puk!</span> Ktoś stał przed drzwiami.</p><span class="indecl-note">odgłos pukania</span></div>
-  <div class="indecl-row"><span class="indecl-badge">zegar</span><p><span class="indecl-focus">Tik-tak, tik-tak</span> — zegar odmierzał kolejne sekundy.</p><span class="indecl-note">rytm zegara</span></div>
-  <div class="indecl-row"><span class="indecl-badge">zwierzę</span><p><span class="indecl-focus">Miau!</span> Kot domagał się jedzenia.</p><span class="indecl-note">głos kota</span></div>
+<div class="interjection-series">
+  <div class="interjection-series__header"><strong>Dźwięk przedstawiony słowem</strong></div>
+  <div class="interjection-row"><span class="interjection-badge">uderzenie</span><p><span class="interjection-sound">Bach!</span> Skrzynia spadła z półki.</p><span class="interjection-note">nagły odgłos</span></div>
+  <div class="interjection-row"><span class="interjection-badge">pukanie</span><p><span class="interjection-sound">Puk, puk!</span> Ktoś stał przed drzwiami.</p><span class="interjection-note">powtarzalny dźwięk</span></div>
+  <div class="interjection-row"><span class="interjection-badge">mechanizm</span><p>Zamek odpowiedział krótkim <span class="interjection-sound">klik</span>.</p><span class="interjection-note">cichy sygnał</span></div>
+  <div class="interjection-row"><span class="interjection-badge">zwierzę</span><p><span class="interjection-sound">Miau!</span> Kot domagał się jedzenia.</p><span class="interjection-note">głos zwierzęcia</span></div>
+  <div class="interjection-row"><span class="interjection-badge">rytm</span><p><span class="interjection-sound">Tik-tak, tik-tak</span> — zegar odmierzał sekundy.</p><span class="interjection-note">regularne powtórzenie</span></div>
 </div>
 
-## Jedna forma, wiele emocji
+Wyraz dźwiękonaśladowczy nie musi dokładnie kopiować odgłosu. Jest językowym sposobem jego przedstawienia. Różne języki mogą zapisywać ten sam dźwięk inaczej, ponieważ naśladowanie zostaje dopasowane do ich systemu głoskowego i zwyczaju zapisu.
 
-### „Och”
+## Dźwięk może zostać nazwany rzeczownikiem
 
-- **Och!** Jak tu pięknie. — zachwyt.
-- **Och…** Znowu muszę wszystko poprawiać. — znużenie.
-- **Och!** Nareszcie jesteś. — ulga lub radość.
+> <span class="interjection-sound">Trzask!</span> Drzwi się zamknęły.  
+> Usłyszeliśmy głośny <span class="interjection-anchor">trzask</span> drzwi.
 
-### „Ojej”
+W pierwszym przykładzie **trzask!** przedstawia dźwięk bezpośrednio. W drugim **trzask** jest rzeczownikiem: można dodać do niego przymiotnik, odmienić go i włączyć w składnię zdania.
 
-- **Ojej!** Rozbiłem kubek. — niepokój.
-- **Ojej, ojej…** Co my teraz zrobimy? — zmartwienie.
-- **Ojej!** Ale niespodzianka. — zaskoczenie.
+Podobnie:
 
-## Wykrzyknik a czasownik
+> <span class="interjection-sound">Bum!</span> Coś uderzyło w ścianę.  
+> Po chwili nastąpił potężny <span class="interjection-anchor">huk</span>.
 
-> **Stop!** — wykrzyknik, samodzielne wezwanie.
+Wykrzyknik odtwarza dźwięk, a rzeczownik go nazywa.
 
-> Samochód **zatrzymał się** przed przejściem. — czasownik opisujący czynność.
+## Formuły powitania, pożegnania i grzeczności
 
-Wykrzyknik bezpośrednio wywołuje reakcję albo ją ujawnia, zamiast opisywać ją pełnym zdaniem.
+> <span class="interjection-formula">Cześć!</span> Miło cię widzieć.  
+> <span class="interjection-formula">Dzień dobry!</span> Przyszedłem na spotkanie.  
+> <span class="interjection-formula">Do widzenia!</span> Wrócę jutro.  
+> <span class="interjection-formula">Dziękuję!</span> To bardzo pomocne.
 
-<div class="indecl-summary">
-<h3>Znaczenie powstaje z sytuacji i intonacji</h3>
-Wyraz <strong>och</strong> nie ma jednej stałej emocji. Dopiero dalsze zdanie, ton głosu i znak interpunkcyjny pokazują, czy chodzi o zachwyt, ulgę, zmęczenie czy rozczarowanie.
+Wszystkie te wypowiedzi pełnią ważne funkcje kontaktowe, lecz nie muszą należeć do tej samej części mowy.
+
+- **cześć** może być opisywane jako wykrzyknik lub skonwencjonalizowana formuła kontaktu;
+- **dzień dobry** i **do widzenia** są wielowyrazowymi formułami powitania i pożegnania;
+- **dziękuję** jest formą czasownika **dziękować**.
+
+W praktycznej analizie warto oddzielić dwa pytania:
+
+1. Jaką funkcję komunikacyjną pełni wypowiedź?
+2. Jaka jest budowa gramatyczna użytej formy?
+
+## Wykrzykniki pierwotne i formy przejęte z innych klas
+
+Niektóre wykrzykniki są od początku związane przede wszystkim z reakcją lub dźwiękiem:
+
+> **ach, och, uff, au, hm, pst, bach**
+
+Inne mają odpowiedniki lub źródła w pozostałych częściach mowy:
+
+> **cicho, stop, uwaga, brawo, ratunku**
+
+W samodzielnym użyciu mogą działać jak sygnały, wezwania lub reakcje. W innych konstrukcjach zachowują cechy rzeczownika, przysłówka albo innej formy.
+
+> <span class="interjection-call">Uwaga!</span> Schody są śliskie.  
+> Skup całą <span class="interjection-anchor">uwagę</span> na drugim wykresie.
+
+Pierwsza forma ostrzega odbiorcę. Druga jest rzeczownikiem w bierniku.
+
+## Jak rozpoznać funkcję wykrzyknika?
+
+<div class="interjection-step-list">
+  <div class="interjection-step"><strong>Sprawdź, czy forma opisuje element świata.</strong> Jeśli nazywa osobę, rzecz, czynność albo cechę i wchodzi w zwykłe związki składniowe, może należeć do innej części mowy.</div>
+  <div class="interjection-step"><strong>Zobacz, czy stanowi bezpośrednią reakcję lub sygnał.</strong> Wykrzyknik często ujawnia emocję, przywołuje, ostrzega albo odtwarza dźwięk.</div>
+  <div class="interjection-step"><strong>Ustal zależność od kontekstu i intonacji.</strong> Formy takie jak <em>och</em>, <em>no</em> czy <em>ej</em> mogą zmieniać znaczenie wraz z tonem wypowiedzi.</div>
+  <div class="interjection-step"><strong>Porównaj użycie samodzielne i składniowe.</strong> Zestawienie <em>Cicho!</em> oraz <em>Mów cicho</em> pokazuje zmianę funkcji.</div>
+</div>
+
+<div class="interjection-summary">
+<h3>Rodzaj wykrzyknika wynika z działania w wypowiedzi</h3>
+<ul>
+  <li>Wykrzykniki emocjonalne ujawniają radość, ból, ulgę, strach, niechęć lub inne reakcje.</li>
+  <li>Wykrzykniki przywołujące i nakazujące kierują uwagę albo zachowaniem odbiorcy.</li>
+  <li>Wyrazy dźwiękonaśladowcze przedstawiają odgłosy ludzi, zwierząt, przedmiotów i zjawisk.</li>
+  <li>Jedna forma może mieć różne znaczenie zależnie od intonacji i sytuacji.</li>
+  <li>Nie każda samodzielna formuła kontaktu jest gramatycznie wykrzyknikiem.</li>
+  <li>Formy podobne do rzeczowników, przysłówków lub czasowników trzeba klasyfikować na podstawie konkretnego użycia.</li>
+</ul>
 </div>
 
 [Przejdź dalej: składnia i interpunkcja](../skladnia-i-interpunkcja/){ .md-button .md-button--primary }
