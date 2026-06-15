@@ -223,10 +223,10 @@
 }
 
 /*
-  Important sentence examples: normal text contrast, neutral grey frame,
-  and stronger agreement highlighting.
+  All sentence examples in the noun chapter use normal text contrast,
+  a neutral grey frame, and stronger agreement highlighting.
 */
-.noun-lesson .noun-story__body blockquote {
+.noun-lesson blockquote {
   background: #eef1f0;
   border: 1px solid #cbd3d0;
   border-left: 5px solid #8d9995;
@@ -236,13 +236,13 @@
   padding: 0.7rem 0.9rem;
 }
 
-.noun-lesson .noun-story__body blockquote p {
+.noun-lesson blockquote p {
   color: inherit;
   margin: 0.22rem 0;
   opacity: 1;
 }
 
-.noun-lesson .noun-story__body blockquote strong {
+.noun-lesson blockquote strong {
   color: inherit;
 }
 
@@ -255,7 +255,7 @@
   padding: 0.02rem 0.16rem;
 }
 
-[data-md-color-scheme="slate"] .noun-lesson .noun-story__body blockquote {
+[data-md-color-scheme="slate"] .noun-lesson blockquote {
   background: #252c30;
   border-color: #4c5854;
   border-left-color: #78847f;
