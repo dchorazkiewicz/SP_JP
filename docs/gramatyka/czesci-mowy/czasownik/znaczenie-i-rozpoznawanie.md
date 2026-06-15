@@ -1,9 +1,11 @@
-# Jak czasownik uruchamia zdanie
+# Co nazywa czasownik i jak go rozpoznać?
 
 <div class="verb-lesson" markdown>
 
-<div class="lead-box">
-Czasownik najłatwiej zrozumieć nie z definicji, lecz z opowieści. To on sprawia, że w zdaniu coś się zaczyna, trwa, zmienia, kończy albo po prostu istnieje. Najpierw zobaczymy go w działaniu, a dopiero później uporządkujemy najważniejsze pojęcia.
+<div class="lead-box" markdown>
+
+Pytanie **co robi?** często pomaga znaleźć czasownik, ale nie wystarcza w każdym zdaniu. Czasowniki mówią także o stanach, zmianach, zdarzeniach i istnieniu. Dlatego trzeba zwracać uwagę nie tylko na znaczenie wyrazu, lecz także na jego formę i zachowanie w zdaniu.
+
 </div>
 
 ## Poranek, w którym zniknął klucz
@@ -12,243 +14,165 @@ Czasownik najłatwiej zrozumieć nie z definicji, lecz z opowieści. To on spraw
   <div class="verb-story__title">Sala numer 12</div>
   <div class="verb-story__body" markdown>
 
-Lena przyszła do szkoły wcześniej niż zwykle. Korytarz był jeszcze prawie pusty, światła świeciły tylko nad schodami, a za wysokimi oknami powoli jaśniało niebo. Pod salą numer 12 stał Kuba. Trzymał plecak na jednym ramieniu i patrzył na zamknięte drzwi.
+Lena przyszła do szkoły wcześniej niż zwykle. Pod salą numer 12 stał Kuba i patrzył na zamknięte drzwi.
 
 — Pani jeszcze nie ma? — zapytała Lena.
 
-— Nie ma — odpowiedział Kuba. — Ale zawsze zostawia klucz u woźnego.
+— Nie ma, ale klucz powinien wisieć w dyżurce — odpowiedział Kuba.
 
-Oboje zeszli na parter. W dyżurce siedział pan Marek i czytał gazetę. Kiedy usłyszał pytanie, odłożył ją na biurko, otworzył szufladę i nagle zmarszczył brwi.
+W dyżurce pan Marek otworzył szufladę i zmarszczył brwi. Klucza nie było. Lena zajrzała pod biurko, Kuba sprawdził parapet, a pan Marek przeszukał kieszenie kurtki.
 
-— Klucza tutaj nie ma — powiedział. — Wczoraj na pewno wisiał na haczyku.
+W tym czasie na korytarzu zadzwonił pierwszy dzwonek. Uczniowie wchodzili do szkoły, rozmawiali, zdejmowali kurtki i biegli po schodach. Budynek, jeszcze przed chwilą cichy, nagle ożył.
 
-Lena zajrzała pod biurko. Kuba sprawdził parapet. Pan Marek przeszukał drugą szufladę, potem kieszenie kurtki, a na końcu małe pudełko, w którym zwykle leżały zapasowe klucze. Pudełko było puste.
+Pani Anna przypomniała sobie, że poprzedniego dnia rozmawiała w bibliotece i położyła klucz obok czerwonego zeszytu. Cała grupa poszła sprawdzić to miejsce. Zeszyt spadł za szafkę, a pod nim błyszczał metalowy klucz.
 
-W tej samej chwili na korytarzu zadzwonił pierwszy dzwonek. Uczniowie zaczęli wchodzić do szkoły. Jedni rozmawiali, inni zdejmowali kurtki, ktoś biegł po schodach, a ktoś inny wołał kolegę z końca korytarza. Jeszcze przed chwilą budynek wydawał się cichy. Teraz ożył.
+Kuba przesunął go długą linijką, Lena podniosła z podłogi, a pani Anna otworzyła salę. Po kilku minutach korytarz znowu ucichł.
 
-Do dyżurki przyszła pani Anna, wychowawczyni klasy.
-
-— Szukamy klucza do sali — wyjaśnił Kuba.
-
-— Wczoraj po lekcjach zamykałam drzwi — przypomniała sobie nauczycielka. — Potem zaniosłam dziennik do pokoju nauczycielskiego i rozmawiałam z panią bibliotekarką.
-
-Cała czwórka ruszyła na pierwsze piętro. Po drodze zatrzymali się przy bibliotece. Pani bibliotekarka układała książki na wózku. Gdy usłyszała o kluczu, zastanowiła się chwilę.
-
-— Widziałam go — powiedziała. — Leżał obok czerwonego zeszytu. Potem ktoś otworzył okno, wiatr poruszył kartki i zeszyt spadł za szafkę.
-
-Pan Marek przyniósł latarkę. Kuba uklęknął przy szafce, Lena poświeciła w wąską szczelinę, a nauczycielka odsunęła stojące obok krzesło. Za szafką leżał zeszyt. Pod nim błyszczał mały metalowy klucz.
-
-— Jest! — zawołała Lena.
-
-Kuba wyciągnął rękę, ale szczelina była zbyt wąska. Pan Marek przyniósł długą linijkę. Ostrożnie przesunął klucz w stronę brzegu, a Lena go podniosła.
-
-Kiedy wrócili pod salę numer 12, uczniowie już czekali. Pani Anna włożyła klucz do zamka. Drzwi otworzyły się, klasa weszła do środka, a gwar na korytarzu powoli ucichł.
-
-Lekcja zaczęła się kilka minut później niż zwykle. Zanim nauczycielka otworzyła podręcznik, napisała na tablicy trzy zdania:
+Na tablicy pojawiły się trzy zdania:
 
 > Klucz <span class="verb-form">leżał</span> za szafką.  
 > Lena <span class="verb-form">znalazła</span> klucz.  
 > Korytarz <span class="verb-form">ucichł</span>.
 
-— W każdym z tych zdań czasownik robi coś innego — powiedziała. — Jeden opisuje stan, drugi czynność, a trzeci zmianę. Ale wszystkie są czasownikami.
+Pierwszy czasownik opisuje położenie, drugi czynność, a trzeci zmianę.
 
   </div>
 </div>
 
-Ta historia nie była tylko ozdobą. Dzięki czasownikom mogliśmy zobaczyć, jak szkoła budzi się rano, jak bohaterowie szukają zguby, jak klucz zostaje odnaleziony i jak korytarz znowu staje się spokojny. Gdyby usunąć czasowniki, zostałaby lista osób, miejsc i przedmiotów, ale wydarzenia przestałyby się ze sobą łączyć.
-
-Porównaj:
-
-> Lena, Kuba, klucz, dyżurka, biblioteka, szafka.
-
-To tylko zbiór nazw. Dopiero czasowniki tworzą z nich opowieść:
-
-> Lena i Kuba <span class="verb-form">szukają</span> klucza. Pan Marek <span class="verb-form">przynosi</span> latarkę. Klucz <span class="verb-form">leży</span> za szafką. W końcu Lena go <span class="verb-form">znajduje</span>.
-
 ## Czasownik nie zawsze oznacza ruch
 
-W pierwszych klasach często uczymy się, że czasownik odpowiada na pytanie **co robi?**. To dobra podpowiedź, lecz nie wystarcza w każdym zdaniu.
+Najłatwiejsze przykłady przedstawiają widoczne działania:
 
-Kiedy mówimy:
+> Kuba <span class="verb-form">biegnie</span> po schodach.  
+> Lena <span class="verb-form">otwiera</span> drzwi.  
+> Pan Marek <span class="verb-form">przesuwa</span> szafkę.
 
-> Kuba <span class="verb-form">biegnie</span> po schodach.
+Czasowniki mogą jednak nazywać znacznie więcej.
 
-łatwo zauważyć działanie. Ale czasowniki występują także w zdaniach, w których nikt nie wykonuje wyraźnego ruchu:
-
-> Klucz <span class="verb-form">leży</span> za szafką.  
-> Pani bibliotekarka <span class="verb-form">pamięta</span> wczorajsze wydarzenie.  
-> Sala <span class="verb-form">jest</span> zamknięta.  
-> Na korytarzu <span class="verb-form">panuje</span> cisza.
-
-Wyrazy **leży**, **pamięta**, **jest** i **panuje** opisują stan, położenie albo sytuację. Nie pokazują ruchu, ale nadal mówią, co dzieje się z osobą, rzeczą lub miejscem.
-
-Czasownik może też pokazywać zmianę:
-
-> Niebo <span class="verb-form">jaśnieje</span>.  
-> Korytarz <span class="verb-form">cichnie</span>.  
-> Woda <span class="verb-form">zamarza</span>.  
-> Liście <span class="verb-form">żółkną</span>.
-
-W takich zdaniach coś stopniowo staje się inne. Niebo robi się jaśniejsze, korytarz spokojniejszy, woda twarda, a liście żółte.
-
-Czasownik może wreszcie nazwać zdarzenie, które po prostu następuje:
-
-> Dzwonek <span class="verb-form">zadzwonił</span>.  
-> Światło <span class="verb-form">zgasło</span>.  
-> Rozległ się hałas.  
-> Zaczął padać deszcz.
-
-Nie zawsze najważniejsze jest to, kto coś zrobił. Czasem zdanie informuje przede wszystkim, że wydarzyło się coś nowego.
-
-<div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Zatrzymajmy się na chwilę</div>
-  <p>Czasownik może nazywać:</p>
-  <ul>
-    <li><strong>czynność</strong> — <em>szuka, otwiera, niesie</em>;</li>
-    <li><strong>stan lub położenie</strong> — <em>śpi, pamięta, leży</em>;</li>
-    <li><strong>zmianę</strong> — <em>ciemnieje, cichnie, rośnie</em>;</li>
-    <li><strong>zdarzenie</strong> — <em>zadzwonił, spadło, zgasło</em>;</li>
-    <li><strong>istnienie</strong> — <em>jest, istnieje, znajduje się</em>.</li>
-  </ul>
-  <p class="verb-checkpoint__term"><strong>Nowa myśl:</strong> pytanie „co robi?” pomaga, ale czasownik rozpoznajemy również po znaczeniu całego zdania i po sposobie, w jaki zmienia swoją formę.</p>
+<div class="verb-series">
+  <div class="verb-row"><span class="verb-badge">czynność</span><p>Lena <span class="verb-form">szuka</span> klucza.</p><span class="verb-note">ktoś coś robi</span></div>
+  <div class="verb-row"><span class="verb-badge">stan lub położenie</span><p>Klucz <span class="verb-form">leży</span> za szafką.</p><span class="verb-note">coś znajduje się w określonym stanie</span></div>
+  <div class="verb-row"><span class="verb-badge">zmiana</span><p>Korytarz <span class="verb-form">cichnie</span>.</p><span class="verb-note">sytuacja stopniowo staje się inna</span></div>
+  <div class="verb-row"><span class="verb-badge">zdarzenie</span><p>Dzwonek <span class="verb-form">zadzwonił</span>.</p><span class="verb-note">coś nastąpiło</span></div>
+  <div class="verb-row"><span class="verb-badge">istnienie</span><p>Za biblioteką <span class="verb-form">jest</span> magazyn.</p><span class="verb-note">mówimy, że coś istnieje</span></div>
 </div>
 
-## Podobne znaczenie nie oznacza tej samej części mowy
+Podobnie działają czasowniki **pamiętać**, **wiedzieć**, **lubić**, **potrzebować** czy **należeć**. Nie opisują ruchu, ale przekazują ważną informację o osobie, rzeczy albo relacji.
 
-Wyrazy mogą dotyczyć tego samego zjawiska, a mimo to należeć do różnych części mowy.
+<div class="verb-checkpoint">
+  <div class="verb-checkpoint__title">Najważniejsza myśl</div>
+  <p>Czasownik może nazywać czynność, stan, zmianę, zdarzenie lub istnienie.</p>
+  <p class="verb-checkpoint__term">Pytanie <strong>co robi?</strong> jest pomocne, lecz czasownik rozpoznajemy także po jego formie i roli w zdaniu.</p>
+</div>
+
+## To samo znaczenie nie oznacza tej samej części mowy
 
 Porównaj:
 
 > Kuba <span class="verb-form">biega</span> codziennie po boisku.  
-> Codzienne <strong>bieganie</strong> poprawia jego kondycję.
+> Codzienne **bieganie** poprawia jego kondycję.
 
-W obu zdaniach mowa o podobnej czynności. Jednak **biega** jest czasownikiem, a **bieganie** rzeczownikiem.
+Oba wyróżnione wyrazy dotyczą podobnej czynności. **Biega** jest jednak czasownikiem, a **bieganie** rzeczownikiem.
 
-Jak to sprawdzić? Zmieniamy formę wyrazu.
+Możemy to sprawdzić przez zmianę formy:
 
 > ja biegam, ty biegasz, oni biegają;  
 > dziś biegam, wczoraj biegałem, jutro będę biegać.
 
-Wyraz **biega** może pokazać osobę i czas. To typowe zachowanie czasownika.
-
-Z wyrazem **bieganie** dzieje się coś innego:
+Czasownik zmienia się przez osoby i czasy. Rzeczownik **bieganie** odmienia się przez przypadki:
 
 > nie ma biegania;  
 > przyglądam się bieganiu;  
 > mówię o bieganiu.
 
-Ten wyraz odmienia się przez przypadki jak rzeczownik. Nazywa czynność tak, jak rzeczownik **zabawa** nazywa zajęcie, a **podróż** — wyprawę.
+Podobne pary to:
 
-Podobnie jest w innych parach:
+> dziecko <span class="verb-form">śpi</span> — **sen** dziecka;  
+> klasa <span class="verb-form">milczy</span> — **milczenie** w klasie;  
+> uczniowie <span class="verb-form">rozmawiają</span> — głośna **rozmowa**.
 
-<div class="verb-series">
-  <div class="verb-row"><span class="verb-badge">czasownik</span><p>Dziecko <span class="verb-form">śpi</span>.</p><span class="verb-note">co się dzieje z dzieckiem?</span></div>
-  <div class="verb-row"><span class="verb-badge">rzeczownik</span><p><strong>Sen</strong> jest potrzebny.</p><span class="verb-note">nazwa stanu</span></div>
-  <div class="verb-row"><span class="verb-badge">czasownik</span><p>Klasa <span class="verb-form">milczy</span>.</p><span class="verb-note">opisuje zachowanie klasy</span></div>
-  <div class="verb-row"><span class="verb-badge">rzeczownik</span><p>W klasie panuje <strong>milczenie</strong>.</p><span class="verb-note">nazwa stanu</span></div>
-</div>
+Nie wystarczy więc ustalić, że wyraz „dotyczy czynności”. Trzeba zobaczyć, jak się odmienia i jaką funkcję pełni.
 
-Nie wystarczy więc zapytać: „Czy ten wyraz dotyczy czynności?”. Trzeba sprawdzić, **jak zachowuje się w zdaniu**.
+## Forma osobowa pokazuje uczestnika wypowiedzi
 
-## Forma czasownika może powiedzieć, kto działa
-
-Wróćmy na chwilę do sali numer 12.
+Wróćmy do poszukiwania klucza:
 
 > <span class="verb-form">Szukam</span> klucza.  
 > <span class="verb-form">Szukasz</span> klucza.  
 > <span class="verb-form">Szukamy</span> klucza.
 
-W żadnym zdaniu nie zapisaliśmy słów **ja**, **ty** ani **my**, a mimo to potrafimy rozpoznać wykonawcę.
+Nie zapisaliśmy zaimków **ja**, **ty** ani **my**, ale forma czasownika pozwala je odczytać.
 
 - **szukam** — mówi osoba „ja”;
-- **szukasz** — czynność wykonuje „ty”;
-- **szukamy** — czynność wykonujemy „my”.
+- **szukasz** — wypowiedź jest skierowana do „ty”;
+- **szukamy** — mówi grupa „my”.
 
-Takie formy nazywamy **formami osobowymi**, ponieważ wskazują osobę i liczbę.
-
-Zobacz, jak dużo informacji może zawierać jeden wyraz:
+Takie formy nazywamy **formami osobowymi**. Pokazują osobę i liczbę, a często także czas oraz rodzaj.
 
 > <span class="verb-form">Znaleźliśmy</span> klucz.
 
-Forma **znaleźliśmy** podpowiada, że:
+Forma **znaleźliśmy** mówi, że czynność wydarzyła się wcześniej, wykonawców było wielu, grupa jest męskoosobowa i obejmuje osobę mówiącą.
 
-- czynność wydarzyła się wcześniej;
-- wykonawców było więcej niż jeden;
-- w grupie znajdowała się przynajmniej jedna osoba rodzaju męskiego;
-- mówi o sobie grupa „my”.
+## Bezokolicznik nie wskazuje osoby
 
-Jedna forma czasownika potrafi więc zastąpić kilka dodatkowych wyjaśnień.
-
-## Bezokolicznik nazywa czynność, ale nie wskazuje osoby
-
-Pan Marek mógł powiedzieć:
+Porównaj:
 
 > Musimy <span class="verb-form">znaleźć</span> klucz.  
 > Trzeba <span class="verb-form">odsunąć</span> szafkę.  
 > Nie wolno <span class="verb-form">zgubić</span> klucza ponownie.
 
-Wyrazy **znaleźć**, **odsunąć** i **zgubić** są czasownikami, ale same nie informują, kto wykona czynność ani kiedy to nastąpi.
+Wyrazy **znaleźć**, **odsunąć** i **zgubić** są czasownikami, ale same nie informują, kto wykona czynność ani kiedy ona nastąpi. Są to **bezokoliczniki**, czyli podstawowe formy czasownika.
 
-Nie można powiedzieć, że **znaleźć** oznacza „ja”, „ty” albo „oni”. Dopiero inne wyrazy uzupełniają tę informację:
+Najczęściej kończą się na **-ć** albo **-c**:
 
-> Chcę znaleźć klucz. — wykonawcą jestem ja.  
-> Kuba chce znaleźć klucz. — wykonawcą jest Kuba.  
-> Uczniowie chcą znaleźć klucz. — wykonawców jest wielu.
+> czytać, wrócić, zobaczyć, pomóc, biec.
 
-Tę podstawową formę czasownika nazywamy **bezokolicznikiem**. Najczęściej kończy się ona na **-ć** lub **-c**:
-
-> czytać, zobaczyć, wrócić, pomóc, biec.
-
-Bezokolicznik jest bardzo potrzebny. To właśnie jego używamy, gdy podajemy czasownik jako hasło w słowniku albo pytamy: „Od jakiego czasownika pochodzi ta forma?”.
+Bezokolicznika używamy między innymi jako hasła w słowniku:
 
 > znalazła → znaleźć  
 > czytaliśmy → czytać  
 > pomogą → pomóc
 
-## Czasownik „być” nie jest pustym wyrazem
+## Czasownik „być” trzeba zauważać
 
-Czasownik **być** bywa trudny do zauważenia, ponieważ często nie opisuje działania.
+Czasownik **być** często nie opisuje działania, dlatego łatwo go przeoczyć:
 
 > Sala <span class="verb-form">jest</span> zamknięta.  
 > Lena <span class="verb-form">jest</span> cierpliwa.  
 > Klucze <span class="verb-form">są</span> w szufladzie.  
 > Za biblioteką <span class="verb-form">jest</span> mały magazyn.
 
-W pierwszym zdaniu **jest** pomaga opisać stan sali. W drugim łączy Lenę z jej cechą. W trzecim wskazuje położenie kluczy, a w czwartym informuje o istnieniu magazynu.
-
-Nie wolno więc szukać czasowników wyłącznie wśród wyrazów oznaczających ruch. **Jest**, **był**, **będzie**, **są** i **byli** to bardzo ważne formy czasownika **być**.
+W tych zdaniach formy **jest** i **są** pomagają opisać stan, cechę, położenie albo istnienie. Formy **był**, **będzie**, **jesteśmy**, **byli** także należą do czasownika **być**.
 
 ## Jak rozpoznać czasownik w trudniejszym zdaniu?
 
-Nie istnieje jedna magiczna sztuczka, która działa zawsze. Najlepiej połączyć kilka sposobów.
+Nie ma jednego pytania, które rozwiąże każdy przypadek. Najpewniejsza analiza łączy kilka obserwacji.
 
 <div class="verb-step-list">
-  <div class="verb-step"><strong>Przeczytaj całe zdanie.</strong> Ustal, co się dzieje, w jakim stanie ktoś jest albo co się zmienia.</div>
+  <div class="verb-step"><strong>Przeczytaj całe zdanie.</strong> Ustal, jaka czynność, sytuacja, zmiana albo relacja została przedstawiona.</div>
   <div class="verb-step"><strong>Spróbuj zmienić osobę.</strong> <em>szukam → szukasz → szukają</em>.</div>
   <div class="verb-step"><strong>Spróbuj zmienić czas.</strong> <em>szukam → szukałem → będę szukać</em>.</div>
-  <div class="verb-step"><strong>Sprawdź bezokolicznik.</strong> <em>znalazła → znaleźć</em>, <em>biegną → biec</em>.</div>
-  <div class="verb-step"><strong>Uważaj na rzeczowniki nazywające czynności.</strong> <em>bieganie, czytanie, szukanie</em> są rzeczownikami, choć powstały od czasowników.</div>
+  <div class="verb-step"><strong>Odszukaj bezokolicznik.</strong> <em>znalazła → znaleźć</em>, <em>biegną → biec</em>.</div>
+  <div class="verb-step"><strong>Sprawdź, czy wyraz nie odmienia się jak rzeczownik.</strong> <em>bieganie, czytanie, szukanie</em> nazywają czynności, ale są rzeczownikami.</div>
 </div>
 
-Spójrzmy na zdanie:
+Spójrz na zdanie:
 
-> Po długim szukaniu Lena wreszcie znalazła klucz.
+> Po długim **szukaniu** Lena wreszcie <span class="verb-form">znalazła</span> klucz.
 
-Wyraz **szukaniu** oznacza czynność, ale jest rzeczownikiem. Możemy powiedzieć: **bez szukania**, **dzięki szukaniu**, **o szukaniu**. Wyraz **znalazła** jest czasownikiem, ponieważ można utworzyć formy: **znalazłem, znalazłeś, znajdziemy**, a jego bezokolicznik brzmi **znaleźć**.
-
-Właśnie dlatego gramatyki nie warto uczyć się jako listy pytań. Trzeba obserwować, jak wyraz zachowuje się w prawdziwym zdaniu.
+**Szukaniu** jest rzeczownikiem: możemy powiedzieć **bez szukania**, **dzięki szukaniu**, **o szukaniu**. **Znalazła** jest czasownikiem: ma formy **znalazłem**, **znalazłeś**, **znajdziemy**, a jego bezokolicznik brzmi **znaleźć**.
 
 <div class="verb-mini-summary">
-<h3>Mapa wiedzy po tej lekcji</h3>
+<h3>Podsumowanie</h3>
 <ul>
-  <li><strong>Czasownik</strong> może nazywać czynność, stan, zmianę, zdarzenie albo istnienie.</li>
-  <li><strong>Forma osobowa</strong> wskazuje osobę i liczbę, a często także czas i rodzaj.</li>
-  <li><strong>Bezokolicznik</strong> jest podstawową formą czasownika i sam nie wskazuje wykonawcy.</li>
-  <li>O części mowy nie decyduje samo znaczenie. Trzeba sprawdzić formę oraz rolę wyrazu w zdaniu.</li>
+  <li>Czasownik może nazywać czynność, stan, zmianę, zdarzenie albo istnienie.</li>
+  <li>Forma osobowa wskazuje osobę i liczbę, a często również czas i rodzaj.</li>
+  <li>Bezokolicznik jest podstawową formą czasownika i sam nie wskazuje wykonawcy.</li>
+  <li>O części mowy nie decyduje samo znaczenie. Ważne są odmiana i rola wyrazu w zdaniu.</li>
   <li>Rzeczowniki takie jak <strong>bieganie</strong> i <strong>szukanie</strong> nazywają czynności, lecz nie są czasownikami.</li>
 </ul>
 </div>
 
-[Przejdź dalej: kto mówi, do kogo i o kim?](../osoby-i-liczby/){ .md-button .md-button--primary }
+[Przejdź dalej: osoby i liczby](../osoby-i-liczby/){ .md-button .md-button--primary }
 
 </div>
