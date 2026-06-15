@@ -222,50 +222,116 @@
   margin: 0.25rem 0;
 }
 
-/*
-  All sentence examples in the noun chapter use normal text contrast,
-  a neutral grey frame, and stronger agreement highlighting.
-*/
-.noun-lesson blockquote {
-  background: #eef1f0;
-  border: 1px solid #cbd3d0;
-  border-left: 5px solid #8d9995;
+/* Shared example field: black text on a very light neutral background. */
+.noun-lesson blockquote,
+.verb-lesson blockquote {
+  background: #f7f8f8;
+  border: 1px solid #d5dade;
+  border-left: 5px solid #9aa4a9;
   border-radius: 0.55rem;
-  color: var(--md-default-fg-color);
+  color: #1f2328;
   margin: 0.9rem 0 1.1rem;
   padding: 0.7rem 0.9rem;
 }
 
-.noun-lesson blockquote p {
-  color: inherit;
+.noun-lesson blockquote p,
+.verb-lesson blockquote p {
+  color: #1f2328;
   margin: 0.22rem 0;
   opacity: 1;
 }
 
-.noun-lesson blockquote strong {
+.noun-lesson blockquote strong,
+.verb-lesson blockquote strong {
   color: inherit;
 }
 
+/* The analysed noun is marked with the chapter colour. */
+.noun-lesson .form-focus,
+.noun-lesson .syntax-focus {
+  background: #e3f0ec;
+  border: 2px solid #6f9f94;
+  border-radius: 0.32rem;
+  color: #25564c;
+  font-weight: 800;
+  padding: 0.03rem 0.2rem;
+}
+
+.noun-lesson .form-focus .stem-part,
+.noun-lesson .syntax-focus .stem-part {
+  border-bottom-color: #55897d;
+}
+
+/* Agreement is visible, but deliberately distinct from the noun itself. */
 .noun-lesson .agreement-mark {
-  background: #cfe4de;
-  border-bottom: 3px solid #2f6f61;
+  background: #f6edd9;
+  border-bottom: 3px solid #b08a43;
   border-radius: 0.18rem;
-  color: var(--md-default-fg-color);
-  font-weight: 650;
+  color: #493a1d;
+  font-weight: 700;
   padding: 0.02rem 0.16rem;
 }
 
-[data-md-color-scheme="slate"] .noun-lesson blockquote {
-  background: #252c30;
-  border-color: #4c5854;
-  border-left-color: #78847f;
-  color: var(--md-default-fg-color);
+/* Both rewritten chapters end lessons with the same visual weight. */
+.noun-lesson .noun-summary,
+.verb-lesson .verb-mini-summary {
+  border-radius: 0.8rem;
+  margin: 1.3rem 0 1.6rem;
+  padding: 1rem 1.1rem;
+}
+
+.noun-lesson .noun-summary {
+  background: var(--noun-soft);
+  border: 2px solid var(--noun-accent);
+}
+
+.verb-lesson .verb-mini-summary {
+  background: var(--verb-soft);
+  border: 2px solid var(--verb-accent);
+}
+
+.noun-lesson .noun-summary h3,
+.verb-lesson .verb-mini-summary h3 {
+  margin: 0 0 0.45rem;
+}
+
+.noun-lesson .noun-summary h3 {
+  color: var(--noun-accent);
+}
+
+.verb-lesson .verb-mini-summary h3 {
+  color: var(--verb-accent);
+}
+
+[data-md-color-scheme="slate"] .noun-lesson blockquote,
+[data-md-color-scheme="slate"] .verb-lesson blockquote {
+  background: #2a3034;
+  border-color: #525d63;
+  border-left-color: #8f9aa0;
+  color: #f1f4f6;
+}
+
+[data-md-color-scheme="slate"] .noun-lesson blockquote p,
+[data-md-color-scheme="slate"] .verb-lesson blockquote p {
+  color: #f1f4f6;
+}
+
+[data-md-color-scheme="slate"] .noun-lesson .form-focus,
+[data-md-color-scheme="slate"] .noun-lesson .syntax-focus {
+  background: #21483f;
+  border-color: #7eb4a7;
+  color: #f2f8f6;
+}
+
+[data-md-color-scheme="slate"] .noun-lesson .form-focus .stem-part,
+[data-md-color-scheme="slate"] .noun-lesson .syntax-focus .stem-part {
+  border-bottom-color: #9bc9be;
 }
 
 [data-md-color-scheme="slate"] .noun-lesson .agreement-mark {
-  background: #24483f;
-  border-bottom-color: #8dc6b7;
-  color: var(--md-default-fg-color);
+  background: #4a3b20;
+  border-bottom-color: #d5b367;
+  color: #fff7e7;
 }
 
 @media (max-width: 700px) {
