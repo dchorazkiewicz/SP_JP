@@ -60,7 +60,6 @@ nav:
       - Przegląd: gramatyka/index.md
       - Części mowy:
           - Przegląd: gramatyka/czesci-mowy/index.md
-          - Granice klasyfikacji: gramatyka/czesci-mowy/granice-klasyfikacji.md
           - Czasownik:
               - Czasownik uruchamia zdanie: gramatyka/czesci-mowy/czasownik/index.md
               - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/czasownik/znaczenie-i-rozpoznawanie.md
@@ -132,6 +131,7 @@ nav:
               - Składnia i interpunkcja: gramatyka/czesci-mowy/wykrzyknik/skladnia-i-interpunkcja.md
               - Styl i kontekst: gramatyka/czesci-mowy/wykrzyknik/styl-i-kontekst.md
               - Wykrzykniki w tekście: gramatyka/czesci-mowy/wykrzyknik/wykrzykniki-w-tekscie.md
+          - Granice klasyfikacji - podsumowanie: gramatyka/czesci-mowy/granice-klasyfikacji.md
       - Składnia:
           - Wprowadzenie: gramatyka/skladnia/index.md
           - Orzeczenie:
