@@ -1,475 +1,239 @@
-# Gdy czasownik zmienia sposób opowiadania
+# Różne sposoby przedstawiania czynności
 
 <div class="verb-lesson" markdown>
 
-<div class="lead-box">
-Jedno wydarzenie można opowiedzieć na kilka sposobów. Możemy postawić na pierwszym planie wykonawcę, przedmiot objęty działaniem, samą czynność albo jej rezultat. Czasownik pomaga zdecydować, co czytelnik zauważy najpierw i ile dowie się o osobie wykonującej działanie.
+<div class="lead-box" markdown>
+
+O tym samym wydarzeniu można mówić na kilka sposobów. Możemy wyraźnie wskazać wykonawcę, skupić uwagę na przedmiocie czynności, pominąć wykonawcę albo nazwać samą czynność bez informacji o osobie. Wybór formy czasownika wpływa na to, co w wypowiedzi staje się najważniejsze.
+
 </div>
 
-## Dzień przed szkolnym festynem
+## Przygotowania do szkolnego festynu
 
 <div class="verb-story" markdown>
-  <div class="verb-story__title">Jedna sala, wiele sposobów opowiadania</div>
+  <div class="verb-story__title">Jedna sala, kilka sposobów opowiadania</div>
   <div class="verb-story__body" markdown>
 
-W piątek po lekcjach sala gimnastyczna wyglądała jeszcze zwyczajnie. Pod ścianą stały ławki, na podłodze leżały materace, a nad wejściem wisiała stara tablica z wynikiem ostatniego meczu. Następnego dnia miał się tu odbyć szkolny festyn.
+Dzień przed festynem uczniowie przygotowywali salę gimnastyczną.
 
-Pani Marta zebrała grupę uczniów i rozdzieliła zadania.
+Pani Marta rozdzieliła zadania:
 
-— Kuba i Lena <span class="verb-form">ustawią</span> stoły. Maja <span class="verb-form">przygotuje</span> dekoracje. Antek <span class="verb-form">sprawdzi</span> nagłośnienie. My z panem Markiem <span class="verb-form">przeniesiemy</span> ławki do magazynu.
+> Kuba i Lena <span class="verb-form">ustawią</span> stoły.  
+> Maja <span class="verb-form">przygotuje</span> dekoracje.  
+> Antek <span class="verb-form">sprawdzi</span> nagłośnienie.
 
-W tym zdaniu prawie każda czynność ma wyraźnego wykonawcę. Wiemy, kto ustawi stoły, kto przygotuje dekoracje i kto sprawdzi sprzęt.
+W tych zdaniach wykonawcy zostali nazwani. Wiemy, kto ma wykonać każdą czynność.
 
-Po godzinie sala zaczęła się zmieniać. Kuba przesuwał stoły pod ścianę, Lena rozkładała obrusy, a Maja przyczepiała papierowe gwiazdy do sznurka. Pan Marek wniósł drabinę i zawiesił transparent nad sceną.
+Po godzinie dyrektorka obejrzała salę i powiedziała:
 
-W pewnym momencie dyrektorka zajrzała do sali. Nie widziała całej wcześniejszej pracy. Zauważyła przede wszystkim jej wynik.
+> Stoły <span class="verb-form">zostały ustawione</span> bardzo równo.  
+> Transparent <span class="verb-form">został zawieszony</span> nad sceną.  
+> Nagłośnienie <span class="verb-form">zostało sprawdzone</span>.
 
-— Stoły <span class="verb-form">zostały ustawione</span> bardzo równo — powiedziała. — Transparent <span class="verb-form">został zawieszony</span> wysoko, a scena <span class="verb-form">jest już oświetlona</span>.
+Teraz najważniejsze są stoły, transparent i nagłośnienie — przedmioty oraz wynik pracy.
 
-Dyrektorka nie mówiła teraz głównie o Kubie, Lenie ani panu Marku. Skupiła uwagę na stołach, transparencie i scenie.
-
-Przy drzwiach wisiała kartka dla osób, które miały przyjść następnego ranka:
+Na drzwiach wisiała instrukcja:
 
 > Przed rozpoczęciem festynu należy <span class="verb-form">sprawdzić</span> wyjścia ewakuacyjne.  
-> Trzeba <span class="verb-form">włączyć</span> światła przy scenie.  
-> Nie wolno <span class="verb-form">zastawiać</span> przejścia między stołami.
+> Trzeba <span class="verb-form">włączyć</span> światła.  
+> Nie wolno <span class="verb-form">zastawiać</span> przejścia.
 
-Kartka wymieniała czynności, ale nie wskazywała jednej konkretnej osoby. Instrukcja dotyczyła każdego, kto będzie odpowiadał za przygotowanie sali.
+Bezokoliczniki nazywają potrzebne czynności, ale nie wskazują jednej osoby.
 
-Wieczorem woźny zapisał w zeszycie krótką informację:
+Wieczorem w notatce zapisano:
 
-> Salę <span class="verb-form">posprzątano</span>. Ławki <span class="verb-form">przeniesiono</span> do magazynu. Sprzęt sportowy <span class="verb-form">zabezpieczono</span>.
+> Salę <span class="verb-form">posprzątano</span>.  
+> Ławki <span class="verb-form">przeniesiono</span> do magazynu.  
+> Sprzęt <span class="verb-form">zabezpieczono</span>.
 
-Wiadomo, że ktoś wykonał te czynności, ale wykonawcy nie zostali nazwani. Najważniejsze było to, że prace zostały ukończone.
+Wiadomo, że ktoś wykonał te prace, lecz wykonawcy nie zostali nazwani.
 
-Następnego ranka szkolna reporterka zrobiła zdjęcie i napisała:
+Reporterka napisała natomiast:
 
-> Sala gimnastyczna, <span class="verb-form">przygotowana</span> przez uczniów i nauczycieli, czekała na pierwszych gości. Przy wejściu stali wolontariusze <span class="verb-form">rozdający</span> program festynu.
+> Sala, <span class="verb-form">przygotowana</span> przez uczniów, czekała na gości. Przy wejściu stali wolontariusze <span class="verb-form">rozdający</span> programy.
 
-Wyrazy **przygotowana** i **rozdający** nadal zachowują znaczenie czynności, ale pomagają opisywać salę i wolontariuszy.
-
-Kiedy festyn się rozpoczął, w głośnikach zabrzmiał komunikat:
-
-— Prosimy <span class="verb-form">zachować</span> wolne przejście przy drzwiach. W razie potrzeby można <span class="verb-form">zwrócić się</span> do uczniów w niebieskich koszulkach.
-
-Znów pojawiły się bezokoliczniki. Mówią o czynnościach potrzebnych lub możliwych, lecz nie odmieniają się przez osoby.
-
-Pod koniec dnia pani Marta spojrzała na salę pełną gości i powiedziała:
-
-— Wczoraj uczniowie <span class="verb-form">przygotowali</span> to miejsce, dziś festyn <span class="verb-form">odbywa się</span> zgodnie z planem, a jutro wszystko trzeba będzie <span class="verb-form">posprzątać</span>.
-
-Jedno wydarzenie — przygotowanie szkolnego festynu — zostało pokazane z kilku stron. Raz najważniejsi byli wykonawcy. Innym razem przedmioty, wynik pracy, ogólne polecenie albo sama czynność.
+Imiesłowy włączają informację o czynności do opisu sali i wolontariuszy.
 
   </div>
 </div>
 
-To właśnie dzieje się wtedy, gdy czasownik zmienia sposób opowiadania. Nie zawsze zmieniamy samo wydarzenie. Często zmieniamy przede wszystkim **punkt widzenia zdania**.
+## Forma osobowa: wiadomo, kto uczestniczy w czynności
 
-## Gdy wykonawca stoi na pierwszym planie
-
-Najbardziej bezpośredni sposób opowiadania wygląda tak:
-
-> Kuba <span class="verb-form">ustawił</span> stoły.  
 > Maja <span class="verb-form">przygotowała</span> dekoracje.  
-> Pan Marek <span class="verb-form">zawiesił</span> transparent.
+> <span class="verb-form">Ustawiamy</span> stoły.  
+> Jutro <span class="verb-form">sprawdzicie</span> nagłośnienie.
 
-Podmiot wskazuje wykonawcę, a osobowa forma czasownika mówi, co ten wykonawca zrobił.
+Formy osobowe wskazują osobę i liczbę. Często przekazują również czas, tryb i rodzaj.
 
-Takie zdania są naturalne w opowieści, rozmowie i relacji z wydarzeń. Czytelnik łatwo śledzi bohaterów:
+Wykonawca może być nazwany osobnym wyrazem:
 
-> Lena <span class="verb-form">weszła</span> do sali, <span class="verb-form">rozłożyła</span> obrus i <span class="verb-form">przesunęła</span> krzesło.
+> Maja przygotowała dekoracje.
 
-W kolejnych formach powtarza się ten sam wykonawca. Zdanie prowadzi nas za Leną i pokazuje jej działania.
+Może też wynikać z formy czasownika:
 
-Forma osobowa może też ukryć wykonawcę w końcówce:
+> Przygotowałam dekoracje. — mówi „ja”, osoba rodzaju żeńskiego.
 
-> <span class="verb-form">Ustawiam</span> stoły. — ja  
-> <span class="verb-form">Ustawiacie</span> krzesła. — wy  
-> <span class="verb-form">Przeniesiemy</span> ławki. — my
+Formy osobowe są podstawą większości zdań opowiadających o bohaterach i ich działaniach.
 
-Nie zawsze potrzebujemy osobnego zaimka, ponieważ osoba jest widoczna w formie czasownika.
+## Strona czynna i bierna
 
-## Gdy ważniejszy jest przedmiot albo rezultat
-
-Porównaj dwa zdania:
+Porównaj:
 
 > Uczniowie <span class="verb-form">przygotowali</span> salę.  
 > Sala <span class="verb-form">została przygotowana</span> przez uczniów.
 
-W pierwszym zdaniu najpierw pojawiają się **uczniowie**. Kamera zdania jest skierowana na wykonawców.
+Oba zdania mogą opisywać to samo wydarzenie. Różnią się budową i rozłożeniem uwagi.
 
-W drugim zdaniu na początku stoi **sala**. To ona znajduje się na pierwszym planie. Wykonawców można podać po wyrażeniu **przez uczniów**, ale można ich także pominąć:
+W **stronie czynnej** podmiot jest najczęściej wykonawcą:
+
+> Uczniowie przygotowali salę.
+
+W **stronie biernej** podmiot nazywa osobę lub rzecz objętą czynnością:
+
+> Sala została przygotowana przez uczniów.
+
+Wykonawcę można podać po wyrażeniu **przez uczniów**, ale można go także pominąć:
 
 > Sala została przygotowana.
 
-Tak działa strona bierna. Pozwala skupić uwagę na osobie lub rzeczy, której dotyczy czynność.
+Strona bierna jest przydatna, gdy ważniejszy jest przedmiot czynności, rezultat albo procedura niż sam wykonawca.
 
-### Kiedy taki sposób opowiadania jest przydatny?
+[Dokładne wyjaśnienie strony czynnej i biernej](../strona-czynna-i-bierna/){ .md-button }
 
-Gdy wykonawca jest nieznany:
+## Bezokolicznik: nazwa czynności bez osoby
 
-> Okno <span class="verb-form">zostało wybite</span> w nocy.
+> trzeba <span class="verb-form">posprzątać</span>;  
+> można <span class="verb-form">wejść</span>;  
+> chcę <span class="verb-form">pomóc</span>;  
+> zaczęli <span class="verb-form">ustawiać</span> krzesła.
 
-Nie wiemy, kto je wybił.
+Bezokoliczniki **posprzątać**, **wejść**, **pomóc** i **ustawiać** nie wskazują osoby, liczby ani czasu. Informację o wykonawcy daje inne słowo albo cała sytuacja.
 
-Gdy wykonawca nie jest ważny:
+> Chcę pomóc. — wykonawcą jest „ja”.  
+> Uczniowie chcą pomóc. — wykonawcami są uczniowie.  
+> Trzeba pomóc. — nie wskazano konkretnej osoby.
 
-> Droga <span class="verb-form">została zamknięta</span> z powodu remontu.
+Bezokolicznik pojawia się również w instrukcjach:
 
-Dla kierowcy najważniejsze jest zamknięcie drogi, nie nazwisko osoby ustawiającej znak.
+> Umyć owoce. Pokroić je. Włożyć do miski.
 
-Gdy opisujemy wynik pracy:
+Czytelnik rozumie, że ma wykonać wymienione czynności.
 
-> Wszystkie dekoracje <span class="verb-form">zostały zawieszone</span>.  
-> Nagłośnienie <span class="verb-form">zostało sprawdzone</span>.  
-> Stoły <span class="verb-form">są ustawione</span>.
-
-W centrum uwagi znajduje się gotowy stan.
-
-Gdy tworzymy tekst urzędowy, naukowy albo sprawozdawczy:
-
-> Formularze zostały rozdane uczestnikom.  
-> Wyniki zostały zapisane w tabeli.  
-> Próbka została podgrzana do odpowiedniej temperatury.
-
-Taki sposób pisania pozwala mówić o procedurze bez ciągłego powtarzania wykonawcy.
-
-## „Jest przygotowywana” i „została przygotowana” nie znaczą dokładnie tego samego
-
-> Sala <span class="verb-form">jest przygotowywana</span> do festynu.
-
-Praca jeszcze trwa. Ktoś przesuwa stoły, zawiesza dekoracje i sprawdza sprzęt.
-
-> Sala <span class="verb-form">została przygotowana</span> do festynu.
-
-Przedstawiamy przygotowanie jako zakończone. Sala jest gotowa.
-
-Forma z czasownikiem **jest** może pokazywać czynność trwającą:
-
-> Most jest naprawiany.  
-> Książka jest tłumaczona.  
-> Dom jest malowany.
-
-Forma z czasownikiem **został / została / zostało** często podkreśla wykonanie lub osiągnięty wynik:
-
-> Most został naprawiony.  
-> Książka została przetłumaczona.  
-> Dom został pomalowany.
-
-Dokładna różnica zależy również od aspektu czasownika, ale już na tym etapie można zauważyć przeciwstawienie: **praca trwa — praca została zakończona**.
-
-<div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Pierwsza decyzja mówiącego</div>
-  <p>Gdy najważniejszy jest wykonawca, zwykle wybieramy stronę czynną: <strong>uczniowie przygotowali salę</strong>.</p>
-  <p>Gdy ważniejszy jest przedmiot albo wynik, możemy użyć strony biernej: <strong>sala została przygotowana</strong>.</p>
-  <p class="verb-checkpoint__term"><strong>Zmienia się punkt widzenia, choć wydarzenie może pozostać to samo.</strong></p>
-</div>
-
-## Gdy wykonawca istnieje, ale go nie nazywamy
-
-Woźny napisał:
+## Formy zakończone na „-no” i „-to”
 
 > Salę <span class="verb-form">posprzątano</span>.  
-> Ławki <span class="verb-form">przeniesiono</span>.  
-> Sprzęt <span class="verb-form">zabezpieczono</span>.
+> Drzwi <span class="verb-form">zamknięto</span>.  
+> Podczas zebrania <span class="verb-form">omówiono</span> plan wycieczki.
 
-Formy **posprzątano**, **przeniesiono** i **zabezpieczono** kończą się na **-no** lub **-to**. Informują, że ktoś wykonał czynność, ale nie wskazują osoby.
+Formy **posprzątano**, **zamknięto** i **omówiono** informują o wykonaniu czynności, ale nie wskazują osoby.
 
-Wykonawca nie znika z rzeczywistości. Sala nie posprzątała się sama. Po prostu zdanie nie uznaje za potrzebne podania, kto dokładnie działał.
+Wykonawca istnieje w rzeczywistości. Sala nie posprzątała się sama. Zdanie po prostu go nie nazywa.
 
-Taki sposób wypowiedzi pojawia się często w:
+Takie formy są częste w sprawozdaniach, wiadomościach, kronikach i opisach procedur.
 
-- kronikach i sprawozdaniach;
-- komunikatach;
-- opisach dawnych wydarzeń;
-- wiadomościach;
-- tekstach, w których wykonawca jest zbiorowy albo nieznany.
-
-> Wczoraj <span class="verb-form">otwarto</span> nową bibliotekę.  
-> Podczas zebrania <span class="verb-form">omówiono</span> plan wycieczki.  
-> Na rynku <span class="verb-form">ustawiono</span> dużą scenę.  
-> Dawniej w tym miejscu <span class="verb-form">wydobywano</span> sól.
-
-Niektóre formy opisują czynność zakończoną:
-
-> otwarto, ustawiono, podpisano.
-
-Inne mogą opisywać czynność trwającą albo powtarzaną:
-
-> budowano, rozmawiano, tańczono, handlowano.
-
-> Przez wiele lat w tej hali <span class="verb-form">organizowano</span> zawody.  
-> Na festynie długo <span class="verb-form">tańczono</span> i <span class="verb-form">śpiewano</span>.
-
-Forma bezosobowa nie musi więc zawsze oznaczać jednego ukończonego wyniku. To aspekt czasownika pokazuje, czy czynność została przedstawiona jako przebieg, powtarzanie czy zamknięta całość.
-
-## Forma bezosobowa i strona bierna to nie to samo
-
-Porównaj:
+## Forma bezosobowa i strona bierna nie są tym samym
 
 > Salę <span class="verb-form">przygotowano</span>.  
 > Sala <span class="verb-form">została przygotowana</span>.
 
-Znaczenie jest podobne, ale budowa zdań inna.
+Znaczenie może być podobne, ale budowa jest inna.
 
-W zdaniu **Salę przygotowano** wyraz **salę** ma formę biernika. Zdanie nie ma zwykłego podmiotu wskazującego wykonawcę.
-
-W zdaniu **Sala została przygotowana** wyraz **sala** jest podmiotem. Forma **została przygotowana** dopasowuje się do niego w rodzaju i liczbie.
-
-Porównaj zmianę rzeczownika:
+W zdaniu **Salę przygotowano** wyraz **salę** pozostaje w bierniku, a forma **przygotowano** się nie zmienia:
 
 > Salę przygotowano.  
 > Sale przygotowano.  
 > Boisko przygotowano.
 
-Forma **przygotowano** pozostaje niezmienna.
-
-W stronie biernej trzeba zmienić kilka elementów:
+W stronie biernej rzeczownik jest podmiotem, a forma dopasowuje się do jego rodzaju i liczby:
 
 > Sala została przygotowana.  
 > Sale zostały przygotowane.  
 > Boisko zostało przygotowane.
 
-To pokazuje, że konstrukcje nie są identyczne, nawet jeśli obie mogą ukrywać wykonawcę.
+## Konstrukcje z „się”
 
-## Gdy chcemy nazwać samą czynność
-
-Na kartce wisiały polecenia:
-
-> Trzeba <span class="verb-form">ustawić</span> krzesła.  
-> Należy <span class="verb-form">sprawdzić</span> wyjścia.  
-> Można <span class="verb-form">włączyć</span> muzykę.  
-> Nie wolno <span class="verb-form">zastawiać</span> przejścia.
-
-Formy **ustawić**, **sprawdzić**, **włączyć** i **zastawiać** są bezokolicznikami. Nazywają czynność, ale same nie pokazują osoby, liczby ani czasu.
-
-Bezokolicznik często pojawia się po wyrazach wyrażających:
-
-### Konieczność
-
-> trzeba posprzątać;  
-> należy zaczekać;  
-> musimy wyjść.
-
-W ostatnim przykładzie osoba jest widoczna w formie **musimy**, natomiast bezokolicznik **wyjść** nazywa czynność, której dotyczy konieczność.
-
-### Możliwość
-
-> można wejść;  
-> potrafię pływać;  
-> umiemy współpracować.
-
-### Zamiar albo pragnienie
-
-> chcę pomóc;  
-> zamierzamy przygotować wystawę;  
-> Maja pragnie wystąpić na scenie.
-
-### Początek, trwanie albo koniec czynności
-
-> zaczęli sprzątać;  
-> przestali rozmawiać;  
-> skończyła pisać.
-
-Bezokolicznik nie informuje sam, kto sprząta, rozmawia albo pisze. Tę informację daje pierwszy czasownik lub reszta zdania.
-
-> Zaczęli sprzątać.
-
-Forma **zaczęli** pokazuje trzecią osobę liczby mnogiej i czas przeszły. Bezokolicznik **sprzątać** nazywa właściwą czynność.
-
-## Instrukcja może obyć się bez osobowych czasowników
-
-Spójrz na przepis:
-
-> Umyć jabłka. Pokroić je na małe kawałki. Włożyć do garnka. Dodać wodę i gotować przez dziesięć minut.
-
-To skrótowy styl instrukcji. Bezokoliczniki podają kolejne działania, ale nie wskazują wykonawcy. Czytelnik rozumie, że czynności ma wykonać osoba korzystająca z przepisu.
-
-Można zapisać tę samą instrukcję inaczej:
-
-> Umyj jabłka. Pokrój je na małe kawałki. Włóż do garnka. Dodaj wodę i gotuj przez dziesięć minut.
-
-Tutaj użyto trybu rozkazującego. Autor zwraca się bezpośrednio do odbiorcy.
-
-Albo:
-
-> Jabłka należy umyć, pokroić i włożyć do garnka.
-
-To styl bardziej bezosobowy i oficjalny.
-
-Wybór formy zależy więc także od stylu tekstu.
-
-## Konstrukcje z „się” również mogą nie wskazywać konkretnej osoby
-
-> W tej sali dobrze <span class="verb-form">tańczy się</span> przy spokojnej muzyce.  
+> W tej sali dobrze <span class="verb-form">tańczy się</span>.  
 > Z tego miejsca łatwo <span class="verb-form">widzi się</span> scenę.  
 > W bibliotece nie <span class="verb-form">rozmawia się</span> głośno.
 
-Takie zdania mówią o ogólnym doświadczeniu, zwyczaju albo zasadzie. Nie wskazują jednej osoby.
+Takie zdania mówią o ogólnym doświadczeniu, zwyczaju albo zasadzie i nie wskazują konkretnej osoby.
 
-Nie oznacza to jednak, że każde **się** tworzy konstrukcję bezosobową.
+Nie każde **się** tworzy jednak konstrukcję bezosobową:
 
-> Maja <span class="verb-form">myje się</span>.
-
-Maja wykonuje czynność na sobie.
-
-> Kuba i Lena <span class="verb-form">wspierają się</span>.
-
-Każde z nich wspiera drugie.
-
+> Maja <span class="verb-form">myje się</span>.  
+> Kuba i Lena <span class="verb-form">wspierają się</span>.  
 > Drzwi <span class="verb-form">otwierają się</span> powoli.
 
-Zdanie opisuje zmianę stanu drzwi.
+W pierwszym zdaniu czynność wraca do wykonawcy, w drugim jest wzajemna, a w trzecim opisuje zmianę stanu. Znaczenie **się** trzeba odczytywać z całej konstrukcji.
 
-Wyraz **się** pełni w polszczyźnie kilka funkcji. Nie wolno automatycznie nazywać każdej konstrukcji z **się** stroną bierną ani formą bezosobową. Trzeba przeczytać całe zdanie.
+## Imiesłowy: czynność włączona do opisu
 
-## Imiesłów pozwala włączyć czynność do opisu
+> <span class="verb-form">Śpiewające</span> dzieci stały na scenie.  
+> Przy ścianie ustawiono <span class="verb-form">przygotowane</span> stoły.  
+> <span class="verb-form">Czytając</span> program, Maja zaznaczała najważniejsze punkty.  
+> <span class="verb-form">Sprawdziwszy</span> nagłośnienie, Antek odłożył instrukcję.
 
-Reporterka napisała:
+Imiesłowy zachowują związek z czynnością, lecz pełnią inne zadania niż zwykłe formy osobowe. Mogą określać rzeczownik albo pokazywać relację między dwiema czynnościami.
 
-> Sala, <span class="verb-form">przygotowana</span> przez uczniów, czekała na gości.
+[Dokładne wyjaśnienie imiesłowów](../imieslowy/){ .md-button }
 
-Wyraz **przygotowana** mówi o czynności wykonanej na sali, ale jednocześnie określa rzeczownik **sala**.
+## Ten sam fakt w różnych tekstach
 
-> Przy wejściu stali uczniowie <span class="verb-form">rozdający</span> programy.
+Załóżmy, że uczniowie ustawili scenę.
 
-Wyraz **rozdający** określa uczniów i pokazuje czynność, którą wykonują.
+**W opowieści:**
 
-Imiesłowy pozwalają połączyć opis z informacją o działaniu:
+> Uczniowie <span class="verb-form">ustawili</span> scenę i zawiesili lampy.
 
-> świecące lampy;  
-> ustawione stoły;  
-> śpiewające dzieci;  
-> zamknięte drzwi.
-
-Zamiast budować dwa oddzielne zdania:
-
-> Dzieci śpiewały. Dzieci stały na scenie.
-
-możemy powiedzieć:
-
-> Śpiewające dzieci stały na scenie.
-
-Albo:
-
-> Stoły zostały ustawione przy ścianie. Stały tam do końca festynu.
-
-możemy skrócić do:
-
-> Ustawione przy ścianie stoły stały tam do końca festynu.
-
-Imiesłowy będą dokładnie wyjaśnione na osobnej podstronie. Tutaj najważniejsze jest zauważenie, że czasownik może przekazać część swoich właściwości formie służącej do opisu.
-
-## Ten sam fakt w różnych rodzajach tekstu
-
-Wyobraźmy sobie, że uczniowie ustawili scenę.
-
-W opowieści:
-
-> Uczniowie <span class="verb-form">ustawili</span> scenę, a potem zawiesili nad nią lampy.
-
-W sprawozdaniu:
+**W sprawozdaniu:**
 
 > Scena <span class="verb-form">została ustawiona</span> w sali gimnastycznej.
 
-W krótkiej notatce technicznej:
+**W krótkiej notatce:**
 
 > Scenę <span class="verb-form">ustawiono</span> przy północnej ścianie.
 
-W planie prac:
+**W planie prac:**
 
 > Trzeba <span class="verb-form">ustawić</span> scenę przed godziną dziewiątą.
 
-W opisie:
+**W opisie:**
 
 > <span class="verb-form">Ustawiona</span> przy ścianie scena zajmowała prawie całą szerokość sali.
 
-Wszystkie zdania odnoszą się do podobnego działania. Każde odpowiada jednak na inną potrzebę:
+Każda forma odpowiada na inną potrzebę. Jedna pokazuje wykonawcę, druga przedmiot czynności, trzecia wykonanie zadania, czwarta obowiązek, a piąta wykorzystuje czynność jako część opisu.
 
-- kto działał?;
-- co stało się ze sceną?;
-- czy praca została wykonana?;
-- co należy zrobić?;
-- jaka scena znajduje się w sali?
+## Gdy pominięcie wykonawcy ma znaczenie
 
-Gramatyka nie jest więc kolekcją zamiennych konstrukcji. Każda forma pomaga osiągnąć inny cel komunikacyjny.
-
-## Kiedy ukrywanie wykonawcy szkodzi tekstowi?
-
-Czasem forma bezosobowa albo strona bierna jest bardzo użyteczna. Czasem jednak zaciemnia odpowiedzialność.
-
-> Popełniono błąd.
-
-Nie wiadomo, kto go popełnił.
-
+> Popełniono błąd.  
 > Dokument został zgubiony.
 
-Zdanie informuje o skutku, ale pomija osobę odpowiedzialną.
-
-Jeżeli wykonawca jest ważny, lepiej go nazwać:
-
-> Sekretarz zgubił dokument.  
-> Zespół obliczeniowy popełnił błąd w tabeli.
-
-W tekstach szkolnych warto pytać: **czy pominięcie wykonawcy ma sens, czy tylko utrudnia zrozumienie?**
-
-Porównaj:
+Takie zdania przekazują informację o zdarzeniu, ale nie mówią, kto ponosi odpowiedzialność. Czasem jest to uzasadnione:
 
 > Podczas doświadczenia zmierzono temperaturę wody.
 
-W opisie procedury wykonawca nie jest najważniejszy. Liczy się przebieg doświadczenia.
+W opisie procedury wykonawca nie musi być ważny.
 
-> Podczas dyżuru wybito okno.
+Czasem jednak lepiej go nazwać:
 
-Jeżeli ustalamy odpowiedzialność, brak wykonawcy staje się istotny.
+> Sekretarz zgubił dokument.  
+> Zespół popełnił błąd w tabeli.
 
-Wybór konstrukcji wpływa więc nie tylko na styl, ale czasem również na to, jak przedstawiamy odpowiedzialność za działanie.
-
-## Jak analizować zdanie krok po kroku?
-
-Przeczytaj zdanie:
-
-> Po zakończeniu festynu salę posprzątano, dekoracje zostały zdjęte, a uczniowie zaczęli przenosić stoły do magazynu.
-
-Mamy tu trzy różne sposoby opowiadania.
-
-**Salę posprzątano** — forma na **-no**. Wiemy, że ktoś wykonał czynność, ale wykonawca nie został podany.
-
-**Dekoracje zostały zdjęte** — strona bierna. Podmiotem są dekoracje, a zdanie skupia się na tym, co się z nimi stało.
-
-**Uczniowie zaczęli przenosić stoły** — forma osobowa **zaczęli** wskazuje wykonawców, a bezokolicznik **przenosić** nazywa rozpoczętą czynność.
-
-Analizując podobne zdanie, warto zadać cztery pytania:
-
-<div class="verb-step-list">
-  <div class="verb-step"><strong>Czy zdanie podaje wykonawcę?</strong> Jeżeli tak, sprawdź, czy jest podmiotem i czy czasownik ma formę osobową.</div>
-  <div class="verb-step"><strong>Czy na pierwszym planie stoi przedmiot objęty działaniem?</strong> Poszukaj konstrukcji typu <em>został przygotowany</em>.</div>
-  <div class="verb-step"><strong>Czy forma kończy się na -no lub -to?</strong> Może to być forma bezosobowa: <em>przygotowano, zamknięto</em>.</div>
-  <div class="verb-step"><strong>Czy czasownik tylko nazywa czynność?</strong> Sprawdź, czy jest bezokolicznikiem: <em>przygotować, zamknąć, przenieść</em>.</div>
-</div>
-
-## Mapa wyboru formy
+Wybór formy może więc wpływać nie tylko na styl, lecz także na sposób przedstawienia odpowiedzialności.
 
 <div class="verb-mini-summary">
-<h3>Najpierw zdecyduj, co ma być najważniejsze</h3>
+<h3>Podsumowanie</h3>
 <ul>
-  <li>Chcesz pokazać bohatera i jego działanie — wybierz formę osobową: <strong>Maja przygotowała dekoracje</strong>.</li>
-  <li>Chcesz skupić uwagę na przedmiocie lub wyniku — użyj strony biernej: <strong>Dekoracje zostały przygotowane</strong>.</li>
-  <li>Chcesz poinformować o wykonanej czynności bez wskazywania osoby — użyj formy na <strong>-no</strong> lub <strong>-to</strong>: <strong>Przygotowano dekoracje</strong>.</li>
-  <li>Chcesz nazwać zadanie, możliwość, zamiar albo konieczność — użyj bezokolicznika: <strong>trzeba przygotować dekoracje</strong>.</li>
-  <li>Chcesz połączyć opis z czynnością — może przydać się imiesłów: <strong>przygotowane dekoracje</strong>, <strong>uczniowie przygotowujący salę</strong>.</li>
-  <li>Nie zakładaj, że każda konstrukcja z <strong>się</strong> jest bezosobowa. Zawsze sprawdzaj znaczenie całego zdania.</li>
+  <li>Forma osobowa wskazuje osobę i liczbę wykonawcy lub uczestnika zdarzenia.</li>
+  <li>Strona czynna skupia uwagę zwykle na wykonawcy, a bierna — na osobie lub rzeczy objętej czynnością.</li>
+  <li>Bezokolicznik nazywa czynność bez informacji o osobie, liczbie i czasie.</li>
+  <li>Formy na <strong>-no</strong> i <strong>-to</strong> informują o czynności bez wskazania wykonawcy.</li>
+  <li>Konstrukcje z <strong>się</strong> mogą być bezosobowe, ale słowo <strong>się</strong> pełni także inne funkcje.</li>
+  <li>Imiesłowy pozwalają wykorzystać znaczenie czynności w opisie lub połączyć dwie czynności.</li>
+  <li>Wybór formy zależy od tego, jaka informacja ma być najważniejsza.</li>
 </ul>
 </div>
 
-## Trzy dalsze drogi
-
-<div class="verb-topic-grid">
-  <a class="verb-topic-card verb-topic-card--primary" href="../strona-czynna-i-bierna/"><span class="verb-topic-number">01</span><strong>Kamera zdania</strong><span>Dokładne porównanie strony czynnej i biernej na tych samych wydarzeniach.</span></a>
-  <a class="verb-topic-card" href="../bezokolicznik-i-formy-bezosobowe/"><span class="verb-topic-number">02</span><strong>Czynność bez podanej osoby</strong><span>Bezokolicznik, formy na -no i -to oraz inne zdania bez wskazanego wykonawcy.</span></a>
-  <a class="verb-topic-card" href="../imieslowy/"><span class="verb-topic-number">03</span><strong>Imiesłowy bez pośpiechu</strong><span>Formy, które zachowują znaczenie czynności, ale pomagają opisywać rzeczowniki albo łączyć wydarzenia.</span></a>
-</div>
-
-[Przejdź dalej: kamera zdania](../strona-czynna-i-bierna/){ .md-button .md-button--primary }
+[Przejdź dalej: strona czynna i bierna](../strona-czynna-i-bierna/){ .md-button .md-button--primary }
 
 </div>
