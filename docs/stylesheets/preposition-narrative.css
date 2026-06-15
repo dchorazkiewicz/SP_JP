@@ -1,0 +1,383 @@
+.preposition-lesson {
+  --part-accent: #8a5b20;
+  --part-soft: #fff8eb;
+  --part-accent-soft: #fff0c9;
+  --part-border: #deded9;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson {
+  --part-accent: #e2b56e;
+  --part-soft: #342a1d;
+  --part-accent-soft: #4b3a19;
+  --part-border: #4a5155;
+}
+
+.preposition-lesson .lesson-lead {
+  background: linear-gradient(135deg, color-mix(in srgb, var(--part-accent) 14%, transparent), transparent);
+  border: 1px solid var(--part-border);
+  border-left: 5px solid var(--part-accent);
+  border-radius: 0.8rem;
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.1rem;
+}
+
+.preposition-story {
+  background: linear-gradient(135deg, var(--md-default-bg-color), var(--part-soft));
+  border: 1px solid var(--part-border);
+  border-radius: 0.85rem;
+  margin: 1rem 0 1.5rem;
+  overflow: hidden;
+}
+
+.preposition-story__title {
+  background: var(--part-soft);
+  border-bottom: 1px solid var(--part-border);
+  color: var(--part-accent);
+  font-weight: 800;
+  padding: 0.8rem 1rem;
+}
+
+.preposition-story__body {
+  line-height: 1.7;
+  padding: 1rem 1.15rem;
+}
+
+.preposition-story__body p:first-child { margin-top: 0; }
+.preposition-story__body p:last-child { margin-bottom: 0; }
+
+.preposition-concept {
+  align-items: start;
+  background: var(--md-default-bg-color);
+  border: 2px solid var(--part-accent);
+  border-radius: 0.75rem;
+  display: grid;
+  gap: 0.25rem 0.8rem;
+  grid-template-columns: auto minmax(0, 1fr);
+  margin: 1rem 0 1.5rem;
+  padding: 0.9rem 1rem;
+}
+
+.preposition-concept__label {
+  background: var(--part-accent);
+  border-radius: 999px;
+  color: var(--md-primary-bg-color);
+  font-size: 0.72rem;
+  font-weight: 850;
+  grid-row: 1 / span 2;
+  letter-spacing: 0.04em;
+  padding: 0.25rem 0.55rem;
+  text-transform: uppercase;
+}
+
+.preposition-concept strong { color: var(--part-accent); }
+.preposition-concept p { line-height: 1.55; margin: 0.2rem 0 0; }
+
+.preposition-checkpoint {
+  background: color-mix(in srgb, #b77a27 11%, var(--md-default-bg-color));
+  border: 1px solid color-mix(in srgb, #b77a27 58%, var(--part-border));
+  border-radius: 0.8rem;
+  margin: 1.3rem 0 1.7rem;
+  padding: 0.95rem 1.05rem;
+}
+
+.preposition-checkpoint__title {
+  color: color-mix(in srgb, #7b4e13 90%, var(--md-typeset-color));
+  font-weight: 850;
+  margin-bottom: 0.35rem;
+}
+
+.preposition-step-list {
+  counter-reset: preposition-step;
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.preposition-step {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--part-border);
+  border-radius: 0.75rem;
+  line-height: 1.6;
+  padding: 0.85rem 1rem 0.85rem 3.1rem;
+  position: relative;
+}
+
+.preposition-step::before {
+  align-items: center;
+  background: var(--part-accent);
+  border-radius: 999px;
+  color: var(--md-primary-bg-color);
+  content: counter(preposition-step);
+  counter-increment: preposition-step;
+  display: flex;
+  font-size: 0.78rem;
+  font-weight: 800;
+  height: 1.7rem;
+  justify-content: center;
+  left: 0.85rem;
+  position: absolute;
+  top: 0.82rem;
+  width: 1.7rem;
+}
+
+.preposition-scene-break {
+  align-items: center;
+  color: var(--md-default-fg-color--light);
+  display: flex;
+  font-size: 0.82rem;
+  font-weight: 800;
+  gap: 0.75rem;
+  letter-spacing: 0.04em;
+  margin: 1.7rem 0;
+  text-transform: uppercase;
+}
+
+.preposition-scene-break::before,
+.preposition-scene-break::after {
+  background: var(--part-border);
+  content: "";
+  flex: 1;
+  height: 1px;
+}
+
+.preposition-reading__commentary {
+  background: var(--part-soft);
+  border: 1px solid var(--part-border);
+  border-left: 5px solid var(--part-accent);
+  border-radius: 0.7rem;
+  line-height: 1.65;
+  margin: 1.25rem 0 1.8rem;
+  padding: 0.9rem 1rem;
+}
+
+.preposition-reading__commentary > strong:first-child {
+  color: var(--part-accent);
+  display: block;
+  margin-bottom: 0.45rem;
+}
+
+.preposition-summary {
+  background: var(--part-soft);
+  border: 2px solid var(--part-accent);
+  border-radius: 0.8rem;
+  margin: 1.3rem 0 1.6rem;
+  padding: 1rem 1.1rem;
+}
+
+.preposition-summary h3 {
+  color: var(--part-accent);
+  margin: 0 0 0.45rem;
+}
+
+.preposition-summary ul,
+.preposition-checkpoint ul {
+  margin: 0.45rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.preposition-summary li,
+.preposition-checkpoint li {
+  line-height: 1.55;
+  margin: 0.25rem 0;
+}
+
+/* Neutral sentence field with strong, readable text. */
+.preposition-lesson blockquote {
+  background: #f5f6f7;
+  border: 1px solid #cfd5d9;
+  border-left: 5px solid #8d989e;
+  border-radius: 0.55rem;
+  color: #171b1f;
+  margin: 0.9rem 0 1.1rem;
+  padding: 0.72rem 0.92rem;
+}
+
+.preposition-lesson blockquote p {
+  color: #171b1f;
+  margin: 0.22rem 0;
+  opacity: 1;
+}
+
+/* Exact grammatical roles inside a prepositional phrase. */
+.preposition-lesson .prep-focus {
+  background: #f6ddb2;
+  border: 2px solid #b47a28;
+  border-radius: 0.32rem;
+  color: #5d3907;
+  font-weight: 850;
+  padding: 0.03rem 0.2rem;
+}
+
+.preposition-lesson .governed-focus {
+  background: #e4edf1;
+  border: 2px solid #718d99;
+  border-radius: 0.32rem;
+  color: #29424d;
+  font-weight: 800;
+  padding: 0.03rem 0.2rem;
+}
+
+.preposition-lesson .pronoun-anchor {
+  background: #e9e3f3;
+  border: 2px solid #9277ad;
+  border-radius: 0.32rem;
+  color: #51396a;
+  font-weight: 800;
+  padding: 0.03rem 0.2rem;
+}
+
+.preposition-lesson .adverb-anchor {
+  background: #e1f0e5;
+  border: 2px solid #6f9f7c;
+  border-radius: 0.32rem;
+  color: #245c34;
+  font-weight: 800;
+  padding: 0.03rem 0.2rem;
+}
+
+.preposition-lesson .prefix-focus {
+  background: #f7e4e7;
+  border: 2px solid #b77b86;
+  border-radius: 0.32rem;
+  color: #6c303b;
+  font-weight: 800;
+  padding: 0.03rem 0.2rem;
+}
+
+.preposition-lesson .multi-prep-focus {
+  background: #f2e2c6;
+  border: 2px solid #9f6a20;
+  border-radius: 0.32rem;
+  color: #5b3807;
+  font-weight: 850;
+  padding: 0.03rem 0.22rem;
+}
+
+/* Story: semantic colour on the preposition, neutral colour on its complement. */
+.preposition-lesson .prep-token,
+.preposition-lesson .governed-token {
+  border: 2px solid;
+  border-radius: 0.32rem;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  color: #171b1f;
+  padding: 0.03rem 0.2rem;
+}
+
+.preposition-lesson .prep-token { font-weight: 850; }
+.preposition-lesson .governed-token {
+  background: #eceff1;
+  border-color: #8b959c;
+  font-weight: 750;
+}
+
+.preposition-lesson .prep-place {
+  background: #dceefa;
+  border-color: #4f8dae;
+}
+
+.preposition-lesson .prep-time {
+  background: #fff0d5;
+  border-color: #c4933f;
+}
+
+.preposition-lesson .prep-cause {
+  background: #f7e4e7;
+  border-color: #b77b86;
+}
+
+.preposition-lesson .prep-other {
+  background: #e1f0e5;
+  border-color: #6f9f7c;
+}
+
+.preposition-lesson .reading-header p {
+  color: var(--md-default-fg-color--light);
+  margin: 0.35rem 0 0;
+}
+
+.preposition-lesson .reading-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.75rem;
+}
+
+.preposition-lesson .reading-legend span {
+  border: 2px solid;
+  border-radius: 0.35rem;
+  color: #171b1f;
+  font-size: 0.78rem;
+  font-weight: 750;
+  padding: 0.2rem 0.5rem;
+}
+
+.preposition-lesson .reading-text {
+  line-height: 1.72;
+  padding: 1rem 1.3rem 1.4rem;
+}
+
+[data-md-color-scheme="slate"] .preposition-checkpoint__title { color: #edc681; }
+
+[data-md-color-scheme="slate"] .preposition-lesson blockquote {
+  background: #292f33;
+  border-color: #525d63;
+  border-left-color: #8f9aa0;
+  color: #f1f4f6;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson blockquote p { color: #f1f4f6; }
+
+[data-md-color-scheme="slate"] .preposition-lesson .prep-focus,
+[data-md-color-scheme="slate"] .preposition-lesson .multi-prep-focus {
+  background: #4b371a;
+  border-color: #d1a45a;
+  color: #fff7e6;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .governed-focus,
+[data-md-color-scheme="slate"] .preposition-lesson .governed-token {
+  background: #303a3f;
+  border-color: #8ca1aa;
+  color: #f1f5f6;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .pronoun-anchor {
+  background: #3d2a4e;
+  border-color: #b895d0;
+  color: #fbf5ff;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .adverb-anchor,
+[data-md-color-scheme="slate"] .preposition-lesson .prep-other {
+  background: #20432b;
+  border-color: #83b58f;
+  color: #f3faf5;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .prefix-focus,
+[data-md-color-scheme="slate"] .preposition-lesson .prep-cause {
+  background: #512d35;
+  border-color: #cb8d98;
+  color: #fff4f6;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .prep-place {
+  background: #1d4053;
+  border-color: #7fb8d4;
+  color: #f1f9fd;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .prep-time {
+  background: #4a381d;
+  border-color: #d1a55b;
+  color: #fff7e6;
+}
+
+[data-md-color-scheme="slate"] .preposition-lesson .reading-legend span { color: #f1f4f6; }
+
+@media (max-width: 700px) {
+  .preposition-concept { grid-template-columns: 1fr; }
+  .preposition-concept__label { grid-row: auto; justify-self: start; }
+  .preposition-lesson .reading-text { padding: 0.85rem; }
+}
