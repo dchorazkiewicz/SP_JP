@@ -1,119 +1,237 @@
-# Funkcje i słowotwórstwo przymiotnika
+# Przymiotnik w zdaniu, słowotwórstwie i pisowni
 
 <div class="adjective-lesson" markdown>
 
-<div class="lesson-lead">
-Przymiotnik najczęściej określa rzeczownik, ale może również tworzyć orzeczenie, występować samodzielnie zamiast rzeczownika albo powstawać od nazw miejsc, osób, materiałów i czynności.
+<div class="lesson-lead" markdown>
+
+Przymiotnik może określać rzeczownik, współtworzyć orzeczenie albo sam zastępować nazwę osoby. Może też należeć do rodziny wyrazów i powstawać od rzeczowników, czasowników lub innych przymiotników. Jego funkcję i pisownię rozpoznajemy w całym zdaniu.
+
+</div>
+
+## Ten sam przymiotnik w różnych miejscach zdania
+
+<div class="adjective-story" markdown>
+  <div class="adjective-story__title">Cicha sala</div>
+  <div class="adjective-story__body" markdown>
+
+Przed rozpoczęciem koncertu nauczyciel opisał pomieszczenie:
+
+> To <span class="form-focus">cicha</span> <span class="noun-anchor">sala</span>.
+
+Po wejściu publiczności powiedział:
+
+> <span class="noun-anchor">Sala</span> nadal jest <span class="form-focus">cicha</span>.
+
+W pierwszym zdaniu przymiotnik stoi przy rzeczowniku. W drugim pojawia się po czasowniku **jest**. Znaczenie pozostaje podobne, ale funkcja składniowa się zmienia.
+
+  </div>
 </div>
 
 ## Przymiotnik jako przydawka
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">cecha</span><p>Na biurku leżał <span class="form-focus">gruby</span> zeszyt.</p><span class="change-note">jaki zeszyt?</span></div>
-  <div class="example-row"><span class="grammar-badge">kolor</span><p>Przy bramie stał <span class="form-focus">czerwony</span> samochód.</p><span class="change-note">jaki samochód?</span></div>
-  <div class="example-row"><span class="grammar-badge">materiał</span><p>W jadalni ustawiono <span class="form-focus">drewniany</span> stół.</p><span class="change-note">z jakiego materiału?</span></div>
-  <div class="example-row"><span class="grammar-badge">relacja</span><p>Uczniowie odwiedzili <span class="form-focus">szkolną</span> bibliotekę.</p><span class="change-note">związek ze szkołą</span></div>
-</div>
+> Na biurku leżał <span class="form-focus">gruby</span> <span class="noun-anchor">zeszyt</span>.  
+> Przy bramie stał <span class="form-focus">czerwony</span> <span class="noun-anchor">samochód</span>.  
+> W jadalni ustawiono <span class="form-focus">drewniany</span> <span class="noun-anchor">stół</span>.  
+> Uczniowie odwiedzili <span class="form-focus">szkolną</span> <span class="noun-anchor">bibliotekę</span>.
+
+Przymiotnik bezpośrednio określający rzeczownik pełni zwykle funkcję **przydawki**. Może mówić o cesze, kolorze, materiale, relacji albo przeznaczeniu.
+
+Przydawka nie zawsze stoi przed rzeczownikiem:
+
+> język polski;  
+> literatura współczesna;  
+> Morze Bałtyckie.
+
+W terminach, nazwach i przeciwstawieniach miejsce przymiotnika może być utrwalone lub znaczące.
 
 ## Przymiotnik jako orzecznik
 
-<div class="comparison-grid">
-  <div class="comparison-item"><span class="comparison-label">przydawka</span><p><strong>Cichy pokój</strong> znajdował się na końcu korytarza.</p></div>
-  <div class="comparison-item"><span class="comparison-label">orzecznik</span><p>Pokój był <strong>cichy</strong>.</p></div>
-</div>
+> <span class="noun-anchor">Pokój</span> był <span class="form-focus">cichy</span>.  
+> <span class="noun-anchor">Analiza</span> okazała się <span class="form-focus">dokładna</span>.  
+> <span class="noun-anchor">Obliczenie</span> pozostało <span class="form-focus">dokładne</span>.  
+> <span class="noun-anchor">Wyniki</span> były <span class="form-focus">dokładne</span>.
 
-W drugim zdaniu czasownik **był** łączy podmiot **pokój** z przymiotnikiem **cichy**. Razem tworzą orzeczenie imienne.
+Przymiotnik może występować po czasownikach takich jak **być**, **zostać**, **stać się**, **okazać się** i **pozostać**. Współtworzy wtedy orzeczenie imienne i pełni funkcję **orzecznika**.
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">rodzaj męski</span><p>Raport okazał się <span class="agreement-mark">dokładny</span>.</p><span class="change-note">dokładny raport</span></div>
-  <div class="example-row"><span class="grammar-badge">rodzaj żeński</span><p>Analiza okazała się <span class="agreement-mark">dokładna</span>.</p><span class="change-note">dokładna analiza</span></div>
-  <div class="example-row"><span class="grammar-badge">rodzaj nijaki</span><p>Obliczenie okazało się <span class="agreement-mark">dokładne</span>.</p><span class="change-note">dokładne obliczenie</span></div>
-  <div class="example-row"><span class="grammar-badge">liczba mnoga</span><p>Wyniki okazały się <span class="agreement-mark">dokładne</span>.</p><span class="change-note">dokładne wyniki</span></div>
+Mimo oddalenia od rzeczownika nadal się z nim zgadza:
+
+> raport był dokładny;  
+> analiza była dokładna;  
+> obliczenie było dokładne.
+
+<div class="adjective-checkpoint">
+  <div class="adjective-checkpoint__title">Przydawka czy orzecznik?</div>
+  <p>W wyrażeniu <strong>dokładny raport</strong> przymiotnik jest przydawką. W zdaniu <strong>raport był dokładny</strong> jest orzecznikiem i współtworzy orzeczenie.</p>
 </div>
 
 ## Przymiotnik użyty rzeczownikowo
 
-Czasami przymiotnik występuje bez rzeczownika, ale zachowuje jego domyślne znaczenie.
+Czasem przymiotnik występuje bez rzeczownika, ale z kontekstu wiadomo, jaką osobę lub grupę nazywa:
 
-- **Chory** czekał przed gabinetem. — domyślnie: chory człowiek lub pacjent.
-- **Młodzi** szybko odnaleźli się w nowej sytuacji. — domyślnie: młodzi ludzie.
-- Ratownik pomógł **poszkodowanej**. — domyślnie: poszkodowanej kobiecie.
-- W zawodach zwyciężył **najlepszy**. — domyślnie: najlepszy zawodnik.
+> <span class="form-focus">Chory</span> czekał przed gabinetem.  
+> Ratownik pomógł <span class="form-focus">poszkodowanej</span>.  
+> <span class="form-focus">Młodzi</span> szybko odnaleźli się w nowej sytuacji.  
+> W zawodach zwyciężył <span class="form-focus">najlepszy</span>.
 
-Taki wyraz nadal ma budowę i odmianę przymiotnika:
+Możemy dopowiedzieć ukryte znaczenie:
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus">Chory</span> czeka na lekarza.</p><span class="change-note">kto?</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>Nie ma dziś <span class="form-focus">chorego</span> w sali.</p><span class="change-note">kogo?</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>Pielęgniarka podała wodę <span class="form-focus">choremu</span>.</p><span class="change-note">komu?</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>Lekarz rozmawia z <span class="form-focus">chorym</span>.</p><span class="change-note">z kim?</span></div>
-</div>
+> chory człowiek lub pacjent;  
+> poszkodowana kobieta;  
+> młodzi ludzie;  
+> najlepszy zawodnik.
 
-## Przymiotniki jakościowe i relacyjne
+Wyraz nadal odmienia się jak przymiotnik:
 
-<div class="comparison-grid">
-  <div class="comparison-item"><span class="comparison-label">jakościowy</span><p>To był <strong>ciepły</strong> dzień, a wieczór okazał się jeszcze <strong>cieplejszy</strong>.</p></div>
-  <div class="comparison-item"><span class="comparison-label">relacyjny</span><p>Przeczytaliśmy <strong>szkolny</strong> regulamin i weszliśmy do <strong>szkolnej</strong> biblioteki.</p></div>
-</div>
+> chory, chorego, choremu, z chorym, o chorym.
 
-Przymiotniki jakościowe nazywają cechy o różnym natężeniu i często się stopniują. Przymiotniki relacyjne wskazują związek z czymś, na przykład **szkolny, miejski, metalowy, zimowy**, i zwykle nie tworzą naturalnych stopni.
+Nie staje się zwykłym rzeczownikiem pod względem budowy. Mówimy, że został **użyty rzeczownikowo**.
 
-## Tworzenie przymiotników od rzeczowników
+## Rodzina wyrazów
 
-| Rzeczownik | Przymiotnik w zdaniu | Znaczenie |
+Porównaj:
+
+> szkoła → szkolny;  
+> drewno → drewniany;  
+> Warszawa → warszawski;  
+> zima → zimowy;  
+> odwaga → odważny.
+
+Rzeczownik jest tu wyrazem podstawowym, a przymiotnik — wyrazem pochodnym. Nowy wyraz ma własne znaczenie i własną odmianę:
+
+> szkolny regulamin; szkolnego regulaminu; o szkolnym regulaminie.
+
+To nie są różne formy rzeczownika **szkoła**, lecz nowy wyraz należący do innej części mowy.
+
+### Co mogą znaczyć przymiotniki pochodne?
+
+| Wyraz podstawowy | Przymiotnik | Znaczenie w połączeniu |
 |---|---|---|
-| drewno | W salonie stał **drewniany** stół. | wykonany z drewna |
-| szkoła | Otworzono nową **szkolną** pracownię. | związany ze szkołą |
-| historia | Czytaliśmy **historyczny** dokument. | związany z historią |
-| Warszawa | Kupiliśmy **warszawski** przewodnik. | związany z Warszawą |
-| lato | Wieczorem założyła **letnią** sukienkę. | związany z latem |
+| drewno | drewniany stół | wykonany z drewna |
+| szkoła | szkolna biblioteka | związana ze szkołą |
+| historia | historyczny dokument | związany z historią |
+| Warszawa | warszawska ulica | związana z Warszawą |
+| lato | letnia kurtka | przeznaczona na lato lub związana z latem |
 
-Częste przyrostki to między innymi **-owy, -ny, -ski, -cki, -iczny, -any**. Ich użycie zależy od konkretnej podstawy i utrwalonej formy wyrazu.
+Znaczenie nie zawsze wynika mechanicznie z przyrostka. **Historyczny** może znaczyć „związany z historią”, ale także „bardzo ważny dla dziejów”:
 
-## Tworzenie przymiotników od czasowników
+> podręcznik historyczny;  
+> historyczne zwycięstwo.
 
-- Ten materiał jest **zmywalny**, więc można go łatwo wyczyścić.
-- Nowy regulamin jest **obowiązujący** od początku roku.
-- To urządzenie jest **przenośne**, dlatego zabieramy je w teren.
-- Instrukcja była **zrozumiała** dla wszystkich uczestników.
+## Przymiotniki związane z czasownikami
 
-Nie każda forma pochodząca od czasownika jest zwykłym przymiotnikiem. Wyrazy takie jak **czytający, napisany, zamknięty** mogą być imiesłowami i zachowywać związek z czynnością:
+> jeść → jadalny;  
+> rozumieć → zrozumiały;  
+> łamać → łamliwy;  
+> przenosić → przenośny.
 
-> **Czytający uczeń** robił notatki.  
-> **Przeczytana książka** wróciła na półkę.
+Takie przymiotniki mogą mówić o możliwości, podatności albo przeznaczeniu:
+
+> jadalne grzyby;  
+> zrozumiała instrukcja;  
+> łamliwy materiał;  
+> przenośny komputer.
+
+Nie każda forma związana z czasownikiem jest jednak zwykłym przymiotnikiem:
+
+> <span class="form-focus">Czytający</span> <span class="noun-anchor">uczeń</span> robił notatki.  
+> <span class="form-focus">Przeczytana</span> <span class="noun-anchor">książka</span> wróciła na półkę.
+
+**Czytający** i **przeczytana** są imiesłowami przymiotnikowymi. Zachowują znaczenie czynności i mogą łączyć się z określeniami właściwymi czasownikom:
+
+> uczeń czytający książkę;  
+> książka przeczytana przez Maję.
+
+## Przymiotniki tworzone od innych przymiotników
+
+> biały → białawy;  
+> słodki → słodkawy;  
+> mały → malutki;  
+> czerwony → czerwonawy.
+
+Nowe formy mogą osłabiać albo wzmacniać cechę:
+
+> **białawy** — trochę biały, zbliżony do białego;  
+> **malutki** — bardzo mały, często z dodatkowym odcieniem emocjonalnym.
+
+Słowotwórstwo pozwala więc wyrażać subtelniejsze różnice niż zwykłe stopniowanie.
 
 ## Pisownia „nie” z przymiotnikami
 
-W stopniu równym **nie** z przymiotnikiem zapisujemy zwykle łącznie:
+Zgodnie z zasadami obowiązującymi od 1 stycznia 2026 roku cząstkę **nie** zapisujemy z przymiotnikami zasadniczo łącznie — również w stopniu wyższym i najwyższym:
 
-- To był **niełatwy** egzamin.
-- Wybraliśmy **niedrogie** rozwiązanie.
-- Pokój był **niewielki**, ale wygodny.
+> niedrogi, niedroższy, nienajdroższy;  
+> niemiły, niemilszy, nienajmilszy;  
+> niełatwy, niełatwiejszy, nienajłatwiejszy.
 
-Przeciwstawienie może wymagać pisowni rozdzielnej:
+Pisownia rozdzielna pozostaje potrzebna między innymi przy wyraźnym przeciwstawieniu:
 
-- To zadanie jest **nie łatwe, lecz bardzo trudne**.
-- Wybraliśmy rozwiązanie **nie drogie, ale oszczędne**.
+> nie drogi, ale tani;  
+> nie większy, lecz najwyższy;  
+> nie czarna, tylko granatowa.
 
-W stopniu wyższym i najwyższym **nie** zapisujemy rozdzielnie:
+Rozdzielnie piszemy także po wyrazach **bynajmniej** i **wcale**:
 
-- Ten wariant jest **nie lepszy** od poprzedniego.
-- To rozwiązanie okazało się **nie najtańsze**, ale najbardziej trwałe.
+> wcale nie łatwy;  
+> bynajmniej nie zadowolony.
 
-## Miejsce przymiotnika może zmieniać akcent znaczeniowy
+Możliwa jest też pisownia rozdzielna, gdy mówimy o stanie pośrednim między dwiema cechami:
 
-<div class="comparison-grid">
-  <div class="comparison-item"><span class="comparison-label">cecha wyróżniająca</span><p>Na stole leżała <strong>stara książka</strong>, a obok nowy zeszyt.</p></div>
-  <div class="comparison-item"><span class="comparison-label">utrwalone połączenie lub styl</span><p>Badacz opisywał <strong>literaturę starą</strong> i współczesną.</p></div>
+> Plecak był już nie mały, ale jeszcze nie duży.
+
+<div class="adjective-why">
+<strong>Znaczenie decyduje o zapisie.</strong>
+Forma <em>niedrogi</em> nazywa jedną cechę: stosunkowo niską cenę. Wyrażenie <em>nie drogi, ale tani</em> najpierw zaprzecza cesze, a następnie przeciwstawia jej inną.
 </div>
 
-W większości zwykłych zdań przymiotnik może stać przed rzeczownikiem, ale w terminach, nazwach i przeciwstawieniach szyk bywa istotny: **język polski, Morze Bałtyckie, literatura współczesna**.
+## Mała litera w przymiotnikach od nazw własnych
 
-<div class="lesson-summary">
-<h3>Przymiotnik zawsze trzeba czytać razem z otoczeniem</h3>
-Forma <strong>dokładna</strong> może określać analizę, a forma <strong>dokładny</strong> — raport. Wyraz <strong>chory</strong> może określać rzeczownik albo sam zastępować nazwę osoby. Znaczenie i funkcję rozpoznajemy w całym zdaniu.
+Przymiotniki utworzone od nazw geograficznych zapisujemy zwykle małą literą:
+
+> Polska → polski język;  
+> Warszawa → warszawska ulica;  
+> Kraków → krakowski rynek.
+
+W nazwach własnych wielka litera może wynikać z budowy całej nazwy:
+
+> Morze Bałtyckie;  
+> Szkoła Podstawowa nr 5;  
+> Uniwersytet Warszawski.
+
+Nie wystarczy więc zapytać, od jakiej nazwy utworzono przymiotnik. Trzeba sprawdzić, czy występuje w zwykłym opisie, czy jest częścią oficjalnej nazwy.
+
+## Szyk i znaczenie
+
+> Na stole leżała <span class="form-focus">stara</span> <span class="noun-anchor">książka</span>, a obok nowy zeszyt.  
+> Badacz opisywał <span class="noun-anchor">literaturę</span> <span class="form-focus">starą</span> i współczesną.
+
+W pierwszym zdaniu **stara** jest zwykłą cechą odróżniającą książkę od nowego zeszytu. W drugim szyk pomaga przeciwstawić dwa okresy literatury.
+
+Polski szyk jest elastyczny, ale miejsce przymiotnika może zmieniać akcent, styl albo sposób klasyfikowania obiektu.
+
+## Jak analizować przymiotnik w zdaniu i rodzinie wyrazów?
+
+<div class="adjective-step-list">
+  <div class="adjective-step"><strong>Znajdź rzeczownik lub domyślną nazwę.</strong> Ustal, co przymiotnik określa albo zastępuje.</div>
+  <div class="adjective-step"><strong>Sprawdź funkcję.</strong> Przymiotnik może być przydawką, orzecznikiem albo wyrazem użytym rzeczownikowo.</div>
+  <div class="adjective-step"><strong>Znajdź wyraz podstawowy.</strong> Porównaj: <em>szkoła → szkolny</em>, <em>drewno → drewniany</em>.</div>
+  <div class="adjective-step"><strong>Oddziel odmianę od słowotwórstwa.</strong> <em>szkolnego</em> jest formą wyrazu <em>szkolny</em>, a <em>szkolny</em> nowym wyrazem utworzonym od <em>szkoła</em>.</div>
+  <div class="adjective-step"><strong>Sprawdź związek z czasownikiem.</strong> Forma podobna do przymiotnika może być imiesłowem.</div>
+  <div class="adjective-step"><strong>Przy pisowni „nie” odczytaj sens.</strong> Rozróżnij nazwę jednej cechy od zaprzeczenia i przeciwstawienia.</div>
 </div>
 
-[Przejdź dalej: przymiotniki w tekście](../przymiotniki-w-tekscie/){ .md-button .md-button--primary }
+<div class="adjective-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Przymiotnik może być przydawką, orzecznikiem albo wyrazem użytym rzeczownikowo.</li>
+  <li>Przymiotniki powstają między innymi od rzeczowników, czasowników i innych przymiotników.</li>
+  <li>Odmiana tworzy formy jednego wyrazu, a słowotwórstwo — nowe wyrazy.</li>
+  <li>Formy pochodzące od czasowników mogą być zwykłymi przymiotnikami albo imiesłowami.</li>
+  <li>Od 2026 roku „nie” z przymiotnikami zapisujemy zasadniczo łącznie także w stopniu wyższym i najwyższym.</li>
+  <li>Pisownia rozdzielna pojawia się między innymi przy przeciwstawieniu oraz po wyrazach <em>wcale</em> i <em>bynajmniej</em>.</li>
+  <li>Miejsce przymiotnika może zmieniać akcent znaczeniowy i styl wypowiedzi.</li>
+</ul>
+</div>
+
+[Przejdź dalej: przymiotniki w opowieści](../przymiotniki-w-tekscie/){ .md-button .md-button--primary }
 
 </div>
