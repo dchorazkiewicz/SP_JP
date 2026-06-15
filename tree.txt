@@ -87,8 +87,6 @@
 ./docs/gramatyka/fleksja
 ./docs/gramatyka/fleksja/index.md
 ./docs/gramatyka/index.md
-./docs/gramatyka/podstawy
-./docs/gramatyka/podstawy/index.md
 ./docs/gramatyka/przymiotnik
 ./docs/gramatyka/przymiotnik/index.md
 ./docs/gramatyka/przymiotnik/pdf
