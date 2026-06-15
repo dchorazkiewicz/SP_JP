@@ -1,76 +1,142 @@
-# Liczebniki w tekście
+# Liczebniki w opowieści
 
 <div class="numeral-lesson" markdown>
 
-<div class="lesson-lead">
-Poniższy tekst ma 50 zdań. Liczebniki zostały wyróżnione według rodzaju. Obserwuj, jak zmieniają formę rzeczownika i czasownika oraz jak służą do podawania kolejności, czasu, miar i części całości.
+<div class="lesson-lead" markdown>
+
+W dłuższym tekście liczebniki nie są tylko dodatkiem do danych. Organizują plan wydarzeń, pokazują kolejność, pozwalają porównywać wyniki oraz precyzyjnie opisywać czas, odległość, masę i części całości.
+
 </div>
 
-<div class="reading-panel">
+<div class="reading-panel numeral-reading" markdown>
   <div class="reading-header">
-    <h2>Trzy dni Festiwalu Nauki</h2>
-    <p>Tekst łączy liczebniki główne, porządkowe, zbiorowe, ułamkowe i nieokreślone.</p>
+    <h2>Trzy dni Festiwalu Młodych Odkrywców</h2>
+    <p>Kolory pokazują główne znaczenie liczebnika w danym miejscu. Najważniejsza pozostaje jednak jego konstrukcja z rzeczownikiem i orzeczeniem.</p>
     <div class="reading-legend">
-      <span class="num-cardinal">główne</span>
-      <span class="num-ordinal">porządkowe</span>
-      <span class="num-collective">zbiorowe</span>
-      <span class="num-other">ułamkowe i nieokreślone</span>
+      <span class="num-cardinal">liczba</span>
+      <span class="num-ordinal">kolejność</span>
+      <span class="num-collective">zbiorowość</span>
+      <span class="num-other">ułamki i liczba nieokreślona</span>
     </div>
   </div>
-  <div class="reading-text">
-    <p><span class="sentence-no">1.</span> Tegoroczny Festiwal Nauki trwał <span class="word-token num-cardinal">trzy</span> dni.</p>
-    <p><span class="sentence-no">2.</span> W <span class="word-token num-ordinal">pierwszym</span> dniu otwarto <span class="word-token num-cardinal">dwanaście</span> stanowisk doświadczalnych.</p>
-    <p><span class="sentence-no">3.</span> Przed wejściem czekało <span class="word-token num-cardinal">pięćdziesiąt</span> osób.</p>
-    <p><span class="sentence-no">4.</span> <span class="word-token num-cardinal">Dwie</span> klasy przyjechały z sąsiedniego miasta.</p>
-    <p><span class="sentence-no">5.</span> <span class="word-token num-collective">Troje</span> nauczycieli prowadziło wspólną grupę młodszych uczniów.</p>
-    <p><span class="sentence-no">6.</span> Każdy uczestnik otrzymał <span class="word-token num-cardinal">jeden</span> program i <span class="word-token num-cardinal">dwie</span> mapy.</p>
-    <p><span class="sentence-no">7.</span> Pierwszy wykład rozpoczął się o <span class="word-token num-ordinal">dziewiątej</span>.</p>
-    <p><span class="sentence-no">8.</span> Trwał <span class="word-token num-other">półtorej</span> godziny.</p>
-    <p><span class="sentence-no">9.</span> Po wykładzie zostało <span class="word-token num-cardinal">piętnaście</span> minut na pytania.</p>
-    <p><span class="sentence-no">10.</span> Uczniowie zadali prowadzącej <span class="word-token num-cardinal">cztery</span> pytania o energię słoneczną.</p>
-    <p><span class="sentence-no">11.</span> Na <span class="word-token num-ordinal">drugim</span> stanowisku budowano modele mostów.</p>
-    <p><span class="sentence-no">12.</span> Każdy zespół dostał <span class="word-token num-cardinal">dwadzieścia</span> drewnianych elementów.</p>
-    <p><span class="sentence-no">13.</span> Najlżejszy most ważył tylko <span class="word-token num-cardinal">trzysta</span> gramów.</p>
-    <p><span class="sentence-no">14.</span> Najmocniejsza konstrukcja utrzymała <span class="word-token num-cardinal">osiem</span> kilogramów.</p>
-    <p><span class="sentence-no">15.</span> <span class="word-token num-cardinal">Trzej</span> uczniowie zbudowali ją w ciągu <span class="word-token num-cardinal">czterdziestu</span> minut.</p>
-    <p><span class="sentence-no">16.</span> Komisja przyznała im <span class="word-token num-ordinal">pierwsze</span> miejsce.</p>
-    <p><span class="sentence-no">17.</span> <span class="word-token num-ordinal">Drugie</span> miejsce zdobyła drużyna złożona z <span class="word-token num-collective">dwojga</span> dzieci.</p>
-    <p><span class="sentence-no">18.</span> Ich most był o <span class="word-token num-other">jedną trzecią</span> lżejszy od zwycięskiej konstrukcji.</p>
-    <p><span class="sentence-no">19.</span> Po południu odbyły się <span class="word-token num-cardinal">trzy</span> pokazy chemiczne.</p>
-    <p><span class="sentence-no">20.</span> Podczas <span class="word-token num-ordinal">pierwszego</span> pokazu użyto <span class="word-token num-cardinal">dwóch</span> bezbarwnych cieczy.</p>
-    <p><span class="sentence-no">21.</span> Do <span class="word-token num-ordinal">drugiego</span> doświadczenia potrzebowano <span class="word-token num-other">pół</span> litra wody.</p>
-    <p><span class="sentence-no">22.</span> <span class="word-token num-ordinal">Trzeci</span> pokaz obserwowało prawie <span class="word-token num-cardinal">sto</span> osób.</p>
-    <p><span class="sentence-no">23.</span> Organizatorzy rozdali im <span class="word-token num-cardinal">dziewięćdziesiąt sześć</span> okularów ochronnych.</p>
-    <p><span class="sentence-no">24.</span> Brakujące <span class="word-token num-cardinal">cztery</span> pary szybko przyniesiono z magazynu.</p>
-    <p><span class="sentence-no">25.</span> Pierwszy dzień zakończył się o <span class="word-token num-ordinal">osiemnastej</span> <span class="word-token num-cardinal">trzydzieści</span>.</p>
-    <p><span class="sentence-no">26.</span> W <span class="word-token num-ordinal">drugim</span> dniu festiwalu przyjechało <span class="word-token num-cardinal">dwadzieścia pięć</span> nowych grup.</p>
-    <p><span class="sentence-no">27.</span> Łącznie uczestniczyły w nich <span class="word-token num-cardinal">dwieście trzy</span> osoby.</p>
-    <p><span class="sentence-no">28.</span> Największa grupa liczyła <span class="word-token num-cardinal">trzydziestu dwóch</span> uczniów.</p>
-    <p><span class="sentence-no">29.</span> Najmniejszą tworzyło <span class="word-token num-collective">czworo</span> dzieci i <span class="word-token num-cardinal">jedna</span> opiekunka.</p>
-    <p><span class="sentence-no">30.</span> Tego dnia zaplanowano <span class="word-token num-cardinal">siedem</span> warsztatów komputerowych.</p>
-    <p><span class="sentence-no">31.</span> Każdy warsztat miał <span class="word-token num-cardinal">szesnaście</span> miejsc.</p>
-    <p><span class="sentence-no">32.</span> Na <span class="word-token num-ordinal">piątym</span> warsztacie uczniowie programowali małe roboty.</p>
-    <p><span class="sentence-no">33.</span> <span class="word-token num-cardinal">Dwa</span> roboty przejechały trasę bez błędu.</p>
-    <p><span class="sentence-no">34.</span> <span class="word-token num-cardinal">Pięć</span> robotów zatrzymało się przed <span class="word-token num-ordinal">trzecią</span> przeszkodą.</p>
-    <p><span class="sentence-no">35.</span> Zwycięski robot pokonał <span class="word-token num-cardinal">dwanaście</span> metrów w <span class="word-token num-cardinal">osiemnaście</span> sekund.</p>
-    <p><span class="sentence-no">36.</span> Jego czas był o <span class="word-token num-other">półtorej</span> sekundy lepszy od poprzedniego wyniku.</p>
-    <p><span class="sentence-no">37.</span> <span class="word-token num-ordinal">Trzeciego</span> dnia odbył się finał konkursu astronomicznego.</p>
-    <p><span class="sentence-no">38.</span> Do finału zakwalifikowało się <span class="word-token num-collective">dziesięcioro</span> uczestników.</p>
-    <p><span class="sentence-no">39.</span> Każdy odpowiadał na <span class="word-token num-cardinal">pięć</span> pytań.</p>
-    <p><span class="sentence-no">40.</span> Za poprawną odpowiedź przyznawano <span class="word-token num-cardinal">dwa</span> punkty.</p>
-    <p><span class="sentence-no">41.</span> Za częściową odpowiedź można było otrzymać <span class="word-token num-cardinal">jeden</span> punkt.</p>
-    <p><span class="sentence-no">42.</span> Zwyciężczyni zdobyła <span class="word-token num-cardinal">dziewięć</span> punktów na <span class="word-token num-cardinal">dziesięć</span> możliwych.</p>
-    <p><span class="sentence-no">43.</span> <span class="word-token num-ordinal">Drugie</span> miejsce zajęło <span class="word-token num-collective">dwoje</span> uczestników z takim samym wynikiem.</p>
-    <p><span class="sentence-no">44.</span> Każde z nich zdobyło <span class="word-token num-cardinal">osiem</span> punktów.</p>
-    <p><span class="sentence-no">45.</span> Nagrodą główną był teleskop o średnicy <span class="word-token num-cardinal">stu</span> milimetrów.</p>
-    <p><span class="sentence-no">46.</span> Pozostali finaliści otrzymali po <span class="word-token num-cardinal">dwie</span> książki popularnonaukowe.</p>
-    <p><span class="sentence-no">47.</span> W ciągu <span class="word-token num-cardinal">trzech</span> dni festiwal odwiedziło ponad <span class="word-token num-cardinal">tysiąc</span> osób.</p>
-    <p><span class="sentence-no">48.</span> Organizatorzy przeprowadzili <span class="word-token num-cardinal">czterdzieści dwa</span> wykłady i <span class="word-token num-cardinal">osiemnaście</span> warsztatów.</p>
-    <p><span class="sentence-no">49.</span> Zużyto prawie <span class="word-token num-cardinal">dwieście</span> litrów wody i <span class="word-token num-cardinal">trzy</span> kilometry przewodów.</p>
-    <p><span class="sentence-no">50.</span> <span class="word-token num-ordinal">Czwarty</span> festiwal zaplanowano już na <span class="word-token num-ordinal">pierwszy</span> weekend następnego czerwca.</p>
+  <div class="reading-text" markdown>
+
+<div class="numeral-scene-break">Rozdział 1. Rejestracja</div>
+
+Festiwal rozpoczął się <span class="word-token num-ordinal">czternastego</span> czerwca. Do szkoły przyjechały <span class="word-token num-cardinal">cztery</span> zespoły z sąsiednich miejscowości, a <span class="word-token num-cardinal">pięć</span> zespołów dołączyło z samego miasta.
+
+Na liście znajdowały się <span class="word-token num-cardinal">dwadzieścia trzy</span> osoby. <span class="word-token num-cardinal">Trzy</span> uczennice czekały już przy wejściu, natomiast <span class="word-token num-cardinal">siedmiu</span> uczniów przygotowywało salę. Z jednym z opiekunów przyszło także <span class="word-token num-collective">dwoje</span> dzieci.
+
+Każdy uczestnik otrzymał <span class="word-token num-cardinal">jeden</span> identyfikator i <span class="word-token num-cardinal">dwie</span> mapy budynku. Organizatorzy zostawili jeszcze <span class="word-token num-other">kilka</span> wolnych miejsc dla spóźnionych gości.
+
+<div class="numeral-reading__commentary" markdown>
+<strong>Liczebnik wpływa na całe zdanie</strong>
+
+Porównaj: <strong>cztery zespoły przyjechały</strong>, ale <strong>pięć zespołów dołączyło</strong>. Zmienia się forma rzeczownika oraz orzeczenia.
+
+Forma <strong>dwadzieścia trzy osoby</strong> zachowuje układ właściwy liczbom zakończonym na 2–4. Forma <strong>siedmiu uczniów</strong> pokazuje natomiast męskoosobową postać liczebnika większego od czterech.
+</div>
+
+<div class="numeral-scene-break">Rozdział 2. Budowa mostów</div>
+
+Podczas <span class="word-token num-ordinal">pierwszych</span> warsztatów uczestnicy budowali modele mostów. Każdy zespół dostał <span class="word-token num-cardinal">dwadzieścia cztery</span> drewniane elementy i <span class="word-token num-cardinal">dwanaście</span> metrów sznurka.
+
+<span class="word-token num-cardinal">Trzej</span> uczniowie z pierwszej drużyny przygotowali konstrukcję w ciągu <span class="word-token num-cardinal">czterdziestu</span> minut. <span class="word-token num-cardinal">Sześciu</span> zawodników z drugiej drużyny pracowało dłużej, ale ich most utrzymał <span class="word-token num-cardinal">pięć</span> kilogramów.
+
+Komisja przyznała <span class="word-token num-ordinal">pierwsze</span> miejsce drużynie z najlżejszym mostem. <span class="word-token num-ordinal">Drugie</span> miejsce zajęła grupa złożona z <span class="word-token num-collective">dwojga</span> dzieci i jednej opiekunki.
+
+<div class="numeral-reading__commentary" markdown>
+<strong>Podobne liczby mogą tworzyć inne konstrukcje</strong>
+
+W wyrażeniu <strong>dwadzieścia cztery elementy</strong> rzeczownik ma mianownik liczby mnogiej. W połączeniu <strong>dwanaście metrów</strong> pojawia się dopełniacz, ponieważ liczba kończy się na 12, a nie na samodzielne 2–4.
+
+Formy <strong>trzej uczniowie przygotowali</strong> i <strong>sześciu zawodników pracowało</strong> pokazują dwa różne sposoby budowania podmiotu męskoosobowego.
+</div>
+
+<div class="numeral-scene-break">Rozdział 3. Laboratorium</div>
+
+Następnego dnia uczniowie wykonywali doświadczenie z temperaturą wody. Do pierwszego naczynia wlali <span class="word-token num-other">półtora</span> litra, a do drugiego — <span class="word-token num-other">półtorej</span> szklanki.
+
+Po <span class="word-token num-other">półtorej</span> godziny temperatura pierwszej próbki wynosiła 18 °C. W drugim naczyniu pozostały <span class="word-token num-other">trzy czwarte</span> początkowej ilości wody.
+
+Każda grupa wykonała <span class="word-token num-cardinal">trzy</span> pomiary. Prowadząca poprosiła, aby wyniki zapisać z dokładnością do <span class="word-token num-other">jednej dziesiątej</span> stopnia.
+
+<div class="numeral-reading__commentary" markdown>
+<strong>Liczebnik pomaga mierzyć część i całość</strong>
+
+Formy <strong>półtora litra</strong> i <strong>półtorej szklanki</strong> zależą od rodzaju rzeczownika. Wyrażenia <strong>trzy czwarte</strong> i <strong>jedna dziesiąta</strong> pokazują część całości.
+
+W zapisie <strong>18 °C</strong> między liczbą a symbolem jednostki znajduje się odstęp.
+</div>
+
+<div class="numeral-scene-break">Rozdział 4. Finał</div>
+
+<span class="word-token num-ordinal">Trzeciego</span> dnia odbył się finał konkursu astronomicznego. Zakwalifikowało się do niego <span class="word-token num-collective">dziesięcioro</span> uczestników. Każdy odpowiadał na <span class="word-token num-cardinal">pięć</span> pytań i mógł zdobyć najwyżej <span class="word-token num-cardinal">dziesięć</span> punktów.
+
+Zwyciężczyni zdobyła <span class="word-token num-cardinal">dziewięć</span> punktów. <span class="word-token num-ordinal">Drugie</span> miejsce zajęło <span class="word-token num-collective">dwoje</span> uczestników z takim samym wynikiem. Każde z nich otrzymało po <span class="word-token num-cardinal">dwie</span> książki popularnonaukowe.
+
+W ciągu <span class="word-token num-cardinal">trzech</span> dni festiwal odwiedziło ponad <span class="word-token num-cardinal">tysiąc</span> osób. Organizatorzy zapowiedzieli, że <span class="word-token num-ordinal">czwarty</span> festiwal rozpocznie się 12 czerwca następnego roku.
+
+<div class="numeral-reading__commentary" markdown>
+<strong>Liczebniki porządkują wynik i czas</strong>
+
+Formy <strong>trzeciego dnia, drugie miejsce, czwarty festiwal</strong> wskazują kolejność. Liczebniki główne podają liczbę pytań, punktów, nagród i uczestników.
+
+Data <strong>12 czerwca</strong> nie ma kropki po liczbie dnia, choć odczytujemy ją jako <strong>dwunastego czerwca</strong>.
+</div>
+
   </div>
 </div>
 
-[Wróć do przeglądu liczebnika](../){ .md-button }
+## Czy wszystkie liczby są równie ważne dla opowieści?
+
+Zdanie:
+
+> Festiwal trwał trzy dni.
+
+ustala ramę czasową całej historii. Informacja:
+
+> Temperatura wynosiła 18 °C.
+
+jest ważna tylko w scenie doświadczenia. Liczebnik może więc organizować cały tekst albo doprecyzować jeden szczegół.
+
+## Liczebnik może budować kontrast
+
+> Cztery zespoły przyjechały z innych miejscowości, a pięć dołączyło z miasta.
+
+Liczby pozwalają zestawić dwie grupy bez używania ogólnych określeń takich jak **dużo** i **mało**. Dzięki temu opis staje się dokładniejszy.
+
+## Dokładność zależy od celu wypowiedzi
+
+> Na festiwal przyszło ponad tysiąc osób.  
+> Na liście zapisano dokładnie tysiąc osiemnaście osób.
+
+Pierwsze zdanie wystarcza w ogólnym podsumowaniu. Drugie może być potrzebne w raporcie. Świadomy użytkownik języka dobiera stopień dokładności do sytuacji i odbiorcy.
+
+## Jak analizować liczebniki w dłuższym tekście?
+
+<div class="numeral-step-list">
+  <div class="numeral-step"><strong>Najpierw ustal sens opowieści.</strong> Sprawdź, które liczby organizują wydarzenia, a które opisują szczegół.</div>
+  <div class="numeral-step"><strong>Znajdź liczony rzeczownik lub jednostkę.</strong></div>
+  <div class="numeral-step"><strong>Rozpoznaj znaczenie liczebnika.</strong> Liczba, kolejność, zbiorowość czy część całości?</div>
+  <div class="numeral-step"><strong>Sprawdź formę rzeczownika i orzeczenia.</strong> Porównaj konstrukcje z 2–4, 12–14 i liczbami większymi.</div>
+  <div class="numeral-step"><strong>Przy miarach odróżnij jednostkę od mierzonej wielkości.</strong></div>
+  <div class="numeral-step"><strong>Oceń potrzebny poziom dokładności.</strong> Inaczej podajemy dane w opowieści, inaczej w raporcie.</div>
+</div>
+
+<div class="numeral-summary">
+<h3>Co pokazuje cała opowieść?</h3>
+<ul>
+  <li>Liczebniki organizują czas, kolejność, wyniki i pomiary.</li>
+  <li>Wpływają na formę rzeczownika oraz orzeczenia.</li>
+  <li>Liczby zakończone na 2–4 tworzą inną konstrukcję niż liczby zakończone na 12–14.</li>
+  <li>Liczebniki zbiorowe są potrzebne w określonych typach grup.</li>
+  <li>Liczebniki ułamkowe pozwalają opisywać część całości i dokładność pomiaru.</li>
+  <li>Ten sam tekst może używać liczb dokładnych i przybliżonych zależnie od celu.</li>
+  <li>Dobry zapis liczby powinien być jednocześnie poprawny, czytelny i odpowiedni do sytuacji.</li>
+</ul>
+</div>
+
+[Wróć do początku działu o liczebniku](../){ .md-button .md-button--primary }
 
 </div>
