@@ -1,3 +1,12 @@
+.adverb-lesson .lesson-lead {
+  background: linear-gradient(135deg, color-mix(in srgb, var(--ind-accent) 14%, transparent), transparent);
+  border: 1px solid var(--ind-border);
+  border-left: 5px solid var(--ind-accent);
+  border-radius: 0.8rem;
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.1rem;
+}
+
 .adverb-story {
   background: linear-gradient(135deg, var(--md-default-bg-color), var(--ind-soft));
   border: 1px solid var(--ind-border);
