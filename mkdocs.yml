@@ -36,6 +36,7 @@ extra_css:
   - stylesheets/adverb-narrative.css
   - stylesheets/preposition-narrative.css
   - stylesheets/conjunction-narrative.css
+  - stylesheets/interjection-narrative.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
