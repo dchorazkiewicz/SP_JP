@@ -47,11 +47,9 @@ Forma zbiorowa może podkreślać, że grupa obejmuje kobiety i mężczyzn. Wyb�
 > <span class="form-focus">czworo</span> skrzypiec;  
 > <span class="form-focus">dwoje</span> okularów.
 
-Nie mówimy tu o parach elementów, lecz o dwóch, trzech lub czterech całych przedmiotach.
-
 <div class="numeral-checkpoint">
-  <div class="numeral-checkpoint__title">„Dwoje drzwi” i „dwie pary drzwi” nie znaczą tego samego</div>
-  <p><em>Dwoje drzwi</em> oznacza dwa całe obiekty nazywane drzwiami. <em>Dwie pary drzwi</em> oznaczają cztery takie obiekty ujęte parami.</p>
+  <div class="numeral-checkpoint__title">Cały przedmiot czy jego części?</div>
+  <p><em>Dwoje drzwi</em> oznacza dwa całe obiekty nazywane drzwiami. Wyrażenie <em>dwa skrzydła drzwi</em> nazywa natomiast dwie części konstrukcji drzwiowej.</p>
 </div>
 
 ## Odmiana liczebnika zbiorowego
@@ -137,8 +135,8 @@ W zapisie całkowicie cyfrowym składniki daty oddzielamy kropkami:
 
 Forma roku zależy od zdania:
 
-> w dwa tysiące dwudziestym szóstym roku;  
-> od dwa tysiące dwudziestego szóstego roku.
+> w roku dwa tysiące dwudziestym szóstym;  
+> od roku dwa tysiące dwudziestego szóstego.
 
 ## Godziny i czas trwania
 
@@ -159,9 +157,11 @@ Między wartością liczbową a symbolem jednostki pozostawiamy odstęp:
 > 3 °C;  
 > 20 %.
 
-Symbolu jednostki nie odmieniamy i nie stawiamy po nim kropki tylko dlatego, że jest skrócony:
+Symbolu jednostki nie kończymy kropką tylko dlatego, że jest skróconą postacią nazwy:
 
-> 5 kg, nie ~~5 kg.~~ w środku zdania.
+> Masa wynosi 5 kg, a długość 12 m.
+
+Kropka może oczywiście pojawić się po symbolu jako znak końca całego zdania.
 
 Gdy nazwę jednostki zapisujemy słowem, odmienia się ona zgodnie z liczebnikiem:
 
