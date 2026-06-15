@@ -2,100 +2,94 @@
 
 <div class="verb-lesson" markdown>
 
-<div class="lead-box">
-Czasownik nie jest tylko nazwą do zapamiętania. To wyraz, który uruchamia zdanie: mówi, co ktoś robi, co się z kimś dzieje, w jakim jest stanie albo co właśnie się wydarzyło.
+<div class="lead-box" markdown>
+
+Czasownik pomaga powiedzieć, **co ktoś robi, co się z kimś lub czymś dzieje, w jakim jest stanie albo jak zmienia się sytuacja**. Jego forma może również wskazać, kto uczestniczy w zdarzeniu, kiedy ono zachodzi i w jaki sposób mówiący je przedstawia.
+
 </div>
 
-<div class="verb-learning-goals">
-  <div class="verb-learning-goals__title">Jak czytać ten dział?</div>
-  <ul>
-    <li>Najpierw zobaczysz krótką sytuację lub opowieść.</li>
-    <li>Potem zatrzymamy się i nazwiemy to, co można było zauważyć.</li>
-    <li>Na końcu każdej części pojawi się krótkie podsumowanie z najważniejszymi pojęciami.</li>
-  </ul>
-</div>
+## Co wnosi czasownik do wypowiedzi?
 
-<div class="verb-story" markdown>
-  <div class="verb-story__title">Plecak Kuby</div>
-  <div class="verb-story__body" markdown>
+Na ławce leży plecak. Kuba podchodzi do niego. Spróbujmy opisać tę sytuację za pomocą samych nazw:
 
-Na ławce leży plecak. Kuba podchodzi do niego.
+> Kuba, plecak, ławka.
 
-> Kuba plecak.
+Wiemy, o kim i o czym mowa, ale nie wiemy jeszcze, co się wydarza. Dodajmy czasowniki:
 
-To nie jest jeszcze pełna wiadomość. Wiemy, kto i co pojawia się w zdaniu, ale nie wiemy, co się dzieje.
-
-Dodajmy jeden wyraz:
-
-> Kuba <span class="verb-form">otwiera</span> plecak.
-
-Teraz zdanie zaczyna działać. Możemy też zmienić czasownik:
-
+> Kuba <span class="verb-form">otwiera</span> plecak.  
 > Kuba <span class="verb-form">niesie</span> plecak.  
 > Kuba <span class="verb-form">zgubił</span> plecak.  
 > Kuba <span class="verb-form">znajdzie</span> plecak.
 
-Za każdym razem mamy tych samych bohaterów, ale inne zdarzenie. To właśnie robi czasownik.
+Osoba i przedmiot pozostają te same, lecz każde zdanie przedstawia inne zdarzenie. Zmienia się też czas: **otwiera** mówi o teraźniejszości, **zgubił** o przeszłości, a **znajdzie** o przyszłości.
 
-  </div>
-</div>
+Czasownik nie musi jednak oznaczać ruchu ani działania widocznego gołym okiem:
 
-<div class="verb-observation">
-<div class="verb-question">Co zauważyliśmy?</div>
-Czasownik odpowiada za najważniejszą informację o zdarzeniu. Pokazuje czynność, stan, zmianę albo wydarzenie. Jego forma może też zdradzić, kto działa i kiedy to się dzieje.
-</div>
+> Plecak <span class="verb-form">leży</span> na ławce.  
+> Kuba <span class="verb-form">pamięta</span> hasło.  
+> Sala <span class="verb-form">jest</span> pusta.  
+> Na korytarzu <span class="verb-form">panuje</span> cisza.
+
+Formy **leży**, **pamięta**, **jest** i **panuje** także są czasownikami. Opisują położenie, stan, wiedzę albo sytuację.
 
 <div class="verb-concept">
-  <span class="verb-concept__label">Nowe pojęcie</span>
+  <span class="verb-concept__label">Pojęcie</span>
   <strong>Czasownik</strong>
-  <p>To część mowy, która nazywa czynność, stan, zmianę, zdarzenie albo istnienie i może zmieniać formę, aby pokazać osobę, liczbę, czas oraz tryb.</p>
+  <p>To odmienna część mowy, która może nazywać czynność, stan, zmianę, zdarzenie lub istnienie. Formy czasownika przekazują między innymi informacje o osobie, liczbie, czasie i trybie.</p>
 </div>
 
-<div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Pierwsze podsumowanie</div>
-  <ul>
-    <li>Czasownik mówi, co się dzieje.</li>
-    <li>Nie musi oznaczać ruchu: może opisywać stan, na przykład <strong>śpi</strong> albo <strong>jest</strong>.</li>
-    <li>Zmiana czasownika może całkowicie zmienić sens zdania.</li>
-  </ul>
-  <p class="verb-checkpoint__term"><strong>Słowo-klucz:</strong> czasownik.</p>
-</div>
+## Ważne zastrzeżenie
 
-## Jak będziemy poznawać czasownik?
+Czasownik jest bardzo ważny w budowie zdań, ale nie należy mówić, że każde poprawne wypowiedzenie musi go zawierać. W języku występują także równoważniki zdań:
 
-Najpierw zobaczymy sytuację, potem porównamy zdania, zauważymy zmianę i dopiero na końcu poznamy nazwę gramatyczną.
+> Cisza!  
+> Co za widok!  
+> Po lekcjach do biblioteki.
 
-<div class="verb-step-list">
-  <div class="verb-step"><strong>Najpierw sytuacja.</strong> Czytamy krótką scenę z domu, szkoły, boiska albo wycieczki.</div>
-  <div class="verb-step"><strong>Potem porównanie.</strong> Zmieniamy jeden element zdania i sprawdzamy, co stało się z jego znaczeniem.</div>
-  <div class="verb-step"><strong>Następnie wyjaśnienie.</strong> Nazywamy dokładnie to, co można było zobaczyć w przykładzie.</div>
-  <div class="verb-step"><strong>Na końcu termin.</strong> Dopiero wtedy pojawia się nazwa: osoba, czas, aspekt, tryb lub strona.</div>
-</div>
+Nie mają osobowej formy czasownika, a mimo to w odpowiedniej sytuacji przekazują zrozumiałą treść. W tym dziale skupimy się jednak na zdaniach, w których czasownik jest głównym nośnikiem informacji o czynności, stanie lub zdarzeniu.
 
-## Droga przez rozdział
+## Jedna forma może zawierać wiele informacji
+
+Spójrz na wyraz:
+
+> <span class="verb-form">Znaleźliśmy</span> klucz.
+
+Z jednej formy możemy odczytać, że:
+
+- wydarzenie miało miejsce w przeszłości;
+- wykonawców było więcej niż jeden;
+- mówi grupa obejmująca osobę mówiącą, czyli **my**;
+- forma jest męskoosobowa.
+
+Czasownik nie jest więc tylko nazwą czynności. Jego budowa pozwala przekazać kilka informacji naraz.
+
+## Jak czytać ten dział?
+
+Najpierw będziemy obserwować czasowniki w zdaniach i krótkich opowieściach. Następnie porównamy podobne wypowiedzi, aby zobaczyć, co zmienia osoba, czas, aspekt, tryb albo strona. Terminy pojawią się wtedy, gdy będą potrzebne do nazwania zauważonej różnicy.
 
 <div class="verb-topic-grid">
-  <a class="verb-topic-card verb-topic-card--primary" href="znaczenie-i-rozpoznawanie/"><span class="verb-topic-number">01</span><strong>Jak czasownik uruchamia zdanie</strong><span>Czynność, stan, zmiana i zdarzenie pokazane w jednej opowieści.</span></a>
-  <a class="verb-topic-card" href="osoby-i-liczby/"><span class="verb-topic-number">02</span><strong>Kto mówi, do kogo i o kim?</strong><span>Skąd biorą się pierwsza, druga i trzecia osoba.</span></a>
-  <a class="verb-topic-card" href="czasy/"><span class="verb-topic-number">03</span><strong>Wczoraj, dziś i jutro</strong><span>Jedna historia przesuwana po osi czasu.</span></a>
-  <a class="verb-topic-card" href="aspekt/"><span class="verb-topic-number">04</span><strong>Czynność w trakcie i gotowy rezultat</strong><span>Różnica między czasownikiem niedokonanym a dokonanym.</span></a>
-  <a class="verb-topic-card" href="tryby/"><span class="verb-topic-number">05</span><strong>Informacja, możliwość i polecenie</strong><span>Ta sama czynność jako fakt, przypuszczenie, prośba albo rozkaz.</span></a>
-  <a class="verb-topic-card" href="strony-i-formy-nieosobowe/"><span class="verb-topic-number">06</span><strong>Różne sposoby opowiadania o czynności</strong><span>Przegląd strony, bezokolicznika, form bezosobowych i imiesłowów.</span></a>
-  <a class="verb-topic-card" href="strona-czynna-i-bierna/"><span class="verb-topic-number">07</span><strong>Kamera zdania</strong><span>Strona czynna i bierna pokazana na tych samych wydarzeniach.</span></a>
-  <a class="verb-topic-card" href="bezokolicznik-i-formy-bezosobowe/"><span class="verb-topic-number">08</span><strong>Czynność bez podanej osoby</strong><span>Bezokolicznik oraz formy na -no i -to.</span></a>
-  <a class="verb-topic-card" href="imieslowy/"><span class="verb-topic-number">09</span><strong>Imiesłowy bez pośpiechu</strong><span>Formy łączące cechy czasownika z przymiotnikiem lub przysłówkiem.</span></a>
-  <a class="verb-topic-card verb-topic-card--reading" href="czasowniki-w-tekscie/"><span class="verb-topic-number">10</span><strong>Opowieść o zegarze</strong><span>Historia podzielona na sceny i komentarze.</span></a>
+  <a class="verb-topic-card verb-topic-card--primary" href="znaczenie-i-rozpoznawanie/"><span class="verb-topic-number">01</span><strong>Co nazywa czasownik i jak go rozpoznać?</strong><span>Czynności, stany, zmiany i zdarzenia oraz różnica między czasownikiem a nazwą czynności.</span></a>
+  <a class="verb-topic-card" href="osoby-i-liczby/"><span class="verb-topic-number">02</span><strong>Osoby i liczby</strong><span>Jak forma czasownika pokazuje mówiącego, odbiorcę i bohatera wypowiedzi.</span></a>
+  <a class="verb-topic-card" href="czasy/"><span class="verb-topic-number">03</span><strong>Czasy czasownika</strong><span>Jak opowiadamy o tym, co było, co trwa i co dopiero nastąpi.</span></a>
+  <a class="verb-topic-card" href="aspekt/"><span class="verb-topic-number">04</span><strong>Proces i zakończona całość</strong><span>Różnica między aspektem niedokonanym a dokonanym.</span></a>
+  <a class="verb-topic-card" href="tryby/"><span class="verb-topic-number">05</span><strong>Fakt, możliwość i wpływanie na odbiorcę</strong><span>Tryb oznajmujący, przypuszczający i rozkazujący.</span></a>
+  <a class="verb-topic-card" href="strony-i-formy-nieosobowe/"><span class="verb-topic-number">06</span><strong>Różne sposoby przedstawiania czynności</strong><span>Wprowadzenie do strony czynnej i biernej, bezokolicznika, form bezosobowych i imiesłowów.</span></a>
+  <a class="verb-topic-card" href="strona-czynna-i-bierna/"><span class="verb-topic-number">07</span><strong>Strona czynna i bierna</strong><span>Jak zdecydować, czy najważniejszy jest wykonawca, czy przedmiot czynności.</span></a>
+  <a class="verb-topic-card" href="bezokolicznik-i-formy-bezosobowe/"><span class="verb-topic-number">08</span><strong>Czynność bez wskazania osoby</strong><span>Bezokolicznik oraz formy zakończone na -no i -to.</span></a>
+  <a class="verb-topic-card" href="imieslowy/"><span class="verb-topic-number">09</span><strong>Imiesłowy</strong><span>Formy łączące właściwości czasownika z właściwościami przymiotnika lub przysłówka.</span></a>
+  <a class="verb-topic-card verb-topic-card--reading" href="czasowniki-w-tekscie/"><span class="verb-topic-number">10</span><strong>Czasowniki w opowieści</strong><span>Jak formy czasownika budują kolejność wydarzeń, tempo tekstu i punkt widzenia.</span></a>
 </div>
 
 <div class="verb-mini-summary">
-<h3>Najważniejsza myśl</h3>
+<h3>Na początek</h3>
 <ul>
-  <li>Czasownik uruchamia zdanie.</li>
-  <li>Opowiada o działaniu, stanie, zmianie lub wydarzeniu.</li>
-  <li>Jego forma może pokazać, kto działa i kiedy.</li>
+  <li>Czasownik może mówić o czynności, stanie, zmianie, zdarzeniu lub istnieniu.</li>
+  <li>Nie rozpoznajemy go wyłącznie po pytaniu <em>co robi?</em>.</li>
+  <li>Forma czasownika może przekazywać kilka informacji jednocześnie.</li>
+  <li>Znaczenie formy najlepiej odczytywać w całym zdaniu i w konkretnej sytuacji.</li>
 </ul>
 </div>
 
-[Zacznij od pierwszej opowieści](znaczenie-i-rozpoznawanie/){ .md-button .md-button--primary }
+[Przejdź do pierwszej lekcji](znaczenie-i-rozpoznawanie/){ .md-button .md-button--primary }
 
 </div>
