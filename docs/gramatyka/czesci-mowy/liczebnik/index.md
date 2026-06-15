@@ -25,7 +25,7 @@ Zmienia się nie tylko liczebnik. Razem z nim zmieniają się rzeczownik i orzec
 <div class="numeral-concept">
   <span class="numeral-concept__label">Pojęcie</span>
   <strong>Liczebnik</strong>
-  <p>To odmienna część mowy, która informuje przede wszystkim o liczbie, ilości, kolejności albo części całości. Jego formę i funkcję rozpoznajemy w całej grupie wyrazów.</p>
+  <p>To część mowy, która informuje przede wszystkim o liczbie, ilości, kolejności albo części całości. Wiele liczebników się odmienia, ale nie wszystkie robią to według jednego wzorca.</p>
 </div>
 
 ## Liczba zapisana cyfrą i liczebnik to nie to samo
