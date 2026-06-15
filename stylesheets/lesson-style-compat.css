@@ -22,6 +22,7 @@
 */
 .reading-text p,
 .verb-reading__text p,
+.noun-reading__text p,
 .subject-reading-text p,
 .object-reading-text p,
 .attribute-reading-text p {
@@ -31,11 +32,27 @@
 }
 
 .verb-reading__text,
+.noun-reading__text,
 .subject-reading-text,
 .object-reading-text,
 .attribute-reading-text {
   font-size: inherit;
   line-height: inherit;
+}
+
+/* Keep the noun reading frame geometrically aligned with later chapters. */
+.noun-reading {
+  border-radius: 0.8rem;
+}
+
+.noun-reading__header {
+  padding: 0.85rem 1rem;
+}
+
+.noun-reading__header h2,
+.noun-reading__header h3 {
+  color: var(--noun-accent);
+  margin: 0 0 0.35rem;
 }
 
 /* Narrative components used by the rewritten noun chapter. */
