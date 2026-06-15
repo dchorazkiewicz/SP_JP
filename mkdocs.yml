@@ -58,7 +58,6 @@ nav:
   - Start: index.md
   - Gramatyka:
       - Przegląd: gramatyka/index.md
-      - Podstawy gramatyki: gramatyka/podstawy/index.md
       - Części mowy:
           - Przegląd: gramatyka/czesci-mowy/index.md
           - Granice klasyfikacji: gramatyka/czesci-mowy/granice-klasyfikacji.md
@@ -133,7 +132,6 @@ nav:
               - Składnia i interpunkcja: gramatyka/czesci-mowy/wykrzyknik/skladnia-i-interpunkcja.md
               - Styl i kontekst: gramatyka/czesci-mowy/wykrzyknik/styl-i-kontekst.md
               - Wykrzykniki w tekście: gramatyka/czesci-mowy/wykrzyknik/wykrzykniki-w-tekscie.md
-      - Fleksja: gramatyka/fleksja/index.md
       - Składnia:
           - Wprowadzenie: gramatyka/skladnia/index.md
           - Orzeczenie:
@@ -202,7 +200,6 @@ nav:
               - Analiza wielopoziomowa: gramatyka/skladnia/zwiazki-skladniowe/analiza-wielopoziomowa.md
               - Granice klasyfikacji: gramatyka/skladnia/zwiazki-skladniowe/granice-klasyfikacji.md
               - Związki w tekście: gramatyka/skladnia/zwiazki-skladniowe/zwiazki-w-tekscie.md
-      - Słowotwórstwo: gramatyka/slowotworstwo/index.md
   - Czytanie i analiza w praktyce:
       - Wprowadzenie: praktyka/index.md
       - Tajemnica Szklanego Lasu: praktyka/interaktywna-analiza-czesci-mowy.md
