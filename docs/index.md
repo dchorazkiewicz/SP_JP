@@ -55,7 +55,7 @@ Powtarzanie takich rozumowań nie jest zbędnym powtarzaniem materiału. Dzięki
 
 W wielu szkolnych przykładach granice są wyraźne. Czasem jednak znaczenie zależy od sytuacji, intencji mówiącego albo całego tekstu. Ten sam wyraz może zachowywać się inaczej w różnych zdaniach, a dwie podobne konstrukcje mogą służyć innym celom.
 
-Nie będziemy ukrywać takich przypadków. Nie chodzi jednak o wyszukiwanie wyjątków za wszelką cenę. Niuanse mają nam przypominać, że język jest bogaty, a własne sądy warto sprawdzać na przykładach.
+Takie mniej oczywiste przypadki są ważne, ponieważ uczą uważności. Pokazują, że nie zawsze wystarczy spojrzeć na jeden wyraz — czasem trzeba przeczytać całe zdanie albo większy fragment tekstu. Nie będziemy zatrzymywać się przy każdym wyjątku, ale będziemy wracać do tych niuansów, które pomagają lepiej rozumieć, jak naprawdę działa język.
 
 ## Gramatyka jest przygodą intelektualną
 
