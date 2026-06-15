@@ -57,7 +57,7 @@ Spójrz na wyraz:
 Z jednej formy możemy odczytać, że:
 
 - wydarzenie miało miejsce w przeszłości;
-- wykonawców było więcej niż jeden;
+- czynność wykonały co najmniej dwie osoby;
 - mówi grupa obejmująca osobę mówiącą, czyli **my**;
 - forma jest męskoosobowa.
 
