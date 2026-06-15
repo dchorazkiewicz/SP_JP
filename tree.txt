@@ -199,6 +199,7 @@
 ./docs/praktyka/index.md
 ./docs/praktyka/interaktywna-analiza-czesci-mowy.md
 ./docs/stylesheets
+./docs/stylesheets/adjective-narrative.css
 ./docs/stylesheets/adverbial-lesson.css
 ./docs/stylesheets/attribute-lesson.css
 ./docs/stylesheets/borderline-classification.css
