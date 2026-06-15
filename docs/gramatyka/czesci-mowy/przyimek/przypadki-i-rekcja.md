@@ -1,97 +1,196 @@
-# Przypadki i rekcja przyimków
+# Przyimek wybiera przypadek
 
 <div class="preposition-lesson" markdown>
 
-<div class="indecl-lead">
-Rekcja przyimka to wymaganie określonego przypadku. Nie wystarczy znać sam przyimek — trzeba zapamiętać całe połączenie w zdaniu: <em>bez książki, dzięki książce, z książką, o książce</em>.
+<div class="lesson-lead" markdown>
+
+Przyimek nie łączy się z dowolną formą rzeczownika. Wymaga określonego przypadku, a to wymaganie nazywamy **rekcją**. Najbezpieczniej uczyć się całych konstrukcji: **bez książki, dzięki książce, z książką, o książce**.
+
+</div>
+
+## Jedna mapa w pięciu konstrukcjach
+
+<div class="preposition-story" markdown>
+  <div class="preposition-story__title">Forma zależy od przyimka</div>
+  <div class="preposition-story__body" markdown>
+
+> Nie wyruszymy <span class="prep-focus">bez</span> <span class="governed-focus">mapy</span>.  
+> <span class="prep-focus">Dzięki</span> <span class="governed-focus">mapie</span> znaleźliśmy krótszą drogę.  
+> Schowałem notatkę <span class="prep-focus">pod</span> <span class="governed-focus">mapę</span>.  
+> Rozmawiałem <span class="prep-focus">z</span> <span class="governed-focus">mapą</span> w ręku.  
+> Zaznaczyliśmy trasę <span class="prep-focus">na</span> <span class="governed-focus">mapie</span>.
+
+Wyraz **mapa** przyjmuje kolejno dopełniacz, celownik, biernik, narzędnik i miejscownik. Przyimek pozostaje nieodmienny, ale kieruje formą następującego wyrazu.
+
+  </div>
+</div>
+
+<div class="preposition-concept">
+  <span class="preposition-concept__label">Pojęcie</span>
+  <strong>Rekcja przyimka</strong>
+  <p>To wymaganie określonego przypadku przez przyimek. Rekcję rozpoznajemy w całym połączeniu, ponieważ niektóre przyimki mogą łączyć się z więcej niż jednym przypadkiem.</p>
 </div>
 
 ## Przyimki z dopełniaczem
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">do + D.</span><p>Po lekcji wracamy <span class="indecl-focus">do domu</span>.</p><span class="indecl-note">dokąd?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">od + D.</span><p>Otrzymałem wiadomość <span class="indecl-focus">od nauczyciela</span>.</p><span class="indecl-note">od kogo?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">bez + D.</span><p>Nie rozpoczniemy spotkania <span class="indecl-focus">bez dyrektora</span>.</p><span class="indecl-note">bez kogo?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">dla + D.</span><p>Przygotowaliśmy materiały <span class="indecl-focus">dla uczestników</span>.</p><span class="indecl-note">dla kogo?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">obok + D.</span><p>Samochód stoi <span class="indecl-focus">obok budynku</span>.</p><span class="indecl-note">gdzie?</span></div>
-</div>
+> wrócić <span class="prep-focus">do</span> <span class="governed-focus">domu</span>;  
+> dostać wiadomość <span class="prep-focus">od</span> <span class="governed-focus">nauczyciela</span>;  
+> pracować <span class="prep-focus">bez</span> <span class="governed-focus">pośpiechu</span>;  
+> przygotować materiały <span class="prep-focus">dla</span> <span class="governed-focus">uczestników</span>;  
+> stanąć <span class="prep-focus">obok</span> <span class="governed-focus">bramy</span>.
 
-Dopełniacza wymagają także między innymi: **u, z/ze** w znaczeniu „skąd”, **wokół, według, podczas, mimo, zamiast, spośród, wśród**.
+Dopełniacza wymagają również między innymi:
 
-> Wróciliśmy **ze szkoły** przed południem.  
-> Usiadł **wśród przyjaciół**.  
-> Postąpiliśmy **według instrukcji**.  
-> Spotkanie trwało **mimo hałasu**.
+> <span class="prep-focus">u</span> babci;  
+> <span class="prep-focus">wokół</span> domu;  
+> <span class="prep-focus">wśród</span> drzew;  
+> <span class="prep-focus">podczas</span> rozmowy;  
+> <span class="prep-focus">mimo</span> deszczu;  
+> <span class="prep-focus">według</span> instrukcji;  
+> <span class="prep-focus">zamiast</span> odpowiedzi;  
+> <span class="prep-focus">spośród</span> kandydatów.
+
+Przyimek **z/ze** wymaga dopełniacza, gdy oznacza źródło ruchu lub pochodzenie:
+
+> wrócić <span class="prep-focus">ze</span> <span class="governed-focus">szkoły</span>;  
+> zejść <span class="prep-focus">z</span> <span class="governed-focus">góry</span>;  
+> wiadomość <span class="prep-focus">z</span> <span class="governed-focus">Warszawy</span>.
 
 ## Przyimki z celownikiem
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">dzięki + C.</span><p><span class="indecl-focus">Dzięki twojej pomocy</span> skończyliśmy wcześniej.</p><span class="indecl-note">komu? czemu?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">wbrew + C.</span><p>Wyruszyli <span class="indecl-focus">wbrew ostrzeżeniom</span>.</p><span class="indecl-note">wbrew czemu?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">przeciw + C.</span><p>Zespół wystąpił <span class="indecl-focus">przeciw zmianie regulaminu</span>.</p><span class="indecl-note">przeciw czemu?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">ku + C.</span><p>Łódź płynęła <span class="indecl-focus">ku brzegowi</span>.</p><span class="indecl-note">ku czemu?</span></div>
+> <span class="prep-focus">Dzięki</span> <span class="governed-focus">pomocy</span> skończyliśmy wcześniej.  
+> Wyruszyli <span class="prep-focus">wbrew</span> <span class="governed-focus">ostrzeżeniom</span>.  
+> Protestowali <span class="prep-focus">przeciw</span> <span class="governed-focus">decyzji</span>.  
+> Łódź płynęła <span class="prep-focus">ku</span> <span class="governed-focus">brzegowi</span>.
+
+Celownik po przyimku występuje rzadziej niż dopełniacz, biernik czy miejscownik. Dlatego połączenia **dzięki komu? czemu?**, **wbrew komu? czemu?**, **ku komu? czemu?** warto zapamiętywać jako gotowe wzorce.
+
+<div class="preposition-checkpoint">
+  <div class="preposition-checkpoint__title">„Dzięki” i „z powodu” nie brzmią jednakowo</div>
+  <p><em>Dzięki</em> najczęściej wprowadza okoliczność korzystną lub umożliwiającą działanie: <em>dzięki pomocy</em>. Przyczyny niekorzystne częściej wyrażamy przez <em>z powodu awarii</em>, <em>przez korek</em> albo <em>wskutek burzy</em>.</p>
 </div>
 
 ## Przyimki z biernikiem
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">przez + B.</span><p>Przeszliśmy <span class="indecl-focus">przez park</span>.</p><span class="indecl-note">przez co?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">na + B.</span><p>Położyłem książkę <span class="indecl-focus">na stół</span>.</p><span class="indecl-note">dokąd?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">pod + B.</span><p>Kot wbiegł <span class="indecl-focus">pod łóżko</span>.</p><span class="indecl-note">dokąd?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">o + B.</span><p>Samochód uderzył <span class="indecl-focus">o barierę</span>.</p><span class="indecl-note">o co?</span></div>
-</div>
+> przejść <span class="prep-focus">przez</span> <span class="governed-focus">most</span>;  
+> położyć książkę <span class="prep-focus">na</span> <span class="governed-focus">stół</span>;  
+> wejść <span class="prep-focus">w</span> <span class="governed-focus">las</span>;  
+> schować się <span class="prep-focus">pod</span> <span class="governed-focus">dach</span>;  
+> podjechać <span class="prep-focus">przed</span> <span class="governed-focus">dom</span>;  
+> uderzyć <span class="prep-focus">o</span> <span class="governed-focus">barierę</span>.
 
-Biernik pojawia się często wtedy, gdy wyrażenie oznacza kierunek, cel ruchu, drogę lub bezpośredni kontakt.
+Biernik często pojawia się przy wskazaniu celu, granicy albo kierunku przemieszczenia. Nie jest to jednak ogólna zasada „ruch = biernik”.
+
+Porównaj ruch wyrażony innymi przypadkami:
+
+> spacerować <span class="prep-focus">po</span> <span class="governed-focus">parku</span> — miejscownik;  
+> iść <span class="prep-focus">wzdłuż</span> <span class="governed-focus">rzeki</span> — dopełniacz;  
+> wracać <span class="prep-focus">z</span> <span class="governed-focus">miasta</span> — dopełniacz;  
+> płynąć <span class="prep-focus">ku</span> <span class="governed-focus">brzegowi</span> — celownik.
 
 ## Przyimki z narzędnikiem
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">z + N.</span><p>Przyszedłem <span class="indecl-focus">z koleżanką</span>.</p><span class="indecl-note">z kim?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">nad + N.</span><p>Lampa wisi <span class="indecl-focus">nad stołem</span>.</p><span class="indecl-note">gdzie?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">pod + N.</span><p>Kot śpi <span class="indecl-focus">pod łóżkiem</span>.</p><span class="indecl-note">gdzie?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">między + N.</span><p>Krzesło stoi <span class="indecl-focus">między szafą a biurkiem</span>.</p><span class="indecl-note">gdzie?</span></div>
-</div>
+> przyjść <span class="prep-focus">z</span> <span class="governed-focus">koleżanką</span>;  
+> lampa wisi <span class="prep-focus">nad</span> <span class="governed-focus">stołem</span>;  
+> kot śpi <span class="prep-focus">pod</span> <span class="governed-focus">łóżkiem</span>;  
+> samochód stoi <span class="prep-focus">przed</span> <span class="governed-focus">domem</span>;  
+> ławka stoi <span class="prep-focus">między</span> <span class="governed-focus">drzewami</span>.
+
+Przyimek **z/ze** z narzędnikiem oznacza między innymi towarzystwo, połączenie albo cechę wyposażenia:
+
+> iść <span class="prep-focus">z</span> <span class="governed-focus">bratem</span>;  
+> herbata <span class="prep-focus">z</span> <span class="governed-focus">cytryną</span>;  
+> plecak <span class="prep-focus">z</span> <span class="governed-focus">kieszenią</span>.
 
 ## Przyimki z miejscownikiem
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">w + Ms.</span><p>Dokument znajduje się <span class="indecl-focus">w szufladzie</span>.</p><span class="indecl-note">gdzie?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">na + Ms.</span><p>Książka leży <span class="indecl-focus">na stole</span>.</p><span class="indecl-note">gdzie?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">o + Ms.</span><p>Rozmawiamy <span class="indecl-focus">o projekcie</span>.</p><span class="indecl-note">o czym?</span></div>
-  <div class="indecl-row"><span class="indecl-badge">po + Ms.</span><p>Spacerowaliśmy <span class="indecl-focus">po parku</span>.</p><span class="indecl-note">po czym?</span></div>
-</div>
+> dokument znajduje się <span class="prep-focus">w</span> <span class="governed-focus">szufladzie</span>;  
+> książka leży <span class="prep-focus">na</span> <span class="governed-focus">stole</span>;  
+> czekamy <span class="prep-focus">przy</span> <span class="governed-focus">wejściu</span>;  
+> rozmawiamy <span class="prep-focus">o</span> <span class="governed-focus">projekcie</span>;  
+> spacerujemy <span class="prep-focus">po</span> <span class="governed-focus">parku</span>.
 
-## Ten sam przyimek, inny przypadek, inne znaczenie
+Miejscownik nie występuje bez przyimka. Jego nazwa może sugerować wyłącznie miejsce, ale przypadek ten pojawia się również w konstrukcjach dotyczących tematu:
 
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">miejsce — Ms.</span><p>Książka leży <strong>na stole</strong>.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">kierunek — B.</span><p>Położyłem książkę <strong>na stół</strong>.</p></div>
-</div>
+> myśleć <span class="prep-focus">o</span> <span class="governed-focus">wakacjach</span>;  
+> opowiadać <span class="prep-focus">o</span> <span class="governed-focus">wyprawie</span>.
 
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">miejsce — N.</span><p>Kot śpi <strong>pod łóżkiem</strong>.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">kierunek — B.</span><p>Kot wbiegł <strong>pod łóżko</strong>.</p></div>
-</div>
+## Przyimki nie wymagają mianownika ani wołacza
 
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">towarzystwo — N.</span><p>Wróciłem <strong>z bratem</strong>.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">źródło — D.</span><p>Wróciłem <strong>z miasta</strong>.</p></div>
-</div>
+Po przyimku nie występuje mianownik:
+
+> ~~do szkoła~~ → <span class="prep-focus">do</span> <span class="governed-focus">szkoły</span>;  
+> ~~z koleżanka~~ → <span class="prep-focus">z</span> <span class="governed-focus">koleżanką</span>.
+
+Wołacz służy przede wszystkim bezpośredniemu zwracaniu się do kogoś i również nie jest rządzony przez przyimek.
+
+## Ten sam przyimek, inny przypadek
+
+### „Na”: biernik i miejscownik
+
+> Położyłem telefon <span class="prep-focus">na</span> <span class="governed-focus">biurko</span>. — cel przemieszczenia, biernik  
+> Telefon leży <span class="prep-focus">na</span> <span class="governed-focus">biurku</span>. — położenie, miejscownik
+
+### „Pod”: biernik i narzędnik
+
+> Kot wbiegł <span class="prep-focus">pod</span> <span class="governed-focus">łóżko</span>. — kierunek, biernik  
+> Kot śpi <span class="prep-focus">pod</span> <span class="governed-focus">łóżkiem</span>. — położenie, narzędnik
+
+### „Z”: dopełniacz i narzędnik
+
+> Wróciłem <span class="prep-focus">z</span> <span class="governed-focus">miasta</span>. — źródło, dopełniacz  
+> Wróciłem <span class="prep-focus">z</span> <span class="governed-focus">bratem</span>. — towarzystwo, narzędnik
+
+### „Po”: biernik i miejscownik
+
+> Poszedłem <span class="prep-focus">po</span> <span class="governed-focus">chleb</span>. — cel, biernik  
+> Chodziłem <span class="prep-focus">po</span> <span class="governed-focus">sklepie</span>. — przestrzeń ruchu, miejscownik
+
+### „O”: biernik i miejscownik
+
+> Piłka uderzyła <span class="prep-focus">o</span> <span class="governed-focus">ścianę</span>. — kontakt, biernik  
+> Rozmawialiśmy <span class="prep-focus">o</span> <span class="governed-focus">ścianie</span> wymagającej remontu. — temat, miejscownik
 
 ## Przyimek z zaimkiem osobowym
 
-Po przyimkach zaimki trzeciej osoby otrzymują zwykle początkowe **n-**:
+Po przyimkach formy zaimków trzeciej osoby otrzymują zwykle początkowe **n-**:
 
-- bez **niego**, do **niej**, dla **nich**;
-- dzięki **niemu**, przeciw **niej**;
-- z **nim**, nad **nią**, między **nimi**;
-- o **nim**, przy **niej**, po **nich**.
+> bez <span class="pronoun-anchor">niego</span>; do <span class="pronoun-anchor">niej</span>; dla <span class="pronoun-anchor">nich</span>;  
+> dzięki <span class="pronoun-anchor">niemu</span>; przeciw <span class="pronoun-anchor">niej</span>;  
+> z <span class="pronoun-anchor">nim</span>; nad <span class="pronoun-anchor">nią</span>; między <span class="pronoun-anchor">nimi</span>;  
+> o <span class="pronoun-anchor">nim</span>; przy <span class="pronoun-anchor">niej</span>; po <span class="pronoun-anchor">nich</span>.
 
-<div class="indecl-summary">
-<h3>Ucz się całych połączeń</h3>
-Najlepiej zapamiętywać nie pojedynczy przyimek, lecz gotową konstrukcję w zdaniu: <strong>bez kolegi, dzięki koledze, z kolegą, o koledze</strong>. Przyimek pozostaje nieodmienny, ale zmienia formę wyrazu, z którym się łączy.
+Porównaj:
+
+> Widzę <span class="pronoun-anchor">go</span>.  
+> Czekam <span class="prep-focus">na</span> <span class="pronoun-anchor">niego</span>.
+
+Pierwsza forma nie stoi po przyimku. Druga jest częścią wyrażenia przyimkowego.
+
+## Jak analizować rekcję?
+
+<div class="preposition-step-list">
+  <div class="preposition-step"><strong>Znajdź przyimek i cały wyraz zależny.</strong></div>
+  <div class="preposition-step"><strong>Ustal znaczenie całego połączenia.</strong> Miejsce, kierunek, źródło, towarzystwo, temat czy cel?</div>
+  <div class="preposition-step"><strong>Rozpoznaj przypadek po formie całej grupy.</strong></div>
+  <div class="preposition-step"><strong>Przy przyimku wieloznacznym porównaj konstrukcje.</strong> <em>Na stół</em> i <em>na stole</em> nie mają tej samej rekcji.</div>
+  <div class="preposition-step"><strong>Nie stosuj mechanicznej reguły ruchu.</strong> Ruch może wystąpić z różnymi przypadkami.</div>
+  <div class="preposition-step"><strong>Przy zaimku trzeciej osoby sprawdź formę z „n-”.</strong></div>
 </div>
 
-[Przejdź dalej: znaczenie i rodzaje](../znaczenie-i-rodzaje/){ .md-button .md-button--primary }
+<div class="preposition-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Rekcja to wymaganie określonego przypadku przez przyimek.</li>
+  <li>Przyimki łączą się z dopełniaczem, celownikiem, biernikiem, narzędnikiem albo miejscownikiem.</li>
+  <li>Nie występują konstrukcje przyimkowe z mianownikiem ani wołaczem.</li>
+  <li>Ten sam przyimek może wymagać różnych przypadków zależnie od znaczenia.</li>
+  <li>Ruch nie oznacza automatycznie biernika.</li>
+  <li>Po przyimkach zaimki trzeciej osoby mają zwykle formy typu <em>niego, niej, niemu, nim</em>.</li>
+  <li>Najlepiej zapamiętywać całe połączenia, nie samotne przyimki.</li>
+</ul>
+</div>
+
+[Przejdź dalej: jaką relację buduje przyimek?](../znaczenie-i-rodzaje/){ .md-button .md-button--primary }
 
 </div>
