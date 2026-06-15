@@ -30,6 +30,7 @@ extra_css:
   - stylesheets/verb-lesson.css
   - stylesheets/verb-narrative.css
   - stylesheets/remaining-parts.css
+  - stylesheets/parts-of-speech-overview.css
   - stylesheets/adjective-narrative.css
   - stylesheets/pronoun-narrative.css
   - stylesheets/numeral-narrative.css
