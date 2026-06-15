@@ -222,6 +222,52 @@
   margin: 0.25rem 0;
 }
 
+/*
+  Important sentence examples: normal text contrast, neutral grey frame,
+  and stronger agreement highlighting.
+*/
+.noun-lesson .noun-story__body blockquote {
+  background: #eef1f0;
+  border: 1px solid #cbd3d0;
+  border-left: 5px solid #8d9995;
+  border-radius: 0.55rem;
+  color: var(--md-default-fg-color);
+  margin: 0.9rem 0 1.1rem;
+  padding: 0.7rem 0.9rem;
+}
+
+.noun-lesson .noun-story__body blockquote p {
+  color: inherit;
+  margin: 0.22rem 0;
+  opacity: 1;
+}
+
+.noun-lesson .noun-story__body blockquote strong {
+  color: inherit;
+}
+
+.noun-lesson .agreement-mark {
+  background: #cfe4de;
+  border-bottom: 3px solid #2f6f61;
+  border-radius: 0.18rem;
+  color: var(--md-default-fg-color);
+  font-weight: 650;
+  padding: 0.02rem 0.16rem;
+}
+
+[data-md-color-scheme="slate"] .noun-lesson .noun-story__body blockquote {
+  background: #252c30;
+  border-color: #4c5854;
+  border-left-color: #78847f;
+  color: var(--md-default-fg-color);
+}
+
+[data-md-color-scheme="slate"] .noun-lesson .agreement-mark {
+  background: #24483f;
+  border-bottom-color: #8dc6b7;
+  color: var(--md-default-fg-color);
+}
+
 @media (max-width: 700px) {
   .noun-concept {
     grid-template-columns: 1fr;
