@@ -247,13 +247,13 @@
 }
 
 /*
-  High-contrast examples: the sentence stays easy to read, while only the
-  verb form receives a strong but still calm visual emphasis.
+  High-contrast examples with a light neutral field and moderately
+  saturated verb highlighting.
 */
 .verb-lesson blockquote {
-  background: #f0f2f3;
-  border: 1px solid #c7ced2;
-  border-left: 5px solid #7c898f;
+  background: #f7f8f8;
+  border: 1px solid #d5dade;
+  border-left: 5px solid #9aa4a9;
   border-radius: 0.55rem;
   color: #1f2328;
   margin: 0.9rem 0 1.1rem;
@@ -271,22 +271,22 @@
 }
 
 .verb-lesson .verb-form {
-  background: #d7e9ff;
-  border: 2px solid #4f82b8;
+  background: #e2efff;
+  border: 2px solid #6b98c6;
   border-radius: 0.32rem;
-  color: #173b5f;
+  color: #244d72;
   font-weight: 800;
   padding: 0.03rem 0.2rem;
 }
 
 .verb-lesson .verb-form .verb-stem {
-  border-bottom-color: #356a9f;
+  border-bottom-color: #5684b1;
 }
 
 [data-md-color-scheme="slate"] .verb-lesson blockquote {
-  background: #242b30;
-  border-color: #4c585f;
-  border-left-color: #849198;
+  background: #2a3034;
+  border-color: #525d63;
+  border-left-color: #8f9aa0;
   color: #f1f4f6;
 }
 
@@ -295,13 +295,13 @@
 }
 
 [data-md-color-scheme="slate"] .verb-lesson .verb-form {
-  background: #183b60;
-  border-color: #85b9ec;
+  background: #21466b;
+  border-color: #78a8d6;
   color: #f4f8fc;
 }
 
 [data-md-color-scheme="slate"] .verb-lesson .verb-form .verb-stem {
-  border-bottom-color: #a7cef2;
+  border-bottom-color: #94bce3;
 }
 
 @media (max-width: 700px) {
