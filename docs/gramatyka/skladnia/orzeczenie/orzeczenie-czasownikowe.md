@@ -203,7 +203,7 @@ Wyraz **zamknięte** jest imiesłowem przymiotnikowym określającym rzeczownik 
 
 O świcie motorniczy <span class="predicate-mark predicate-mark--verbal">przyszedł</span> do zajezdni i <span class="predicate-mark predicate-mark--verbal">obejrzał</span> odrestaurowany tramwaj. Pojazd <span class="predicate-mark predicate-mark--verbal">stał</span> na bocznym torze, a jego mosiężne elementy <span class="predicate-mark predicate-mark--verbal">błyszczały</span> w świetle lamp.
 
-Przed wyjazdem motorniczy <span class="predicate-mark predicate-mark--verbal">sprawdził</span> hamulce, <span class="predicate-mark predicate-mark--verbal">włączył</span> oświetlenie i <span class="predicate-mark predicate-mark--verbal">uruchomił</span> silnik. Stary mechanizm najpierw cicho <span class="predicate-mark predicate-mark--verbal">zabrzęczał</span>, a potem <span class="predicate-mark predicate-mark--verbal">zaczął pracować</span> równym rytmem.
+Przed wyjazdem motorniczy <span class="predicate-mark predicate-mark--verbal">sprawdził</span> hamulce, <span class="predicate-mark predicate-mark--verbal">włączył</span> oświetlenie i <span class="predicate-mark predicate-mark--verbal">uruchomił</span> silnik. Stary mechanizm najpierw cicho <span class="predicate-mark predicate-mark--verbal">zabrzęczał</span>, a potem <span class="predicate-mark predicate-mark--compound">zaczął pracować</span> równym rytmem.
 
 O siódmej tramwaj <span class="predicate-mark predicate-mark--verbal">wyjechał</span> na trasę. Na pierwszym przystanku <span class="predicate-mark predicate-mark--verbal">czekali</span> już pasażerowie, którzy poprzedniego dnia <span class="predicate-mark predicate-mark--verbal">zarezerwowali</span> miejsca. Drzwi <span class="predicate-mark predicate-mark--verbal">otworzyły się</span>, ludzie <span class="predicate-mark predicate-mark--verbal">weszli</span> do środka, a konduktor <span class="predicate-mark predicate-mark--verbal">powitał</span> ich krótkim komunikatem.
 
@@ -213,7 +213,7 @@ O siódmej tramwaj <span class="predicate-mark predicate-mark--verbal">wyjechał
 <div class="predicate-reading__commentary" markdown>
 <strong>Co robią orzeczenia w tej opowieści?</strong>
 
-Formy **przyszedł, obejrzał, sprawdził, włączył, uruchomił, wyjechał, weszli, powitał** budują kolejność wydarzeń. Formy **stał, błyszczały, czekali** tworzą tło i opisują stan lub trwanie. **Otworzyły się** pokazuje zmianę bez nazwanego sprawcy, a **zaczęły pracować** zawiera znaczenie fazowe — początek działania mechanizmu. Dzięki zmianom aspektu i czasu tekst nie jest listą czynności, lecz uporządkowaną sceną.
+Formy **przyszedł, obejrzał, sprawdził, włączył, uruchomił, wyjechał, weszli, powitał** budują kolejność wydarzeń. Formy **stał, błyszczały, czekali** tworzą tło i opisują stan lub trwanie. **Otworzyły się** pokazuje zmianę bez nazwanego sprawcy, a **zaczął pracować** zawiera znaczenie fazowe — początek działania mechanizmu. Dzięki zmianom aspektu i czasu tekst nie jest listą czynności, lecz uporządkowaną sceną.
 </div>
 
 ## Kilka orzeczeń przy jednym podmiocie
