@@ -1,113 +1,196 @@
-# Liczebniki zbiorowe, ułamkowe i pisownia
+# Liczebniki zbiorowe, ułamkowe i zapis liczb
 
 <div class="numeral-lesson" markdown>
 
-<div class="lesson-lead">
-Nie wszystkie grupy liczymy formami <em>dwa, trzy, cztery</em>. Liczebniki zbiorowe mają własne zastosowania, a liczebniki ułamkowe i zapisy dat wymagają zwracania uwagi na rodzaj rzeczownika i sens całego zdania.
+<div class="lesson-lead" markdown>
+
+Nie każdą grupę liczymy formami **dwa, trzy, cztery**. Liczebniki zbiorowe występują w określonych połączeniach, ułamkowe pokazują część całości, a zapis dat, godzin i miar wymaga odróżnienia liczby od kolejności.
+
+</div>
+
+## Dlaczego mówimy „dwoje dzieci”?
+
+<div class="numeral-story" markdown>
+  <div class="numeral-story__title">Grupa przed wejściem</div>
+  <div class="numeral-story__body" markdown>
+
+Przed muzeum czekało <span class="form-focus">dwoje</span> <span class="counted-anchor">dzieci</span>, <span class="form-focus">troje</span> <span class="counted-anchor">dorosłych</span> oraz <span class="form-focus">dwoje</span> <span class="counted-anchor">drzwi</span>, przez które można było wejść.
+
+Ta sama forma zbiorowa pojawia się z trzech różnych powodów: przy nazwie dzieci, przy grupie osób różnej płci oraz przy rzeczowniku **drzwi**, który ma tylko liczbę mnogą.
+
+  </div>
 </div>
 
 ## Kiedy używamy liczebników zbiorowych?
 
 ### Z nazwami dzieci i młodych istot
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">dzieci</span><p><span class="form-focus">Dwoje dzieci</span> budowało zamek z piasku.</p><span class="change-note">grupa bez rozróżnienia płci</span></div>
-  <div class="example-row"><span class="grammar-badge">pisklęta</span><p>W gnieździe siedziało <span class="form-focus">czworo piskląt</span>.</p><span class="change-note">młode istoty</span></div>
-  <div class="example-row"><span class="grammar-badge">kocięta</span><p>Weterynarz zbadał <span class="form-focus">troje kociąt</span>.</p><span class="change-note">młode zwierzęta</span></div>
-</div>
+> <span class="form-focus">dwoje</span> dzieci;  
+> <span class="form-focus">troje</span> kociąt;  
+> <span class="form-focus">czworo</span> piskląt;  
+> <span class="form-focus">pięcioro</span> szczeniąt.
 
-### Z grupami mieszanymi
+Dotyczy to zwłaszcza rzeczowników nijakich na **-ę**, których liczba mnoga kończy się często na **-ęta**: **kocię — kocięta, pisklę — pisklęta**.
 
-> **Troje studentów** przygotowało wspólny projekt.  
-> **Pięcioro pracowników** uczestniczyło w szkoleniu.
+### Z grupami osób różnej płci
 
-Takie formy mogą podkreślać, że grupa obejmuje osoby różnych płci. W wielu neutralnych kontekstach możliwe są też konstrukcje z liczebnikami głównymi, zależnie od składu i sposobu ujęcia grupy.
+> <span class="form-focus">troje</span> uczestników;  
+> <span class="form-focus">czworo</span> studentów;  
+> <span class="form-focus">pięcioro</span> pracowników.
+
+Forma zbiorowa może podkreślać, że grupa obejmuje kobiety i mężczyzn. Wybór konstrukcji zależy również od rzeczownika i sposobu przedstawienia grupy.
 
 ### Z rzeczownikami mającymi tylko liczbę mnogą
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">drzwi</span><p>Do korytarza prowadziło <span class="form-focus">dwoje drzwi</span>.</p><span class="change-note">pluralia tantum</span></div>
-  <div class="example-row"><span class="grammar-badge">nożyczki</span><p>Na stole leżało <span class="form-focus">troje nożyczek</span>.</p><span class="change-note">trzy sztuki nożyczek</span></div>
-  <div class="example-row"><span class="grammar-badge">skrzypce</span><p>W magazynie przechowywano <span class="form-focus">czworo skrzypiec</span>.</p><span class="change-note">cztery instrumenty</span></div>
+> <span class="form-focus">dwoje</span> drzwi;  
+> <span class="form-focus">troje</span> nożyczek;  
+> <span class="form-focus">czworo</span> skrzypiec;  
+> <span class="form-focus">dwoje</span> okularów.
+
+Nie mówimy tu o parach elementów, lecz o dwóch, trzech lub czterech całych przedmiotach.
+
+<div class="numeral-checkpoint">
+  <div class="numeral-checkpoint__title">„Dwoje drzwi” i „dwie pary drzwi” nie znaczą tego samego</div>
+  <p><em>Dwoje drzwi</em> oznacza dwa całe obiekty nazywane drzwiami. <em>Dwie pary drzwi</em> oznaczają cztery takie obiekty ujęte parami.</p>
 </div>
 
 ## Odmiana liczebnika zbiorowego
 
 <div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M./B. dwoje</span><p><span class="form-focus">Dwoje dzieci</span> weszło do sali, a nauczyciel zaprosił <span class="form-focus">dwoje dzieci</span> do stołu.</p><span class="change-note">M. i B.</span></div>
-  <div class="example-row"><span class="grammar-badge">D. dwojga</span><p>Nie było <span class="form-focus">dwojga dzieci</span> na porannej zbiórce.</p><span class="change-note">kogo?</span></div>
-  <div class="example-row"><span class="grammar-badge">C. dwojgu</span><p>Opiekunka pomogła <span class="form-focus">dwojgu dzieciom</span>.</p><span class="change-note">komu?</span></div>
-  <div class="example-row"><span class="grammar-badge">N. dwojgiem</span><p>Rozmawiałem z <span class="form-focus">dwojgiem dzieci</span>.</p><span class="change-note">z kim?</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms. dwojgu</span><p>Opowiadano o <span class="form-focus">dwojgu dzieciach</span>.</p><span class="change-note">o kim?</span></div>
+  <div class="example-row"><span class="grammar-badge">M./B.</span><p><span class="form-focus">dwoje</span> <span class="counted-anchor">dzieci</span></p><span class="change-note">dwoje</span></div>
+  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus">dwojga</span> <span class="counted-anchor">dzieci</span></p><span class="change-note">dwojga</span></div>
+  <div class="example-row"><span class="grammar-badge">C.</span><p>pomagam <span class="form-focus">dwojgu</span> <span class="counted-anchor">dzieciom</span></p><span class="change-note">dwojgu</span></div>
+  <div class="example-row"><span class="grammar-badge">N.</span><p>rozmawiam z <span class="form-focus">dwojgiem</span> <span class="counted-anchor">dzieci</span></p><span class="change-note">dwojgiem</span></div>
+  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus">dwojgu</span> <span class="counted-anchor">dzieciach</span></p><span class="change-note">dwojgu</span></div>
 </div>
+
+W odmianie zmienia się zarówno liczebnik, jak i forma rzeczownika. Konstrukcji **dwoje dzieci** nie należy traktować jako niezmiennego połączenia.
 
 ## „Pół”, „półtora” i „półtorej”
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">pół</span><p>Do ciasta dodano <span class="form-focus">pół szklanki</span> mleka.</p><span class="change-note">część całości</span></div>
-  <div class="example-row"><span class="grammar-badge">półtora</span><p>Naprawa trwała <span class="form-focus">półtora dnia</span>.</p><span class="change-note">rodzaj męski</span></div>
-  <div class="example-row"><span class="grammar-badge">półtora</span><p>Do zbiornika wlano <span class="form-focus">półtora litra</span> wody.</p><span class="change-note">rodzaj męski</span></div>
-  <div class="example-row"><span class="grammar-badge">półtorej</span><p>Spotkanie trwało <span class="form-focus">półtorej godziny</span>.</p><span class="change-note">rodzaj żeński</span></div>
-</div>
+> <span class="form-focus">pół</span> szklanki;  
+> <span class="form-focus">półtora</span> roku;  
+> <span class="form-focus">półtora</span> okna;  
+> <span class="form-focus">półtorej</span> godziny.
 
-Po **półtora/półtorej** rzeczownik występuje w dopełniaczu liczby pojedynczej: **półtora roku, półtora okna, półtorej godziny**.
+Forma **półtora** łączy się z rzeczownikami męskimi i nijakimi, a **półtorej** — z żeńskimi. Rzeczownik występuje w dopełniaczu liczby pojedynczej.
 
-## Ułamki w zdaniach
+Porównaj:
 
-- Uczniowie wykonali **dwie trzecie zadania**.
-- W zbiorniku pozostała **jedna czwarta paliwa**.
-- Sprzedano **trzy i pół tony zboża**.
-- Trasa miała **siedem i pół kilometra** długości.
-- Marta przeczytała **pół książki** przed obiadem.
+> półtora dnia — półtorej doby;  
+> półtora miesiąca — półtorej minuty.
 
-W zwykłych tekstach formę ułamka dobieramy do znaczenia i jednostki. W dokumentach technicznych często używa się zapisu cyframi, ale w narracji zapis słowny bywa czytelniejszy.
+## Ułamki w zdaniu
+
+> <span class="form-focus">jedna druga</span> tortu;  
+> <span class="form-focus">dwie trzecie</span> zadania;  
+> <span class="form-focus">trzy czwarte</span> zbiornika;  
+> <span class="form-focus">trzy i pół</span> tony;  
+> <span class="form-focus">siedem i pół</span> kilometra.
+
+Mianownik części ułamkowej zachowuje formę liczebnika porządkowego rodzaju żeńskiego, ponieważ domyślnym rzeczownikiem jest **część**:
+
+> jedna druga część;  
+> dwie trzecie części;  
+> trzy czwarte części.
+
+W codziennej wypowiedzi rzeczownik **część** zwykle pomijamy.
 
 ## Liczebniki wielowyrazowe zapisujemy rozdzielnie
 
-- Na konferencję przyjechały **sto dwadzieścia trzy osoby**.
-- Biblioteka kupiła **dwieście czterdzieści pięć książek**.
-- Budynek ma **tysiąc dziewięćset osiemdziesiąt metrów kwadratowych** powierzchni.
+> sto dwadzieścia trzy;  
+> dwieście czterdzieści pięć;  
+> tysiąc dziewięćset osiemdziesiąt sześć.
 
-Nie łączymy członów łącznikami: piszemy **dwadzieścia jeden**, a nie „dwadzieścia-jeden”.
+Nie łączymy członów łącznikami ani nie zapisujemy ich jako jednego wyrazu:
+
+> **dwadzieścia jeden**, nie ~~dwadzieścia-jeden~~ ani ~~dwadzieściajeden~~.
+
+Łączny zapis może pojawić się dopiero w wyrazach pochodnych:
+
+> dwadzieścia pięć lat — dwudziestopięcioletni uczeń.
+
+## Liczebniki porządkowe zapisane cyframi
+
+Kropka po cyfrze arabskiej może pokazywać, że chodzi o kolejność:
+
+> 3. rozdział — trzeci rozdział;  
+> 12. miejsce — dwunaste miejsce;  
+> na 4. piętrze — na czwartym piętrze.
+
+Kropka nie jest zwykłym znakiem końca zdania. Należy do zapisu liczebnika porządkowego.
 
 ## Daty
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">dzień miesiąca</span><p>Spotkanie odbędzie się <span class="form-focus">czternastego czerwca</span>.</p><span class="change-note">którego dnia?</span></div>
-  <div class="example-row"><span class="grammar-badge">rok</span><p>Projekt rozpoczęto w <span class="form-focus">dwa tysiące dwudziestym szóstym roku</span>.</p><span class="change-note">w którym roku?</span></div>
-  <div class="example-row"><span class="grammar-badge">pełna data</span><p>Dokument podpisano <span class="form-focus">czternastego czerwca dwa tysiące dwudziestego szóstego roku</span>.</p><span class="change-note">data w zdaniu</span></div>
+Gdy miesiąc zapisujemy słowem, po liczbie dnia nie stawiamy kropki:
+
+> 14 czerwca 2026 roku;  
+> Spotkanie odbędzie się 14 czerwca.
+
+Datę odczytujemy za pomocą liczebników porządkowych:
+
+> czternastego czerwca dwa tysiące dwudziestego szóstego roku.
+
+W zapisie całkowicie cyfrowym składniki daty oddzielamy kropkami:
+
+> 14.06.2026
+
+Forma roku zależy od zdania:
+
+> w dwa tysiące dwudziestym szóstym roku;  
+> od dwa tysiące dwudziestego szóstego roku.
+
+## Godziny i czas trwania
+
+> Spotkanie zaczyna się o <span class="form-focus">siódmej</span>.  
+> Pociąg odjeżdża o <span class="form-focus">siódmej trzydzieści</span>.  
+> Wracamy około <span class="form-focus">wpół do szóstej</span>.  
+> Zajęcia trwały <span class="form-focus">półtorej godziny</span>.
+
+Godzina na zegarze i czas trwania to różne informacje. **O siódmej** wskazuje moment, natomiast **siedem godzin** — długość trwania.
+
+## Liczby i symbole jednostek
+
+Między wartością liczbową a symbolem jednostki pozostawiamy odstęp:
+
+> 5 kg;  
+> 12 km;  
+> 45 min;  
+> 3 °C;  
+> 20 %.
+
+Symbolu jednostki nie odmieniamy i nie stawiamy po nim kropki tylko dlatego, że jest skrócony:
+
+> 5 kg, nie ~~5 kg.~~ w środku zdania.
+
+Gdy nazwę jednostki zapisujemy słowem, odmienia się ona zgodnie z liczebnikiem:
+
+> dwa kilogramy — pięć kilogramów;  
+> trzy kilometry — dwanaście kilometrów.
+
+## Jak analizować szczególną konstrukcję liczebnikową?
+
+<div class="numeral-step-list">
+  <div class="numeral-step"><strong>Sprawdź rodzaj rzeczownika.</strong> Od niego zależy między innymi wybór <em>półtora</em> lub <em>półtorej</em>.</div>
+  <div class="numeral-step"><strong>Ustal, czy rzeczownik ma liczbę pojedynczą.</strong> Przy formach takich jak <em>drzwi</em> i <em>nożyczki</em> potrzebny może być liczebnik zbiorowy.</div>
+  <div class="numeral-step"><strong>Przy grupie osób sprawdź sposób jej ujęcia.</strong> Forma zbiorowa może wskazywać grupę różnej płci.</div>
+  <div class="numeral-step"><strong>Przy ułamku znajdź całość i jednostkę.</strong></div>
+  <div class="numeral-step"><strong>Odróżnij liczbę od kolejności.</strong> Zapis <em>3.</em> oznacza zwykle <em>trzeci</em>.</div>
+  <div class="numeral-step"><strong>Przy symbolach jednostek zachowaj odstęp.</strong> Dotyczy to także zapisu <em>°C</em> i <em>%</em>.</div>
 </div>
 
-W zapisie cyfrowym liczebnik porządkowy może być oznaczony kropką:
-
-> Spotkanie odbędzie się **14. dnia miesiąca**.  
-> Przeczytaj **3. rozdział**.
-
-W pełnym zapisie daty zwykle wystarcza forma **14 czerwca 2026 roku**, bez kropki po liczbie dnia.
-
-## Godziny
-
-- Pociąg odjeżdża o **siódmej trzydzieści**.
-- Spotkanie rozpocznie się o **dziewiątej**.
-- Wracamy około **wpół do szóstej**.
-- Zajęcia trwały od **ósmej do jedenastej**.
-
-W starannym tekście można zapisać godzinę cyframi lub słownie, ale należy zachować jeden czytelny system w całym dokumencie.
-
-## Liczebniki w skrótach i jednostkach
-
-- Plecak waży **5 kg**.
-- Trasa ma **12 km**.
-- Temperatura spadła do **3°C**.
-- Spotkanie potrwa **45 min**.
-
-Między liczbą a symbolem jednostki zwykle pozostawiamy odstęp: **5 kg, 12 km, 45 min**. Wyjątki wynikają z zasad zapisu konkretnych symboli, na przykład **3°C**.
-
-<div class="lesson-summary">
-<h3>Liczebnik zawsze łączy znaczenie z formą</h3>
-Forma <strong>dwoje dzieci</strong> nie jest ozdobnym odpowiednikiem „dwa dzieci”, lecz właściwą konstrukcją dla tej grupy. Różnica <strong>półtora roku — półtorej godziny</strong> wynika z rodzaju rzeczownika. Pełne zdanie pokazuje tę zależność najlepiej.
+<div class="numeral-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Liczebniki zbiorowe łączą się między innymi z nazwami dzieci, grupami mieszanymi i rzeczownikami mającymi tylko liczbę mnogą.</li>
+  <li>Formy zbiorowe odmieniają się: <em>dwoje, dwojga, dwojgu, dwojgiem</em>.</li>
+  <li><em>Półtora</em> łączy się z rodzajem męskim i nijakim, a <em>półtorej</em> z żeńskim.</li>
+  <li>Liczebniki wielowyrazowe zapisujemy rozdzielnie.</li>
+  <li>Kropka po cyfrze może oznaczać liczebnik porządkowy, ale nie stawiamy jej po dniu w zapisie <em>14 czerwca</em>.</li>
+  <li>Liczbę i symbol jednostki oddzielamy odstępem: <em>5 kg, 3 °C, 20 %</em>.</li>
+</ul>
 </div>
 
-[Przejdź dalej: liczebniki w tekście](../liczebniki-w-tekscie/){ .md-button .md-button--primary }
+[Przejdź dalej: liczebniki w opowieści](../liczebniki-w-tekscie/){ .md-button .md-button--primary }
 
 </div>
