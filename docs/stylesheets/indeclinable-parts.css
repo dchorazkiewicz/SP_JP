@@ -140,6 +140,7 @@
   grid-template-columns:minmax(125px,175px) minmax(0,1fr) auto;
   padding:.78rem 1rem;
 }
+
 .indecl-row+.indecl-row { border-top:1px solid var(--ind-border); }
 .indecl-row p { margin:0; }
 
@@ -184,6 +185,7 @@
   margin:1.3rem 0;
   padding:1rem 1.1rem;
 }
+
 .indecl-summary h3 { margin-top:0; }
 
 .indecl-reading-legend { display:flex; flex-wrap:wrap; gap:.45rem; margin-top:.75rem; }
@@ -215,4 +217,387 @@
 
 @media (max-width:700px) {
   .indecl-reading-text { padding:.85rem; }
+}
+
+/*
+  Partykuła: warstwa narracyjna zgodna z przyimkiem i spójnikiem.
+  Jest umieszczona po starszych regułach, aby świadomie je nadpisać.
+*/
+.particle-lesson {
+  --part-accent:#76539a;
+  --part-soft:#faf5ff;
+  --part-accent-soft:#efe3fb;
+  --part-border:#ddd6e6;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson {
+  --part-accent:#c7a6e7;
+  --part-soft:#30263a;
+  --part-accent-soft:#463255;
+  --part-border:#554860;
+}
+
+.particle-lesson .lesson-lead {
+  background:linear-gradient(135deg,color-mix(in srgb,var(--part-accent) 14%,transparent),transparent);
+  border:1px solid var(--part-border);
+  border-left:5px solid var(--part-accent);
+  border-radius:.8rem;
+  margin:1rem 0 1.5rem;
+  padding:1rem 1.1rem;
+}
+
+.particle-lesson blockquote {
+  background:#f5f6f7;
+  border:1px solid #cfd5d9;
+  border-left:5px solid #8d989e;
+  border-radius:.55rem;
+  color:#171b1f;
+  margin:.9rem 0 1.1rem;
+  padding:.72rem .92rem;
+}
+
+.particle-lesson blockquote p {
+  color:#171b1f;
+  margin:.22rem 0;
+  opacity:1;
+}
+
+.particle-lesson .indecl-topic-grid {
+  display:grid;
+  gap:.85rem;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  margin:1rem 0 1.6rem;
+}
+
+.particle-lesson .indecl-topic-card {
+  background:var(--md-default-bg-color);
+  border:1px solid var(--part-border);
+  border-radius:.8rem;
+  color:var(--md-typeset-color);
+  display:grid;
+  gap:.35rem;
+  grid-template-columns:auto 1fr;
+  padding:1rem;
+  text-decoration:none;
+  transition:border-color .15s ease,box-shadow .15s ease,transform .15s ease;
+}
+
+.particle-lesson .indecl-topic-card:hover {
+  border-color:var(--part-accent);
+  box-shadow:0 7px 22px color-mix(in srgb,var(--part-accent) 16%,transparent);
+  transform:translateY(-2px);
+}
+
+.particle-lesson .indecl-topic-card strong,
+.particle-lesson .indecl-topic-card>span:last-child { grid-column:2; }
+.particle-lesson .indecl-topic-card strong { font-size:1.08rem; }
+.particle-lesson .indecl-topic-card>span:last-child {
+  color:var(--md-default-fg-color--light);
+  line-height:1.45;
+}
+
+.particle-lesson .indecl-topic-number {
+  align-items:center;
+  background:var(--part-soft);
+  border:1px solid var(--part-border);
+  border-radius:999px;
+  color:var(--part-accent);
+  display:inline-flex;
+  font-size:.72rem;
+  font-weight:800;
+  grid-row:1/span 2;
+  height:2.2rem;
+  justify-content:center;
+  width:2.2rem;
+}
+
+.particle-lesson .indecl-topic-card--primary { border-left:5px solid var(--part-accent); }
+.particle-lesson .indecl-topic-card--reading {
+  background:linear-gradient(135deg,var(--md-default-bg-color),var(--part-soft));
+}
+
+.particle-lesson .indecl-summary {
+  background:var(--part-soft);
+  border:2px solid var(--part-accent);
+  border-radius:.8rem;
+  margin:1.3rem 0 1.6rem;
+  padding:1rem 1.1rem;
+}
+
+.particle-lesson .indecl-summary h3 {
+  color:var(--part-accent);
+  margin:0 0 .45rem;
+}
+
+.particle-lesson .indecl-summary ul {
+  margin:.45rem 0 0;
+  padding-left:1.25rem;
+}
+
+.particle-lesson .indecl-summary li {
+  line-height:1.55;
+  margin:.25rem 0;
+}
+
+.particle-lesson .indecl-concept-grid {
+  display:grid;
+  gap:.8rem;
+  grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+  margin:1rem 0 1.5rem;
+}
+
+.particle-lesson .indecl-concept-card {
+  background:var(--md-default-bg-color);
+  border:1px solid var(--part-border);
+  border-radius:.75rem;
+  line-height:1.6;
+  padding:.9rem 1rem;
+}
+
+.particle-lesson .indecl-concept-card strong {
+  color:var(--part-accent);
+  display:block;
+  margin-bottom:.25rem;
+}
+
+.particle-lesson .indecl-series,
+.particle-lesson .indecl-comparison,
+.particle-lesson .indecl-reading {
+  border:1px solid var(--part-border);
+  border-radius:.8rem;
+  margin:1rem 0 1.5rem;
+  overflow:hidden;
+}
+
+.particle-lesson .indecl-series-header,
+.particle-lesson .indecl-reading-header {
+  background:var(--part-soft);
+  border-bottom:1px solid var(--part-border);
+  padding:.85rem 1rem;
+}
+
+.particle-lesson .indecl-series-header strong,
+.particle-lesson .indecl-reading-header h2,
+.particle-lesson .indecl-reading-header h3 {
+  color:var(--part-accent);
+  margin:0;
+}
+
+.particle-lesson .indecl-reading-header p {
+  color:var(--md-default-fg-color--light);
+  margin:.35rem 0 0;
+}
+
+.particle-lesson .indecl-row {
+  align-items:center;
+  display:grid;
+  gap:.8rem;
+  grid-template-columns:minmax(125px,175px) minmax(0,1fr) auto;
+  padding:.78rem 1rem;
+}
+
+.particle-lesson .indecl-row+.indecl-row { border-top:1px solid var(--part-border); }
+.particle-lesson .indecl-row p { margin:0; }
+
+.particle-lesson .indecl-badge,
+.particle-lesson .indecl-label {
+  color:var(--part-accent);
+  font-size:.72rem;
+  font-weight:800;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+}
+
+.particle-lesson .indecl-note {
+  background:var(--part-accent-soft);
+  border:1px solid color-mix(in srgb,var(--part-accent) 65%,var(--part-border));
+  border-radius:.4rem;
+  font-size:.76rem;
+  font-weight:700;
+  padding:.2rem .45rem;
+  white-space:nowrap;
+}
+
+.particle-lesson .indecl-focus {
+  background:#eee4f4;
+  border:2px solid #9277ad;
+  border-radius:.32rem;
+  box-decoration-break:clone;
+  -webkit-box-decoration-break:clone;
+  color:#51396a;
+  font-weight:850;
+  padding:.03rem .2rem;
+}
+
+.particle-lesson .indecl-comparison {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+}
+
+.particle-lesson .indecl-comparison-item { padding:.9rem 1rem; }
+.particle-lesson .indecl-comparison-item+.indecl-comparison-item {
+  border-left:1px solid var(--part-border);
+}
+.particle-lesson .indecl-comparison-item p { margin:.35rem 0 0; }
+
+.particle-lesson .indecl-reading-legend {
+  display:flex;
+  flex-wrap:wrap;
+  gap:.45rem;
+  margin-top:.75rem;
+}
+
+.particle-lesson .indecl-reading-legend span,
+.particle-lesson .indecl-token {
+  border:2px solid;
+  border-radius:.35rem;
+  color:#171b1f;
+}
+
+.particle-lesson .indecl-reading-legend span {
+  font-size:.78rem;
+  font-weight:750;
+  padding:.2rem .5rem;
+}
+
+.particle-lesson .indecl-reading-text {
+  line-height:1.72;
+  padding:1rem 1.3rem 1.4rem;
+}
+
+.particle-lesson .indecl-reading-text p {
+  font-family:inherit;
+  font-size:inherit;
+  line-height:inherit;
+  margin:.5rem 0;
+}
+
+.particle-lesson .indecl-token {
+  box-decoration-break:clone;
+  -webkit-box-decoration-break:clone;
+  font-weight:850;
+  padding:.03rem .2rem;
+}
+
+.particle-lesson .indecl-reading-text>h3 {
+  align-items:center;
+  color:var(--md-default-fg-color--light);
+  display:flex;
+  font-size:.82rem;
+  font-weight:800;
+  gap:.75rem;
+  letter-spacing:.04em;
+  margin:1.7rem 0;
+  text-transform:uppercase;
+}
+
+.particle-lesson .indecl-reading-text>h3::before,
+.particle-lesson .indecl-reading-text>h3::after {
+  background:var(--part-border);
+  content:"";
+  flex:1;
+  height:1px;
+}
+
+.particle-lesson .indecl-reading .indecl-summary {
+  background:var(--part-soft);
+  border:1px solid var(--part-border);
+  border-left:5px solid var(--part-accent);
+  border-radius:.7rem;
+  line-height:1.65;
+  margin:1.25rem 0 1.8rem;
+  padding:.9rem 1rem;
+}
+
+.particle-lesson .indecl-reading .indecl-summary h3 {
+  color:var(--part-accent);
+  margin:0 0 .45rem;
+}
+
+.particle-lesson .ind-blue {
+  background:#dceefa;
+  border-color:#4f8dae;
+}
+
+.particle-lesson .ind-yellow {
+  background:#fff0d5;
+  border-color:#c4933f;
+}
+
+.particle-lesson .ind-green {
+  background:#dcefdc;
+  border-color:#5f9361;
+}
+
+.particle-lesson .ind-purple {
+  background:#eee4f4;
+  border-color:#9277ad;
+}
+
+.particle-lesson .ind-red {
+  background:#f7e4e7;
+  border-color:#b77b86;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson blockquote {
+  background:#292f33;
+  border-color:#525d63;
+  border-left-color:#8f9aa0;
+  color:#f1f4f6;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson blockquote p { color:#f1f4f6; }
+
+[data-md-color-scheme="slate"] .particle-lesson .indecl-focus,
+[data-md-color-scheme="slate"] .particle-lesson .ind-purple {
+  background:#3d2a4e;
+  border-color:#b895d0;
+  color:#fbf5ff;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson .ind-blue {
+  background:#1d4053;
+  border-color:#7fb8d4;
+  color:#f1f9fd;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson .ind-yellow {
+  background:#4a381d;
+  border-color:#d1a55b;
+  color:#fff7e6;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson .ind-green {
+  background:#24482a;
+  border-color:#86be8b;
+  color:#f2faf3;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson .ind-red {
+  background:#512d35;
+  border-color:#cb8d98;
+  color:#fff4f6;
+}
+
+[data-md-color-scheme="slate"] .particle-lesson .indecl-reading-legend span {
+  color:#f1f4f6;
+}
+
+@media (max-width:820px) {
+  .particle-lesson .indecl-row {
+    align-items:start;
+    gap:.35rem;
+    grid-template-columns:1fr;
+  }
+
+  .particle-lesson .indecl-note { justify-self:start; }
+
+  .particle-lesson .indecl-comparison-item+.indecl-comparison-item {
+    border-left:0;
+    border-top:1px solid var(--part-border);
+  }
+}
+
+@media (max-width:700px) {
+  .particle-lesson .indecl-reading-text { padding:.85rem; }
 }
