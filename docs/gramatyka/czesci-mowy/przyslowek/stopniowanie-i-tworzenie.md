@@ -1,116 +1,207 @@
-# Stopniowanie i tworzenie przysłówków
+# Porównywanie i tworzenie przysłówków
 
 <div class="adverb-lesson" markdown>
 
-<div class="indecl-lead">
-Niektóre przysłówki można stopniować, ponieważ opisują cechę o różnym natężeniu. Inne, na przykład <em>wczoraj, tutaj, zawsze</em>, nie tworzą naturalnych stopni.
+<div class="lesson-lead" markdown>
+
+Stopniowanie przysłówka ma sens wtedy, gdy porównujemy **sposób, tempo, częstotliwość albo stopień wykonania czynności**. Sama seria „szybko — szybciej — najszybciej” nie wystarcza: trzeba wiedzieć, co jest porównywane i wobec jakiego punktu odniesienia.
+
 </div>
 
-## Stopień równy, wyższy i najwyższy
+## Trzy odczytania tego samego komunikatu
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">równy</span><p>Maria czyta <span class="indecl-focus">szybko</span>.</p><span class="indecl-note">bez porównania</span></div>
-  <div class="indecl-row"><span class="indecl-badge">wyższy</span><p>Maria czyta <span class="indecl-focus">szybciej</span> od Pawła.</p><span class="indecl-note">porównanie dwóch osób</span></div>
-  <div class="indecl-row"><span class="indecl-badge">najwyższy</span><p>Maria czyta <span class="indecl-focus">najszybciej</span> w całej grupie.</p><span class="indecl-note">największe natężenie</span></div>
+<div class="adverb-story" markdown>
+  <div class="adverb-story__title">Szybko, szybciej, najszybciej</div>
+  <div class="adverb-story__body" markdown>
+
+Troje uczniów przeczytało ten sam komunikat:
+
+> Lena czytała <span class="form-focus">szybko</span>.  
+> Kuba czytał <span class="form-focus">szybciej</span> <span class="comparison-anchor">od Leny</span>.  
+> Maja czytała <span class="form-focus">najszybciej</span> <span class="comparison-anchor">w całej grupie</span>.
+
+Pierwsze zdanie opisuje tempo bez bezpośredniego porównania. Drugie zestawia dwie osoby. Trzecie wskazuje najwyższe tempo we wskazanej grupie.
+
+  </div>
 </div>
 
-## Stopniowanie regularne
+## Trzy stopnie
 
-| Stopień równy | Zdanie ze stopniem wyższym | Zdanie ze stopniem najwyższym |
-|---|---|---|
-| cicho | Marta mówi **ciszej** niż wcześniej. | W bibliotece mówiła **najciszej** ze wszystkich. |
-| wolno | Ten pociąg jedzie **wolniej** od ekspresu. | Stary autobus jedzie **najwolniej**. |
-| wysoko | Samolot leci **wyżej** niż helikopter. | Balon uniósł się **najwyżej**. |
-| blisko | Nowy przystanek znajduje się **bliżej** domu. | Sklep jest **najbliżej** szkoły. |
-| późno | Dzisiaj wróciliśmy **później** niż zwykle. | W sobotę wróciliśmy **najpóźniej**. |
+<div class="adverb-concept-grid">
+  <div class="adverb-concept-card"><strong>Stopień równy</strong><em>szybko</em> — opis bez wskazania większego lub mniejszego natężenia</div>
+  <div class="adverb-concept-card"><strong>Stopień wyższy</strong><em>szybciej</em> — porównanie z inną osobą, rzeczą albo sytuacją</div>
+  <div class="adverb-concept-card"><strong>Stopień najwyższy</strong><em>najszybciej</em> — najwyższe natężenie w określonej grupie lub zakresie</div>
+</div>
+
+Stopień wyższy często łączy się z wyrażeniem **od kogo? od czego?** albo ze spójnikiem **niż**:
+
+> Marta pracowała <span class="form-focus">dokładniej</span> <span class="comparison-anchor">od Pawła</span>.  
+> Marta pracowała <span class="form-focus">dokładniej</span>, <span class="comparison-anchor">niż pracowała wczoraj</span>.
+
+Stopień najwyższy potrzebuje zakresu, nawet gdy wynika on z kontekstu:
+
+> Marta pracowała <span class="form-focus">najdokładniej</span> <span class="comparison-anchor">z całego zespołu</span>.  
+> Spośród wszystkich prób ta została wykonana <span class="form-focus">najstaranniej</span>.
+
+<div class="adverb-checkpoint">
+  <div class="adverb-checkpoint__title">„Najlepiej” bez grupy może być niepełne znaczeniowo</div>
+  <p>Zdanie <em>Anna wykonała zadanie najlepiej</em> zakłada, że odbiorca wie, z kim albo z czym porównujemy jej wynik.</p>
+</div>
+
+## Stopniowanie proste
+
+W wielu przysłówkach stopień wyższy i najwyższy tworzymy przez zmianę formy:
+
+> cicho — <span class="form-focus">ciszej</span> — <span class="form-focus">najciszej</span>;  
+> wolno — <span class="form-focus">wolniej</span> — <span class="form-focus">najwolniej</span>;  
+> wysoko — <span class="form-focus">wyżej</span> — <span class="form-focus">najwyżej</span>;  
+> blisko — <span class="form-focus">bliżej</span> — <span class="form-focus">najbliżej</span>;  
+> późno — <span class="form-focus">później</span> — <span class="form-focus">najpóźniej</span>;  
+> często — <span class="form-focus">częściej</span> — <span class="form-focus">najczęściej</span>.
+
+Nie zawsze wystarczy dopisać jedno zakończenie. Mogą pojawić się zmiany głosek i całego tematu, dlatego naturalnych form uczymy się na przykładach.
 
 ## Stopniowanie nieregularne
 
-Niektóre przysłówki zmieniają temat.
+Niektóre przysłówki tworzą stopnie od innego tematu:
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">dobrze</span><p>Marta rozwiązała zadanie dobrze, Paweł zrobił to <span class="indecl-focus">lepiej</span>, a Anna poradziła sobie <span class="indecl-focus">najlepiej</span>.</p><span class="indecl-note">dobrze → lepiej</span></div>
-  <div class="indecl-row"><span class="indecl-badge">źle</span><p>Pierwszy plan działał źle, drugi działał <span class="indecl-focus">gorzej</span>, a trzeci sprawdził się <span class="indecl-focus">najgorzej</span>.</p><span class="indecl-note">źle → gorzej</span></div>
-  <div class="indecl-row"><span class="indecl-badge">dużo</span><p>Maria pracuje dużo, Paweł pracuje <span class="indecl-focus">więcej</span>, a Anna pracuje <span class="indecl-focus">najwięcej</span>.</p><span class="indecl-note">dużo → więcej</span></div>
-  <div class="indecl-row"><span class="indecl-badge">mało</span><p>Ten samochód pali mało, drugi pali <span class="indecl-focus">mniej</span>, a trzeci zużywa paliwa <span class="indecl-focus">najmniej</span>.</p><span class="indecl-note">mało → mniej</span></div>
-</div>
+> dobrze — <span class="form-focus">lepiej</span> — <span class="form-focus">najlepiej</span>;  
+> źle — <span class="form-focus">gorzej</span> — <span class="form-focus">najgorzej</span>;  
+> dużo — <span class="form-focus">więcej</span> — <span class="form-focus">najwięcej</span>;  
+> mało — <span class="form-focus">mniej</span> — <span class="form-focus">najmniej</span>.
+
+Porównaj sens w zdaniach:
+
+> Pierwszy plan działał źle, drugi działał <span class="form-focus">gorzej</span>, a trzeci sprawdził się <span class="form-focus">najgorzej</span>.  
+> Marta pracowała dużo, Kuba pracował <span class="form-focus">więcej</span>, a Lena pracowała <span class="form-focus">najwięcej</span> ze wszystkich.
 
 ## Stopniowanie opisowe
 
-Dłuższe albo złożone przysłówki często stopniujemy za pomocą wyrazów **bardziej, najbardziej, mniej, najmniej**.
+Niektóre przysłówki naturalnie stopniujemy za pomocą wyrazów **bardziej, najbardziej, mniej, najmniej**:
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">równy</span><p>Technik wyjaśnił problem <span class="indecl-focus">szczegółowo</span>.</p><span class="indecl-note">forma podstawowa</span></div>
-  <div class="indecl-row"><span class="indecl-badge">wyższy</span><p>Drugi technik wyjaśnił problem <span class="indecl-focus">bardziej szczegółowo</span>.</p><span class="indecl-note">bardziej + przysłówek</span></div>
-  <div class="indecl-row"><span class="indecl-badge">najwyższy</span><p>Ekspert wyjaśnił problem <span class="indecl-focus">najbardziej szczegółowo</span>.</p><span class="indecl-note">najbardziej + przysłówek</span></div>
-</div>
+> systematycznie — <span class="form-focus">bardziej systematycznie</span> — <span class="form-focus">najbardziej systematycznie</span>;  
+> przekonująco — <span class="form-focus">mniej przekonująco</span> — <span class="form-focus">najmniej przekonująco</span>.
 
-Inne przykłady:
+Czasem możliwe są dwa sposoby:
 
-- Maria wypowiedziała się **bardziej precyzyjnie** niż wcześniej.
-- Ten system działa **mniej stabilnie** od poprzedniego.
-- Ostatni raport został napisany **najbardziej przejrzyście**.
+> precyzyjniej;  
+> bardziej precyzyjnie.
 
-## Podwójne stopniowanie jest błędem
+Nie muszą brzmieć jednakowo naturalnie w każdym zdaniu. Krótsza forma bywa bardziej zwarta, a opisowa może mocniej eksponować samą cechę lub lepiej pasować do dłuższego wyrazu.
 
-> ❌ bardziej szybciej  
-> ✅ szybciej
+## „Bardzo szybko” nie jest stopniem wyższym
 
-> ❌ najbardziej najlepiej  
-> ✅ najlepiej
+Porównaj:
 
-> ❌ mniej gorzej  
-> ✅ lepiej albo mniej źle — zależnie od znaczenia
+> Samochód jechał <span class="form-focus">bardzo</span> <span class="secondary-focus">szybko</span>.  
+> Samochód jechał <span class="form-focus">szybciej</span> niż autobus.
 
-## Których przysłówków nie stopniujemy?
+**Bardzo szybko** oznacza duże natężenie, ale nie wskazuje samo z siebie drugiego obiektu porównania. **Szybciej** jest formą stopnia wyższego i zakłada relację porównawczą.
 
-Nie stopniujemy zwykle przysłówków, które oznaczają konkretny czas, miejsce, częstotliwość absolutną albo logiczną granicę:
+Podobnie:
 
-- **wczoraj** wysłaliśmy raport;
-- spotkajmy się **tutaj**;
-- Anna **zawsze** zapisuje wyniki;
-- Paweł **nigdy** nie pomija kontroli;
-- drzwi były **całkowicie** zamknięte.
+> wyjątkowo dokładnie — silne natężenie;  
+> dokładniej niż wcześniej — stopień wyższy.
 
-Formy takie jak „bardziej wczoraj” albo „najnigdy” nie mają sensu.
+## Podwójne stopniowanie
 
-## Tworzenie przysłówków od przymiotników
+Nie łączymy dwóch sposobów stopniowania tej samej formy:
 
-Wiele przysłówków powstaje od przymiotników za pomocą zakończeń **-o** albo **-e**.
+> ~~bardziej szybciej~~ → <span class="form-focus">szybciej</span>;  
+> ~~najbardziej najlepiej~~ → <span class="form-focus">najlepiej</span>;  
+> ~~bardziej gorzej~~ → <span class="form-focus">gorzej</span> albo <span class="form-focus">mniej dobrze</span>, zależnie od zamierzonego sensu.
 
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">przymiotnik</span><p>To był <strong>spokojny głos</strong>.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">przysłówek</span><p>Marta mówiła <strong>spokojnie</strong>.</p></div>
-</div>
+W wyrażeniu **mniej źle** nie ma podwójnego stopniowania: **mniej** osłabia przysłówek **źle**. Znaczeniowo może być zbliżone do **lepiej**, ale nie zawsze brzmi tak samo:
 
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">przymiotnik</span><p>To było <strong>dokładne obliczenie</strong>.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">przysłówek</span><p>Technik obliczył wynik <strong>dokładnie</strong>.</p></div>
-</div>
+> Drugi projekt wypadł mniej źle, lecz nadal nie był dobry.
 
-Częste pary:
+## Których przysłówków zwykle nie stopniujemy?
 
-- szybki → szybko;
-- łatwy → łatwo;
-- trudny → trudno;
-- ostrożny → ostrożnie;
-- piękny → pięknie;
-- prawidłowy → prawidłowo.
+Nie tworzymy naturalnych stopni od wyrazów wskazujących konkretny czas, miejsce albo logiczną granicę:
+
+> wczoraj; tutaj; stamtąd; zawsze; nigdy; całkowicie.
+
+Formy takie jak ~~bardziej wczoraj~~, ~~najtutaj~~ czy ~~najnigdy~~ nie tworzą sensownego porównania.
+
+Niektóre użycia reklamowe lub żartobliwe celowo przekraczają tę zasadę, na przykład **najbardziej idealnie**. Taka forma może działać jako przesada stylistyczna, ale w precyzyjnym opisie warto pamiętać, że **idealnie** oznacza osiągnięcie granicy.
+
+## Znaczenie stopnia zależy od kontekstu
+
+> Usiądź <span class="form-focus">bliżej</span>. — zmniejsz odległość  
+> Przyjdź <span class="form-focus">wcześniej</span>. — zmień czas przyjścia  
+> Mów <span class="form-focus">ciszej</span>. — zmniejsz natężenie głosu
+
+Forma stopnia wyższego nie zawsze oznacza „więcej”. **Ciszej** oznacza mniejsze natężenie dźwięku, a **bliżej** — mniejszą odległość.
+
+## Jak powstają przysłówki od przymiotników?
+
+Wiele przysłówków tworzy się od przymiotników:
+
+> szybki → <span class="form-focus">szybko</span>;  
+> łatwy → <span class="form-focus">łatwo</span>;  
+> trudny → <span class="form-focus">trudno</span>;  
+> ostrożny → <span class="form-focus">ostrożnie</span>;  
+> piękny → <span class="form-focus">pięknie</span>;  
+> prawidłowy → <span class="form-focus">prawidłowo</span>.
+
+Najczęstsze zakończenia to **-o** i **-e**, ale nie istnieje jedna mechaniczna reguła pozwalająca zawsze przewidzieć formę. Porównaj:
+
+> dobry → dobrze;  
+> zły → źle;  
+> mały → mało.
+
+Tworzeniu mogą towarzyszyć zmiany głosek i tematu.
+
+## Przymiotnik i przysłówek w tej samej rodzinie
+
+> To było <span class="adjective-anchor">dokładne</span> <span class="noun-anchor">obliczenie</span>.  
+> Technik obliczył wynik <span class="form-focus">dokładnie</span>.
+
+> Usłyszeliśmy <span class="adjective-anchor">cichy</span> <span class="noun-anchor">głos</span>.  
+> Marta mówiła <span class="form-focus">cicho</span>.
+
+Przymiotnik dopasowuje się do rzeczownika, natomiast przysłówek pozostaje nieodmienny i opisuje czynność albo stan.
+
+## Nie każdy przysłówek pochodzi od przymiotnika
+
+Formy takie jak:
+
+> dziś, jutro, tutaj, tam, zawsze, bardzo
+
+nie są prostymi przekształceniami współczesnych przymiotników. Dlatego pochodzenie od przymiotnika jest częstą właściwością przysłówków, ale nie ich definicją.
 
 ## Nie każda forma na „-o” jest przysłówkiem
 
-- **Światło** zgasło nagle. — rzeczownik.
-- W pokoju zrobiło się **jasno**. — przysłówek.
-- Dziecko powiedziało **słowo**. — rzeczownik.
-- Dziecko mówiło **cicho**. — przysłówek.
+> <span class="noun-anchor">Światło</span> zgasło nagle.  
+> W pokoju zrobiło się <span class="form-focus">jasno</span>.  
+> Dziecko powiedziało <span class="noun-anchor">słowo</span>.  
+> Dziecko mówiło <span class="form-focus">cicho</span>.
 
-O części mowy decyduje funkcja w zdaniu, a nie samo zakończenie.
+Końcówka jest wskazówką, ale o części mowy rozstrzygają znaczenie i funkcja w zdaniu.
 
-<div class="indecl-summary">
-<h3>Stopniowanie musi pracować w porównaniu</h3>
-Ciąg „szybko — szybciej — najszybciej” jest dopiero początkiem. Pełne zdania pokazują relację: <strong>Maria czyta szybciej od Pawła</strong>, a <strong>Anna czyta najszybciej w grupie</strong>.
+## Jak analizować stopniowanie i budowę?
+
+<div class="adverb-step-list">
+  <div class="adverb-step"><strong>Sprawdź, czy znaczenie dopuszcza różne natężenie.</strong></div>
+  <div class="adverb-step"><strong>Przy stopniu wyższym znajdź punkt porównania.</strong> Może być wyrażony przez <em>od</em>, <em>niż</em> albo wynikać z kontekstu.</div>
+  <div class="adverb-step"><strong>Przy stopniu najwyższym ustal grupę.</strong> Sprawdź, wśród kogo lub czego zachodzi porównanie.</div>
+  <div class="adverb-step"><strong>Rozróżnij stopień i wzmocnienie.</strong> <em>Bardzo szybko</em> nie jest tym samym co <em>szybciej</em>.</div>
+  <div class="adverb-step"><strong>Sprawdź sposób tworzenia.</strong> Prosty, nieregularny czy opisowy?</div>
+  <div class="adverb-step"><strong>Przy formie pochodnej znajdź wyraz podstawowy.</strong> Następnie upewnij się, że w zdaniu rzeczywiście jest to przysłówek.</div>
 </div>
 
-[Przejdź dalej: funkcje i pisownia](../funkcje-i-pisownia/){ .md-button .md-button--primary }
+<div class="adverb-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Stopniowanie służy porównywaniu natężenia sposobu, czasu, częstotliwości lub innych właściwości działania.</li>
+  <li>Stopień wyższy potrzebuje punktu odniesienia, a najwyższy — grupy porównawczej.</li>
+  <li>Przysłówki mogą stopniować się prosto, nieregularnie albo opisowo.</li>
+  <li>Wzmocnienie przez <em>bardzo</em> nie jest stopniem wyższym.</li>
+  <li>Nie stopniujemy naturalnie wyrazów oznaczających konkretny czas, miejsce lub logiczną granicę.</li>
+  <li>Wiele przysłówków powstaje od przymiotników, lecz nie każdy przysłówek ma takie pochodzenie.</li>
+</ul>
+</div>
+
+[Przejdź dalej: zakres, szyk i pisownia](../funkcje-i-pisownia/){ .md-button .md-button--primary }
 
 </div>
