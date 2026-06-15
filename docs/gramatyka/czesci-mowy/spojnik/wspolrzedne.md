@@ -32,8 +32,6 @@ Spójnik współrzędny łączy elementy znajdujące się na tym samym poziomie 
 
 ## Spójniki łączne: „i”, „oraz”, „ani”, „ni”
 
-### Dodawanie informacji
-
 > Marta <span class="conj-focus">i</span> Paweł sprawdzili model.  
 > Do raportu dołączono <span class="member-left">tabelę wyników</span> <span class="conj-focus">oraz</span> <span class="member-right">fotografie konstrukcji</span>.  
 > Marta zmierzyła belki <span class="conj-focus">i</span> zaznaczyła miejsca cięcia.
@@ -42,14 +40,14 @@ Spójniki **i** oraz **oraz** dołączają kolejny człon. **Oraz** częściej p
 
 > Otworzył drzwi i wszedł do sali.
 
-Tutaj **i** nie tylko dodaje czynność, lecz także pomaga odczytać kolejność wydarzeń. Najpierw otworzył drzwi, potem wszedł.
+Tutaj **i** nie tylko dodaje czynność, lecz także pomaga odczytać kolejność wydarzeń.
 
 ### Dodawanie w przeczeniu
 
 > Paweł <span class="negation-anchor">nie</span> zadzwonił <span class="conj-focus">ani</span> <span class="negation-anchor">nie</span> napisał.  
 > W magazynie nie było <span class="member-left">śrub</span> <span class="conj-focus">ani</span> <span class="member-right">nakrętek</span>.
 
-**Ani** i rzadsze **ni** łączą elementy objęte przeczeniem. W drugim zdaniu przeczenie **nie było** obejmuje oba rzeczowniki.
+**Ani** i rzadsze **ni** łączą elementy objęte przeczeniem.
 
 ## Spójniki rozłączne: „albo”, „lub”, „bądź”, „czy”
 
@@ -59,25 +57,21 @@ Tutaj **i** nie tylko dodaje czynność, lecz także pomaga odczytać kolejnoś�
 
 Spójniki te przedstawiają możliwości. W codziennym języku **albo** często sugeruje wyraźniejszy wybór jednej możliwości, natomiast **lub** może dopuszczać możliwość łączną. Nie jest to jednak niezawodna reguła logiczna dla każdego zdania — dokładny sens wynika z kontekstu.
 
-> Możesz zamówić herbatę lub kawę.
-
-Zdanie zwykle przedstawia wybór, choć w szczególnej sytuacji nie wyklucza zamówienia obu napojów. Gdy rozłączność ma być bezwzględna, można powiedzieć:
-
 > Możesz zamówić <span class="pair-focus">albo herbatę, albo kawę</span> — tylko jeden napój.
 
 ### Dwa użycia „czy”
 
 > Wolisz <span class="member-left">pociąg</span> <span class="conj-focus">czy</span> <span class="member-right">autobus</span>?
 
-Tutaj **czy** łączy dwie możliwości i pełni funkcję podobną do **albo**.
+Tutaj **czy** łączy dwie możliwości.
 
 > Nie wiem, <span class="conj-focus">czy</span> autobus już odjechał.
 
-Tutaj **czy** wprowadza pytanie zależne: treścią niewiedzy jest pytanie „czy autobus odjechał?”. Przed takim zdaniem podrzędnym stawiamy przecinek.
+Tutaj **czy** wprowadza pytanie zależne. Przed takim zdaniem podrzędnym stawiamy przecinek.
 
 <div class="conjunction-checkpoint">
   <div class="conjunction-checkpoint__title">To samo „czy”, inna budowa</div>
-  <p>W zdaniu <em>herbata czy kawa</em> spójnik łączy równorzędne rzeczowniki. W zdaniu <em>sprawdź, czy pada</em> wprowadza całe zdanie zależne od czasownika <em>sprawdź</em>.</p>
+  <p>W połączeniu <em>herbata czy kawa</em> spójnik łączy równorzędne rzeczowniki. W zdaniu <em>sprawdź, czy pada</em> wprowadza całe zdanie zależne od czasownika <em>sprawdź</em>.</p>
 </div>
 
 ## Przeciwstawienie i zestawienie: „ale”, „lecz”, „a”
@@ -87,7 +81,7 @@ Tutaj **czy** wprowadza pytanie zależne: treścią niewiedzy jest pytanie „cz
 > Model był lekki, <span class="conj-focus">ale</span> wytrzymały.  
 > Mieliśmy mało czasu, <span class="conj-focus">ale</span> zakończyliśmy pracę.
 
-Lekkość może budzić wątpliwość co do wytrzymałości, a brak czasu — co do ukończenia zadania. **Ale** pokazuje, że drugi człon przełamuje oczekiwanie wywołane przez pierwszy.
+**Ale** pokazuje, że drugi człon przełamuje oczekiwanie wywołane przez pierwszy.
 
 ### „Lecz” — przeciwstawienie lub korekta
 
@@ -112,12 +106,8 @@ Spójnik **a** nie zawsze oznacza ostre przeciwstawienie. Może spokojnie zestaw
 
 Pierwszy człon stanowi podstawę, a drugi przedstawia skutek albo wniosek.
 
-Porównaj kierunek relacji:
-
 > Zostaliśmy w pracowni, <span class="conj-focus">bo</span> padało. — drugi człon podaje przyczynę  
 > Padało, <span class="conj-focus">więc</span> zostaliśmy w pracowni. — drugi człon podaje skutek
-
-Zdarzenia są podobne, lecz spójniki prowadzą rozumowanie w przeciwnych kierunkach.
 
 ## Wyjaśnienie i doprecyzowanie: „czyli”
 
@@ -130,13 +120,13 @@ Wyrażenie **to znaczy** może pełnić podobną funkcję tekstową:
 
 > Musimy uprościć procedurę, <span class="connector-anchor">to znaczy</span> usunąć dwa zbędne etapy.
 
-Nie we wszystkich opisach gramatycznych klasyfikuje się je dokładnie tak samo jak pojedynczy spójnik **czyli**, dlatego warto nazywać je wyrażeniem wyjaśniającym lub spójnikowym.
+Nie we wszystkich opisach gramatycznych klasyfikuje się je dokładnie tak samo jak pojedynczy spójnik **czyli**.
 
 ## Przecinek przed spójnikami współrzędnymi
 
 ### Zwykle bez przecinka
 
-Przed pojedynczym spójnikiem:
+Przed pojedynczym:
 
 > i, oraz, ani, ni, albo, lub, bądź
 
@@ -144,10 +134,6 @@ zwykle nie stawiamy przecinka:
 
 > Marta przygotowała opis <span class="conj-focus">i</span> wykonała rysunek.  
 > Możemy zostać <span class="conj-focus">albo</span> wrócić później.  
-> Nie znaleźliśmy śrub <span class="conj-focus">ani</span> nakrętek.
-
-Zasada dotyczy również zdań współrzędnych:
-
 > Marta pisała raport <span class="conj-focus">i</span> Paweł tworzył wykresy.
 
 ### Zwykle z przecinkiem
@@ -169,25 +155,21 @@ Gdy ten sam spójnik rozpoczyna kolejne równorzędne człony, przed drugim i na
 > Pojedziemy <span class="pair-focus">albo pociągiem, albo autobusem</span>.  
 > Nie wiedzieliśmy, <span class="pair-focus">czy zostać, czy wrócić</span>.
 
-Przecinek nie wynika z samego drugiego **i** czy **albo**, lecz z powtarzalnej budowy całego szeregu.
+Przecinek wynika z powtarzalnej budowy całego szeregu.
 
-Jeżeli dwa identyczne spójniki pełnią różne funkcje, mechaniczne wstawienie przecinka może być błędne:
+> Powiedział, że przyjedzie i że przywiezie dokumenty.
 
-> Powiedział, że przyjedzie <span class="conj-focus">i</span> że przywiezie dokumenty.
-
-Pierwsze **że** i drugie **że** rozpoczynają dwa zdania podrzędne połączone przez pojedyncze **i**. Przed **i** nie ma przecinka.
+Dwa zdania rozpoczynane przez **że** są połączone pojedynczym **i**, dlatego przed **i** nie ma przecinka.
 
 ## Przecinek przed „i” może należeć do innej konstrukcji
 
 > Raport, <span class="relative-anchor">który przygotowała Marta</span>, <span class="conj-focus">i</span> wykres Pawła trafiły do nauczyciela.
 
-Przecinek bezpośrednio przed **i** zamyka zdanie podrzędne. Nie oddziela członów **raport i wykres**.
+Przecinek widoczny przed **i** zamyka zdanie podrzędne. Nie oddziela członów **raport i wykres**.
 
-Podobnie:
+> Powiedział, <span class="conj-focus">że</span> przyjedzie jutro, <span class="conj-focus">i</span> odłożył słuchawkę.
 
-> Kiedy Marta skończyła pomiary, <span class="conj-focus">i</span> Paweł, który czekał przy stole, odłożył narzędzia, rozpoczęli próbę.
-
-Takie zdanie jest trudne do odczytania i warto je przebudować. Interpunkcja może być formalnie uzasadniona przez granice zdań podrzędnych, ale poprawność znaków nie gwarantuje czytelności.
+Drugi przecinek zamyka zdanie podrzędne **że przyjedzie jutro**. Dopiero potem spójnik **i** łączy dwie czynności: powiedział i odłożył.
 
 ## Wyrazy podobne funkcjonalnie do spójników
 
@@ -195,7 +177,7 @@ Takie zdanie jest trudne do odczytania i warto je przebudować. Interpunkcja mo�
 > Marta opracowała opis. Paweł <span class="connector-anchor">natomiast</span> przygotował wykresy.  
 > Zabrakło czasu. <span class="connector-anchor">Dlatego</span> przesunęliśmy próbę.
 
-Wyrazy te nawiązują do wcześniejszej wypowiedzi i pokazują relację podobną do przeciwstawienia albo wynikania. Nie należy jednak automatycznie traktować każdego z nich jako typowego spójnika współrzędnego. Mogą zajmować różne miejsca w zdaniu i bywają klasyfikowane jako partykuły, przysłówki lub wyrazy nawiązujące.
+Wyrazy te nawiązują do wcześniejszej wypowiedzi i pokazują relację podobną do przeciwstawienia albo wynikania. Nie należy jednak automatycznie traktować każdego z nich jako typowego spójnika współrzędnego. Mogą być klasyfikowane jako partykuły, przysłówki albo wyrazy nawiązujące.
 
 ## Jak analizować spójnik współrzędny?
 
