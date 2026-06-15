@@ -216,7 +216,6 @@
 ./docs/stylesheets/syntactic-relations.css
 ./docs/stylesheets/verb-lesson.css
 ./docs/stylesheets/verb-narrative.css
-./mkdocs.full.yml
 ./mkdocs.yml
 ./requirements.txt
 ./tree.txt
