@@ -1,76 +1,149 @@
-# Przymiotniki w tekście
+# Przymiotniki w opowieści
 
 <div class="adjective-lesson" markdown>
 
-<div class="lesson-lead">
-Poniższy tekst ma 50 zdań. Wszystkie przymiotniki zostały wyróżnione. Kolory pomagają odróżnić cechy jakościowe, relacje, barwy oraz formy stopnia wyższego i najwyższego.
+<div class="lesson-lead" markdown>
+
+W dłuższym tekście przymiotniki nie tylko dodają szczegóły. Pomagają rozpoznać miejsca i przedmioty, tworzą nastrój, ujawniają ocenę bohatera oraz pokazują, jak zmienia się jego sposób patrzenia na świat.
+
 </div>
 
-<div class="reading-panel">
+<div class="reading-panel adjective-reading" markdown>
   <div class="reading-header">
     <h2>Dom na końcu Bursztynowej Ulicy</h2>
-    <p>Czytaj tekst naturalnie i obserwuj, jak forma przymiotnika zmienia się razem z rzeczownikiem.</p>
+    <p>Kolory pokazują jedną z możliwych funkcji znaczeniowych przymiotnika. Ostateczne znaczenie zawsze zależy od rzeczownika i całego zdania.</p>
     <div class="reading-legend">
-      <span class="adj-quality">cechy jakościowe</span>
-      <span class="adj-relation">relacje i materiały</span>
-      <span class="adj-colour">kolory</span>
+      <span class="adj-quality">cecha, stan lub ocena</span>
+      <span class="adj-relation">relacja, materiał lub pochodzenie</span>
+      <span class="adj-colour">barwa</span>
       <span class="adj-degree">stopień wyższy lub najwyższy</span>
     </div>
   </div>
-  <div class="reading-text">
-    <p><span class="sentence-no">1.</span> Na końcu <span class="word-token adj-relation">Bursztynowej</span> Ulicy stał <span class="word-token adj-quality">stary</span> dom.</p>
-    <p><span class="sentence-no">2.</span> Jego <span class="word-token adj-colour">zielone</span> okiennice kontrastowały z <span class="word-token adj-colour">białymi</span> ścianami.</p>
-    <p><span class="sentence-no">3.</span> Przed budynkiem rosły trzy <span class="word-token adj-quality">wysokie</span> lipy.</p>
-    <p><span class="sentence-no">4.</span> Za domem znajdował się <span class="word-token adj-quality">niewielki</span>, lecz <span class="word-token adj-quality">zadbany</span> ogród.</p>
-    <p><span class="sentence-no">5.</span> W ogrodzie stała <span class="word-token adj-relation">drewniana</span> altana z <span class="word-token adj-colour">czerwonym</span> dachem.</p>
-    <p><span class="sentence-no">6.</span> <span class="word-token adj-quality">Nowa</span> właścicielka, Helena, od razu zauważyła <span class="word-token adj-quality">niezwykły</span> spokój tego miejsca.</p>
-    <p><span class="sentence-no">7.</span> Pierwszego dnia otworzyła wszystkie <span class="word-token adj-quality">ciężkie</span> drzwi i <span class="word-token adj-quality">wąskie</span> okna.</p>
-    <p><span class="sentence-no">8.</span> Do środka wpłynęło <span class="word-token adj-quality">ciepłe</span>, <span class="word-token adj-relation">poranne</span> światło.</p>
-    <p><span class="sentence-no">9.</span> W salonie stał <span class="word-token adj-relation">dębowy</span> stół oraz dwa <span class="word-token adj-quality">miękkie</span> fotele.</p>
-    <p><span class="sentence-no">10.</span> Na ścianie wisiał <span class="word-token adj-quality">duży</span> portret w <span class="word-token adj-colour">złotej</span> ramie.</p>
-    <p><span class="sentence-no">11.</span> Przedstawiał <span class="word-token adj-quality">starszą</span> kobietę w <span class="word-token adj-colour">granatowej</span> sukni.</p>
-    <p><span class="sentence-no">12.</span> Jej spojrzenie wydawało się <span class="word-token adj-quality">spokojne</span>, ale również <span class="word-token adj-quality">uważne</span>.</p>
-    <p><span class="sentence-no">13.</span> Helena znalazła pod portretem <span class="word-token adj-quality">małą</span> tabliczkę z nazwiskiem.</p>
-    <p><span class="sentence-no">14.</span> Litery były słabo <span class="word-token adj-quality">widoczne</span>, lecz napis pozostał <span class="word-token adj-quality">czytelny</span>.</p>
-    <p><span class="sentence-no">15.</span> Kobieta z portretu była dawną właścicielką <span class="word-token adj-relation">rodzinnej</span> posiadłości.</p>
-    <p><span class="sentence-no">16.</span> W bibliotece Helena odkryła <span class="word-token adj-degree">najstarszy</span> mebel w całym domu.</p>
-    <p><span class="sentence-no">17.</span> Był to <span class="word-token adj-relation">orzechowy</span> sekretarzyk z <span class="word-token adj-quality">małą</span> szufladą.</p>
-    <p><span class="sentence-no">18.</span> W szufladzie leżał <span class="word-token adj-quality">cienki</span> notes w <span class="word-token adj-colour">szarej</span> oprawie.</p>
-    <p><span class="sentence-no">19.</span> Pierwsza strona zawierała <span class="word-token adj-quality">krótką</span> wiadomość.</p>
-    <p><span class="sentence-no">20.</span> Kolejne strony były <span class="word-token adj-degree">bardziej szczegółowe</span> i <span class="word-token adj-degree">znacznie dłuższe</span>.</p>
-    <p><span class="sentence-no">21.</span> Opisywały <span class="word-token adj-relation">miejskie</span> wydarzenia oraz <span class="word-token adj-relation">codzienne</span> życie mieszkańców.</p>
-    <p><span class="sentence-no">22.</span> Helena czytała o <span class="word-token adj-quality">dawnych</span> targach, <span class="word-token adj-quality">głośnych</span> festynach i <span class="word-token adj-relation">zimowych</span> burzach.</p>
-    <p><span class="sentence-no">23.</span> Najbardziej zainteresowała ją historia <span class="word-token adj-quality">tajemniczego</span> ogrodnika.</p>
-    <p><span class="sentence-no">24.</span> Według notesu był on <span class="word-token adj-degree">najlepszym</span> znawcą <span class="word-token adj-relation">miejscowych</span> roślin.</p>
-    <p><span class="sentence-no">25.</span> Pewnej <span class="word-token adj-quality">deszczowej</span> nocy wyszedł do <span class="word-token adj-quality">ciemnego</span> ogrodu i nie wrócił.</p>
-    <p><span class="sentence-no">26.</span> Następnego ranka znaleziono tylko jego <span class="word-token adj-colour">brązowy</span> kapelusz.</p>
-    <p><span class="sentence-no">27.</span> Helena uznała tę opowieść za <span class="word-token adj-quality">dziwną</span>, ale <span class="word-token adj-quality">wiarygodną</span>.</p>
-    <p><span class="sentence-no">28.</span> Tego samego wieczoru usłyszała <span class="word-token adj-quality">cichy</span> dźwięk przy altanie.</p>
-    <p><span class="sentence-no">29.</span> Na <span class="word-token adj-relation">kamiennej</span> ścieżce zobaczyła <span class="word-token adj-quality">świeże</span> ślady.</p>
-    <p><span class="sentence-no">30.</span> Prowadziły do <span class="word-token adj-degree">najgęstszej</span> części ogrodu.</p>
-    <p><span class="sentence-no">31.</span> Między <span class="word-token adj-quality">mokrymi</span> krzewami stała <span class="word-token adj-quality">niska</span> furtka.</p>
-    <p><span class="sentence-no">32.</span> Za furtką znajdował się <span class="word-token adj-degree">węższy</span> i <span class="word-token adj-degree">ciemniejszy</span> ogród.</p>
-    <p><span class="sentence-no">33.</span> Rosły tam <span class="word-token adj-quality">rzadkie</span> zioła oraz <span class="word-token adj-colour">srebrne</span> kwiaty.</p>
-    <p><span class="sentence-no">34.</span> Powietrze było <span class="word-token adj-degree">chłodniejsze</span> niż przy domu.</p>
-    <p><span class="sentence-no">35.</span> Na środku stała <span class="word-token adj-relation">kamienna</span> ławka z <span class="word-token adj-quality">dawnym</span> napisem.</p>
-    <p><span class="sentence-no">36.</span> Napis wspominał o <span class="word-token adj-quality">wiernym</span> opiekunie i <span class="word-token adj-quality">bezpiecznym</span> schronieniu.</p>
-    <p><span class="sentence-no">37.</span> Helena zauważyła obok ławki <span class="word-token adj-quality">niewielkie</span> drzwi.</p>
-    <p><span class="sentence-no">38.</span> Drzwi prowadziły do <span class="word-token adj-relation">podziemnego</span> pomieszczenia.</p>
-    <p><span class="sentence-no">39.</span> Wewnątrz znajdowały się <span class="word-token adj-quality">stare</span> narzędzia i <span class="word-token adj-relation">ogrodnicze</span> księgi.</p>
-    <p><span class="sentence-no">40.</span> <span class="word-token adj-degree">Najgrubsza</span> księga miała <span class="word-token adj-colour">zieloną</span> okładkę i <span class="word-token adj-colour">czarne</span> brzegi.</p>
-    <p><span class="sentence-no">41.</span> Zawierała <span class="word-token adj-quality">dokładne</span> opisy każdej rośliny.</p>
-    <p><span class="sentence-no">42.</span> Ostatni rozdział był <span class="word-token adj-degree">krótszy</span> od pozostałych.</p>
-    <p><span class="sentence-no">43.</span> Wyjaśniał, że ogrodnik opuścił dom z <span class="word-token adj-quality">ważnego</span> powodu.</p>
-    <p><span class="sentence-no">44.</span> Chciał ochronić <span class="word-token adj-quality">rzadkie</span> nasiona przed <span class="word-token adj-quality">gwałtowną</span> burzą.</p>
-    <p><span class="sentence-no">45.</span> Po wielu latach jego decyzja wydawała się <span class="word-token adj-degree">rozsądniejsza</span> niż wcześniej.</p>
-    <p><span class="sentence-no">46.</span> Helena przeniosła księgi do <span class="word-token adj-quality">suchej</span> biblioteki.</p>
-    <p><span class="sentence-no">47.</span> Wiosną posadziła w ogrodzie <span class="word-token adj-quality">nowe</span> rośliny.</p>
-    <p><span class="sentence-no">48.</span> <span class="word-token adj-degree">Najpiękniejsze</span> kwiaty wyrosły przy <span class="word-token adj-relation">kamiennej</span> ławce.</p>
-    <p><span class="sentence-no">49.</span> Dom stał się <span class="word-token adj-degree">jaśniejszy</span>, <span class="word-token adj-degree">cieplejszy</span> i <span class="word-token adj-degree">bardziej gościnny</span>.</p>
-    <p><span class="sentence-no">50.</span> Mieszkańcy uznali ogród Heleny za <span class="word-token adj-degree">najbardziej niezwykłe</span> miejsce w całym miasteczku.</p>
+  <div class="reading-text" markdown>
+
+<div class="adjective-scene-break">Rozdział 1. Pierwsze spojrzenie</div>
+
+Na końcu <span class="word-token adj-relation">Bursztynowej</span> Ulicy stał <span class="word-token adj-quality">stary</span> dom z <span class="word-token adj-colour">zielonymi</span> okiennicami. Jego <span class="word-token adj-colour">białe</span> ściany były popękane, a <span class="word-token adj-relation">kamienny</span> ganek porastał mech.
+
+Nowa właścicielka, Helena, długo przyglądała się budynkowi. Z ulicy wydawał się <span class="word-token adj-quality">ponury</span> i <span class="word-token adj-quality">zaniedbany</span>. Po otwarciu drzwi okazało się jednak, że wnętrze jest <span class="word-token adj-quality">jasne</span>, <span class="word-token adj-quality">przestronne</span> i zaskakująco <span class="word-token adj-quality">spokojne</span>.
+
+W salonie stał <span class="word-token adj-relation">dębowy</span> stół, dwa <span class="word-token adj-quality">miękkie</span> fotele i <span class="word-token adj-quality">wysoki</span> zegar. Na ścianie wisiał portret kobiety w <span class="word-token adj-colour">granatowej</span> sukni. Jej twarz była <span class="word-token adj-quality">poważna</span>, ale spojrzenie wydawało się <span class="word-token adj-quality">życzliwe</span>.
+
+<div class="adjective-reading__commentary" markdown>
+<strong>Jak przymiotniki kierują pierwszym wrażeniem?</strong>
+
+Wyrazy <strong>stary, ponury, zaniedbany</strong> tworzą początkowo obraz miejsca nieprzyjaznego. Późniejsze formy <strong>jasne, przestronne, spokojne</strong> zmieniają ocenę domu. Przymiotniki nie opisują więc wyłącznie stałych właściwości. Mogą pokazywać, jak bohater stopniowo poznaje miejsce.
+
+Formy zgadzają się z rzeczownikami: <strong>stary dom</strong>, <strong>zielone okiennice</strong>, <strong>białe ściany</strong>, <strong>granatowa suknia</strong>. Końcówki pomagają rozpoznać, który przymiotnik określa dany rzeczownik.
+</div>
+
+<div class="adjective-scene-break">Rozdział 2. Notes w sekretarzyku</div>
+
+W bibliotece Helena znalazła <span class="word-token adj-relation">orzechowy</span> sekretarzyk z <span class="word-token adj-quality">małą</span> szufladą. Leżał w niej <span class="word-token adj-quality">cienki</span> notes w <span class="word-token adj-colour">szarej</span> oprawie.
+
+Pierwsza wiadomość była <span class="word-token adj-quality">krótka</span>, lecz kolejne zapiski stawały się <span class="word-token adj-degree">dłuższe</span> i <span class="word-token adj-degree">bardziej szczegółowe</span>. Opisywały <span class="word-token adj-relation">miejskie</span> targi, <span class="word-token adj-quality">głośne</span> festyny i <span class="word-token adj-relation">zimowe</span> burze.
+
+Najwięcej miejsca poświęcono ogrodnikowi Antoniemu. Autor notesu nazywał go <span class="word-token adj-degree">najlepszym</span> znawcą <span class="word-token adj-relation">miejscowych</span> roślin. Pewnej <span class="word-token adj-quality">deszczowej</span> nocy Antoni wyszedł do ogrodu i nie wrócił. Rano znaleziono tylko jego <span class="word-token adj-colour">brązowy</span> kapelusz.
+
+Helena uznała opowieść za <span class="word-token adj-quality">dziwną</span>, ale nie całkiem <span class="word-token adj-quality">niewiarygodną</span>. Im dłużej czytała, tym <span class="word-token adj-degree">ciekawsza</span> wydawała jej się historia domu.
+
+<div class="adjective-reading__commentary" markdown>
+<strong>Cecha, relacja i stopień</strong>
+
+Przymiotniki <strong>cienki, krótka, głośne, dziwna</strong> nazywają cechy i oceny. Formy <strong>orzechowy, miejski, zimowy, miejscowy</strong> wskazują materiał albo związek z miejscem i czasem.
+
+Stopniowanie tworzy rozwój: zapiski stają się <strong>dłuższe</strong> i <strong>bardziej szczegółowe</strong>, a historia — <strong>ciekawsza</strong>. Czytelnik widzi nie tylko właściwości tekstu, lecz także rosnące zainteresowanie Heleny.
+</div>
+
+<div class="adjective-scene-break">Rozdział 3. Drugi ogród</div>
+
+Tego samego wieczoru Helena usłyszała przy altanie <span class="word-token adj-quality">cichy</span> dźwięk. Na <span class="word-token adj-relation">kamiennej</span> ścieżce zauważyła <span class="word-token adj-quality">świeże</span> ślady prowadzące między <span class="word-token adj-quality">mokrymi</span> krzewami.
+
+Za <span class="word-token adj-quality">niską</span> furtką znajdował się drugi ogród. Był <span class="word-token adj-degree">węższy</span>, <span class="word-token adj-degree">ciemniejszy</span> i <span class="word-token adj-degree">chłodniejszy</span> od pierwszego. Rosły w nim <span class="word-token adj-quality">rzadkie</span> zioła oraz kwiaty o <span class="word-token adj-colour">srebrnych</span> płatkach.
+
+Na środku stała <span class="word-token adj-relation">kamienna</span> ławka z <span class="word-token adj-quality">zatartym</span> napisem. Obok Helena dostrzegła <span class="word-token adj-quality">niewielkie</span> drzwi prowadzące do <span class="word-token adj-relation">podziemnego</span> pomieszczenia.
+
+Wewnątrz znajdowały się <span class="word-token adj-quality">stare</span> narzędzia i <span class="word-token adj-relation">ogrodnicze</span> księgi. <span class="word-token adj-degree">Najgrubsza</span> z nich miała <span class="word-token adj-colour">zieloną</span> okładkę i <span class="word-token adj-colour">czarne</span> brzegi.
+
+<div class="adjective-reading__commentary" markdown>
+<strong>Jak opis zmienia tempo i nastrój?</strong>
+
+Seria form <strong>węższy, ciemniejszy, chłodniejszy</strong> porównuje dwa ogrody i wzmacnia poczucie oddalania się od znanego miejsca. Krótkie grupy <strong>cichy dźwięk, świeże ślady, niska furtka</strong> kierują uwagę na kolejne szczegóły, dlatego opis przypomina powolne odkrywanie śladów.
+
+Przymiotnik może występować przed rzeczownikiem — <strong>stare narzędzia</strong> — albo w orzeczeniu: <strong>ogród był ciemniejszy</strong>. W obu pozycjach zachowuje zgodę z opisywanym rzeczownikiem.
+</div>
+
+<div class="adjective-scene-break">Rozdział 4. Inna historia ogrodnika</div>
+
+Ostatni rozdział księgi wyjaśniał, że Antoni nie zaginął. Podczas <span class="word-token adj-quality">gwałtownej</span> burzy przeniósł <span class="word-token adj-quality">rzadkie</span> nasiona do <span class="word-token adj-quality">bezpiecznego</span> schronienia. Jego decyzja, dawniej uznawana za <span class="word-token adj-quality">nierozsądną</span>, po latach wydawała się Helenie znacznie <span class="word-token adj-degree">rozsądniejsza</span>.
+
+Wiosną Helena uporządkowała ogród i posadziła odnalezione rośliny. Dom stał się <span class="word-token adj-degree">jaśniejszy</span>, <span class="word-token adj-degree">cieplejszy</span> i <span class="word-token adj-degree">bardziej gościnny</span>. Przy kamiennej ławce wyrosły <span class="word-token adj-degree">najpiękniejsze</span> kwiaty w całym miasteczku.
+
+Mieszkańcy przestali nazywać posesję <span class="word-token adj-quality">ponurym</span> domem. Mówili teraz o <span class="word-token adj-quality">niezwykłym</span> ogrodzie i <span class="word-token adj-quality">odważnej</span> właścicielce, która potrafiła odczytać <span class="word-token adj-quality">dawną</span> historię inaczej niż pozostali.
+
+<div class="adjective-reading__commentary" markdown>
+<strong>Przymiotnik może ujawniać ocenę</strong>
+
+Decyzja Antoniego jest najpierw <strong>nierozsądna</strong>, a później <strong>rozsądniejsza</strong>. Nie zmieniło się dawne wydarzenie — zmieniła się wiedza Heleny i jej ocena.
+
+Podobnie dom z <strong>ponurego</strong> staje się <strong>jaśniejszy, cieplejszy i bardziej gościnny</strong>. Część zmian jest rzeczywista, ale część wynika z nowego sposobu patrzenia. Przymiotnik może więc mówić zarówno o opisywanym świecie, jak i o osobie, która ten świat ocenia.
+</div>
+
   </div>
 </div>
 
-[Wróć do przeglądu przymiotnika](../){ .md-button }
+## Dlaczego nie można po prostu usunąć wszystkich przymiotników?
+
+Zdanie:
+
+> Helena weszła do ogrodu.
+
+przekazuje podstawowe wydarzenie. Wersja:
+
+> Helena weszła do <span class="word-token adj-degree">ciemniejszego</span>, <span class="word-token adj-degree">chłodniejszego</span> <span class="noun-anchor">ogrodu</span>.
+
+pokazuje dodatkowo, że bohaterka przekracza granicę między dwiema przestrzeniami. Przymiotniki nie są konieczne do zbudowania każdego zdania, ale mogą być konieczne do zbudowania zamierzonego obrazu i nastroju.
+
+## Ten sam przymiotnik może zmieniać znaczenie
+
+> ciężka skrzynia — duża masa;  
+> ciężka decyzja — trudność;  
+> ciężka atmosfera — napięcie.
+
+Nie klasyfikujemy przymiotnika raz na zawsze bez kontekstu. Znaczenie powstaje w połączeniu z rzeczownikiem.
+
+Podobnie **srebrny** może znaczyć:
+
+> wykonany ze srebra — srebrny pierścień;  
+> mający kolor srebra — srebrne płatki;  
+> związany z okresem lub rangą — srebrny jubileusz, srebrny medal.
+
+Kolor oznaczenia na stronie jest więc pomocą w czytaniu, a nie ostatecznym wyrokiem o znaczeniu wyrazu.
+
+## Jak analizować przymiotniki w dłuższym tekście?
+
+<div class="adjective-step-list">
+  <div class="adjective-step"><strong>Najpierw przeczytaj opowieść dla sensu.</strong> Ustal, co się wydarza i jak zmienia się sytuacja.</div>
+  <div class="adjective-step"><strong>Znajdź rzeczowniki określane przez przymiotniki.</strong> Sprawdź zgodę rodzaju, liczby i przypadku.</div>
+  <div class="adjective-step"><strong>Rozróżnij opis i ocenę.</strong> Zastanów się, które przymiotniki nazywają widzialne cechy, a które ujawniają opinię bohatera lub narratora.</div>
+  <div class="adjective-step"><strong>Obserwuj stopniowanie.</strong> Sprawdź, co jest porównywane i jak porównanie zmienia rozwój opowieści.</div>
+  <div class="adjective-step"><strong>Zwróć uwagę na funkcję.</strong> Przymiotnik może być przydawką albo częścią orzeczenia.</div>
+  <div class="adjective-step"><strong>Nie traktuj kategorii jak sztywnych przegródek.</strong> Ten sam wyraz może zmienić znaczenie w innym połączeniu.</div>
+</div>
+
+<div class="adjective-summary">
+<h3>Co pokazuje cała opowieść?</h3>
+<ul>
+  <li>Przymiotniki pomagają rozpoznawać osoby, miejsca i przedmioty.</li>
+  <li>Tworzą nastrój oraz kierują uwagą czytelnika na wybrane szczegóły.</li>
+  <li>Mogą ujawniać ocenę narratora lub bohatera, a nie tylko obiektywną właściwość.</li>
+  <li>Stopniowanie pozwala budować kontrast i pokazywać zmianę.</li>
+  <li>Forma przymiotnika wskazuje jego związek z rzeczownikiem.</li>
+  <li>Znaczenie przymiotnika zależy od rzeczownika, kontekstu i sposobu użycia.</li>
+  <li>Dobry opis nie polega na dodaniu jak największej liczby przymiotników, lecz na wyborze tych, które naprawdę coś wnoszą.</li>
+</ul>
+</div>
+
+[Wróć do początku działu o przymiotniku](../){ .md-button .md-button--primary }
 
 </div>
