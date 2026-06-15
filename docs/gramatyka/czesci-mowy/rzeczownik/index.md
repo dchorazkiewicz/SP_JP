@@ -72,7 +72,9 @@ Rzeczownik nie jest więc tylko nazwą. Jego zakończenie pomaga zrozumieć zwi�
 
 Za każdym razem chodzi o ten sam rodzaj przedmiotu. Zmienia się forma rzeczownika, ponieważ zmienia się jego związek z czasownikiem, przyimkiem i pozostałą częścią zdania.
 
-## Czego dotyczy ten dział?
+## Jak czytać ten dział?
+
+Najpierw będziemy obserwować rzeczowniki w zdaniach i krótkich opowieściach. Następnie porównamy ich znaczenia, rodzaje, liczby i przypadki, aby zobaczyć, jak forma rzeczownika wpływa na całe zdanie. Terminy pojawią się wtedy, gdy pomogą nazwać zauważoną różnicę.
 
 <div class="noun-topic-grid">
   <a class="noun-topic-card noun-topic-card--primary" href="znaczenie-i-typy/"><span class="noun-topic-number">01</span><strong>Co nazywa rzeczownik i jak go rozpoznać?</strong><span>Osoby, miejsca, przedmioty, zjawiska, uczucia i pojęcia oraz najważniejsze grupy znaczeniowe.</span></a>
