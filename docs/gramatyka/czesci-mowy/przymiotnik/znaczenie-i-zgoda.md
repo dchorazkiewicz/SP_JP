@@ -21,7 +21,7 @@ Po lekcjach przed szkołą został rower. Samo zdanie:
 nie pozwalało ustalić, do kogo należy. Kuba opisał go dokładniej:
 
 > To <span class="form-focus">niewielki</span>, <span class="form-focus">czerwony</span> <span class="noun-anchor">rower</span> z <span class="form-focus">metalowym</span> <span class="noun-anchor">koszykiem</span>.  
-> Na ramie znajduje się <span class="form-focus">szkolna</span> <span class="noun-anchor">naklejka</span>, a tylna opona jest <span class="form-focus">uszkodzona</span>.
+> Na ramie znajduje się <span class="form-focus">szkolna</span> <span class="noun-anchor">naklejka</span>, a tylna opona jest <span class="form-focus">miękka</span>.
 
 Każdy przymiotnik wnosi inną informację:
 
@@ -29,7 +29,7 @@ Każdy przymiotnik wnosi inną informację:
 > **czerwony** — kolor;  
 > **metalowy** — materiał;  
 > **szkolna** — związek ze szkołą;  
-> **uszkodzona** — stan.
+> **miękka** — stan opony.
 
 Dzięki tym informacjom opis staje się użyteczny, a nie tylko bardziej ozdobny.
 
@@ -41,7 +41,7 @@ Dzięki tym informacjom opis staje się użyteczny, a nie tylko bardziej ozdobny
 <div class="adjective-concept-grid">
   <div class="adjective-concept-card"><strong>Wygląd i barwę</strong>jasny pokój, kręcone włosy, granatowy plecak</div>
   <div class="adjective-concept-card"><strong>Rozmiar i kształt</strong>wysokie drzewo, wąska ulica, okrągły stół</div>
-  <div class="adjective-concept-card"><strong>Stan</strong>zmęczony turysta, otwarte okno, mokra kurtka</div>
+  <div class="adjective-concept-card"><strong>Stan</strong>chory turysta, pusty pokój, mokra kurtka</div>
   <div class="adjective-concept-card"><strong>Ocenę</strong>ciekawa książka, trafna odpowiedź, nierozsądna decyzja</div>
   <div class="adjective-concept-card"><strong>Materiał</strong>drewniany stół, wełniany szalik, szklane drzwi</div>
   <div class="adjective-concept-card"><strong>Relację lub przeznaczenie</strong>szkolna biblioteka, zimowa kurtka, sportowy plecak</div>
