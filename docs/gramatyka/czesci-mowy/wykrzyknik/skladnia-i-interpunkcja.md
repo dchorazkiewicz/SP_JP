@@ -2,110 +2,227 @@
 
 <div class="interjection-lesson" markdown>
 
-<div class="indecl-lead">
-Wykrzyknik może tworzyć samodzielną wypowiedź albo pojawiać się przed zdaniem, wewnątrz niego lub na końcu. Interpunkcja pokazuje siłę emocji i granicę między wykrzyknikiem a pozostałą częścią wypowiedzi.
+<div class="lesson-lead" markdown>
+
+Wykrzyknik często stoi poza zwykłą konstrukcją zdania. Może tworzyć samodzielną wypowiedź, otwierać dalsze zdanie, pojawiać się jako wtrącenie albo zamykać wypowiedź komentarzem. Interpunkcja pokazuje, **jak silnie jest oddzielony od reszty tekstu** i jaki przebieg ma reakcja mówiącego.
+
 </div>
 
-## Wykrzyknik jako samodzielna wypowiedź
+## Samodzielny komunikat bez zdania
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">radość</span><p><span class="indecl-focus">Hurra!</span></p><span class="indecl-note">pełna reakcja</span></div>
-  <div class="indecl-row"><span class="indecl-badge">ból</span><p><span class="indecl-focus">Au!</span></p><span class="indecl-note">samodzielny komunikat</span></div>
-  <div class="indecl-row"><span class="indecl-badge">wezwanie</span><p><span class="indecl-focus">Ratunku!</span></p><span class="indecl-note">samodzielne wezwanie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">wahanie</span><p><span class="indecl-focus">Hm…</span></p><span class="indecl-note">zawieszenie głosu</span></div>
+> <span class="interjection-emotion">Hurra!</span>  
+> <span class="interjection-focus">Au!</span>  
+> <span class="interjection-call">Halo!</span>  
+> <span class="interjection-formula">Hm…</span>
+
+Każda z tych form może stanowić pełną wypowiedź w konkretnej sytuacji. Nie zawiera jednak orzeczenia i zwykle nie tworzy zdania w sensie składniowym.
+
+- **Hurra!** przekazuje radość;
+- **Au!** sygnalizuje ból;
+- **Halo!** nawiązuje kontakt;
+- **Hm…** pokazuje namysł lub wahanie.
+
+Samodzielność komunikacyjna nie musi więc oznaczać pełnej budowy zdaniowej.
+
+## Silne oddzielenie: znak wykrzyknienia
+
+> <span class="interjection-focus">Ojej!</span> Dokument został w domu.  
+> <span class="interjection-emotion">Uff!</span> Pociąg jeszcze nie odjechał.  
+> <span class="interjection-call">Stop!</span> Nie wchodź na jezdnię.
+
+Znak wykrzyknienia zamyka pierwszą wypowiedź. Następujące po nim zdanie zaczynamy wielką literą, ponieważ stanowi nową jednostkę tekstu.
+
+Wykrzyknik może również otwierać wypowiedź dialogową:
+
+> — <span class="interjection-focus">Ojej!</span> Nie zauważyłem tej kałuży — powiedział Paweł.
+
+Reakcja i dalsze wyjaśnienie należą do jednej kwestii bohatera, ale są rozdzielone znakiem wykrzyknienia.
+
+## Łagodniejsze połączenie: przecinek
+
+> <span class="interjection-emotion">Och,</span> jak tu spokojnie.  
+> <span class="interjection-formula">Cóż,</span> musimy zmienić plan.  
+> <span class="interjection-call">Hej,</span> zaczekaj chwilę.
+
+Przecinek łączy wykrzyknik z dalszą częścią tej samej wypowiedzi. Po przecinku kontynuujemy zdanie małą literą, o ile następny wyraz nie wymaga wielkiej litery z innego powodu.
+
+Porównaj:
+
+<div class="interjection-comparison">
+  <div class="interjection-comparison__item"><span class="interjection-label">silna, odrębna reakcja</span><p><strong>Ojej!</strong> Zgubiłem klucz.</p></div>
+  <div class="interjection-comparison__item"><span class="interjection-label">łagodne wprowadzenie</span><p><strong>Ojej,</strong> chyba zgubiłem klucz.</p></div>
 </div>
 
-## Wykrzyknik przed zdaniem
+Obie wersje są możliwe, ale mają inny rytm. Pierwsza zatrzymuje wypowiedź po reakcji. Druga płynnie prowadzi do dalszego zdania.
 
-Gdy wykrzyknik jest wyraźnie oddzielony emocjonalnie, można zakończyć go wykrzyknikiem:
+## Zawieszenie głosu: wielokropek
 
-> **Ojej!** Zapomniałem dokumentów.
+> <span class="interjection-formula">Hm…</span> Nie jestem pewien.  
+> <span class="interjection-formula">Ech…</span> Znowu trzeba zaczynać od początku.  
+> <span class="interjection-emotion">Och…</span> Myślałem, że będzie łatwiej.
 
-> **Uff!** Pociąg jeszcze nie odjechał.
+Wielokropek może sugerować:
 
-Przy słabszej emocji można użyć przecinka:
+- namysł;
+- przeciągnięcie dźwięku;
+- słabnącą emocję;
+- niechęć lub rezygnację;
+- przerwę przed dalszą wypowiedzią.
 
-> **Och,** to naprawdę piękny widok.
+Nie pełni tej samej funkcji co znak wykrzyknienia. **Och!** jest zwykle nagłe i mocno odcięte, a **och…** brzmi łagodniej, dłużej lub bardziej niepewnie.
 
-> **Cóż,** musimy spróbować jeszcze raz.
+## Wykrzyknik jako wtrącenie
 
-## Wykrzyknik wewnątrz wypowiedzi
+> On, <span class="interjection-focus">ojej</span>, naprawdę niczego nie pamięta.  
+> Ta skrzynia, <span class="interjection-emotion">ach</span>, waży chyba sto kilogramów.  
+> Nie zdążyliśmy, <span class="interjection-formula">niestety</span>, na wcześniejszy pociąg.
 
-> To, **niestety**, nie jest już wykrzyknikiem, lecz przysłówkiem komentującym zdanie.
+Pierwsze dwa wyróżnione elementy mogą działać jako wykrzyknikowe wtrącenia stylizujące wypowiedź na spontaniczną mowę. Oddzielamy je przecinkami od reszty zdania.
 
-Typowe wykrzykniki mogą zostać wtrącone:
+Trzeci przykład pokazuje ważną granicę: **niestety** nie jest tutaj typowym wykrzyknikiem. Komentuje całe zdanie i najczęściej jest klasyfikowane jako partykuła lub przysłówek modalny, zależnie od przyjętego opisu.
 
-> On, **ojej**, naprawdę niczego nie pamięta.
+<div class="interjection-checkpoint">
+  <div class="interjection-checkpoint__title">Wtrącenie nie oznacza automatycznie wykrzyknika</div>
+  <p>Przecinkami można wydzielić wiele różnych elementów: wykrzyknik, dopowiedzenie, komentarz mówiącego albo część zdania. O części mowy decyduje funkcja wyrazu, nie sam układ znaków.</p>
+</div>
 
-> Ta skrzynia, **ach**, waży chyba sto kilogramów.
+## Wykrzyknik na końcu wypowiedzi
 
-Wtrącenie oddzielamy przecinkami, ale taka konstrukcja ma zwykle charakter mówiony lub stylizowany.
+> Znowu zostawiłem dokumenty w domu, <span class="interjection-formula">ech…</span>  
+> To było naprawdę blisko, <span class="interjection-emotion">uff!</span>  
+> Nie dotykaj tego jedzenia, <span class="interjection-focus">fe!</span>
 
-## Wykrzyknik na końcu
+Pozycja końcowa zmienia rytm. Najpierw pojawia się informacja, a dopiero potem komentarz emocjonalny mówiącego.
 
-- Znowu zgubiłem klucze, **ech…**
-- To było naprawdę blisko, **uff!**
-- Nie dotykaj tego, **fe!**
+Wypowiedź:
 
-Położenie końcowe wzmacnia komentarz do całej wcześniejszej wypowiedzi.
+> <span class="interjection-emotion">Uff!</span> To było blisko.
+
+zaczyna się od reakcji. Wersja:
+
+> To było blisko, <span class="interjection-emotion">uff!</span>
+
+najpierw przedstawia ocenę sytuacji, a reakcję dodaje na końcu. Różnica dotyczy organizacji informacji, nie samego podstawowego znaczenia **uff**.
 
 ## Wykrzyknik i wołacz
 
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">wykrzyknik</span><p><strong>Hej!</strong> Poczekaj.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">wołacz</span><p><strong>Mario!</strong> Poczekaj.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">razem</span><p><strong>Hej, Mario!</strong> Poczekaj.</p></div>
+<div class="interjection-comparison">
+  <div class="interjection-comparison__item"><span class="interjection-label">wykrzyknik</span><p><span class="interjection-call">Hej!</span> Poczekaj.</p></div>
+  <div class="interjection-comparison__item"><span class="interjection-label">wołacz</span><p><span class="interjection-anchor">Mario!</span> Poczekaj.</p></div>
+  <div class="interjection-comparison__item"><span class="interjection-label">połączenie</span><p><span class="interjection-call">Hej,</span> <span class="interjection-anchor">Mario!</span> Poczekaj.</p></div>
 </div>
 
-**Hej** jest wykrzyknikiem, a **Mario** formą wołacza rzeczownika własnego.
+**Hej** jest wykrzyknikiem przywołującym. **Mario** to forma wołacza rzeczownika własnego. Oba elementy mogą służyć zwróceniu uwagi, lecz mają inną budowę gramatyczną.
 
-## Wykrzyknik w dialogu
+W połączeniu **Hej, Mario!** przecinek oddziela wykrzyknik od wołacza. Znak wykrzyknienia zamyka całe przywołanie.
 
-> — **Halo!** Czy ktoś jest w środku?  
-> — **Pst!** Mów ciszej.  
-> — **Ojej!** Nie zauważyłem, że śpisz.
+Podobnie:
 
-Wykrzyknik może tworzyć osobną kwestię albo otwierać dłuższą wypowiedź bohatera.
+> <span class="interjection-call">Halo,</span> panie kierowniku!  
+> <span class="interjection-call">Ej,</span> chłopcy!  
+> <span class="interjection-call">Pst,</span> Aniu!
 
-## Wielokrotny wykrzyknik
+## Wykrzyknik i tryb rozkazujący
 
-W tekstach użytkowych i edukacyjnych jeden znak zwykle wystarcza:
+> <span class="interjection-call">Stop!</span> — wykrzyknik lub samodzielny sygnał zatrzymania  
+> <span class="interjection-anchor">Zatrzymaj się!</span> — zdanie z czasownikiem w trybie rozkazującym  
+> <span class="interjection-call">Hej!</span> <span class="interjection-anchor">Zatrzymaj się!</span> — wykrzyknik oraz osobne zdanie rozkazujące
 
-> **Uwaga!** Podłoga jest mokra.
+Wykrzyknik może wpływać na zachowanie odbiorcy bez czasownika. Tryb rozkazujący robi to za pomocą określonej formy czasownika.
 
-Zapis **Uwaga!!!** jest ekspresywny i nadaje się raczej do nieformalnej komunikacji, reklamy albo stylizacji. Nadmiar wykrzykników osłabia profesjonalny charakter tekstu.
+Znak wykrzyknienia może wystąpić w obu konstrukcjach, dlatego nie służy do rozpoznawania części mowy.
 
-## Wielokropek i zawahanie
+## Zdanie wykrzyknikowe bez wykrzyknika
 
-- **Hm…** Nie jestem pewien odpowiedzi.
-- **Ech…** Znowu musimy zaczynać od początku.
-- **No cóż…** Spróbujmy inaczej.
+> Jak tu pięknie!  
+> Ale zrobiło się zimno!  
+> Natychmiast wracaj do domu!
 
-Wielokropek sugeruje przeciągnięcie dźwięku, namysł albo słabnącą emocję.
+Wszystkie trzy wypowiedzi mają silny ton i kończą się znakiem wykrzyknienia. Nie zawierają jednak typowego wykrzyknika.
 
-## Dźwiękonaśladowanie w narracji
+Porównaj:
 
-> **Bach!** Drzwi zatrzasnęły się za bohaterem.
+> <span class="interjection-emotion">Ach!</span> Jak tu pięknie!
 
-> Nagle rozległo się ciche **stuk, stuk**.
+Pierwszy element jest wykrzyknikiem. Drugi to zdanie wykrzyknikowe. W jednej wypowiedzi mogą więc wystąpić oba zjawiska naraz.
 
-> Zegar powtarzał jednostajnie: **tik-tak, tik-tak**.
+## Powtórzenie wykrzyknika
 
-Wyraz dźwiękonaśladowczy może zostać oddzielony znakiem wykrzyknienia, przecinkiem, dwukropkiem albo włączony do zdania jako cytowany dźwięk.
+> <span class="interjection-focus">Ojej, ojej…</span> Co my teraz zrobimy?  
+> <span class="interjection-call">Hej, hej!</span> Nie tak szybko.  
+> <span class="interjection-sound">Puk, puk!</span> Kto tam?
 
-## Wielka i mała litera
+Powtórzenie może:
 
-Po wykrzykniku kończącym samodzielną wypowiedź następne zdanie zaczynamy wielką literą:
+- wzmacniać reakcję;
+- wydłużać ją;
+- odtwarzać rytm dźwięku;
+- tworzyć charakterystyczny ton wypowiedzi.
 
-> **Ojej!** Dokument został w domu.
+Między powtarzanymi elementami zwykle stawiamy przecinek, jeśli są oddzielnymi powtórzeniami. Łącznik występuje w utrwalonych zapisach niektórych dźwięków i form, np. **tik-tak**.
 
-Gdy wykrzyknik jest włączony do jednego zdania i oddzielony przecinkiem, dalsza część może zaczynać się małą literą:
+## Wyrazy dźwiękonaśladowcze w zdaniu
 
-> **Och,** jak tu spokojnie.
+> <span class="interjection-sound">Bach!</span> Drzwi zatrzasnęły się za bohaterem.  
+> Nagle rozległo się ciche <span class="interjection-sound">stuk, stuk</span>.  
+> Zegar powtarzał jednostajnie: <span class="interjection-sound">tik-tak, tik-tak</span>.  
+> Deszcz uderzał o parapet: <span class="interjection-sound">kap, kap, kap</span>.
 
-<div class="indecl-summary">
-<h3>Interpunkcja pokazuje siłę reakcji</h3>
-<strong>Och!</strong> tworzy silną samodzielną reakcję, <strong>och,</strong> łagodnie wprowadza dalsze zdanie, a <strong>och…</strong> może sugerować zawahanie, zmęczenie albo słabnącą emocję.
+Dźwięk może zostać przedstawiony jako samodzielny sygnał albo włączony do zdania jako element nazywany przez czasownik **rozlec się, zabrzmieć, powtarzać, odpowiedzieć**.
+
+Interpunkcja zależy od konstrukcji:
+
+- znak wykrzyknienia silnie oddziela nagły dźwięk;
+- dwukropek może zapowiadać jego przytoczenie;
+- przecinki rozdzielają kolejne powtórzenia;
+- myślnik może oddzielać zapis dźwięku od komentarza narratora.
+
+## Dialog i komentarz narratora
+
+> — <span class="interjection-focus">Ojej!</span> — zawołała Marta.  
+> — <span class="interjection-call">Pst!</span> Ktoś idzie — szepnął Paweł.  
+> — <span class="interjection-emotion">Uff!</span> To tylko wiatr — odpowiedziała Marta.
+
+Wykrzyknik może tworzyć całą kwestię bohatera albo otwierać wypowiedź, po której następuje dalsze zdanie. Komentarz narratora należy zapisać zgodnie z zasadami dialogu, a nie traktować jako część samego wykrzyknika.
+
+W zdaniu:
+
+> — <span class="interjection-focus">Au!</span> — krzyknął.
+
+forma **au!** stanowi pełną kwestię, a **krzyknął** jest komentarzem narratora.
+
+## Jeden znak zwykle wystarcza
+
+> Uwaga! Podłoga jest mokra.
+
+W tekstach użytkowych, edukacyjnych i oficjalnych jeden znak wykrzyknienia zazwyczaj przekazuje potrzebną stanowczość. Zapis:
+
+> Uwaga!!! Podłoga jest mokra!!!
+
+jest silnie ekspresywny i kojarzy się z komunikacją nieformalną, reklamą albo celową stylizacją. Wielokrotne znaki mogą odciągać uwagę od treści i osłabiać profesjonalny charakter wypowiedzi.
+
+Podobnie połączenia **?!** lub **!?** mogą oddawać jednoczesne pytanie i zdziwienie, ale powinny być stosowane oszczędnie. W neutralnym tekście zwykle lepiej dobrać jeden znak zgodny z główną funkcją wypowiedzi albo przeformułować zdanie.
+
+## Jak dobrać znak po wykrzykniku?
+
+<div class="interjection-step-list">
+  <div class="interjection-step"><strong>Ustal, czy reakcja jest samodzielna.</strong> Gdy stanowi osobną, silną wypowiedź, naturalny jest znak wykrzyknienia: <em>Ojej! Szyba pękła.</em></div>
+  <div class="interjection-step"><strong>Sprawdź, czy wykrzyknik tylko wprowadza dalsze zdanie.</strong> Przy płynnym połączeniu użyj przecinka: <em>Och, jak tu cicho.</em></div>
+  <div class="interjection-step"><strong>Rozpoznaj zawahanie lub słabnięcie głosu.</strong> Wielokropek pasuje do form takich jak <em>hm…</em> i <em>ech…</em>.</div>
+  <div class="interjection-step"><strong>Oddziel wtrącenie od reszty zdania.</strong> Wykrzyknik w środku wypowiedzi może wymagać dwóch przecinków.</div>
+  <div class="interjection-step"><strong>Nie klasyfikuj wyrazu na podstawie znaku.</strong> Znak wykrzyknienia może kończyć wykrzyknik, wołacz, rozkaz albo zwykłe zdanie wypowiedziane z emocją.</div>
+</div>
+
+<div class="interjection-summary">
+<h3>Interpunkcja zapisuje siłę i granice reakcji</h3>
+<ul>
+  <li>Znak wykrzyknienia wyraźnie oddziela samodzielną lub silną reakcję.</li>
+  <li>Przecinek łączy wykrzyknik z dalszym ciągiem tego samego zdania.</li>
+  <li>Wielokropek może oddawać namysł, przeciągnięcie głosu lub słabnącą emocję.</li>
+  <li>Wykrzyknik może wystąpić przed zdaniem, jako wtrącenie albo na końcu wypowiedzi.</li>
+  <li>Wołacz i tryb rozkazujący mogą pełnić podobną funkcję komunikacyjną, ale nie są wykrzyknikami.</li>
+  <li>Zdanie może być wykrzyknikowe, mimo że nie zawiera żadnego wykrzyknika.</li>
+</ul>
 </div>
 
 [Przejdź dalej: styl i kontekst](../styl-i-kontekst/){ .md-button .md-button--primary }
