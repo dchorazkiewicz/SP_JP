@@ -1,81 +1,167 @@
-# Rodzaje i znaczenie liczebników
+# Co wyrażają liczebniki?
 
 <div class="numeral-lesson" markdown>
 
-<div class="lesson-lead">
-Liczebniki nie służą wyłącznie do liczenia przedmiotów. Mogą informować o dokładnej ilości, kolejności, grupie złożonej z różnych osób, części całości albo ilości nieokreślonej.
+<div class="lesson-lead" markdown>
+
+Liczebniki mogą podawać dokładną liczbę, miejsce w kolejności, liczebność szczególnej grupy albo część całości. Najpierw trzeba ustalić, **jaką informację liczbową przekazuje wyraz**, a dopiero potem nazwać jego rodzaj.
+
 </div>
 
-## Liczebniki główne
+## Plan wycieczki
 
-Odpowiadają na pytanie **ile?**.
+<div class="numeral-story" markdown>
+  <div class="numeral-story__title">Ile osób, który autobus i jak długo?</div>
+  <div class="numeral-story__body" markdown>
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">jedna osoba</span><p><span class="form-focus">Jeden</span> uczeń czekał przed salą.</p><span class="change-note">ile osób?</span></div>
-  <div class="example-row"><span class="grammar-badge">kilka osób</span><p><span class="form-focus">Trzej</span> uczniowie czekali przed salą.</p><span class="change-note">ile osób?</span></div>
-  <div class="example-row"><span class="grammar-badge">większa liczba</span><p><span class="form-focus">Pięciu</span> uczniów czekało przed salą.</p><span class="change-note">ile osób?</span></div>
-  <div class="example-row"><span class="grammar-badge">rzeczy</span><p>Na półce stało <span class="form-focus">dwanaście</span> książek.</p><span class="change-note">dokładna ilość</span></div>
+Przed wyjazdem nauczyciel odczytał plan:
+
+> Na wycieczkę jadą <span class="form-focus">dwadzieścia trzy</span> <span class="counted-anchor">osoby</span>.  
+> Wsiądziemy do <span class="form-focus">drugiego</span> <span class="counted-anchor">autobusu</span>.  
+> Z nami jedzie <span class="form-focus">dwoje</span> <span class="counted-anchor">dzieci</span> pracowników muzeum.  
+> Zwiedzanie potrwa <span class="form-focus">półtorej</span> <span class="counted-anchor">godziny</span>.  
+> Na końcu zostanie <span class="form-focus">kilka</span> <span class="counted-anchor">minut</span> na pytania.
+
+Każdy wyróżniony wyraz wnosi inną informację: dokładną liczbę, kolejność, zbiorowość, część jednostki albo liczbę nieokreśloną.
+
+  </div>
 </div>
 
-## Liczebniki porządkowe
+## Liczebniki główne: dokładna liczba
 
-Odpowiadają na pytanie **który z kolei?** i odmieniają się podobnie do przymiotników.
+Odpowiadają przede wszystkim na pytanie **ile?**:
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">rodzaj męski</span><p><span class="agreement-mark">Pierwszy zawodnik</span> przekroczył linię mety.</p><span class="change-note">który zawodnik?</span></div>
-  <div class="example-row"><span class="grammar-badge">rodzaj żeński</span><p><span class="agreement-mark">Pierwsza zawodniczka</span> przekroczyła linię mety.</p><span class="change-note">która zawodniczka?</span></div>
-  <div class="example-row"><span class="grammar-badge">rodzaj nijaki</span><p><span class="agreement-mark">Pierwsze zadanie</span> było najłatwiejsze.</p><span class="change-note">które zadanie?</span></div>
-  <div class="example-row"><span class="grammar-badge">liczba mnoga</span><p><span class="agreement-mark">Pierwsze rozdziały</span> wprowadzają głównych bohaterów.</p><span class="change-note">które rozdziały?</span></div>
+> <span class="form-focus">jeden</span> uczeń;  
+> <span class="form-focus">trzy</span> książki;  
+> <span class="form-focus">siedem</span> pytań;  
+> <span class="form-focus">sto dwadzieścia</span> miejsc.
+
+Nie wszystkie tworzą jednak taką samą konstrukcję:
+
+> jeden uczeń przyszedł;  
+> trzej uczniowie przyszli;  
+> siedmiu uczniów przyszło.
+
+Rodzaj liczebnika jest ten sam — wszystkie są główne — ale ich budowa składniowa jest różna.
+
+## Liczebniki porządkowe: miejsce w szeregu
+
+Odpowiadają na pytanie **który z kolei?**:
+
+> <span class="form-focus">pierwszy</span> zawodnik;  
+> <span class="form-focus">druga</span> sala;  
+> <span class="form-focus">trzecie</span> zadanie;  
+> <span class="form-focus">dwudziesty pierwszy</span> rozdział.
+
+Zachowują się podobnie do przymiotników. Dopasowują rodzaj, liczbę i przypadek do rzeczownika:
+
+> pierwszy rozdział;  
+> pierwsza strona;  
+> pierwsze zadanie;  
+> nie ma pierwszego rozdziału;  
+> rozmawiamy o pierwszym rozdziale.
+
+<div class="numeral-checkpoint">
+  <div class="numeral-checkpoint__title">„Pierwszy” nie oznacza jednej sztuki</div>
+  <p>W wyrażeniu <em>pierwszy zawodnik</em> liczebnik nie mówi, ilu zawodników istnieje. Wskazuje pozycję jednego z nich w kolejności.</p>
 </div>
 
-## Liczebniki zbiorowe
+## Liczebniki zbiorowe: szczególny sposób ujęcia grupy
 
-Liczebniki **dwoje, troje, czworo** i dalsze formy zbiorowe stosujemy między innymi z nazwami dzieci i młodych istot, grupami mieszanymi oraz rzeczownikami występującymi tylko w liczbie mnogiej.
+Formy **dwoje, troje, czworo, pięcioro** stosujemy między innymi z:
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">dzieci</span><p><span class="form-focus">Dwoje</span> dzieci bawiło się w ogrodzie.</p><span class="change-note">dzieci różnej płci lub bez wskazania płci</span></div>
-  <div class="example-row"><span class="grammar-badge">grupa mieszana</span><p><span class="form-focus">Troje</span> studentów przygotowało wspólny projekt.</p><span class="change-note">kobiety i mężczyźni</span></div>
-  <div class="example-row"><span class="grammar-badge">pluralia tantum</span><p>Do sali prowadziło <span class="form-focus">dwoje</span> drzwi.</p><span class="change-note">drzwi mają tylko liczbę mnogą</span></div>
-  <div class="example-row"><span class="grammar-badge">młode zwierzęta</span><p>W gnieździe siedziało <span class="form-focus">pięcioro</span> piskląt.</p><span class="change-note">młode istoty</span></div>
-</div>
+- nazwami dzieci i młodych istot: **dwoje dzieci, czworo piskląt**;
+- grupami osób różnej płci: **troje uczestników**;
+- rzeczownikami występującymi tylko w liczbie mnogiej: **dwoje drzwi, troje nożyczek**.
 
-## Liczebniki ułamkowe
+> <span class="form-focus">Dwoje</span> dzieci czekało przy wejściu.  
+> <span class="form-focus">Troje</span> uczestników przygotowało wspólny projekt.  
+> Do sali prowadziło <span class="form-focus">dwoje</span> drzwi.
 
-Informują o części całości.
+Forma zbiorowa nie jest ozdobnym odpowiednikiem zwykłego **dwa**. W niektórych połączeniach jest potrzebna ze względu na rodzaj rzeczownika lub sposób przedstawienia grupy.
 
-- Marta wypiła **pół** szklanki wody.
-- Do zbiornika wlano **półtora** litra paliwa.
-- Podróż trwała **półtorej** godziny.
-- Uczniowie wykonali **dwie trzecie** zadania.
-- Rolnik sprzedał **trzy i pół** tony zboża.
+## Liczebniki ułamkowe: część całości
+
+> <span class="form-focus">pół</span> szklanki;  
+> <span class="form-focus">półtora</span> litra;  
+> <span class="form-focus">półtorej</span> godziny;  
+> <span class="form-focus">dwie trzecie</span> zadania;  
+> <span class="form-focus">trzy i pół</span> kilometra.
 
 Forma **półtora** łączy się z rzeczownikami męskimi i nijakimi, a **półtorej** — z żeńskimi:
 
-> Czekaliśmy **półtora roku**, ale tylko **półtorej godziny**.
+> półtora roku;  
+> półtora okna;  
+> półtorej godziny.
 
-## Liczebniki nieokreślone
+## Liczba nieokreślona
 
-Nie podają dokładnej liczby.
+Nie zawsze podajemy dokładną liczbę:
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">kilka</span><p><span class="form-focus">Kilka</span> osób zgłosiło dodatkowe pytania.</p><span class="change-note">mała nieokreślona liczba</span></div>
-  <div class="example-row"><span class="grammar-badge">wiele</span><p><span class="form-focus">Wiele</span> osób przeczytało ogłoszenie.</p><span class="change-note">duża nieokreślona liczba</span></div>
-  <div class="example-row"><span class="grammar-badge">niewiele</span><p><span class="form-focus">Niewiele</span> miejsc pozostało wolnych.</p><span class="change-note">mała liczba</span></div>
-  <div class="example-row"><span class="grammar-badge">ile</span><p><span class="form-focus">Ile</span> czasu potrzebujesz na przygotowanie raportu?</p><span class="change-note">pytanie o ilość</span></div>
-</div>
+> <span class="form-focus">kilka</span> pytań;  
+> <span class="form-focus">wiele</span> osób;  
+> <span class="form-focus">niewiele</span> czasu;  
+> <span class="form-focus">dużo</span> pracy;  
+> <span class="form-focus">mało</span> miejsca.
+
+W szkolnych opisach część tych wyrazów nazywa się liczebnikami nieokreślonymi. Formy **ile** i **tyle** bywają natomiast ujmowane jako zaimki liczebne, ponieważ nie podają liczby, lecz pytają o nią albo do niej odsyłają:
+
+> <span class="form-focus">Ile</span> osób przyszło?  
+> Zostało <span class="form-focus">tyle</span> miejsc, ile potrzebujemy.
+
+To dobre przypomnienie, że granice między kategoriami gramatycznymi nie zawsze są całkowicie jednakowo opisywane.
 
 ## Liczebnik czy przymiotnik?
 
-Liczebnik porządkowy zachowuje się podobnie do przymiotnika, lecz informuje o kolejności:
+Porównaj:
 
-> Przeczytałem **trzeci rozdział**. — kolejność.  
-> Przeczytałem **długi rozdział**. — cecha.
+> <span class="form-focus">trzeci</span> rozdział — miejsce w kolejności;  
+> <span class="adjective-anchor">długi</span> rozdział — cecha.
 
-Wyrazy **podwójny, potrójny, wielokrotny** są najczęściej traktowane jako przymiotniki, ponieważ nazywają cechę i odmieniają się jak przymiotniki:
+Liczebniki porządkowe odmieniają się jak przymiotniki, ale przekazują informację liczbową.
 
-> Zastosowano **podwójne zabezpieczenie**.  
-> Zawodnik wykonał **potrójny skok**.
+Wyrazy **podwójny, potrójny, wielokrotny** są najczęściej przymiotnikami:
 
-[Przejdź dalej: liczebnik z rzeczownikiem](../liczebnik-z-rzeczownikiem/){ .md-button .md-button--primary }
+> podwójne zabezpieczenie;  
+> potrójny skok;  
+> wielokrotna próba.
+
+Nie odpowiadają bezpośrednio na pytanie **ile?** ani **który z kolei?**. Nazywają cechę lub sposób zbudowania czegoś.
+
+## Liczebnik główny i porządkowy w liczbie wielowyrazowej
+
+> <span class="form-focus">dwadzieścia jeden</span> osób — liczba;  
+> <span class="form-focus">dwudziesty pierwszy</span> rozdział — kolejność.
+
+W liczebniku porządkowym zwykle odmienia się człon lub człony wyrażające końcową część liczby:
+
+> w dwudziestym pierwszym rozdziale;  
+> podczas sto dwudziestego trzeciego spotkania.
+
+Pełną odmianę liczebników wielowyrazowych omówimy później.
+
+## Jak rozpoznać rodzaj liczebnika?
+
+<div class="numeral-step-list">
+  <div class="numeral-step"><strong>Ustal znaczenie.</strong> Czy wyraz podaje liczbę, kolejność, zbiorowość czy część całości?</div>
+  <div class="numeral-step"><strong>Znajdź liczony rzeczownik lub jednostkę.</strong> Sprawdź, czego dotyczy informacja liczbowa.</div>
+  <div class="numeral-step"><strong>Obserwuj konstrukcję.</strong> Porównaj: <em>trzy osoby</em>, <em>troje dzieci</em>, <em>trzecia osoba</em>.</div>
+  <div class="numeral-step"><strong>Nie rozstrzygaj po samej odmianie.</strong> Liczebnik porządkowy odmienia się jak przymiotnik, ale wyraża kolejność.</div>
+  <div class="numeral-step"><strong>Przy liczbie nieokreślonej uwzględnij przyjęty opis gramatyczny.</strong> Formy takie jak <em>ile</em> i <em>tyle</em> mogą być nazywane zaimkami liczebnymi.</div>
+</div>
+
+<div class="numeral-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Liczebniki główne podają dokładną liczbę.</li>
+  <li>Liczebniki porządkowe wskazują miejsce w kolejności i odmieniają się podobnie do przymiotników.</li>
+  <li>Liczebniki zbiorowe występują w określonych połączeniach, między innymi z nazwami dzieci i rzeczownikami mającymi tylko liczbę mnogą.</li>
+  <li>Liczebniki ułamkowe informują o części całości.</li>
+  <li>Wyrazy oznaczające liczbę nieokreśloną nie tworzą całkowicie jednolitej grupy w różnych opisach gramatycznych.</li>
+  <li>Rodzaj liczebnika rozpoznajemy przede wszystkim po znaczeniu i sposobie użycia.</li>
+</ul>
+</div>
+
+[Przejdź dalej: liczebnik zmienia grupę i zdanie](../liczebnik-z-rzeczownikiem/){ .md-button .md-button--primary }
 
 </div>
