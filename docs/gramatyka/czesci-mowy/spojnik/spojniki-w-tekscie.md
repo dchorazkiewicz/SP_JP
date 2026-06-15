@@ -56,25 +56,25 @@ Oskar nie wiedział, <span class="conj-token conj-subordinate">czy</span> zdąż
 
 Kopuła zatrzymała się we właściwej pozycji, <span class="conj-token conj-result">więc</span> Lena skierowała teleskop ku wschodowi. Na ekranie nie było jeszcze komety, <span class="conj-token conj-contrast">ale</span> pojawiła się słaba smuga światła.
 
-Oskar zwiększył czułość kamery, <span class="conj-token conj-add">i</span> obraz stał się wyraźniejszy. Smuga była dłuższa, <span class="conj-token conj-result">niż</span> przewidywały obliczenia.
+Oskar zwiększył czułość kamery <span class="conj-token conj-add">i</span> obraz stał się wyraźniejszy. Smuga była dłuższa, <span class="conj-token conj-subordinate">niż</span> przewidywały obliczenia.
 
-<span class="multi-conj-token conj-subordinate">Mimo że</span> komputer nadal zgłaszał błąd, zapis działał poprawnie. Lena rozpoczęła pomiar, <span class="multi-conj-token conj-add">podczas gdy</span> Oskar notował czas kolejnych klatek.
+<span class="multi-conj-token conj-subordinate">Mimo że</span> komputer nadal zgłaszał błąd, zapis działał poprawnie. Lena rozpoczęła pomiar, <span class="multi-conj-token conj-subordinate">podczas gdy</span> Oskar notował czas kolejnych klatek.
 
 <div class="conjunction-reading__commentary" markdown>
 <strong>Wynik nie jest tym samym co przyczyna</strong>
 
 <strong>Więc</strong> przedstawia skierowanie teleskopu jako skutek właściwego ustawienia kopuły. <strong>Ale</strong> przeciwstawia brak oczekiwanego obrazu pojawieniu się słabej smugi.
 
-<strong>Niż</strong> wprowadza drugi człon porównania. <strong>Mimo że</strong> pokazuje przeszkodę, która nie zatrzymała działania, a <strong>podczas gdy</strong> zestawia równoczesne czynności bohaterów.
+<strong>Niż</strong> wprowadza drugi człon porównania. <strong>Mimo że</strong> pokazuje przeszkodę, która nie zatrzymała działania, a <strong>podczas gdy</strong> zestawia równoczesne czynności w konstrukcji zależnej.
 </div>
 
 <div class="conjunction-scene-break">Rozdział 4. Ostatnie sekundy</div>
 
-Kometa jaśniała coraz mocniej, <span class="conj-token conj-result">tak że</span> kamera zaczęła rejestrować również słabszy fragment warkocza. Lena zmniejszyła czułość, <span class="conj-token conj-subordinate">aby</span> nie prześwietlić obrazu.
+Kometa jaśniała coraz mocniej, <span class="multi-conj-token conj-result">tak że</span> kamera zaczęła rejestrować również słabszy fragment warkocza. Lena zmniejszyła czułość, <span class="conj-token conj-subordinate">aby</span> nie prześwietlić obrazu.
 
-Pozostała minuta obserwacji, <span class="conj-token conj-add">a</span> silnik kopuły nagle się zatrzymał. Mogli zapisać dotychczasowe dane <span class="conj-token conj-choice">albo</span> spróbować przesunąć teleskop ręcznie.
+Pozostała minuta obserwacji, <span class="conj-token conj-contrast">a</span> silnik kopuły nagle się zatrzymał. Mogli zapisać dotychczasowe dane <span class="conj-token conj-choice">albo</span> spróbować przesunąć teleskop ręcznie.
 
-<span class="pair-conj-token conj-choice">Albo utracimy ostatnią część przelotu, albo zaryzykujemy zmianę ustawienia</span> — powiedział Oskar. Lena zdecydowała, <span class="conj-subordinate conj-token">że</span> pozostaną przy dotychczasowym obrazie, <span class="conj-subordinate conj-token">bo</span> zebrane dane były już wystarczające.
+— <span class="conj-token conj-choice">Albo</span> utracimy ostatnią część przelotu, <span class="conj-token conj-choice">albo</span> zaryzykujemy zmianę ustawienia — powiedział Oskar. Lena zdecydowała, <span class="conj-token conj-subordinate">że</span> pozostaną przy dotychczasowym obrazie, <span class="conj-token conj-subordinate">bo</span> zebrane dane były już wystarczające.
 
 Obserwacja zakończyła się wcześniej, <span class="conj-token conj-contrast">lecz</span> zapis obejmował najważniejszy fragment przelotu. Oskar skopiował pliki, <span class="conj-token conj-add">a</span> Lena przygotowała notatkę, <span class="conj-token conj-subordinate">żeby</span> następna zmiana wiedziała o awarii.
 
