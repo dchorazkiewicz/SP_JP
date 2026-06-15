@@ -10,7 +10,7 @@ W dłuższym tekście przymiotniki nie tylko dodają szczegóły. Pomagają rozp
 
 <div class="reading-panel adjective-reading" markdown>
   <div class="reading-header">
-    <h2>Dom na końcu Bursztynowej Ulicy</h2>
+    <h2>Dom przy ulicy Bursztynowej</h2>
     <p>Kolory pokazują jedną z możliwych funkcji znaczeniowych przymiotnika. Ostateczne znaczenie zawsze zależy od rzeczownika i całego zdania.</p>
     <div class="reading-legend">
       <span class="adj-quality">cecha, stan lub ocena</span>
@@ -23,7 +23,7 @@ W dłuższym tekście przymiotniki nie tylko dodają szczegóły. Pomagają rozp
 
 <div class="adjective-scene-break">Rozdział 1. Pierwsze spojrzenie</div>
 
-Na końcu <span class="word-token adj-relation">Bursztynowej</span> Ulicy stał <span class="word-token adj-quality">stary</span> dom z <span class="word-token adj-colour">zielonymi</span> okiennicami. Jego <span class="word-token adj-colour">białe</span> ściany były popękane, a <span class="word-token adj-relation">kamienny</span> ganek porastał mech.
+Na końcu ulicy <span class="word-token adj-relation">Bursztynowej</span> stał <span class="word-token adj-quality">stary</span> dom z <span class="word-token adj-colour">zielonymi</span> okiennicami. Jego <span class="word-token adj-colour">białe</span> ściany były popękane, a <span class="word-token adj-relation">kamienny</span> ganek porastał mech.
 
 Nowa właścicielka, Helena, długo przyglądała się budynkowi. Z ulicy wydawał się <span class="word-token adj-quality">ponury</span> i <span class="word-token adj-quality">zaniedbany</span>. Po otwarciu drzwi okazało się jednak, że wnętrze jest <span class="word-token adj-quality">jasne</span>, <span class="word-token adj-quality">przestronne</span> i zaskakująco <span class="word-token adj-quality">spokojne</span>.
 
