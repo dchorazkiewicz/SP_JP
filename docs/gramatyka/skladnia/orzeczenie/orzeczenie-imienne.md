@@ -58,7 +58,7 @@ Samo **jest** nie przekazuje pełnej informacji. Zdanie nie mówi jedynie, że M
 ### „Zostać”
 
 > Paweł <span class="predicate-mark predicate-mark--nominal">został kierownikiem</span>.  
-> Anna <span class="predicate-mark predicate-mark--nominal">została wybrana przewodniczącą</span>.  
+> Anna <span class="predicate-mark predicate-mark--nominal">została przewodniczącą</span>.  
 > Budynek <span class="predicate-mark predicate-mark--nominal">został siedzibą muzeum</span>.
 
 **Zostać** często wskazuje wejście w nową rolę lub stan.
