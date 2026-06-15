@@ -168,7 +168,7 @@ Między powtarzanymi elementami zwykle stawiamy przecinek, jeśli są oddzielnym
 > Zegar powtarzał jednostajnie: <span class="interjection-sound">tik-tak, tik-tak</span>.  
 > Deszcz uderzał o parapet: <span class="interjection-sound">kap, kap, kap</span>.
 
-Dźwięk może zostać przedstawiony jako samodzielny sygnał albo włączony do zdania jako element nazywany przez czasownik **rozlec się, zabrzmieć, powtarzać, odpowiedzieć**.
+Dźwięk może zostać przedstawiony jako samodzielny sygnał albo włączony do zdania jako element wprowadzany przez czasowniki **rozlegać się, zabrzmieć, powtarzać, odpowiedzieć**.
 
 Interpunkcja zależy od konstrukcji:
 
