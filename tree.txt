@@ -202,7 +202,6 @@
 ./docs/stylesheets/adverbial-lesson.css
 ./docs/stylesheets/attribute-lesson.css
 ./docs/stylesheets/borderline-classification.css
-./docs/stylesheets/chapter-coherence.css
 ./docs/stylesheets/extra.css
 ./docs/stylesheets/indeclinable-parts.css
 ./docs/stylesheets/lesson-style-compat.css
