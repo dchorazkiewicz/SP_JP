@@ -30,12 +30,12 @@ Wieczorem przed pierwszym pokazem Lena <span class="predicate-mark predicate-mar
 
 Kiedy <span class="predicate-mark predicate-mark--verbal">weszła</span> do budynku, wszystkie pomieszczenia <span class="predicate-mark predicate-mark--nominal">były ciche</span>. Na korytarzu <span class="predicate-mark predicate-mark--verbal">paliła się</span> tylko jedna lampa, a z sali sterowania <span class="predicate-mark predicate-mark--verbal">dochodził</span> jednostajny szum wentylatora.
 
-— Wszystko <span class="predicate-mark predicate-mark--nominal">wydaje się spokojne</span> — powiedziała Lena, choć sama <span class="predicate-mark predicate-mark--nominal">nie była całkiem pewna</span>.
+— Wszystko <span class="predicate-mark predicate-mark--nominal">wydaje się spokojne</span> — <span class="predicate-mark predicate-mark--verbal">powiedziała</span> Lena, choć sama <span class="predicate-mark predicate-mark--nominal">nie była całkiem pewna</span>.
 
 <div class="predicate-reading__commentary" markdown>
 <strong>Jak orzeczenia otwierają opowieść?</strong>
 
-**Było prawie gotowe, były ciche, wydaje się spokojne, nie była pewna** opisują stan miejsca i bohaterki. Szereg **naprawiali, czyścili, wymieniali** przedstawia wcześniejsze prace. Konstrukcje **miała przeprowadzić, musiała sprawdzić, powinna była uruchomić, miała zapisać** budują plan i obowiązki. Zdanie z **kiedy weszła** ma osobne centrum podrzędne, które ustawia czas wydarzenia głównego.
+**Było prawie gotowe, były ciche, wydaje się spokojne, nie była pewna** opisują stan miejsca i bohaterki. Szereg **naprawiali, czyścili, wymieniali** przedstawia wcześniejsze prace. Konstrukcje **miała przeprowadzić, musiała sprawdzić, powinna była uruchomić, miała zapisać** budują plan i obowiązki. Zdanie z **kiedy weszła** ma osobne centrum podrzędne, które ustawia czas wydarzenia głównego. Czasownik **powiedziała** tworzy natomiast centrum komentarza narratora do wypowiedzi bohaterki.
 </div>
 
 <div class="predicate-scene-break">2. Światło w zamkniętej kopule</div>
@@ -48,14 +48,14 @@ Nagle w głośniku <span class="predicate-mark predicate-mark--impersonal">zatrz
 
 Lena <span class="predicate-mark predicate-mark--verbal">zadzwoniła</span> do Marka, technika odpowiedzialnego za automatykę.
 
-— Czy alarm <span class="predicate-mark predicate-mark--compound">może uruchomić się</span> sam? — zapytała.
+— Czy alarm <span class="predicate-mark predicate-mark--compound">może uruchomić się</span> sam? — <span class="predicate-mark predicate-mark--verbal">zapytała</span>.
 
-— Nie powinien — odpowiedział Marek. — Ale jeśli kontrolka <span class="predicate-mark predicate-mark--verbal">miga</span>, <span class="predicate-mark predicate-mark--compound">musisz sprawdzić</span> czujnik przy kopule.
+— <span class="predicate-mark predicate-mark--compound">Nie powinien</span> — <span class="predicate-mark predicate-mark--verbal">odpowiedział</span> Marek. — Ale jeśli kontrolka <span class="predicate-mark predicate-mark--verbal">miga</span>, <span class="predicate-mark predicate-mark--compound">musisz sprawdzić</span> czujnik przy kopule.
 
 <div class="predicate-reading__commentary" markdown>
 <strong>Co zmienia się w drugiej scenie?</strong>
 
-Orzeczenia czasownikowe prowadzą serię konkretnych działań: **włączyła, otworzyła, wskazywała, zadzwoniła**. Formy bezosobowe **należało wyłączyć, zatrzeszczało, usłyszano** odsuwają wykonawcę albo opisują zjawisko. **Nie był aktywny** przeczy stanowi systemu. Pytanie **może uruchomić się** i polecenie **musisz sprawdzić** wprowadzają modalność. Zdanie warunkowe z **jeśli kontrolka miga** zawiera własne centrum podrzędne.
+Orzeczenia czasownikowe prowadzą serię konkretnych działań: **włączyła, otworzyła, wskazywała, zadzwoniła, zapytała, odpowiedział**. Formy bezosobowe **należało wyłączyć, zatrzeszczało, usłyszano** odsuwają wykonawcę albo opisują zjawisko. **Nie był aktywny** przeczy stanowi systemu. Pytanie **może uruchomić się** i polecenie **musisz sprawdzić** wprowadzają modalność. Eliptyczne **nie powinien** pozwala odtworzyć z pytania bezokolicznik **uruchomić się**. Zdanie warunkowe z **jeśli kontrolka miga** zawiera własne centrum podrzędne.
 </div>
 
 <div class="predicate-scene-break">3. Drzwi, które nie powinny być otwarte</div>
@@ -64,54 +64,54 @@ Po wyłączeniu silnika Lena <span class="predicate-mark predicate-mark--verbal"
 
 W środku <span class="predicate-mark predicate-mark--impersonal">było zimno</span>. Na podłodze <span class="predicate-mark predicate-mark--verbal">leżał</span> otwarty zeszyt, a obok niego <span class="predicate-mark predicate-mark--verbal">stała</span> mała latarka. Lena <span class="predicate-mark predicate-mark--negation">nie rozpoznawała</span> tych przedmiotów.
 
-Kiedy <span class="predicate-mark predicate-mark--verbal">podniosła</span> zeszyt, <span class="predicate-mark predicate-mark--verbal">zauważyła</span>, że ostatnia strona <span class="predicate-mark predicate-mark--nominal">była zapisana</span> świeżym atramentem. Widniało na niej jedno zdanie: „Kopuła <span class="predicate-mark predicate-mark--compound">ma otworzyć się</span> o północy”.
+Kiedy <span class="predicate-mark predicate-mark--verbal">podniosła</span> zeszyt, <span class="predicate-mark predicate-mark--verbal">zauważyła</span>, że ostatnia strona <span class="predicate-mark predicate-mark--nominal">była zapisana</span> świeżym atramentem. <span class="predicate-mark predicate-mark--verbal">Widniało</span> na niej jedno zdanie: „Kopuła <span class="predicate-mark predicate-mark--compound">ma otworzyć się</span> o północy”.
 
 Lena <span class="predicate-mark predicate-mark--nominal">stała się niespokojna</span>. Mechanizm <span class="predicate-mark predicate-mark--negation">nie miał pracować</span> tej nocy, a w budynku oprócz niej <span class="predicate-mark predicate-mark--negation">nie powinno być</span> nikogo.
 
 <div class="predicate-reading__commentary" markdown>
 <strong>Stan, czynność i niepewność</strong>
 
-**Były uchylone** może opisywać stan drzwi, natomiast **zostały zamknięte** wyraźnie przedstawia wcześniejszą czynność bierną. Konstrukcja **było zimno** jest bezosobowa. Orzeczenia **leżał** i **stała** lokalizują przedmioty. Zdanie **kiedy podniosła, zauważyła, że strona była zapisana** ma trzy centra i dwa poziomy zależności. **Ma otworzyć się** oznacza zaplanowane zdarzenie, **stała się niespokojna** — zmianę stanu, a przeczone konstrukcje **nie miał pracować, nie powinno być** odrzucają oczekiwane możliwości.
+**Były uchylone** może opisywać stan drzwi, natomiast **zostały zamknięte** wyraźnie przedstawia wcześniejszą czynność bierną. Konstrukcja **było zimno** jest bezosobowa. Orzeczenia **leżał, stała, widniało** lokalizują przedmioty i zapis. Zdanie **kiedy podniosła, zauważyła, że strona była zapisana** ma trzy centra i dwa poziomy zależności. **Ma otworzyć się** oznacza zaplanowane zdarzenie, **stała się niespokojna** — zmianę stanu, a przeczone konstrukcje **nie miał pracować, nie powinno być** odrzucają oczekiwane możliwości.
 </div>
 
 <div class="predicate-scene-break">4. Nagranie sprzed wielu lat</div>
 
 Marek <span class="predicate-mark predicate-mark--verbal">przyjechał</span> po kilkunastu minutach. Gdy <span class="predicate-mark predicate-mark--verbal">zobaczył</span> zeszyt, <span class="predicate-mark predicate-mark--verbal">rozpoznał</span> znak dawnego operatora obserwatorium.
 
-— Ten zeszyt <span class="predicate-mark predicate-mark--nominal">jest częścią starego systemu testowego</span> — wyjaśnił. — Przed każdym automatycznym uruchomieniem <span class="predicate-mark predicate-mark--impersonal">zapisywano</span> w nim plan próby.
+— Ten zeszyt <span class="predicate-mark predicate-mark--nominal">jest częścią starego systemu testowego</span> — <span class="predicate-mark predicate-mark--verbal">wyjaśnił</span>. — Przed każdym automatycznym uruchomieniem <span class="predicate-mark predicate-mark--impersonal">zapisywano</span> w nim plan próby.
 
 Marek <span class="predicate-mark predicate-mark--compound">zaczął sprawdzać</span> przewody pod pulpitem. Po chwili <span class="predicate-mark predicate-mark--verbal">odnalazł</span> niewielki rejestrator, który nadal <span class="predicate-mark predicate-mark--verbal">był podłączony</span> do czujnika kopuły.
 
 Urządzenie <span class="predicate-mark predicate-mark--compound">miało odtwarzać</span> dawne komunikaty podczas testów. Ponieważ jego zegar <span class="predicate-mark predicate-mark--verbal">spóźniał się</span> o kilka lat, system właśnie tej nocy <span class="predicate-mark predicate-mark--compound">zamierzał powtórzyć</span> próbę zapisaną w pamięci.
 
-— Czyli nikt <span class="predicate-mark predicate-mark--negation">nie wszedł</span> do budynku? — zapytała Lena.
+— Czyli nikt <span class="predicate-mark predicate-mark--negation">nie wszedł</span> do budynku? — <span class="predicate-mark predicate-mark--verbal">zapytała</span> Lena.
 
 — Nie. Drzwi prawdopodobnie <span class="predicate-mark predicate-mark--verbal">otworzyły się</span>, gdy stary mechanizm <span class="predicate-mark predicate-mark--verbal">wykonał</span> pierwszy etap testu.
 
 <div class="predicate-reading__commentary" markdown>
 <strong>Jak wyjaśnienie zmienia interpretację wcześniejszych zdań?</strong>
 
-Orzeczenie imienne **jest częścią systemu** identyfikuje zeszyt. Bezosobowe **zapisywano** opisuje dawną procedurę. **Zaczął sprawdzać** wprowadza początek czynności, a zdanie względne **który był podłączony** opisuje rejestrator. **Miało odtwarzać** określa przeznaczenie urządzenia, **zamierzał powtórzyć** personifikuje system i przedstawia zaprogramowany zamiar. W ostatnim zdaniu dwa centra **otworzyły się** oraz **wykonał** tworzą relację czasową.
+Orzeczenie imienne **jest częścią systemu** identyfikuje zeszyt. Czasowniki **wyjaśnił** i **zapytała** organizują dialog. Bezosobowe **zapisywano** opisuje dawną procedurę. **Zaczął sprawdzać** wprowadza początek czynności, a zdanie względne **który był podłączony** opisuje rejestrator. **Miało odtwarzać** określa przeznaczenie urządzenia, **zamierzał powtórzyć** personifikuje system i przedstawia zaprogramowany zamiar. W ostatnim zdaniu dwa centra **otworzyły się** oraz **wykonał** tworzą relację czasową.
 </div>
 
 <div class="predicate-scene-break">5. Próba przed północą</div>
 
 Do północy <span class="predicate-mark predicate-mark--impersonal">pozostało</span> piętnaście minut. Lena i Marek <span class="predicate-mark predicate-mark--compound">musieli zdecydować</span>, czy <span class="predicate-mark predicate-mark--compound">powinni zatrzymać</span> próbę, czy <span class="predicate-mark predicate-mark--compound">mogą bezpiecznie obserwować</span> działanie systemu.
 
-Po krótkiej naradzie <span class="predicate-mark predicate-mark--verbal">wyłączyli</span> napęd kopuły, ale <span class="predicate-mark predicate-mark--verbal">pozostawili</span> rejestrator podłączony. Chcieli sprawdzić, jakie komunikaty <span class="predicate-mark predicate-mark--verbal">zostały zapisane</span> w jego pamięci.
+Po krótkiej naradzie <span class="predicate-mark predicate-mark--verbal">wyłączyli</span> napęd kopuły, ale <span class="predicate-mark predicate-mark--verbal">pozostawili</span> rejestrator podłączony. <span class="predicate-mark predicate-mark--compound">Chcieli sprawdzić</span>, jakie komunikaty <span class="predicate-mark predicate-mark--verbal">zostały zapisane</span> w jego pamięci.
 
 O północy w głośniku ponownie <span class="predicate-mark predicate-mark--impersonal">zatrzeszczało</span>. Głos dawnego operatora <span class="predicate-mark predicate-mark--verbal">poinformował</span>, że próba <span class="predicate-mark predicate-mark--compound">ma się rozpocząć</span>, a następnie <span class="predicate-mark predicate-mark--impersonal">nakazano sprawdzić</span> blokady bezpieczeństwa.
 
 Ponieważ napęd <span class="predicate-mark predicate-mark--nominal">był odłączony</span>, kopuła <span class="predicate-mark predicate-mark--negation">nie poruszyła się</span>. Rejestrator <span class="predicate-mark predicate-mark--verbal">odtworzył</span> jeszcze dwa komunikaty i <span class="predicate-mark predicate-mark--verbal">wyłączył się</span> dokładnie minutę później.
 
-— Zagadka <span class="predicate-mark predicate-mark--nominal">jest rozwiązana</span> — powiedziała Lena.
+— Zagadka <span class="predicate-mark predicate-mark--nominal">jest rozwiązana</span> — <span class="predicate-mark predicate-mark--verbal">powiedziała</span> Lena.
 
-— A stary system <span class="predicate-mark predicate-mark--compound">powinien trafić</span> do muzeum techniki — dodał Marek. — Nadal <span class="predicate-mark predicate-mark--compound">potrafi zaskoczyć</span> człowieka.
+— A stary system <span class="predicate-mark predicate-mark--compound">powinien trafić</span> do muzeum techniki — <span class="predicate-mark predicate-mark--verbal">dodał</span> Marek. — Nadal <span class="predicate-mark predicate-mark--compound">potrafi zaskoczyć</span> człowieka.
 
 <div class="predicate-reading__commentary" markdown>
 <strong>Jak orzeczenia zamykają opowieść?</strong>
 
-Bezosobowe **pozostało piętnaście minut** ustawia czas. Konstrukcje **musieli zdecydować, powinni zatrzymać, mogą obserwować** pokazują wybór i ocenę możliwości. **Zostały zapisane** jest stroną bierną. **Ma się rozpocząć** odtwarza zaplanowany przebieg próby, a **nakazano sprawdzić** łączy bezosobowy nakaz z bezokolicznikiem. Przeczenie **nie poruszyła się** informuje, że oczekiwane zdarzenie nie zaszło. Finałowe **jest rozwiązana** opisuje rezultat, a **powinien trafić, potrafi zaskoczyć** oceniają dalszy los urządzenia.
+Bezosobowe **pozostało piętnaście minut** ustawia czas. Konstrukcje **musieli zdecydować, powinni zatrzymać, mogą obserwować, chcieli sprawdzić** pokazują wybór, zamiar i ocenę możliwości. **Zostały zapisane** jest stroną bierną. **Ma się rozpocząć** odtwarza zaplanowany przebieg próby, a **nakazano sprawdzić** łączy bezosobowy nakaz z bezokolicznikiem. Przeczenie **nie poruszyła się** informuje, że oczekiwane zdarzenie nie zaszło. Finałowe **jest rozwiązana** opisuje rezultat, **powiedziała** i **dodał** organizują dialog, a **powinien trafić, potrafi zaskoczyć** oceniają dalszy los urządzenia.
 </div>
 
   </div>
