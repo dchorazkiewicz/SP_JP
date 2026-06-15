@@ -78,16 +78,16 @@ Przy ostatnim magazynie znaleźli młodego człowieka z uszkodzonym radiem. Urz�
 
 Zofia naprawiła przewód <span class="word-token adv-manner">ręcznie</span>. Jan obserwował ją <span class="word-token adv-manner">cierpliwie</span>, a potem sprawdził sygnał <span class="word-token adv-degree">najdokładniej</span> <span class="comparison-anchor">ze wszystkich obecnych</span>.
 
-Radio odezwało się <span class="word-token adv-time">natychmiast</span>. <span class="word-token adv-degree">Na szczęście</span> pomoc znajdowała się już w drodze. <span class="word-token adv-time">Wkrótce</span> przy nabrzeżu pojawiła się łódź ratownicza.
+Radio odezwało się <span class="word-token adv-time">natychmiast</span>. <span class="phrase-focus">Na szczęście</span> pomoc znajdowała się już w drodze. <span class="word-token adv-time">Wkrótce</span> przy nabrzeżu pojawiła się łódź ratownicza.
 
-Zofia wróciła do wieży <span class="word-token adv-time">późno</span>, ale następny zapis w dzienniku przygotowała <span class="word-token adv-manner">wyjątkowo starannie</span>. Tym razem każde światło nad rzeką miało zostać opisane możliwie <span class="word-token adv-manner">precyzyjnie</span>.
+Zofia wróciła do wieży <span class="word-token adv-time">późno</span>, ale następny zapis w dzienniku przygotowała <span class="word-token adv-degree">wyjątkowo</span> <span class="word-token adv-manner">starannie</span>. Tym razem każde światło nad rzeką miało zostać opisane <span class="word-token adv-degree">możliwie</span> <span class="word-token adv-manner">precyzyjnie</span>.
 
 <div class="adverb-reading__commentary" markdown>
 <strong>Przysłówek może oceniać jakość, czas i sposób</strong>
 
 Forma <strong>nienajlepiej</strong> opisuje jakość działania radia i zgodnie z aktualną pisownią tworzy z <em>nie</em> jeden wyraz. <strong>Najdokładniej</strong> ma stopień najwyższy, a jego grupa porównawcza została wskazana wyrażeniem <strong>ze wszystkich obecnych</strong>.
 
-<strong>Na szczęście</strong> komentuje całą sytuację, ale nie jest pojedynczym przysłówkiem — to wyrażenie przyimkowe o podobnej funkcji znaczeniowej.
+<strong>Na szczęście</strong> komentuje całą sytuację, ale nie jest pojedynczym przysłówkiem — to wyrażenie przyimkowe o podobnej funkcji znaczeniowej. Osobne oznaczenia w połączeniach <strong>wyjątkowo starannie</strong> i <strong>możliwie precyzyjnie</strong> pokazują, że jeden przysłówek określa drugi.
 </div>
 
   </div>
@@ -130,15 +130,15 @@ Zmienia się stopień pewności, choć opisywane zdarzenie pozostaje podobne. **
 
 W każdym połączeniu drugi przysłówek nazywa sposób albo stopień działania, a pierwszy modyfikuje jego natężenie lub zakres.
 
-## Nie wszystkie kolorowe fragmenty są pojedynczymi przysłówkami
+## Oznaczenie nie zastępuje analizy budowy
 
-W opowieści wyróżniono także **na szczęście** i **wyjątkowo starannie** jako całe fragmenty ważne dla interpretacji. Analiza gramatyczna musi jednak zejść poziom niżej:
+W opowieści poszczególne przysłówki zostały zaznaczone oddzielnie. Szare oznaczenie **na szczęście** pokazuje natomiast, że ważny dla sensu fragment nie jest pojedynczym przysłówkiem.
 
 - **na szczęście** — wyrażenie przyimkowe komentujące całe zdanie;
-- **wyjątkowo starannie** — grupa dwóch przysłówków;
+- **wyjątkowo** + **starannie** — dwa przysłówki, z których pierwszy określa drugi;
 - **ze wszystkich obecnych** — wyrażenie wskazujące grupę porównawczą, nie przysłówek.
 
-Oznaczenie pomaga znaleźć ważny fragment, ale nie zastępuje analizy jego budowy.
+Kolor pomaga znaleźć element, ale ostateczna analiza musi uwzględniać jego budowę i związek z resztą zdania.
 
 ## Jak czytać przysłówki w dłuższym tekście?
 
