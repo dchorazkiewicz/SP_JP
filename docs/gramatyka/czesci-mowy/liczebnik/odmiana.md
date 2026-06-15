@@ -109,8 +109,6 @@ Podobnie:
 > bez dwustu trzydziestu pięciu stron;  
 > z dwustoma trzydziestoma pięcioma stronami.
 
-W dłuższych liczebnikach odmiana jest słyszalna szczególnie wyraźnie w dopełniaczu, celowniku i narzędniku.
-
 <div class="numeral-checkpoint">
   <div class="numeral-checkpoint__title">Nie odmieniamy tylko ostatniego członu</div>
   <p>W starannym języku mówimy <strong>z dwudziestoma trzema osobami</strong>, a nie ograniczamy odmiany wyłącznie do formy <em>trzema</em>.</p>
@@ -133,7 +131,7 @@ W liczebnikach wielowyrazowych człony oznaczające końcową część kolejnoś
 > sto dwudzieste trzecie spotkanie;  
 > podczas sto dwudziestego trzeciego spotkania.
 
-Człon **sto** pozostaje w takich połączeniach niezmieniony, ponieważ nie ma formy porządkowej.
+W liczebniku **sto dwudziesty trzeci** człon **sto** pozostaje liczebnikiem głównym, a końcową kolejność wyrażają człony **dwudziesty trzeci**. Gdy mówimy o samej liczbie 100 w kolejności, używamy formy **setny**.
 
 ## Ta sama forma może należeć do różnych przypadków
 
