@@ -16,11 +16,11 @@ Każdy rzeczownik ma rodzaj gramatyczny. Większość rzeczowników może też w
 
 Podczas przygotowywania wystawy uczniowie znaleźli trzy makiety: drewniany dom, dawną szkołę i małe muzeum.
 
-Pani Marta opisała je trzema zdaniami:
+Pani Marta opisała je trzema zdaniami. W przykładach rzeczownik ma wyraźną ramkę, a wyrazy dopasowane do niego są zaznaczone podkreśleniem:
 
-> <span class="agreement-mark">Ten stary</span> <strong>dom</strong> <span class="agreement-mark">stał</span> kiedyś przy rynku.  
-> <span class="agreement-mark">Ta stara</span> <strong>szkoła</strong> <span class="agreement-mark">stała</span> obok kościoła.  
-> <span class="agreement-mark">To stare</span> <strong>muzeum</strong> <span class="agreement-mark">stało</span> nad rzeką.
+> <span class="agreement-mark">Ten stary</span> <span class="form-focus">dom</span> <span class="agreement-mark">stał</span> kiedyś przy rynku.  
+> <span class="agreement-mark">Ta stara</span> <span class="form-focus">szkoła</span> <span class="agreement-mark">stała</span> obok kościoła.  
+> <span class="agreement-mark">To stare</span> <span class="form-focus">muzeum</span> <span class="agreement-mark">stało</span> nad rzeką.
 
 Rzeczowniki mają różne rodzaje. Widać to po całych połączeniach:
 
@@ -56,9 +56,9 @@ Stół nie jest „mężczyzną”, a mapa „kobietą”. Rodzaj wskazuje spos�
 ## Rodzaj męski, żeński i nijaki
 
 <div class="sentence-series sentence-series--compact">
-  <div class="sentence-row"><span class="grammar-badge">męski</span><p><span class="agreement-mark">Ten wysoki</span> <strong>budynek</strong> <span class="agreement-mark">został odnowiony</span>.</p><span class="change-note">ten</span></div>
-  <div class="sentence-row"><span class="grammar-badge">żeński</span><p><span class="agreement-mark">Ta wysoka</span> <strong>wieża</strong> <span class="agreement-mark">została odnowiona</span>.</p><span class="change-note">ta</span></div>
-  <div class="sentence-row"><span class="grammar-badge">nijaki</span><p><span class="agreement-mark">To wysokie</span> <strong>okno</strong> <span class="agreement-mark">zostało odnowione</span>.</p><span class="change-note">to</span></div>
+  <div class="sentence-row"><span class="grammar-badge">męski</span><p><span class="agreement-mark">Ten wysoki</span> <span class="form-focus">budynek</span> <span class="agreement-mark">został odnowiony</span>.</p><span class="change-note">ten</span></div>
+  <div class="sentence-row"><span class="grammar-badge">żeński</span><p><span class="agreement-mark">Ta wysoka</span> <span class="form-focus">wieża</span> <span class="agreement-mark">została odnowiona</span>.</p><span class="change-note">ta</span></div>
+  <div class="sentence-row"><span class="grammar-badge">nijaki</span><p><span class="agreement-mark">To wysokie</span> <span class="form-focus">okno</span> <span class="agreement-mark">zostało odnowione</span>.</p><span class="change-note">to</span></div>
 </div>
 
 Końcówka rzeczownika często podpowiada rodzaj, ale nie daje pewności.
@@ -105,8 +105,8 @@ W liczbie mnogiej najważniejszy jest podział na formy **męskoosobowe** i **ni
 
 ### Grupy męskoosobowe
 
-> <span class="agreement-mark">Ci młodzi</span> <strong>uczniowie</strong> <span class="agreement-mark">przyszli</span> wcześniej.  
-> <span class="agreement-mark">Tamci doświadczeni</span> <strong>lekarze</strong> <span class="agreement-mark">zostali</span> w szpitalu.
+> <span class="agreement-mark">Ci młodzi</span> <span class="form-focus">uczniowie</span> <span class="agreement-mark">przyszli</span> wcześniej.  
+> <span class="agreement-mark">Tamci doświadczeni</span> <span class="form-focus">lekarze</span> <span class="agreement-mark">zostali</span> w szpitalu.
 
 Forma męskoosobowa dotyczy grup obejmujących co najmniej jedną osobę rodzaju męskiego:
 
@@ -114,9 +114,9 @@ Forma męskoosobowa dotyczy grup obejmujących co najmniej jedną osobę rodzaju
 
 ### Grupy niemęskoosobowe
 
-> <span class="agreement-mark">Te ciekawe</span> <strong>książki</strong> <span class="agreement-mark">leżały</span> na stole.  
-> <span class="agreement-mark">Te szybkie</span> <strong>psy</strong> <span class="agreement-mark">biegły</span> przez park.  
-> <span class="agreement-mark">Te młode</span> <strong>uczennice</strong> <span class="agreement-mark">przyszły</span> wcześniej.
+> <span class="agreement-mark">Te ciekawe</span> <span class="form-focus">książki</span> <span class="agreement-mark">leżały</span> na stole.  
+> <span class="agreement-mark">Te szybkie</span> <span class="form-focus">psy</span> <span class="agreement-mark">biegły</span> przez park.  
+> <span class="agreement-mark">Te młode</span> <span class="form-focus">uczennice</span> <span class="agreement-mark">przyszły</span> wcześniej.
 
 Do grup niemęskoosobowych należą między innymi nazwy kobiet, dzieci, zwierząt, roślin, przedmiotów i pojęć.
 
@@ -153,8 +153,8 @@ Zmiana liczby wpływa na całą grupę wyrazów:
 
 ### Rzeczowniki zbiorowe
 
-> <strong>Młodzież</strong> zebrała się przed szkołą.  
-> <strong>Rodzeństwo</strong> wróciło do domu.
+> <span class="form-focus">Młodzież</span> zebrała się przed szkołą.  
+> <span class="form-focus">Rodzeństwo</span> wróciło do domu.
 
 Wyrazy oznaczają wiele osób, ale mają formę liczby pojedynczej. Dlatego mówimy:
 
@@ -162,17 +162,17 @@ Wyrazy oznaczają wiele osób, ale mają formę liczby pojedynczej. Dlatego mów
 
 ### Rzeczowniki używane zwykle tylko w liczbie mnogiej
 
-> <strong>Drzwi</strong> były zamknięte.  
-> <strong>Nożyczki</strong> leżały na biurku.  
-> <strong>Skrzypce</strong> znajdowały się w futerale.
+> <span class="form-focus">Drzwi</span> były zamknięte.  
+> <span class="form-focus">Nożyczki</span> leżały na biurku.  
+> <span class="form-focus">Skrzypce</span> znajdowały się w futerale.
 
 Jedne drzwi lub jedne nożyczki nadal mają formę liczby mnogiej. Takie rzeczowniki nazywa się **pluralia tantum**, czyli „występujące tylko w liczbie mnogiej”.
 
 ### Rzeczowniki używane zwykle tylko w liczbie pojedynczej
 
-> <strong>Mleko</strong> stało w lodówce.  
-> <strong>Piasek</strong> był mokry.  
-> <strong>Cierpliwość</strong> okazała się potrzebna.
+> <span class="form-focus">Mleko</span> stało w lodówce.  
+> <span class="form-focus">Piasek</span> był mokry.  
+> <span class="form-focus">Cierpliwość</span> okazała się potrzebna.
 
 Nazwy substancji, cech i pojęć abstrakcyjnych często nie mają zwykłej liczby mnogiej. Nazywa się je **singularia tantum**, czyli „występujące tylko w liczbie pojedynczej”.
 
@@ -184,11 +184,11 @@ Nie oznacza to, że forma mnoga jest zawsze niemożliwa. Może pojawić się po 
 
 ## Liczba może zmieniać znaczenie
 
-> Na stole leżał <strong>papier</strong>. — materiał albo pojedynczy arkusz.  
-> Urzędnik sprawdził <strong>papiery</strong>. — dokumenty.
+> Na stole leżał <span class="form-focus">papier</span>. — materiał albo pojedynczy arkusz.  
+> Urzędnik sprawdził <span class="form-focus">papiery</span>. — dokumenty.
 
-> W szklance była <strong>woda</strong>. — substancja.  
-> <strong>Wody</strong> Bałtyku były wzburzone. — obszar lub masy wodne.
+> W szklance była <span class="form-focus">woda</span>. — substancja.  
+> <span class="form-focus">Wody</span> Bałtyku były wzburzone. — obszar lub masy wodne.
 
 Forma mnoga nie zawsze oznacza zwykłe „kilka sztuk tego samego”. Czasem tworzy nowe, bardziej szczegółowe znaczenie.
 
@@ -196,8 +196,8 @@ Forma mnoga nie zawsze oznacza zwykłe „kilka sztuk tego samego”. Czasem two
 
 Niektóre rzeczowniki mogą odnosić się do osoby różnych płci, a rodzaj określeń zależy od tego, o kim mówimy:
 
-> Ten maruda znowu narzekał.  
-> Ta maruda znowu narzekała.
+> <span class="agreement-mark">Ten</span> <span class="form-focus">maruda</span> znowu <span class="agreement-mark">narzekał</span>.  
+> <span class="agreement-mark">Ta</span> <span class="form-focus">maruda</span> znowu <span class="agreement-mark">narzekała</span>.
 
 Podobnie zachowują się czasem wyrazy **sierota**, **gaduła**, **niezdara**. Nazywa się je rzeczownikami wspólnorodzajowymi. Ich forma pozostaje taka sama, lecz rodzaj ujawniają wyrazy towarzyszące.
 
