@@ -12,14 +12,14 @@ Przysłówek pozwala dopowiedzieć, **jak, gdzie, kiedy albo w jakim stopniu** c
 
 Marta napisała w dzienniku:
 
-> Przyjechaliśmy <span class="form-focus">wcześnie</span>. Technik pracował <span class="form-focus">bardzo</span> <span class="secondary-focus">dokładnie</span>, a urządzenie działało <span class="form-focus">wyjątkowo</span> <span class="adjective-anchor">stabilnie</span>.
+> Przyjechaliśmy <span class="form-focus">wcześnie</span>. Technik pracował <span class="form-focus">bardzo</span> <span class="secondary-focus">dokładnie</span>, a urządzenie działało <span class="form-focus">wyjątkowo</span> <span class="secondary-focus">stabilnie</span>.
 
 W tym krótkim fragmencie:
 
 - **wcześnie** określa czas przyjazdu;
 - **dokładnie** określa sposób pracy;
 - **bardzo** wzmacnia przysłówek **dokładnie**;
-- **wyjątkowo** wzmacnia formę opisującą działanie urządzenia.
+- **wyjątkowo** wzmacnia przysłówek **stabilnie**.
 
 Przysłówek nie musi więc stać wyłącznie przy czasowniku. Może określać również przymiotnik albo inny przysłówek.
 
