@@ -1,83 +1,226 @@
-# Spójniki współrzędne
+# Relacje między równorzędnymi członami
 
 <div class="conjunction-lesson" markdown>
 
-<div class="indecl-lead">
-Spójniki współrzędne łączą elementy równorzędne: dwa wyrazy, dwie grupy wyrazów albo dwa zdania, z których żadne nie zależy składniowo od drugiego.
+<div class="lesson-lead" markdown>
+
+Spójnik współrzędny łączy elementy znajdujące się na tym samym poziomie budowy: dwa wyrazy, dwie grupy wyrazów albo dwa zdania. Nie oznacza to, że człony muszą mieć ten sam sens. Mogą się dodawać, wykluczać, przeciwstawiać, wynikać z siebie albo wzajemnie wyjaśniać.
+
 </div>
 
-## Łączne: „i”, „oraz”, „ani”, „ni”
+## Cztery wersje jednego planu
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">i</span><p>Marta przygotowała wykres <span class="indecl-focus">i</span> napisała podsumowanie.</p><span class="indecl-note">dodawanie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">oraz</span><p>Do raportu dołączono tabelę <span class="indecl-focus">oraz</span> dwa załączniki.</p><span class="indecl-note">dodawanie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">ani</span><p>Paweł nie zadzwonił <span class="indecl-focus">ani</span> nie wysłał wiadomości.</p><span class="indecl-note">dodawanie w przeczeniu</span></div>
+<div class="conjunction-story" markdown>
+  <div class="conjunction-story__title">Relację wybiera spójnik</div>
+  <div class="conjunction-story__body" markdown>
+
+> Przygotujemy <span class="member-left">model</span> <span class="conj-focus">i</span> <span class="member-right">opis konstrukcji</span>.  
+> Przygotujemy <span class="member-left">model</span> <span class="conj-focus">albo</span> <span class="member-right">prezentację</span>.  
+> Model jest <span class="member-left">lekki</span>, <span class="conj-focus">ale</span> <span class="member-right">wytrzymały</span>.  
+> Model przeszedł próbę, <span class="conj-focus">więc</span> <span class="member-right">możemy go zaprezentować</span>.
+
+**I** dodaje drugi element. **Albo** przedstawia możliwości. **Ale** łączy cechy pozostające w napięciu. **Więc** pokazuje skutek lub wniosek.
+
+  </div>
 </div>
 
-Przed pojedynczym spójnikiem **i, oraz, ani, ni** zwykle nie stawiamy przecinka:
-
-> Marta otworzyła dokument **i** sprawdziła wyniki.
-
-Przecinek może pojawić się z innych powodów, na przykład gdy przed spójnikiem kończy się wtrącenie albo zdanie podrzędne.
-
-## Rozłączne: „albo”, „lub”, „bądź”, „czy”
-
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">albo</span><p>Wyślemy raport dzisiaj <span class="indecl-focus">albo</span> przedstawimy go jutro rano.</p><span class="indecl-note">wybór</span></div>
-  <div class="indecl-row"><span class="indecl-badge">lub</span><p>Możesz odpowiedzieć pisemnie <span class="indecl-focus">lub</span> telefonicznie.</p><span class="indecl-note">alternatywa</span></div>
-  <div class="indecl-row"><span class="indecl-badge">bądź</span><p>Dokument podpisze dyrektor <span class="indecl-focus">bądź</span> jego zastępca.</p><span class="indecl-note">alternatywa</span></div>
-  <div class="indecl-row"><span class="indecl-badge">czy</span><p>Zastanawiam się, czy wybrać pociąg <span class="indecl-focus">czy</span> autobus.</p><span class="indecl-note">wybór</span></div>
+<div class="conjunction-concept">
+  <span class="conjunction-concept__label">Pojęcie</span>
+  <strong>Współrzędność</strong>
+  <p>To relacja między członami równorzędnymi składniowo. Każdy człon pełni podobną funkcję wobec większej konstrukcji, choć może wnosić inne znaczenie.</p>
 </div>
 
-## Przeciwstawne: „ale”, „lecz”, „jednak”, „natomiast”, „zaś”
+## Spójniki łączne: „i”, „oraz”, „ani”, „ni”
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">ale</span><p>Raport był krótki, <span class="indecl-focus">ale</span> zawierał wszystkie potrzebne dane.</p><span class="indecl-note">przeciwstawienie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">lecz</span><p>Nie zrezygnowaliśmy, <span class="indecl-focus">lecz</span> zmieniliśmy plan działania.</p><span class="indecl-note">korekta</span></div>
-  <div class="indecl-row"><span class="indecl-badge">natomiast</span><p>Marta przygotowała część opisową, <span class="indecl-focus">natomiast</span> Paweł opracował wykresy.</p><span class="indecl-note">zestawienie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">zaś</span><p>Pierwszy zespół zakończył pracę, drugi <span class="indecl-focus">zaś</span> nadal analizował dane.</p><span class="indecl-note">zestawienie</span></div>
+### Dodawanie informacji
+
+> Marta <span class="conj-focus">i</span> Paweł sprawdzili model.  
+> Do raportu dołączono <span class="member-left">tabelę wyników</span> <span class="conj-focus">oraz</span> <span class="member-right">fotografie konstrukcji</span>.  
+> Marta zmierzyła belki <span class="conj-focus">i</span> zaznaczyła miejsca cięcia.
+
+Spójniki **i** oraz **oraz** dołączają kolejny człon. **Oraz** częściej pojawia się w tekstach uporządkowanych i oficjalnych, ale nie zawsze brzmi naturalnie jako mechaniczny zamiennik każdego **i**.
+
+> Otworzył drzwi i wszedł do sali.
+
+Tutaj **i** nie tylko dodaje czynność, lecz także pomaga odczytać kolejność wydarzeń. Najpierw otworzył drzwi, potem wszedł.
+
+### Dodawanie w przeczeniu
+
+> Paweł <span class="negation-anchor">nie</span> zadzwonił <span class="conj-focus">ani</span> <span class="negation-anchor">nie</span> napisał.  
+> W magazynie nie było <span class="member-left">śrub</span> <span class="conj-focus">ani</span> <span class="member-right">nakrętek</span>.
+
+**Ani** i rzadsze **ni** łączą elementy objęte przeczeniem. W drugim zdaniu przeczenie **nie było** obejmuje oba rzeczowniki.
+
+## Spójniki rozłączne: „albo”, „lub”, „bądź”, „czy”
+
+> Wybierzemy <span class="member-left">drewno</span> <span class="conj-focus">albo</span> <span class="member-right">lekkie tworzywo</span>.  
+> Odpowiedź można przesłać <span class="member-left">pocztą</span> <span class="conj-focus">lub</span> <span class="member-right">przez formularz</span>.  
+> Dokument podpisze <span class="member-left">dyrektor</span> <span class="conj-focus">bądź</span> <span class="member-right">jego zastępca</span>.
+
+Spójniki te przedstawiają możliwości. W codziennym języku **albo** często sugeruje wyraźniejszy wybór jednej możliwości, natomiast **lub** może dopuszczać możliwość łączną. Nie jest to jednak niezawodna reguła logiczna dla każdego zdania — dokładny sens wynika z kontekstu.
+
+> Możesz zamówić herbatę lub kawę.
+
+Zdanie zwykle przedstawia wybór, choć w szczególnej sytuacji nie wyklucza zamówienia obu napojów. Gdy rozłączność ma być bezwzględna, można powiedzieć:
+
+> Możesz zamówić <span class="pair-focus">albo herbatę, albo kawę</span> — tylko jeden napój.
+
+### Dwa użycia „czy”
+
+> Wolisz <span class="member-left">pociąg</span> <span class="conj-focus">czy</span> <span class="member-right">autobus</span>?
+
+Tutaj **czy** łączy dwie możliwości i pełni funkcję podobną do **albo**.
+
+> Nie wiem, <span class="conj-focus">czy</span> autobus już odjechał.
+
+Tutaj **czy** wprowadza pytanie zależne: treścią niewiedzy jest pytanie „czy autobus odjechał?”. Przed takim zdaniem podrzędnym stawiamy przecinek.
+
+<div class="conjunction-checkpoint">
+  <div class="conjunction-checkpoint__title">To samo „czy”, inna budowa</div>
+  <p>W zdaniu <em>herbata czy kawa</em> spójnik łączy równorzędne rzeczowniki. W zdaniu <em>sprawdź, czy pada</em> wprowadza całe zdanie zależne od czasownika <em>sprawdź</em>.</p>
 </div>
 
-Przed spójnikami przeciwstawnymi stawiamy przecinek.
+## Przeciwstawienie i zestawienie: „ale”, „lecz”, „a”
 
-## Wynikowe: „więc”, „zatem”, „toteż”, „dlatego”
+### „Ale” — wynik inny niż oczekiwany
 
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">więc</span><p>Zabrakło czasu, <span class="indecl-focus">więc</span> przesunęliśmy prezentację.</p><span class="indecl-note">wynik</span></div>
-  <div class="indecl-row"><span class="indecl-badge">zatem</span><p>Wszystkie dane są zgodne, <span class="indecl-focus">zatem</span> możemy zamknąć analizę.</p><span class="indecl-note">wniosek</span></div>
-  <div class="indecl-row"><span class="indecl-badge">toteż</span><p>Droga była zalana, <span class="indecl-focus">toteż</span> wybraliśmy inną trasę.</p><span class="indecl-note">skutek</span></div>
+> Model był lekki, <span class="conj-focus">ale</span> wytrzymały.  
+> Mieliśmy mało czasu, <span class="conj-focus">ale</span> zakończyliśmy pracę.
+
+Lekkość może budzić wątpliwość co do wytrzymałości, a brak czasu — co do ukończenia zadania. **Ale** pokazuje, że drugi człon przełamuje oczekiwanie wywołane przez pierwszy.
+
+### „Lecz” — przeciwstawienie lub korekta
+
+> Nie porzuciliśmy projektu, <span class="conj-focus">lecz</span> zmieniliśmy plan.  
+> Potrzebujemy nie większej liczby elementów, <span class="conj-focus">lecz</span> lepszego połączenia.
+
+**Lecz** często pojawia się po zaprzeczeniu i wprowadza właściwą informację zamiast odrzuconej.
+
+### „A” — zestawienie, różnica albo następstwo
+
+> Marta przygotowała opis, <span class="conj-focus">a</span> Paweł wykonał rysunki.  
+> Pierwsza belka była prosta, <span class="conj-focus">a</span> druga lekko wygięta.  
+> Otworzył pudełko, <span class="conj-focus">a</span> następnie wyjął narzędzia.
+
+Spójnik **a** nie zawsze oznacza ostre przeciwstawienie. Może spokojnie zestawiać dwa podmioty, dwie cechy albo kolejne wydarzenia.
+
+## Wynik i wniosek: „więc”, „zatem”, „toteż”
+
+> Zabrakło jednej podpory, <span class="conj-focus">więc</span> zmieniliśmy konstrukcję.  
+> Wszystkie pomiary są zgodne, <span class="conj-focus">zatem</span> możemy rozpocząć próbę.  
+> Droga była zalana, <span class="conj-focus">toteż</span> zespół wybrał inną trasę.
+
+Pierwszy człon stanowi podstawę, a drugi przedstawia skutek albo wniosek.
+
+Porównaj kierunek relacji:
+
+> Zostaliśmy w pracowni, <span class="conj-focus">bo</span> padało. — drugi człon podaje przyczynę  
+> Padało, <span class="conj-focus">więc</span> zostaliśmy w pracowni. — drugi człon podaje skutek
+
+Zdarzenia są podobne, lecz spójniki prowadzą rozumowanie w przeciwnych kierunkach.
+
+## Wyjaśnienie i doprecyzowanie: „czyli”
+
+> Model jest modułowy, <span class="conj-focus">czyli</span> można wymieniać jego części.  
+> Spotkanie odbędzie się hybrydowo, <span class="conj-focus">czyli</span> część osób połączy się zdalnie.
+
+Drugi człon objaśnia pierwszy albo pokazuje jego praktyczne znaczenie.
+
+Wyrażenie **to znaczy** może pełnić podobną funkcję tekstową:
+
+> Musimy uprościć procedurę, <span class="connector-anchor">to znaczy</span> usunąć dwa zbędne etapy.
+
+Nie we wszystkich opisach gramatycznych klasyfikuje się je dokładnie tak samo jak pojedynczy spójnik **czyli**, dlatego warto nazywać je wyrażeniem wyjaśniającym lub spójnikowym.
+
+## Przecinek przed spójnikami współrzędnymi
+
+### Zwykle bez przecinka
+
+Przed pojedynczym spójnikiem:
+
+> i, oraz, ani, ni, albo, lub, bądź
+
+zwykle nie stawiamy przecinka:
+
+> Marta przygotowała opis <span class="conj-focus">i</span> wykonała rysunek.  
+> Możemy zostać <span class="conj-focus">albo</span> wrócić później.  
+> Nie znaleźliśmy śrub <span class="conj-focus">ani</span> nakrętek.
+
+Zasada dotyczy również zdań współrzędnych:
+
+> Marta pisała raport <span class="conj-focus">i</span> Paweł tworzył wykresy.
+
+### Zwykle z przecinkiem
+
+Przecinek stawiamy przed spójnikami przeciwstawnymi, wynikowymi i wyjaśniającymi:
+
+> ale, lecz, a, więc, zatem, toteż, czyli.
+
+> Model wyglądał dobrze, <span class="conj-focus">ale</span> nie przeszedł próby.  
+> Pomiar był błędny, <span class="conj-focus">więc</span> powtórzyliśmy doświadczenie.  
+> Konstrukcja jest symetryczna, <span class="conj-focus">czyli</span> obie strony mają taki sam układ.
+
+## Spójniki powtórzone
+
+Gdy ten sam spójnik rozpoczyna kolejne równorzędne człony, przed drugim i następnymi wystąpieniami stawiamy przecinek:
+
+> Przygotujemy <span class="pair-focus">i model, i opis, i prezentację</span>.  
+> Nie było <span class="pair-focus">ani śrub, ani nakrętek, ani podkładek</span>.  
+> Pojedziemy <span class="pair-focus">albo pociągiem, albo autobusem</span>.  
+> Nie wiedzieliśmy, <span class="pair-focus">czy zostać, czy wrócić</span>.
+
+Przecinek nie wynika z samego drugiego **i** czy **albo**, lecz z powtarzalnej budowy całego szeregu.
+
+Jeżeli dwa identyczne spójniki pełnią różne funkcje, mechaniczne wstawienie przecinka może być błędne:
+
+> Powiedział, że przyjedzie <span class="conj-focus">i</span> że przywiezie dokumenty.
+
+Pierwsze **że** i drugie **że** rozpoczynają dwa zdania podrzędne połączone przez pojedyncze **i**. Przed **i** nie ma przecinka.
+
+## Przecinek przed „i” może należeć do innej konstrukcji
+
+> Raport, <span class="relative-anchor">który przygotowała Marta</span>, <span class="conj-focus">i</span> wykres Pawła trafiły do nauczyciela.
+
+Przecinek bezpośrednio przed **i** zamyka zdanie podrzędne. Nie oddziela członów **raport i wykres**.
+
+Podobnie:
+
+> Kiedy Marta skończyła pomiary, <span class="conj-focus">i</span> Paweł, który czekał przy stole, odłożył narzędzia, rozpoczęli próbę.
+
+Takie zdanie jest trudne do odczytania i warto je przebudować. Interpunkcja może być formalnie uzasadniona przez granice zdań podrzędnych, ale poprawność znaków nie gwarantuje czytelności.
+
+## Wyrazy podobne funkcjonalnie do spójników
+
+> Raport był gotowy. <span class="connector-anchor">Jednak</span> nikt go nie wysłał.  
+> Marta opracowała opis. Paweł <span class="connector-anchor">natomiast</span> przygotował wykresy.  
+> Zabrakło czasu. <span class="connector-anchor">Dlatego</span> przesunęliśmy próbę.
+
+Wyrazy te nawiązują do wcześniejszej wypowiedzi i pokazują relację podobną do przeciwstawienia albo wynikania. Nie należy jednak automatycznie traktować każdego z nich jako typowego spójnika współrzędnego. Mogą zajmować różne miejsca w zdaniu i bywają klasyfikowane jako partykuły, przysłówki lub wyrazy nawiązujące.
+
+## Jak analizować spójnik współrzędny?
+
+<div class="conjunction-step-list">
+  <div class="conjunction-step"><strong>Znajdź oba pełne człony.</strong> Nie ograniczaj ich do wyrazów stojących najbliżej spójnika.</div>
+  <div class="conjunction-step"><strong>Sprawdź równorzędność.</strong> Ustal, czy człony pełnią podobną funkcję w większej konstrukcji.</div>
+  <div class="conjunction-step"><strong>Nazwij relację.</strong> Dodawanie, wybór, przeciwstawienie, wynik czy wyjaśnienie?</div>
+  <div class="conjunction-step"><strong>Sprawdź, czy spójnik jest pojedynczy czy powtórzony.</strong></div>
+  <div class="conjunction-step"><strong>Ustal przecinek z budowy całego zdania.</strong> Znak widoczny przed spójnikiem może zamykać inną konstrukcję.</div>
+  <div class="conjunction-step"><strong>Przy wyrazach granicznych sprawdź ich rzeczywiste zachowanie.</strong></div>
 </div>
 
-## Wyjaśniające: „czyli”, „to znaczy”
-
-<div class="indecl-series">
-  <div class="indecl-row"><span class="indecl-badge">czyli</span><p>Spotkanie odbędzie się hybrydowo, <span class="indecl-focus">czyli</span> część osób połączy się zdalnie.</p><span class="indecl-note">wyjaśnienie</span></div>
-  <div class="indecl-row"><span class="indecl-badge">to znaczy</span><p>Musimy uprościć procedurę, <span class="indecl-focus">to znaczy</span> usunąć zbędne etapy.</p><span class="indecl-note">doprecyzowanie</span></div>
+<div class="conjunction-summary">
+<h3>Podsumowanie</h3>
+<ul>
+  <li>Spójniki współrzędne łączą wyrazy, grupy lub zdania znajdujące się na tym samym poziomie.</li>
+  <li><em>I</em> dodaje, <em>albo</em> przedstawia wybór, <em>ale</em> przeciwstawia, <em>więc</em> wskazuje wynik, a <em>czyli</em> wyjaśnia.</li>
+  <li><em>A</em> może przeciwstawiać, zestawiać albo porządkować kolejne wydarzenia.</li>
+  <li>Przed pojedynczym <em>i, oraz, albo, lub, ani, bądź</em> zwykle nie ma przecinka.</li>
+  <li>Przed <em>ale, lecz, a, więc, zatem, toteż, czyli</em> zwykle stawiamy przecinek.</li>
+  <li>Powtórzone spójniki rozdzielają kolejne człony przecinkami.</li>
+  <li><em>Czy</em> może łączyć możliwości albo wprowadzać pytanie zależne.</li>
+</ul>
 </div>
 
-## Spójnik łączy wyrazy, grupy i zdania
-
-<div class="indecl-comparison">
-  <div class="indecl-comparison-item"><span class="indecl-label">wyrazy</span><p>Marta <strong>i</strong> Paweł przygotowali prezentację.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">grupy wyrazów</span><p>Na stole leżały <strong>czerwone teczki i niebieskie segregatory</strong>.</p></div>
-  <div class="indecl-comparison-item"><span class="indecl-label">zdania</span><p>Marta pisała raport, <strong>a</strong> Paweł tworzył wykresy.</p></div>
-</div>
-
-## Powtarzające się spójniki
-
-Gdy spójnik powtarza się przed każdym członem, zwykle rozdzielamy człony przecinkami:
-
-> Przygotujemy **i raport, i prezentację, i krótkie podsumowanie**.
-
-> Nie było **ani dyrektora, ani zastępcy, ani sekretarza**.
-
-> Możemy pojechać **albo pociągiem, albo autobusem**.
-
-<div class="indecl-summary">
-<h3>Spójnik pokazuje relację logiczną</h3>
-Porównaj: <strong>i</strong> dodaje informację, <strong>albo</strong> wprowadza wybór, <strong>ale</strong> przeciwstawia, a <strong>więc</strong> pokazuje wynik. Wybór spójnika zmienia sens całego połączenia.
-</div>
-
-[Przejdź dalej: spójniki podrzędne i interpunkcja](../podrzedne-i-interpunkcja/){ .md-button .md-button--primary }
+[Przejdź dalej: zależność i granice zdań](../podrzedne-i-interpunkcja/){ .md-button .md-button--primary }
 
 </div>
