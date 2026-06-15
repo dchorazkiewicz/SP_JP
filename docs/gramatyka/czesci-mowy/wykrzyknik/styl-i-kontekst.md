@@ -24,7 +24,7 @@ W rozmowie wykrzyknik współpracuje z:
 - wiedzą o sytuacji;
 - relacją między rozmówcami.
 
-Napisane **hej** może wyglądać neutralnie. W wymowie może jednak brzmieć przyjaźnie, ostrzegawczo, zniecierpliwienie albo zaczepnie. Tekst pisany nie przekazuje wszystkich tych informacji automatycznie.
+Napisane **hej** może wyglądać neutralnie. W wymowie może jednak brzmieć przyjaźnie, ostrzegawczo, zniecierpliwionym tonem albo zaczepnie. Tekst pisany nie przekazuje wszystkich tych informacji automatycznie.
 
 ## Ta sama forma, inny ton
 
