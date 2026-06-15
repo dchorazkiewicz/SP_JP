@@ -61,7 +61,7 @@ Formy wskazują posiadacza, ale nie dopasowują zakończenia do rzeczy posiadane
 
 <div class="pronoun-checkpoint">
   <div class="pronoun-checkpoint__title">Ta sama postać może należeć do różnych konstrukcji</div>
-  <p>W zdaniu <em>Nie ma jego</em> forma <strong>jego</strong> jest dopełniaczem zaimka osobowego. W połączeniu <em>jego książka</em> wskazuje posiadacza i pozostaje nieodmienna.</p>
+  <p>W zdaniu <em>Nie ma jego w sali</em> forma <strong>jego</strong> jest dopełniaczem zaimka osobowego. W połączeniu <em>jego książka</em> wskazuje posiadacza i pozostaje nieodmienna.</p>
 </div>
 
 ## „Swój” odsyła do podmiotu
@@ -83,7 +83,7 @@ Zaimek **swój** stosujemy zwykle wtedy, gdy posiadacz jest podmiotem zdania. Po
 
 Zaimki wskazujące mogą odnosić się do przedmiotów widocznych w sytuacji, ale także porządkować wcześniejszy tekst:
 
-> Omówiliśmy dwa plany. <span class="form-focus">Ten</span> pierwszy był tańszy, a <span class="form-focus">tamten</span> drugi — szybszy w realizacji.
+> Omówiliśmy dwa plany. <span class="form-focus">Ten</span> był tańszy, a <span class="form-focus">tamten</span> — szybszy w realizacji.
 
 Forma **ten** odmienia się razem z rzeczownikiem:
 
@@ -100,26 +100,28 @@ Forma **ten** odmienia się razem z rzeczownikiem:
 
 **Który** zwykle wybiera element z określonego zbioru, a **jaki** pyta o cechę, rodzaj lub właściwość. W codziennych wypowiedziach granica nie zawsze jest całkowicie ostra, ale różnica pomaga formułować precyzyjne pytania.
 
-## Te same formy mogą łączyć zdania
+## Pytanie bezpośrednie, pytanie zależne i zaimek względny
 
 > <span class="form-focus">Kto</span> przygotował mapę?  
-> Wiem, <span class="form-focus">kto</span> przygotował mapę.
+> Nie wiem, <span class="form-focus">kto</span> przygotował mapę.
+
+W drugim zdaniu pytanie zostało włączone do większej wypowiedzi. Forma **kto** nadal wskazuje brakującą informację, ale nie tworzy samodzielnego pytania.
+
+Porównaj także:
 
 > <span class="form-focus">Który</span> pociąg odjeżdża pierwszy?  
 > To pociąg, <span class="form-focus">który</span> odjeżdża pierwszy.
 
-W pierwszych zdaniach formy są pytajne. W drugich wprowadzają zdanie zależne albo względne.
+W pierwszym zdaniu **który** jest zaimkiem pytajnym. W drugim odsyła do rzeczownika **pociąg** i łączy go ze zdaniem podrzędnym — jest zaimkiem względnym.
 
 ## Rodzaj i liczba „który”, ale przypadek z własnego zdania
-
-Porównaj:
 
 > To uczeń, <span class="form-focus">który</span> czyta książkę.  
 > To uczeń, <span class="form-focus">którego</span> widzę.  
 > To uczeń, <span class="form-focus">któremu</span> pomagam.  
 > To uczeń, z <span class="form-focus">którym</span> rozmawiam.
 
-Wszystkie formy odnoszą się do rzeczownika **uczeń**, dlatego zachowują rodzaj męski i liczbę pojedynczą. Przypadek zmienia się jednak zgodnie z funkcją w zdaniu podrzędnym:
+Wszystkie formy odnoszą się do rzeczownika **uczeń**, dlatego zachowują rodzaj męski i liczbę pojedynczą. Przypadek zmienia się zgodnie z funkcją w zdaniu podrzędnym:
 
 - **który** — jest podmiotem;
 - **którego** — jest dopełnieniem;
@@ -159,7 +161,7 @@ Zaimki przeczące wymagają przeczenia czasownika:
   <div class="pronoun-step"><strong>Ustal, co jest wskazywane.</strong> Posiadacz, wybrany obiekt, cecha, osoba nieustalona czy brak osoby?</div>
   <div class="pronoun-step"><strong>Przy zaimku dzierżawczym znajdź posiadacza.</strong> Następnie sprawdź, czy forma dopasowuje się do rzeczy posiadanej.</div>
   <div class="pronoun-step"><strong>Przy „swój” znajdź podmiot.</strong> Zwykle to właśnie podmiot jest posiadaczem.</div>
-  <div class="pronoun-step"><strong>Rozróżnij pytanie i łączenie zdań.</strong> Ta sama forma może być pytajna albo względna.</div>
+  <div class="pronoun-step"><strong>Rozróżnij pytanie bezpośrednie, zależne i zaimek względny.</strong> Podobne formy mogą inaczej organizować zdanie.</div>
   <div class="pronoun-step"><strong>Przy „który” ustal dwie zależności.</strong> Rodzaj i liczba pochodzą od poprzednika, a przypadek z funkcji w zdaniu podrzędnym.</div>
   <div class="pronoun-step"><strong>Przy zaimku przeczącym sprawdź czasownik.</strong> W polszczyźnie również on powinien być zaprzeczony.</div>
 </div>
@@ -171,7 +173,8 @@ Zaimki przeczące wymagają przeczenia czasownika:
   <li><em>Jego, jej, ich</em> jako zaimki dzierżawcze pozostają nieodmienne.</li>
   <li><em>Swój</em> odsyła zwykle do posiadacza będącego podmiotem.</li>
   <li>Zaimki wskazujące mogą odnosić się do sytuacji albo porządkować tekst.</li>
-  <li>Te same formy mogą być pytajne lub względne.</li>
+  <li>Formy pytajne mogą występować w pytaniach bezpośrednich i zależnych.</li>
+  <li>Zaimek względny odsyła do poprzednika i łączy zdania.</li>
   <li>W zaimku <em>który</em> rodzaj i liczba zależą od poprzednika, a przypadek od funkcji w zdaniu podrzędnym.</li>
   <li>Zaimki przeczące łączą się z przeczeniem czasownika.</li>
 </ul>
