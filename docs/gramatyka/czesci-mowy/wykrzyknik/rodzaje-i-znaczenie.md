@@ -93,7 +93,7 @@ albo otworzyć dłuższą wypowiedź:
 > <span class="interjection-call">Stop!</span> Nie wchodź na jezdnię.  
 > <span class="interjection-call">Cicho!</span> Rozpoczyna się nagranie.  
 > <span class="interjection-call">Precz!</span> Odejdź od drzwi.  
-> <span class="interjection-call">Hura!</span> — reakcja emocjonalna, nie nakaz
+> <span class="interjection-call">Hurra!</span> — reakcja emocjonalna, nie nakaz
 
 Formy takie jak **stop**, **cicho** czy **precz** mogą funkcjonować jako samodzielne polecenia. Ich klasyfikacja bywa zależna od przyjętego opisu gramatycznego, ponieważ niektóre mają także wyraźne związki z innymi częściami mowy.
 
