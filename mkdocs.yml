@@ -30,6 +30,7 @@ extra_css:
   - stylesheets/verb-lesson.css
   - stylesheets/verb-narrative.css
   - stylesheets/remaining-parts.css
+  - stylesheets/adjective-narrative.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
@@ -82,11 +83,11 @@ nav:
               - Rzeczowniki w opowieści: gramatyka/czesci-mowy/rzeczownik/rzeczowniki-w-tekscie.md
           - Przymiotnik:
               - Wprowadzenie: gramatyka/czesci-mowy/przymiotnik/index.md
-              - Znaczenie i zgoda: gramatyka/czesci-mowy/przymiotnik/znaczenie-i-zgoda.md
-              - Odmiana: gramatyka/czesci-mowy/przymiotnik/odmiana.md
-              - Stopniowanie: gramatyka/czesci-mowy/przymiotnik/stopniowanie.md
-              - Funkcje i słowotwórstwo: gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
-              - Przymiotniki w tekście: gramatyka/czesci-mowy/przymiotnik/przymiotniki-w-tekscie.md
+              - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/przymiotnik/znaczenie-i-zgoda.md
+              - Odmiana przymiotnika: gramatyka/czesci-mowy/przymiotnik/odmiana.md
+              - Porównywanie natężenia cechy: gramatyka/czesci-mowy/przymiotnik/stopniowanie.md
+              - Funkcje, słowotwórstwo i pisownia: gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
+              - Przymiotniki w opowieści: gramatyka/czesci-mowy/przymiotnik/przymiotniki-w-tekscie.md
           - Zaimek:
               - Wprowadzenie: gramatyka/czesci-mowy/zaimki/index.md
               - Rodzaje i funkcje: gramatyka/czesci-mowy/zaimki/rodzaje-i-funkcje.md
