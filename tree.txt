@@ -211,6 +211,7 @@
 ./docs/stylesheets/numeral-narrative.css
 ./docs/stylesheets/object-lesson.css
 ./docs/stylesheets/predicate-lesson.css
+./docs/stylesheets/preposition-narrative.css
 ./docs/stylesheets/pronoun-narrative.css
 ./docs/stylesheets/remaining-parts.css
 ./docs/stylesheets/subject-lesson.css
