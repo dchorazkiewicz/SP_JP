@@ -31,6 +31,7 @@ extra_css:
   - stylesheets/verb-narrative.css
   - stylesheets/remaining-parts.css
   - stylesheets/adjective-narrative.css
+  - stylesheets/pronoun-narrative.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
@@ -90,11 +91,11 @@ nav:
               - Przymiotniki w opowieści: gramatyka/czesci-mowy/przymiotnik/przymiotniki-w-tekscie.md
           - Zaimek:
               - Wprowadzenie: gramatyka/czesci-mowy/zaimki/index.md
-              - Rodzaje i funkcje: gramatyka/czesci-mowy/zaimki/rodzaje-i-funkcje.md
-              - Zaimki osobowe i odmiana: gramatyka/czesci-mowy/zaimki/zaimki-osobowe-i-odmiana.md
-              - Dzierżawcze, wskazujące i pytajne: gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
+              - Jak działają zaimki: gramatyka/czesci-mowy/zaimki/rodzaje-i-funkcje.md
+              - Zaimki osobowe, zwrotne i odmiana: gramatyka/czesci-mowy/zaimki/zaimki-osobowe-i-odmiana.md
+              - Posiadanie, wskazywanie i pytanie: gramatyka/czesci-mowy/zaimki/dzierzawcze-wskazujace-i-pytajne.md
               - Spójność tekstu i pisownia: gramatyka/czesci-mowy/zaimki/spojnosc-tekstu-i-pisownia.md
-              - Zaimki w tekście: gramatyka/czesci-mowy/zaimki/zaimki-w-tekscie.md
+              - Zaimki w opowieści: gramatyka/czesci-mowy/zaimki/zaimki-w-tekscie.md
           - Liczebnik:
               - Wprowadzenie: gramatyka/czesci-mowy/liczebnik/index.md
               - Rodzaje i znaczenie: gramatyka/czesci-mowy/liczebnik/rodzaje-i-znaczenie.md
