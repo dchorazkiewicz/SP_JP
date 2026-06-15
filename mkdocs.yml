@@ -33,6 +33,7 @@ extra_css:
   - stylesheets/adjective-narrative.css
   - stylesheets/pronoun-narrative.css
   - stylesheets/numeral-narrative.css
+  - stylesheets/adverb-narrative.css
   - stylesheets/lesson-style-compat.css
   - stylesheets/indeclinable-parts.css
   - stylesheets/borderline-classification.css
@@ -106,10 +107,10 @@ nav:
               - Liczebniki w opowieści: gramatyka/czesci-mowy/liczebnik/liczebniki-w-tekscie.md
           - Przysłówek:
               - Wprowadzenie: gramatyka/czesci-mowy/przyslowek/index.md
-              - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/przyslowek/znaczenie-i-rozpoznawanie.md
-              - Stopniowanie i tworzenie: gramatyka/czesci-mowy/przyslowek/stopniowanie-i-tworzenie.md
-              - Funkcje i pisownia: gramatyka/czesci-mowy/przyslowek/funkcje-i-pisownia.md
-              - Przysłówki w tekście: gramatyka/czesci-mowy/przyslowek/przyslowki-w-tekscie.md
+              - Co określa przysłówek: gramatyka/czesci-mowy/przyslowek/znaczenie-i-rozpoznawanie.md
+              - Porównywanie i tworzenie: gramatyka/czesci-mowy/przyslowek/stopniowanie-i-tworzenie.md
+              - Zakres, szyk i pisownia: gramatyka/czesci-mowy/przyslowek/funkcje-i-pisownia.md
+              - Przysłówki w opowieści: gramatyka/czesci-mowy/przyslowek/przyslowki-w-tekscie.md
           - Przyimek:
               - Wprowadzenie: gramatyka/czesci-mowy/przyimek/index.md
               - Przypadki i rekcja: gramatyka/czesci-mowy/przyimek/przypadki-i-rekcja.md
