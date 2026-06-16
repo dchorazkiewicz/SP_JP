@@ -111,6 +111,7 @@
 ./docs/gramatyka/skladnia/dopelnienie/lesson-9.md
 ./docs/gramatyka/skladnia/dopelnienie/lesson.md
 ./docs/gramatyka/skladnia/dopelnienie/page5.md
+./docs/gramatyka/skladnia/dopelnienie/rozpoznawanie.md
 ./docs/gramatyka/skladnia/dopelnienie/test.md
 ./docs/gramatyka/skladnia/dopelnienie/text-a.md
 ./docs/gramatyka/skladnia/dopelnienie/text-b.md
