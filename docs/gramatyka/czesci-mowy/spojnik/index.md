@@ -15,12 +15,12 @@ Spójnik łączy wyrazy, grupy wyrazów albo zdania i pokazuje, **jaka relacja z
 > <span class="member-left">Marta wróciła do pracowni</span>, <span class="conj-focus">więc</span> <span class="member-right">dokończyła model</span>.  
 > <span class="member-left">Marta wróciła do pracowni</span>, <span class="conj-focus">ponieważ</span> <span class="member-right">chciała dokończyć model</span>.
 
-W pierwszym zdaniu spójnik **i** dodaje drugą czynność. **Ale** wprowadza sprzeczność z oczekiwaniem. **Więc** przedstawia dokończenie modelu jako skutek powrotu. **Ponieważ** odwraca kierunek wyjaśnienia: drugie zdanie podaje przyczynę powrotu.
+W pierwszym zdaniu **i** dodaje drugą czynność. **Ale** wprowadza treść inną od oczekiwanej. **Więc** przedstawia dokończenie modelu jako skutek powrotu. **Ponieważ** odwraca kierunek wyjaśnienia: druga część podaje przyczynę powrotu.
 
 <div class="conjunction-concept">
   <span class="conjunction-concept__label">Pojęcie</span>
   <strong>Spójnik</strong>
-  <p>To nieodmienna część mowy służąca do łączenia elementów i wyrażania relacji między nimi. Sam spójnik nie jest zwykle osobnym członem zdania: nie zastępuje podmiotu, dopełnienia ani okolicznika.</p>
+  <p>To nieodmienna część mowy służąca do łączenia elementów i wyrażania relacji między nimi. Sam spójnik nie nazywa osoby, rzeczy, czynności ani okoliczności — jego podstawowym zadaniem jest łączenie treści.</p>
 </div>
 
 ## Spójnik może łączyć elementy różnej wielkości
@@ -46,15 +46,15 @@ Spójnik nie musi więc łączyć tylko dwóch pojedynczych słów. Trzeba zawsz
 
 > Marta czytała instrukcję <span class="conj-focus">i</span> Paweł przygotowywał narzędzia.
 
-Oba zdania mogą istnieć samodzielnie. Spójnik **i** łączy człony współrzędne, czyli równorzędne.
+Obie części mogą istnieć samodzielnie i pełnią podobną rolę w większej konstrukcji. Nazywamy je **współrzędnymi**, czyli równorzędnymi.
 
 > Marta zauważyła, <span class="conj-focus">że</span> brakuje jednego elementu.
 
-Fragment **że brakuje jednego elementu** zależy od czasownika **zauważyła** i uzupełnia jego treść. Spójnik **że** wprowadza zdanie podrzędne.
+Fragment **że brakuje jednego elementu** uzupełnia treść wyrazu **zauważyła**: mówi, co Marta zauważyła. Taki zależny fragment nazywamy **zdaniem podrzędnym**, a część, od której zależy — nadrzędną.
 
 <div class="conjunction-checkpoint">
   <div class="conjunction-checkpoint__title">Spójnik nie zawsze łączy dwa samodzielne zdania</div>
-  <p>W konstrukcji <em>Wiem, że wrócisz</em> zdanie po <em>że</em> odpowiada na pytanie o treść wiedzy. Jest częścią większej konstrukcji i zależy od zdania nadrzędnego.</p>
+  <p>W konstrukcji <em>Wiem, że wrócisz</em> część po <em>że</em> odpowiada na pytanie o treść wiedzy. Jest zależna od wcześniejszej części.</p>
 </div>
 
 ## Spójnik nie jest tym samym co zaimek względny
@@ -62,13 +62,13 @@ Fragment **że brakuje jednego elementu** zależy od czasownika **zauważyła** 
 > To jest książka, <span class="relative-anchor">którą</span> przeczytałem wczoraj.  
 > Wiem, <span class="conj-focus">że</span> przeczytałeś tę książkę.
 
-Forma **którą** odnosi się do rzeczownika **książka** i pełni wewnątrz zdania podrzędnego funkcję dopełnienia: przeczytałem **co?** — książkę. Jest zaimkiem względnym.
+Forma **którą** odsyła do rzeczownika **książka** i zastępuje go wewnątrz drugiej części: przeczytałem **co?** — książkę. W składni takie zadanie nazywa się funkcją dopełnienia, ale na tym etapie najważniejsze jest zauważenie, że **którą** reprezentuje wcześniejszą nazwę.
 
-Spójnik **że** jedynie wprowadza zdanie podrzędne. Nie zastępuje w nim żadnego rzeczownika ani innego członu.
+Spójnik **że** niczego wewnątrz zdania nie zastępuje. Tylko otwiera treść zależną.
 
 ## Nie każdy wyraz łączący tekst jest bezspornie spójnikiem
 
-Wyrazy takie jak **jednak, natomiast, zaś, dlatego, ponadto** pomagają łączyć wypowiedzi i wskazują relacje logiczne. Ich klasyfikacja zależy jednak od sposobu użycia i przyjętego opisu gramatycznego. Część z nich może być opisywana jako partykuły, przysłówki albo wyrazy nawiązujące.
+Wyrazy takie jak **jednak, natomiast, zaś, dlatego, ponadto** pomagają łączyć wypowiedzi i wskazują relacje logiczne. Ich klasyfikacja zależy od sposobu użycia i przyjętego opisu gramatycznego. Część z nich może być opisywana jako partykuły, przysłówki albo wyrazy nawiązujące.
 
 W tym dziale będziemy odróżniać:
 
@@ -82,17 +82,17 @@ W tym dziale będziemy odróżniać:
 > Raport był krótki, <span class="conj-focus">ale</span> zawierał wszystkie wyniki.  
 > Wiem, <span class="conj-focus">że</span> raport jest gotowy.
 
-Przed pojedynczym **i** zwykle nie stawiamy przecinka. Przed **ale** oraz przed zdaniem podrzędnym wprowadzonym przez **że** przecinek jest potrzebny.
+Przed pojedynczym **i** zwykle nie stawiamy przecinka. Przed **ale** oraz przed zależną częścią wprowadzoną przez **że** przecinek jest potrzebny.
 
-Jednak nawet przed **i** może pojawić się przecinek, gdy zamyka on wcześniejsze zdanie podrzędne:
+Nawet przed **i** może jednak pojawić się przecinek, gdy zamyka wcześniejszy fragment:
 
 > Dokument, <span class="relative-anchor">który przygotowała Marta</span>, <span class="conj-focus">i</span> wykres Pawła zostały wysłane rano.
 
-Przecinek przed **i** nie oddziela tu członów połączonych przez ten spójnik. Zamyka wtrącone zdanie **który przygotowała Marta**.
+Przecinek przed **i** nie oddziela elementów połączonych przez ten spójnik. Zamyka wtrąconą informację **który przygotowała Marta**.
 
 ## Jak czytać ten dział?
 
-Najpierw zobaczymy, jak spójniki współrzędne dodają, rozdzielają, przeciwstawiają i pokazują wynik. Następnie przeanalizujemy zdania podrzędne i zasadę oddzielania ich przecinkami. Później zajmiemy się spójnikami powtarzanymi, parami typu **nie tylko… lecz także…**, połączeniami wielowyrazowymi i stylem. Na końcu sprawdzimy, jak spójniki prowadzą tok pełnej opowieści.
+Najpierw zobaczymy, jak spójniki dodają, rozdzielają, przeciwstawiają i pokazują wynik. Następnie przeanalizujemy zależność między zdaniami i zasadę oddzielania ich przecinkami. Później zajmiemy się spójnikami powtarzanymi, parami typu **nie tylko… lecz także…**, połączeniami wielowyrazowymi i stylem. Na końcu sprawdzimy, jak spójniki prowadzą tok pełnej opowieści.
 
 <div class="topic-grid">
   <a class="topic-card topic-card--primary" href="wspolrzedne/"><span class="topic-number">01</span><strong>Relacje między równorzędnymi członami</strong><span>Dodawanie, wybór, przeciwstawienie, wynik i wyjaśnienie oraz przecinki przy spójnikach współrzędnych.</span></a>
@@ -106,10 +106,10 @@ Najpierw zobaczymy, jak spójniki współrzędne dodają, rozdzielają, przeciws
 <ul>
   <li>Spójnik łączy wyrazy, grupy wyrazów albo zdania.</li>
   <li>Wybór spójnika zmienia relację logiczną między członami.</li>
-  <li>Spójniki współrzędne łączą człony równorzędne, a podrzędne wprowadzają człon zależny.</li>
-  <li>Spójnik zwykle nie pełni samodzielnej funkcji składniowej w zdaniu.</li>
-  <li>Zaimek względny, taki jak <em>który</em>, pełni funkcję wewnątrz zdania podrzędnego i nie jest spójnikiem.</li>
-  <li>O przecinku decyduje budowa całego zdania, a nie mechaniczne zapamiętanie jednego słowa.</li>
+  <li>Człony współrzędne są równorzędne, a zdanie podrzędne zależy od innej części.</li>
+  <li>Spójnik zwykle niczego wewnątrz połączonej treści nie zastępuje.</li>
+  <li>Zaimek względny, taki jak <em>który</em>, odsyła do wcześniejszej nazwy i pełni zadanie wewnątrz zdania zależnego.</li>
+  <li>O przecinku decyduje budowa całej wypowiedzi, a nie mechaniczne zapamiętanie jednego słowa.</li>
 </ul>
 </div>
 
