@@ -68,18 +68,6 @@ nav:
       - Przegląd: gramatyka/index.md
       - Części mowy:
           - Przegląd: gramatyka/czesci-mowy/index.md
-          - Czasownik:
-              - Wprowadzenie: gramatyka/czesci-mowy/czasownik/index.md
-              - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/czasownik/znaczenie-i-rozpoznawanie.md
-              - Osoby i liczby: gramatyka/czesci-mowy/czasownik/osoby-i-liczby.md
-              - Czasy czasownika: gramatyka/czesci-mowy/czasownik/czasy.md
-              - Aspekt — proces i zakończona całość: gramatyka/czesci-mowy/czasownik/aspekt.md
-              - Tryby czasownika: gramatyka/czesci-mowy/czasownik/tryby.md
-              - Różne sposoby przedstawiania czynności: gramatyka/czesci-mowy/czasownik/strony-i-formy-nieosobowe.md
-              - Strona czynna i bierna: gramatyka/czesci-mowy/czasownik/strona-czynna-i-bierna.md
-              - Bezokolicznik i formy bezosobowe: gramatyka/czesci-mowy/czasownik/bezokolicznik-i-formy-bezosobowe.md
-              - Imiesłowy: gramatyka/czesci-mowy/czasownik/imieslowy.md
-              - Czasowniki w opowieści: gramatyka/czesci-mowy/czasownik/czasowniki-w-tekscie.md
           - Rzeczownik:
               - Wprowadzenie: gramatyka/czesci-mowy/rzeczownik/index.md
               - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/rzeczownik/znaczenie-i-typy.md
@@ -88,6 +76,18 @@ nav:
               - Rzeczownik w zdaniu: gramatyka/czesci-mowy/rzeczownik/rzeczownik-w-zdaniu.md
               - Powstawanie i pisownia: gramatyka/czesci-mowy/rzeczownik/slowotworstwo-i-pisownia.md
               - Rzeczowniki w opowieści: gramatyka/czesci-mowy/rzeczownik/rzeczowniki-w-tekscie.md
+          - Czasownik:
+              - Wprowadzenie: gramatyka/czesci-mowy/czasownik/index.md
+              - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/czasownik/znaczenie-i-rozpoznawanie.md
+              - Osoby i liczby: gramatyka/czesci-mowy/czasownik/osoby-i-liczby.md
+              - Czasy czasownika: gramatyka/czesci-mowy/czasownik/czasy.md
+              - Aspekt — proces i zakończona całość: gramatyka/czesci-mowy/czasownik/aspekt.md
+              - Tryby czasownika: gramatyka/czesci-mowy/czasownik/tryby.md
+              - Strona czynna i bierna: gramatyka/czesci-mowy/czasownik/strona-czynna-i-bierna.md
+              - Bezokolicznik i formy bezosobowe: gramatyka/czesci-mowy/czasownik/bezokolicznik-i-formy-bezosobowe.md
+              - Imiesłowy: gramatyka/czesci-mowy/czasownik/imieslowy.md
+              - Różne sposoby przedstawiania czynności: gramatyka/czesci-mowy/czasownik/strony-i-formy-nieosobowe.md
+              - Czasowniki w opowieści: gramatyka/czesci-mowy/czasownik/czasowniki-w-tekscie.md
           - Przymiotnik:
               - Wprowadzenie: gramatyka/czesci-mowy/przymiotnik/index.md
               - Znaczenie i rozpoznawanie: gramatyka/czesci-mowy/przymiotnik/znaczenie-i-zgoda.md
@@ -95,6 +95,12 @@ nav:
               - Porównywanie natężenia cechy: gramatyka/czesci-mowy/przymiotnik/stopniowanie.md
               - Funkcje, słowotwórstwo i pisownia: gramatyka/czesci-mowy/przymiotnik/funkcje-i-slowotworstwo.md
               - Przymiotniki w opowieści: gramatyka/czesci-mowy/przymiotnik/przymiotniki-w-tekscie.md
+          - Przysłówek:
+              - Wprowadzenie: gramatyka/czesci-mowy/przyslowek/index.md
+              - Co określa przysłówek: gramatyka/czesci-mowy/przyslowek/znaczenie-i-rozpoznawanie.md
+              - Porównywanie i tworzenie: gramatyka/czesci-mowy/przyslowek/stopniowanie-i-tworzenie.md
+              - Zakres, szyk i pisownia: gramatyka/czesci-mowy/przyslowek/funkcje-i-pisownia.md
+              - Przysłówki w opowieści: gramatyka/czesci-mowy/przyslowek/przyslowki-w-tekscie.md
           - Zaimek:
               - Wprowadzenie: gramatyka/czesci-mowy/zaimki/index.md
               - Jak działają zaimki: gramatyka/czesci-mowy/zaimki/rodzaje-i-funkcje.md
@@ -109,16 +115,10 @@ nav:
               - Odmiana liczebników: gramatyka/czesci-mowy/liczebnik/odmiana.md
               - Zbiorowe, ułamkowe i zapis liczb: gramatyka/czesci-mowy/liczebnik/zbiorowe-ulamkowe-i-pisownia.md
               - Liczebniki w opowieści: gramatyka/czesci-mowy/liczebnik/liczebniki-w-tekscie.md
-          - Przysłówek:
-              - Wprowadzenie: gramatyka/czesci-mowy/przyslowek/index.md
-              - Co określa przysłówek: gramatyka/czesci-mowy/przyslowek/znaczenie-i-rozpoznawanie.md
-              - Porównywanie i tworzenie: gramatyka/czesci-mowy/przyslowek/stopniowanie-i-tworzenie.md
-              - Zakres, szyk i pisownia: gramatyka/czesci-mowy/przyslowek/funkcje-i-pisownia.md
-              - Przysłówki w opowieści: gramatyka/czesci-mowy/przyslowek/przyslowki-w-tekscie.md
           - Przyimek:
               - Wprowadzenie: gramatyka/czesci-mowy/przyimek/index.md
-              - Przyimek wybiera przypadek: gramatyka/czesci-mowy/przyimek/przypadki-i-rekcja.md
               - Jaką relację buduje przyimek: gramatyka/czesci-mowy/przyimek/znaczenie-i-rodzaje.md
+              - Przyimek wybiera przypadek: gramatyka/czesci-mowy/przyimek/przypadki-i-rekcja.md
               - Budowa, szyk i pisownia: gramatyka/czesci-mowy/przyimek/skladnia-i-pisownia.md
               - Przyimki w opowieści: gramatyka/czesci-mowy/przyimek/przyimki-w-tekscie.md
           - Spójnik:
