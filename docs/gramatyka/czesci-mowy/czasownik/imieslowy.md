@@ -2,81 +2,52 @@
 
 <div class="verb-lesson" markdown>
 
-<div class="lead-box" markdown>
-
-Imiesłów jest formą utworzoną od czasownika. Zachowuje znaczenie czynności, ale nie działa w zdaniu dokładnie tak jak zwykła forma osobowa. Może określać rzeczownik podobnie do przymiotnika albo dołączać drugą czynność do zdania.
-
-</div>
-
-## Numer specjalny szkolnej gazety
-
-<div class="verb-story" markdown>
-  <div class="verb-story__title">Redakcja pracuje przed terminem</div>
-  <div class="verb-story__body" markdown>
-
-Szkolna redakcja przygotowywała specjalny numer gazety. Na stole leżały zdjęcia, notatki i wydrukowane wywiady.
-
-Kuba, <span class="verb-form">przeglądający</span> fotografie z meczu, wybierał zdjęcie na pierwszą stronę. Maja wskazała <span class="verb-form">poprawiony</span> artykuł, a obok położyła jeszcze <span class="verb-form">niepodpisane</span> teksty.
-
-Po chwili redaktorzy zaczęli składać strony. Maja, <span class="verb-form">czytając</span> tekst po raz drugi, poprawiała przecinki. Kuba, <span class="verb-form">porównując</span> fotografie, sprawdzał ich ostrość.
-
-Przed południem Maja skończyła pracę:
-
-> <span class="verb-form">Przeczytawszy</span> ostatnią stronę, zapisała plik.
-
-Kuba również zakończył sprawdzanie:
-
-> <span class="verb-form">Sprawdziwszy</span> układ stron, wysłał gazetę do nauczycielki.
-
-W tej krótkiej scenie pojawiły się cztery rodzaje imiesłowów:
-
-> przeglądający — czynny przymiotnikowy;  
-> poprawiony — bierny przymiotnikowy;  
-> czytając — współczesny przysłówkowy;  
-> przeczytawszy — uprzedni przysłówkowy.
-
-  </div>
-</div>
-
-## Dwie duże grupy imiesłowów
-
-<div class="verb-comparison">
-  <div class="verb-comparison__item"><span class="verb-label">przymiotnikowe</span><p><strong>czytający uczeń</strong><br><strong>przeczytana książka</strong></p><p>Określają rzeczownik i odmieniają się podobnie do przymiotników.</p></div>
-  <div class="verb-comparison__item"><span class="verb-label">przysłówkowe</span><p><strong>czytając, notował</strong><br><strong>przeczytawszy, odłożył</strong></p><p>Nie odmieniają się i pokazują relację między dwiema czynnościami.</p></div>
-</div>
-
-Imiesłowy zachowują właściwości czasownika. Mogą mieć aspekt, własne uzupełnienia i znaczenie czynności. Jednocześnie przejmują część zachowania przymiotnika albo przysłówka.
-
-## Imiesłów przymiotnikowy czynny
+## Czynność może zostać włączona do opisu
 
 Porównaj:
 
 > Uczeń <span class="verb-form">czyta</span> artykuł.  
 > <span class="verb-form">Czytający</span> uczeń robi notatki.
 
-Wyraz **czytający** określa ucznia, który sam wykonuje czynność. Dlatego jest imiesłowem przymiotnikowym **czynnym**.
+W pierwszym zdaniu **czyta** jest osobową formą czasownika: wskazuje jednego uczestnika i teraźniejszość. W drugim **czytający** określa rzeczownik **uczeń**, ale nadal zachowuje znaczenie czynności.
 
-Częste zakończenia to:
+Porównaj także:
 
-> -ący, -ąca, -ące;  
-> -ącego, -ącej, -ących;  
-> -ącym, -ącymi.
+> Maja czytała tekst i jednocześnie poprawiała przecinki.  
+> <span class="verb-form">Czytając</span> tekst, Maja poprawiała przecinki.
 
-Przykłady:
+Forma **czytając** nie określa rzeczownika. Dołącza drugą czynność wykonywaną równocześnie.
 
-> biegnący zawodnik;  
-> śpiewająca uczennica;  
-> pracujące urządzenie;  
-> rozmawiający goście;  
-> migające światła.
+<div class="lead-box" markdown>
 
-W każdym wyrażeniu rzeczownik nazywa wykonawcę czynności:
+Formę utworzoną od czasownika, która zachowuje znaczenie czynności, lecz działa podobnie do przymiotnika albo przysłówka, nazywamy **imiesłowem**.
 
-- zawodnik biegnie;
-- uczennica śpiewa;
-- urządzenie pracuje;
-- goście rozmawiają;
-- światła migają.
+</div>
+
+## Dwie duże grupy
+
+<div class="verb-comparison">
+  <div class="verb-comparison__item"><span class="verb-label">określają rzeczownik</span><p><strong>czytający uczeń</strong><br><strong>przeczytana książka</strong></p><p>Zmieniają formę razem z rzeczownikiem, podobnie jak przymiotniki.</p></div>
+  <div class="verb-comparison__item"><span class="verb-label">dołączają czynność</span><p><strong>czytając, notował</strong><br><strong>przeczytawszy, odłożył</strong></p><p>Zachowują jedną formę i pokazują relację czasową między czynnościami.</p></div>
+</div>
+
+Pierwszą grupę nazywamy **imiesłowami przymiotnikowymi**, a drugą — **imiesłowami przysłówkowymi**. Nazwy wynikają z ich zachowania w zdaniu, a nie tylko z zakończenia.
+
+## Imiesłów określający wykonawcę czynności
+
+> Uczeń <span class="verb-form">czyta</span> artykuł.  
+> <span class="verb-form">Czytający</span> uczeń robi notatki.
+
+Wyraz **czytający** opisuje ucznia, który sam wykonuje czynność. Dlatego nazywamy go **imiesłowem przymiotnikowym czynnym**.
+
+- **przymiotnikowy** — ponieważ określa rzeczownik i dopasowuje do niego formę;
+- **czynny** — ponieważ rzeczownik nazywa wykonawcę czynności.
+
+> biegnący zawodnik — zawodnik biegnie;  
+> śpiewająca uczennica — uczennica śpiewa;  
+> migające światła — światła migają.
+
+Typowe zakończenia to **-ący, -ąca, -ące** oraz ich formy odmiany.
 
 ### Dopasowanie do rzeczownika
 
@@ -86,147 +57,103 @@ W każdym wyrażeniu rzeczownik nazywa wykonawcę czynności:
 > czytający uczniowie;  
 > czytające uczennice.
 
-Imiesłów zmienia rodzaj i liczbę. Odmienia się również przez przypadki:
+Imiesłów zmienia rodzaj, liczbę i przypadek razem z rzeczownikiem.
 
-> widzę czytającego chłopca;  
-> przyglądam się czytającej dziewczynce;  
-> rozmawiam z czytającymi uczniami.
-
-### Własne uzupełnienia
+### Zachowane właściwości czasownika
 
 > uczeń czytający **artykuł**;  
-> reporter opisujący **wydarzenie**;  
-> zawodnik strzelający **bramkę**.
+> reporter opisujący **wydarzenie**.
 
-Wyrazy **artykuł**, **wydarzenie** i **bramkę** zależą od czynności zawartej w imiesłowie. To jego czasownikowa cecha.
+Wyrazy **artykuł** i **wydarzenie** uzupełniają czynność zawartą w imiesłowie. To jego czasownikowa właściwość.
 
-Imiesłowy przymiotnikowe czynne tworzymy zasadniczo od czasowników niedokonanych:
+Formy tego typu tworzymy zasadniczo od czasowników przedstawiających czynność jako trwającą lub powtarzaną:
 
 > czytać → czytający;  
-> biec → biegnący;  
 > pracować → pracujący.
 
-Pokazują czynność trwającą lub powtarzaną, a nie zamknięty wynik.
-
-## Imiesłów przymiotnikowy bierny
-
-Porównaj:
+## Imiesłów określający osobę lub rzecz objętą czynnością
 
 > Maja <span class="verb-form">napisała</span> artykuł.  
 > Na stole leżał <span class="verb-form">napisany</span> artykuł.
 
-Wyraz **napisany** określa artykuł, na którym wykonano czynność. Artykuł sam nie pisał — ktoś go napisał. Dlatego jest to imiesłów przymiotnikowy **bierny**.
+Artykuł sam nie pisał. Ktoś wykonał na nim czynność. Formę **napisany** nazywamy **imiesłowem przymiotnikowym biernym**.
 
-Częste zakończenia to:
-
-> -ny, -na, -ne;  
-> -ony, -ona, -one;  
-> -ty, -ta, -te.
-
-Przykłady:
+- **przymiotnikowy** — ponieważ określa rzeczownik i się do niego dopasowuje;
+- **bierny** — ponieważ rzeczownik jest objęty czynnością, a nie jest jej wykonawcą.
 
 > przeczytany tekst;  
 > zamknięta brama;  
 > zbudowane schronienie;  
-> umyte okno;  
-> odkryte przejście;  
 > zaproszeni goście.
 
-### Dopasowanie do rzeczownika
+Typowe zakończenia to **-ny, -ony, -ty** wraz z formami rodzaju i liczby.
 
-> poprawiony artykuł;  
-> poprawiona notatka;  
-> poprawione zdanie;  
-> poprawione teksty.
+### Nie każdy czasownik tworzy taką formę
 
-W przypadkach:
-
-> nie ma poprawionego artykułu;  
-> przyglądam się poprawionej notatce;  
-> rozmawiamy o poprawionych tekstach.
-
-### Nie każdy czasownik tworzy imiesłów bierny
-
-Takie formy tworzą przede wszystkim czasowniki, których czynność obejmuje osobę lub przedmiot:
+Naturalnie:
 
 > napisać tekst → napisany tekst;  
-> otworzyć drzwi → otwarte drzwi;  
 > naprawić rower → naprawiony rower.
 
-Czasowniki **spać**, **biec**, **siedzieć** czy **istnieć** nie tworzą zwykle naturalnych imiesłowów biernych, ponieważ nie oznaczają działania wykonywanego na przedmiocie.
+Nienaturalnie w zwykłym znaczeniu:
 
-Nie mówimy w zwykłym znaczeniu:
+> ~~spany sen~~;  
+> ~~siedziane krzesło~~.
 
-> ~~spany sen~~  
-> ~~biegnięta droga~~  
-> ~~siedziane krzesło~~
+Imiesłów bierny tworzą przede wszystkim czasowniki oznaczające czynność obejmującą osobę lub przedmiot.
 
-### Imiesłów bierny w stronie biernej
+### Użycie w stronie biernej
 
 > Artykuł <span class="verb-form">został napisany</span> przez Maję.  
 > Brama <span class="verb-form">jest zamykana</span> o osiemnastej.
 
-Imiesłów bierny łączy się z formą czasownika **być** albo **zostać** i tworzy stronę bierną.
+Imiesłów bierny może łączyć się z formą **być** albo **zostać** i współtworzyć stronę bierną.
 
 <div class="verb-checkpoint">
   <div class="verb-checkpoint__title">Dwa imiesłowy przymiotnikowe</div>
   <p><strong>Czynny</strong> opisuje wykonawcę: <em>uczeń czytający tekst</em>.</p>
   <p><strong>Bierny</strong> opisuje osobę lub rzecz objętą czynnością: <em>tekst przeczytany przez ucznia</em>.</p>
-  <p class="verb-checkpoint__term">Oba odmieniają się przez rodzaje, liczby i przypadki.</p>
 </div>
 
-## Imiesłów przysłówkowy współczesny
+## Dwie czynności równoczesne
 
-> Maja czytała tekst i jednocześnie poprawiała przecinki.
-
-Możemy połączyć informacje:
-
+> Maja czytała tekst i jednocześnie poprawiała przecinki.  
 > <span class="verb-form">Czytając</span> tekst, Maja poprawiała przecinki.
 
-Forma **czytając** kończy się na **-ąc** i pokazuje czynność równoczesną z czynnością wyrażoną formą osobową.
+Forma **czytając** pokazuje czynność trwającą w tym samym czasie co czynność główna. Nie zmienia formy przez rodzaje ani liczby, dlatego nazywamy ją **imiesłowem przysłówkowym współczesnym**.
+
+Słowo **współczesny** oznacza tutaj „odbywający się równocześnie”, a nie „należący do naszych czasów”.
 
 > <span class="verb-form">Idąc</span> do szkoły, Kuba rozmawiał z Mają.  
-> <span class="verb-form">Słuchając</span> muzyki, Lena porządkowała biurko.  
-> <span class="verb-form">Porównując</span> fotografie, reporter sprawdzał daty.
+> <span class="verb-form">Słuchając</span> muzyki, Lena porządkowała biurko.
 
-W każdym zdaniu jedna osoba wykonuje dwie czynności w tym samym czasie.
+Typowe zakończenie to **-ąc**. Formy powstają od czasowników przedstawiających trwanie lub powtarzanie czynności.
 
-Imiesłów współczesny tworzymy od czasowników niedokonanych:
+## Jedna czynność zakończona przed drugą
 
-> czytać → czytając;  
-> iść → idąc;  
-> słuchać → słuchając.
-
-## Imiesłów przysłówkowy uprzedni
-
-> Maja najpierw przeczytała tekst, a potem zapisała plik.
-
-Możemy powiedzieć:
-
+> Maja najpierw przeczytała tekst, a potem zapisała plik.  
 > <span class="verb-form">Przeczytawszy</span> tekst, Maja zapisała plik.
 
-Forma **przeczytawszy** pokazuje, że jedna czynność zakończyła się przed drugą.
+Forma **przeczytawszy** pokazuje czynność wcześniejszą i zakończoną. Nazywamy ją **imiesłowem przysłówkowym uprzednim**.
 
-Częste zakończenia to **-wszy** i **-łszy**:
+Słowo **uprzedni** znaczy tutaj „wcześniejszy”.
 
-> przeczytawszy;  
-> sprawdziwszy;  
-> zrobiwszy;  
-> wyszedłszy;  
-> przyszedłszy.
+Typowe zakończenia to **-wszy** i **-łszy**:
 
-Przykłady:
+> przeczytawszy; sprawdziwszy; wyszedłszy.
 
-> <span class="verb-form">Sprawdziwszy</span> układ stron, Kuba wysłał gazetę.  
-> <span class="verb-form">Wyszedłszy</span> z domu, przypomniał sobie o kluczach.
+Formy te są rzadsze w codziennej rozmowie i częstsze w starannym stylu pisanym lub literaturze.
 
-Imiesłów uprzedni tworzymy zasadniczo od czasowników dokonanych, ponieważ jego czynność musi być zakończona przed czynnością główną.
+## Dopiero teraz pełna mapa nazw
 
-Formy te są dziś rzadsze w codziennych rozmowach. Częściej spotykamy je w literaturze, staranniejszym stylu pisanym i tekstach stylizowanych.
+| Funkcja | Nazwa | Przykład |
+|---|---|---|
+| określa wykonawcę czynności | imiesłów przymiotnikowy czynny | czytający uczeń |
+| określa osobę lub rzecz objętą czynnością | imiesłów przymiotnikowy bierny | przeczytana książka |
+| dołącza czynność równoczesną | imiesłów przysłówkowy współczesny | czytając, notował |
+| dołącza czynność wcześniejszą | imiesłów przysłówkowy uprzedni | przeczytawszy, odłożył |
 
 ## Ten sam wykonawca obu czynności
-
-To najważniejsza zasada dotycząca imiesłowów przysłówkowych.
 
 > <span class="verb-form">Czytając</span> tekst, Maja poprawiała przecinki.
 
@@ -236,115 +163,52 @@ Maja czytała i Maja poprawiała.
 
 Kuba sprawdził i Kuba wysłał.
 
-Zdanie jest niepoprawne lub nielogiczne, gdy wykonawcy się nie zgadzają:
+Niepoprawnie:
 
 > ~~Idąc do szkoły, padał deszcz.~~
 
-Wynikałoby z niego, że deszcz szedł do szkoły. Poprawnie:
+Zdanie sugerowałoby, że deszcz szedł do szkoły. Poprawnie:
 
 > Gdy szedłem do szkoły, padał deszcz.  
 > Idąc do szkoły, zauważyłem, że pada deszcz.
 
-Podobnie:
-
-> ~~Czytając książkę, zadzwonił telefon.~~
-
-Telefon nie czytał. Lepiej:
-
-> Kiedy czytałam książkę, zadzwonił telefon.  
-> Czytając książkę, usłyszałam dzwonek telefonu.
-
 <div class="verb-why">
-<strong>Imiesłów przysłówkowy nie ma własnego podmiotu.</strong>
-Jego wykonawcą jest ta sama osoba lub rzecz, która wykonuje czynność wyrażoną formą osobową.
+<strong>Imiesłów przysłówkowy nie wprowadza własnego wykonawcy.</strong>
+Wykonawcą jego czynności jest ta sama osoba lub rzecz, która wykonuje czynność wyrażoną formą osobową.
 </div>
 
-## Przecinki przy imiesłowach przysłówkowych
+## Przecinki
 
-Konstrukcję z imiesłowem przysłówkowym oddzielamy przecinkiem od reszty zdania:
+Konstrukcję z imiesłowem przysłówkowym oddzielamy przecinkiem:
 
 > <span class="verb-form">Czytając tekst</span>, Maja robiła notatki.  
 > Maja, <span class="verb-form">czytając tekst</span>, robiła notatki.  
 > Maja robiła notatki, <span class="verb-form">czytając tekst</span>.
 
-Tak samo postępujemy z imiesłowem uprzednim:
+Nie stawiamy przecinka tylko przed samym zakończeniem **-ąc** lub **-wszy**. Oddzielamy całą konstrukcję wraz z jej uzupełnieniami.
 
-> <span class="verb-form">Przeczytawszy tekst</span>, Maja zapisała plik.
+## Jak rozpoznawać imiesłów?
 
-Przecinek pokazuje granicę między czynnością wyrażoną imiesłowem a główną częścią zdania.
-
-## Imiesłów a zwykły przymiotnik
-
-Porównaj:
-
-> **zielona** kartka;  
-> **zapisana** kartka.
-
-**Zielona** nazywa cechę. **Zapisana** wiąże cechę kartki z wcześniejszą czynnością: ktoś ją zapisał.
-
-Niektóre imiesłowy z czasem zaczynają być odbierane jak zwykłe przymiotniki:
-
-> zamknięty człowiek;  
-> uczony człowiek;  
-> stojąca lampa.
-
-O znaczeniu decyduje kontekst. W wyrażeniu **zamknięte drzwi** może chodzić o rezultat czynności zamykania. W określeniu **zamknięty człowiek** wyraz opisuje cechę charakteru.
-
-Nie trzeba rozstrzygać każdego takiego przypadku natychmiast. Ważne jest zauważenie, czy w danym zdaniu wyraźnie odczuwamy czynność, czy raczej stałą cechę.
-
-## Jak imiesłowy zagęszczają tekst?
-
-Dwa zdania:
-
-> Dzieci śpiewały. Dzieci stały na scenie.
-
-możemy połączyć:
-
-> <span class="verb-form">Śpiewające</span> dzieci stały na scenie.
-
-Dwa kolejne zdania:
-
-> Maja czytała tekst. Jednocześnie poprawiała przecinki.
-
-możemy przekształcić:
-
-> <span class="verb-form">Czytając</span> tekst, Maja poprawiała przecinki.
-
-Imiesłowy pozwalają przekazać więcej informacji w jednym zdaniu. Nadmiar takich konstrukcji może jednak utrudniać lekturę, zwłaszcza gdy zdanie staje się bardzo długie. Dobra wypowiedź łączy zwięzłość z czytelnością.
-
-## Cztery rodzaje — jedno porównanie
-
-<div class="verb-series">
-  <div class="verb-row"><span class="verb-badge">przymiotnikowy czynny</span><p><span class="verb-form">czytający</span> uczeń</p><span class="verb-note">uczeń wykonuje czynność</span></div>
-  <div class="verb-row"><span class="verb-badge">przymiotnikowy bierny</span><p><span class="verb-form">przeczytana</span> książka</p><span class="verb-note">na książce wykonano czynność</span></div>
-  <div class="verb-row"><span class="verb-badge">przysłówkowy współczesny</span><p><span class="verb-form">czytając</span>, notował</p><span class="verb-note">czynności równoczesne</span></div>
-  <div class="verb-row"><span class="verb-badge">przysłówkowy uprzedni</span><p><span class="verb-form">przeczytawszy</span>, odłożył</p><span class="verb-note">pierwsza czynność wcześniejsza</span></div>
-</div>
-
-## Jak rozpoznawać imiesłowy?
-
-<div class="verb-step-list">
-  <div class="verb-step"><strong>Sprawdź, czy forma określa rzeczownik.</strong> Jeśli tak i się odmienia, jest imiesłowem przymiotnikowym.</div>
-  <div class="verb-step"><strong>Ustal, kto wykonuje czynność.</strong> <em>Uczeń czytający</em> — czynny; <em>tekst przeczytany</em> — bierny.</div>
-  <div class="verb-step"><strong>Sprawdź zakończenie -ąc.</strong> Zwykle wskazuje imiesłów przysłówkowy współczesny.</div>
-  <div class="verb-step"><strong>Sprawdź zakończenie -wszy lub -łszy.</strong> Zwykle wskazuje imiesłów przysłówkowy uprzedni.</div>
-  <div class="verb-step"><strong>Przy imiesłowie przysłówkowym znajdź wspólnego wykonawcę.</strong> Obie czynności muszą dotyczyć tej samej osoby lub rzeczy.</div>
+<div class="verb-checklist">
+  <div><strong>Znajdź związek z czasownikiem.</strong> Jaka czynność kryje się w formie?</div>
+  <div><strong>Sprawdź funkcję.</strong> Czy forma określa rzeczownik, czy dołącza drugą czynność?</div>
+  <div><strong>Przy określeniu rzeczownika ustal kierunek czynności.</strong> Czy rzeczownik działa, czy jest objęty działaniem?</div>
+  <div><strong>Przy dołączonej czynności ustal relację czasową.</strong> Równocześnie czy wcześniej?</div>
+  <div><strong>Sprawdź wykonawcę.</strong> Przy imiesłowie przysłówkowym obie czynności muszą mieć tego samego wykonawcę.</div>
+  <div><strong>Dopiero potem nazwij typ.</strong> Nazwa ma podsumować analizę.</div>
 </div>
 
 <div class="verb-mini-summary">
-<h3>Podsumowanie</h3>
+<h3>Najważniejsze wnioski</h3>
 <ul>
-  <li>Imiesłów jest formą utworzoną od czasownika.</li>
-  <li>Imiesłowy przymiotnikowe określają rzeczownik i odmieniają się przez rodzaje, liczby i przypadki.</li>
-  <li>Imiesłów przymiotnikowy czynny opisuje wykonawcę czynności.</li>
-  <li>Imiesłów przymiotnikowy bierny opisuje osobę lub rzecz objętą czynnością.</li>
-  <li>Imiesłów przysłówkowy współczesny pokazuje czynność równoczesną.</li>
-  <li>Imiesłów przysłówkowy uprzedni pokazuje czynność wcześniejszą.</li>
+  <li>Imiesłów zachowuje znaczenie czynności, ale nie działa jak zwykła forma osobowa.</li>
+  <li>Imiesłowy przymiotnikowe określają rzeczownik i odmieniają się razem z nim.</li>
+  <li>Imiesłowy przysłówkowe zachowują jedną formę i łączą dwie czynności.</li>
+  <li>Nazwy czynny, bierny, współczesny i uprzedni wynikają z funkcji oraz relacji znaczeniowej.</li>
   <li>Przy imiesłowie przysłówkowym obie czynności muszą mieć tego samego wykonawcę.</li>
-  <li>Konstrukcje z imiesłowami przysłówkowymi oddzielamy przecinkami.</li>
 </ul>
 </div>
 
-[Przejdź dalej: czasowniki w opowieści](../czasowniki-w-tekscie/){ .md-button .md-button--primary }
+[Przejdź dalej: czasowniki w tekście](../czasowniki-w-tekscie/){ .md-button .md-button--primary }
 
 </div>
