@@ -99,10 +99,10 @@ Takie wypowiedzi mogą być zrozumiałe dzięki sytuacji, mimo że nie mają oso
   <a class="verb-topic-card" href="czasy/"><span class="verb-topic-number">03</span><strong>Przed chwilą mówienia, teraz i później</strong><span>Jak forma czasownika porządkuje zdarzenia w czasie.</span></a>
   <a class="verb-topic-card" href="aspekt/"><span class="verb-topic-number">04</span><strong>Przebieg i zamknięta całość</strong><span>Dlaczego <em>pisał</em> i <em>napisał</em> nie przedstawiają czynności tak samo.</span></a>
   <a class="verb-topic-card" href="tryby/"><span class="verb-topic-number">05</span><strong>Fakt, możliwość i wpływanie na odbiorcę</strong><span>Trzy sposoby przedstawiania zdarzenia, a następnie ich nazwy gramatyczne.</span></a>
-  <a class="verb-topic-card" href="strony-i-formy-nieosobowe/"><span class="verb-topic-number">06</span><strong>Różne sposoby przedstawiania czynności</strong><span>Wykonawca, przedmiot czynności oraz formy, które nie wskazują jednej osoby.</span></a>
-  <a class="verb-topic-card" href="strona-czynna-i-bierna/"><span class="verb-topic-number">07</span><strong>Wykonawca czy przedmiot czynności?</strong><span>Ta sama sytuacja przedstawiona z dwóch perspektyw.</span></a>
-  <a class="verb-topic-card" href="bezokolicznik-i-formy-bezosobowe/"><span class="verb-topic-number">08</span><strong>Czynność bez wskazania osoby</strong><span>Formy słownikowe, instrukcje oraz czynności zapisane bez nazwania wykonawcy.</span></a>
-  <a class="verb-topic-card" href="imieslowy/"><span class="verb-topic-number">09</span><strong>Czynność włączona do opisu</strong><span>Formy określające rzeczownik albo dołączające drugą czynność.</span></a>
+  <a class="verb-topic-card" href="strona-czynna-i-bierna/"><span class="verb-topic-number">06</span><strong>Wykonawca czy przedmiot czynności?</strong><span>Ta sama sytuacja przedstawiona z dwóch perspektyw.</span></a>
+  <a class="verb-topic-card" href="bezokolicznik-i-formy-bezosobowe/"><span class="verb-topic-number">07</span><strong>Czynność bez wskazania osoby</strong><span>Formy słownikowe, instrukcje oraz czynności zapisane bez nazwania wykonawcy.</span></a>
+  <a class="verb-topic-card" href="imieslowy/"><span class="verb-topic-number">08</span><strong>Czynność włączona do opisu</strong><span>Formy określające rzeczownik albo dołączające drugą czynność.</span></a>
+  <a class="verb-topic-card" href="strony-i-formy-nieosobowe/"><span class="verb-topic-number">09</span><strong>Synteza: jedna czynność, różne ujęcia</strong><span>Porównanie form osobowych, strony biernej, bezosobowości, bezokolicznika i imiesłowów w tych samych sytuacjach.</span></a>
   <a class="verb-topic-card verb-topic-card--reading" href="czasowniki-w-tekscie/"><span class="verb-topic-number">10</span><strong>Czasowniki w opowieści</strong><span>Jak formy czasownika budują kolejność wydarzeń, tempo tekstu i punkt widzenia.</span></a>
 </div>
 
