@@ -6,11 +6,11 @@
 
 Porównaj:
 
-> Marta <span class="object-predicate">lubi</span> <span class="object-mark object-mark--indirect"><strong>reportaże</strong></span>.
+> Marta <span class="object-predicate">lubi</span> <span class="object-mark object-mark--direct"><strong>reportaże</strong></span>.
 
 > Marta <span class="object-predicate">lubi</span> <span class="object-mark object-mark--indirect"><strong>czytać reportaże</strong></span>.
 
-W pierwszym zdaniu dopełnienie nazywa rodzaj tekstów. W drugim nazywa całą czynność, którą Marta lubi wykonywać. Funkcję dopełnienia pełni bezokolicznik wraz z zależnymi od niego wyrazami.
+W pierwszym zdaniu dopełnienie nazywa rodzaj tekstów i jest bliższe: można powiedzieć **reportaże są lubiane przez Martę**. W drugim nazywa całą czynność, którą Marta lubi wykonywać. Funkcję dopełnienia pełni bezokolicznik wraz z zależnymi od niego wyrazami.
 
 Taką grupę nazywamy **dopełnieniem bezokolicznikowym**.
 
@@ -101,13 +101,13 @@ Wyrazy **czy, kto, kiedy, gdzie** pełnią funkcje wewnątrz zdań podrzędnych,
 
 ## Prośba, polecenie i oczekiwanie
 
-> Marta <span class="object-predicate">poprosiła</span> Pawła, <span class="object-mark object-mark--clausal"><strong>żeby przygotował salę</strong></span>.
+> Marta <span class="object-predicate">poprosiła</span> <span class="object-mark object-mark--direct"><strong>Pawła</strong></span>, <span class="object-mark object-mark--clausal"><strong>żeby przygotował salę</strong></span>.
 
 > Kierowniczka <span class="object-predicate">zażądała</span>, <span class="object-mark object-mark--clausal"><strong>aby raport poprawiono</strong></span>.
 
 > Zespół <span class="object-predicate">oczekuje</span>, <span class="object-mark object-mark--clausal"><strong>że wyniki nadejdą jutro</strong></span>.
 
-Zdania podrzędne podają treść prośby, żądania albo oczekiwania.
+Zdania podrzędne podają treść prośby, żądania albo oczekiwania. W pierwszym przykładzie **Pawła** jest dodatkowo dopełnieniem bliższym nazywającym osobę proszoną.
 
 ## Zdanie dopełnieniowe a podmiotowe
 
