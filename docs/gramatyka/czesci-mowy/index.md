@@ -40,7 +40,7 @@ Przeczytaj zdanie:
   <div class="pos-lens-card"><strong>Przyimek</strong><em>w</em> łączy się z formą <em>nim</em> i buduje informację o miejscu.</div>
   <div class="pos-lens-card"><strong>Spójnik</strong><em>ponieważ</em> łączy zdarzenie z jego przyczyną.</div>
   <div class="pos-lens-card"><strong>Partykuła</strong><em>właśnie</em> skupia uwagę na katalogu jako właściwym miejscu.</div>
-  <div class="pos-lens-card"><strong>Wykrzyknika</strong> w tym spokojnym zdaniu nie ma. Mógłby pojawić się w reakcji: <em>Aha! Numer zapisano w katalogu.</em></div>
+  <div class="pos-lens-card"><strong>Wykrzyknik</strong> w tym spokojnym zdaniu nie występuje. Mógłby pojawić się w reakcji: <em>Aha! Numer zapisano w katalogu.</em></div>
 </div>
 
 Nazwy części mowy porządkują różne sposoby działania wyrazów. Nie są jednak skrótami zastępującymi wyjaśnienie. Zawsze pytamy również: **co ten wyraz robi w tym konkretnym zdaniu?**
