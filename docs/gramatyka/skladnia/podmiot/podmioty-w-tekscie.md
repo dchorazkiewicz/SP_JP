@@ -2,74 +2,187 @@
 
 <div class="subject-lesson" markdown>
 
-<div class="subject-lead">
-Poniższy tekst ma 50 zdań. Wyróżnienia pokazują podmioty jawne, domyślne, logiczne i wieloczłonowe. Przy zdaniach bezpodmiotowych zaznaczono brak podmiotu.
+<div class="subject-lead" markdown>
+
+W pojedynczym przykładzie łatwo skupić się na jednej regule. W dłuższym tekście podmiot może zmieniać pozycję, pozostawać domyślny, obejmować kilka członów, przyjmować formę liczebnikową albo w ogóle nie występować. Dlatego analizę każdego zdania zaczynamy od pełnego orzeczenia, a dopiero później kontrolujemy typ i zakres podmiotu.
+
+</div>
+
+<div class="subject-summary" markdown>
+
+### Jak czytać oznaczenia?
+
+- niebieska ramka — podmiot gramatyczny;
+- fioletowa linia przerywana — podmiot domyślny opisany w komentarzu;
+- bursztynowa ramka — podmiot logiczny lub liczebnikowy;
+- zielona podwójna ramka — podmiot szeregowy;
+- czerwona linia kropkowana — konstrukcja towarzysząca z **z**;
+- szare oznaczenie — zdanie bezpodmiotowe;
+- podkreślenie — orzeczenie, od którego rozpoczynamy analizę.
+
 </div>
 
 <div class="subject-reading">
   <div class="subject-reading-header">
-    <h2>Dzień kontroli w centrum technicznym</h2>
-    <p>Najpierw wskaż orzeczenie, a następnie sprawdź typ podmiotu.</p>
+    <h2>Nocna próba w obserwatorium</h2>
+    <p>Najpierw znajdź orzeczenie. Następnie sprawdź przypadek, zgodę i zakres wyróżnionego składnika.</p>
     <div class="subject-reading-legend">
       <span class="subject-mark subject-mark--grammatical">gramatyczny</span>
       <span class="subject-mark subject-mark--implicit">domyślny</span>
       <span class="subject-mark subject-mark--logical">logiczny lub liczebnikowy</span>
-      <span class="subject-mark subject-mark--series">wieloczłonowy</span>
+      <span class="subject-mark subject-mark--series">szeregowy</span>
+      <span class="subject-mark subject-mark--companion">towarzyszący</span>
       <span class="subject-mark subject-mark--none">brak podmiotu</span>
     </div>
   </div>
-  <div class="subject-reading-text">
-    <p><span class="subject-sentence-no">1.</span> <span class="subject-mark subject-mark--grammatical">Kierowniczka centrum</span> <span class="subject-predicate">przyjechała</span> przed ósmą.</p>
-    <p><span class="subject-sentence-no">2.</span> Przy głównym wejściu <span class="subject-predicate">czekał</span> <span class="subject-mark subject-mark--grammatical">technik</span>.</p>
-    <p><span class="subject-sentence-no">3.</span> <span class="subject-predicate">Sprawdziła</span> listę zaplanowanych kontroli. <span class="subject-mark subject-mark--implicit">Podmiot: ona.</span></p>
-    <p><span class="subject-sentence-no">4.</span> <span class="subject-predicate">Rozpoczęliśmy</span> pracę od magazynu. <span class="subject-mark subject-mark--implicit">Podmiot: my.</span></p>
-    <p><span class="subject-sentence-no">5.</span> Na zewnątrz <span class="subject-predicate">padało</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">6.</span> W pierwszej sali <span class="subject-predicate">działały</span> <span class="subject-mark subject-mark--series">komputer i drukarka</span>.</p>
-    <p><span class="subject-sentence-no">7.</span> <span class="subject-mark subject-mark--grammatical">Stary skaner</span> <span class="subject-predicate">wymagał</span> naprawy.</p>
-    <p><span class="subject-sentence-no">8.</span> <span class="subject-mark subject-mark--logical">Pięciu techników</span> <span class="subject-predicate">przyszło</span> na poranną zmianę.</p>
-    <p><span class="subject-sentence-no">9.</span> <span class="subject-mark subject-mark--grammatical">Dwaj specjaliści</span> <span class="subject-predicate">zajęli się</span> instalacją elektryczną.</p>
-    <p><span class="subject-sentence-no">10.</span> W korytarzu <span class="subject-predicate">wymieniono</span> trzy lampy. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">11.</span> <span class="subject-mark subject-mark--grammatical">Nowe oświetlenie</span> <span class="subject-predicate">było</span> znacznie jaśniejsze.</p>
-    <p><span class="subject-sentence-no">12.</span> <span class="subject-mark subject-mark--series">Marta i Paweł</span> <span class="subject-predicate">sprawdzili</span> wyjścia awaryjne.</p>
-    <p><span class="subject-sentence-no">13.</span> <span class="subject-mark subject-mark--companion">Marta z Pawłem</span> <span class="subject-predicate">przygotowali</span> wspólną notatkę.</p>
-    <p><span class="subject-sentence-no">14.</span> <span class="subject-mark subject-mark--grammatical">Marta</span> z Pawłem <span class="subject-predicate">przedstawiła</span> wyniki kierowniczce.</p>
-    <p><span class="subject-sentence-no">15.</span> W jednej szafie <span class="subject-predicate">brakowało</span> <span class="subject-mark subject-mark--logical">instrukcji obsługi</span>.</p>
-    <p><span class="subject-sentence-no">16.</span> <span class="subject-mark subject-mark--grammatical">Większość dokumentów</span> <span class="subject-predicate">była</span> jednak kompletna.</p>
-    <p><span class="subject-sentence-no">17.</span> <span class="subject-mark subject-mark--grammatical">Część formularzy</span> <span class="subject-predicate">wymagała</span> podpisu.</p>
-    <p><span class="subject-sentence-no">18.</span> Przed południem <span class="subject-predicate">przybyło</span> <span class="subject-mark subject-mark--logical">kilku kontrolerów</span>.</p>
-    <p><span class="subject-sentence-no">19.</span> <span class="subject-mark subject-mark--grammatical">Trzej kontrolerzy</span> <span class="subject-predicate">weszli</span> do laboratorium.</p>
-    <p><span class="subject-sentence-no">20.</span> <span class="subject-mark subject-mark--logical">Siedem urządzeń</span> <span class="subject-predicate">przeszło</span> pełny test.</p>
-    <p><span class="subject-sentence-no">21.</span> <span class="subject-mark subject-mark--grammatical">Jedno urządzenie</span> <span class="subject-predicate">zatrzymało się</span> podczas próby.</p>
-    <p><span class="subject-sentence-no">22.</span> Natychmiast <span class="subject-predicate">odłączono</span> zasilanie. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">23.</span> <span class="subject-mark subject-mark--grammatical">Awaria</span> <span class="subject-predicate">okazała się</span> niegroźna.</p>
-    <p><span class="subject-sentence-no">24.</span> <span class="subject-predicate">Wymienili</span> bezpiecznik w ciągu kilku minut. <span class="subject-mark subject-mark--implicit">Podmiot: oni.</span></p>
-    <p><span class="subject-sentence-no">25.</span> W laboratorium <span class="subject-predicate">można było kontynuować</span> pracę. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">26.</span> <span class="subject-mark subject-mark--grammatical">Każdy kontroler</span> <span class="subject-predicate">otrzymał</span> osobny zestaw danych.</p>
-    <p><span class="subject-sentence-no">27.</span> <span class="subject-mark subject-mark--grammatical">Nikt</span> <span class="subject-predicate">nie zgłosił</span> zastrzeżeń do procedury.</p>
-    <p><span class="subject-sentence-no">28.</span> <span class="subject-mark subject-mark--grammatical">To</span> <span class="subject-predicate">uspokoiło</span> kierowniczkę.</p>
-    <p><span class="subject-sentence-no">29.</span> <span class="subject-mark subject-mark--grammatical">To, że test przebiegł sprawnie</span>, <span class="subject-predicate">potwierdziło</span> skuteczność instrukcji.</p>
-    <p><span class="subject-sentence-no">30.</span> Kontrolerom <span class="subject-predicate">podobała się</span> <span class="subject-mark subject-mark--grammatical">organizacja pracy</span>.</p>
-    <p><span class="subject-sentence-no">31.</span> Jednemu z techników <span class="subject-predicate">zrobiło się</span> słabo. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">32.</span> <span class="subject-mark subject-mark--grammatical">Ratownik zakładowy</span> <span class="subject-predicate">udzielił</span> mu pomocy.</p>
-    <p><span class="subject-sentence-no">33.</span> <span class="subject-predicate">Poczuł się</span> lepiej po krótkim odpoczynku. <span class="subject-mark subject-mark--implicit">Podmiot: technik.</span></p>
-    <p><span class="subject-sentence-no">34.</span> Po przerwie <span class="subject-predicate">wróciliśmy</span> do kontroli. <span class="subject-mark subject-mark--implicit">Podmiot: my.</span></p>
-    <p><span class="subject-sentence-no">35.</span> Na drugim piętrze <span class="subject-predicate">znajdowały się</span> <span class="subject-mark subject-mark--series">serwerownia i archiwum</span>.</p>
-    <p><span class="subject-sentence-no">36.</span> <span class="subject-mark subject-mark--grammatical">Serwerownia</span> <span class="subject-predicate">była</span> odpowiednio chłodzona.</p>
-    <p><span class="subject-sentence-no">37.</span> <span class="subject-mark subject-mark--logical">Wiele zapisów</span> <span class="subject-predicate">pozostało</span> do przejrzenia.</p>
-    <p><span class="subject-sentence-no">38.</span> <span class="subject-mark subject-mark--grammatical">Grupa analityków</span> <span class="subject-predicate">rozpoczęła</span> pracę po południu.</p>
-    <p><span class="subject-sentence-no">39.</span> <span class="subject-mark subject-mark--series">Kierowniczka, kontrolerzy i technicy</span> <span class="subject-predicate">spotkali się</span> w sali konferencyjnej.</p>
-    <p><span class="subject-sentence-no">40.</span> Podczas spotkania <span class="subject-predicate">omówiono</span> wszystkie usterki. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">41.</span> <span class="subject-mark subject-mark--grammatical">Najpoważniejszy problem</span> <span class="subject-predicate">dotyczył</span> systemu wentylacji.</p>
-    <p><span class="subject-sentence-no">42.</span> <span class="subject-mark subject-mark--logical">Trzech specjalistów</span> <span class="subject-predicate">miało przygotować</span> plan naprawy.</p>
-    <p><span class="subject-sentence-no">43.</span> <span class="subject-mark subject-mark--grammatical">Dwie specjalistki</span> <span class="subject-predicate">zebrały</span> potrzebne pomiary.</p>
-    <p><span class="subject-sentence-no">44.</span> Wieczorem <span class="subject-predicate">zaczęło się ściemniać</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p>
-    <p><span class="subject-sentence-no">45.</span> <span class="subject-mark subject-mark--grammatical">Ostatni kontroler</span> <span class="subject-predicate">opuścił</span> budynek o osiemnastej.</p>
-    <p><span class="subject-sentence-no">46.</span> <span class="subject-mark subject-mark--grammatical">Kierowniczka</span> <span class="subject-predicate">została</span> jeszcze w biurze.</p>
-    <p><span class="subject-sentence-no">47.</span> <span class="subject-predicate">Przeczytała</span> końcowy protokół. <span class="subject-mark subject-mark--implicit">Podmiot: ona.</span></p>
-    <p><span class="subject-sentence-no">48.</span> W dokumencie <span class="subject-predicate">nie było</span> <span class="subject-mark subject-mark--logical">poważnych zastrzeżeń</span>.</p>
-    <p><span class="subject-sentence-no">49.</span> <span class="subject-mark subject-mark--grammatical">Wynik kontroli</span> <span class="subject-predicate">był</span> pozytywny.</p>
-    <p><span class="subject-sentence-no">50.</span> Następnego dnia <span class="subject-mark subject-mark--grammatical">centrum</span> <span class="subject-predicate">wznowiło</span> normalną pracę.</p>
+  <div class="subject-reading-text" markdown>
+
+<span class="subject-sentence-no">1.</span> <span class="subject-mark subject-mark--grammatical">stare <strong>obserwatorium</strong> na wzgórzu</span> <span class="subject-predicate">było gotowe</span> do nocnej próby.
+
+<span class="subject-sentence-no">2.</span> Przed głównym wejściem <span class="subject-predicate">czekała</span> <span class="subject-mark subject-mark--grammatical">kierowniczka <strong>zespołu</strong> badawczego</span>.
+
+<span class="subject-sentence-no">3.</span> <span class="subject-mark subject-mark--series"><strong>Marta, Paweł i dwie techniczki</strong></span> <span class="subject-predicate">przyjechali</span> kilka minut później.
+
+<span class="subject-sentence-no">4.</span> <span class="subject-predicate">Wnieśli</span> do budynku zapasowe czujniki. <span class="subject-mark subject-mark--implicit">Podmiot domyślny: <strong>oni</strong>.</span>
+
+<span class="subject-sentence-no">5.</span> Nad doliną <span class="subject-predicate">ściemniało się</span> bardzo szybko. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+<span class="subject-sentence-no">6.</span> Na zachodzie <span class="subject-predicate">pojawiły się</span> <span class="subject-mark subject-mark--grammatical">pierwsze <strong>gwiazdy</strong></span>.
+
+<span class="subject-sentence-no">7.</span> <span class="subject-mark subject-mark--companion"><strong>Kierowniczka z Pawłem</strong></span> <span class="subject-predicate">sprawdzili</span> zasilanie kopuły.
+
+<span class="subject-sentence-no">8.</span> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> z jedną z techniczek <span class="subject-predicate">przygotowała</span> stanowisko pomiarowe.
+
+<span class="subject-sentence-no">9.</span> Forma pojedyncza wskazuje, że podmiotem poprzedniego zdania <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span>.
+
+<span class="subject-sentence-no">10.</span> Przy teleskopie <span class="subject-predicate">czekało</span> <span class="subject-mark subject-mark--logical"><strong>sześciu studentów</strong></span>.
+
+<span class="subject-sentence-no">11.</span> <span class="subject-mark subject-mark--grammatical"><strong>Dwie studentki</strong></span> <span class="subject-predicate">przyniosły</span> mapy nieba.
+
+<span class="subject-sentence-no">12.</span> <span class="subject-mark subject-mark--grammatical"><strong>Większość</strong> uczestników</span> <span class="subject-predicate">znała</span> już procedurę.
+
+<span class="subject-sentence-no">13.</span> Jednego podpisu <span class="subject-predicate">brakowało</span> w dokumentacji. <span class="subject-mark subject-mark--logical">Podmiot logiczny: <strong>jednego podpisu</strong>.</span>
+
+<span class="subject-sentence-no">14.</span> W głównej sali <span class="subject-predicate">sprawdzono</span> wszystkie wyjścia awaryjne. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+<span class="subject-sentence-no">15.</span> <span class="subject-mark subject-mark--grammatical"><strong>Drzwi ewakuacyjne</strong></span> <span class="subject-predicate">zostały zamknięte</span> przez ochronę.
+
+<span class="subject-sentence-no">16.</span> Przed rozpoczęciem obserwacji <span class="subject-predicate">trzeba było wyłączyć</span> światła zewnętrzne. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+<span class="subject-sentence-no">17.</span> <span class="subject-predicate">Zrobiliśmy</span> to dokładnie o dwudziestej drugiej. <span class="subject-mark subject-mark--implicit">Podmiot domyślny: <strong>my</strong>.</span>
+
+<span class="subject-sentence-no">18.</span> W kopule <span class="subject-predicate">zrobiło się</span> zupełnie ciemno. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+<span class="subject-sentence-no">19.</span> Jednej ze studentek <span class="subject-predicate">było</span> jednak zimno. <span class="subject-mark subject-mark--none">Brak podmiotu; celownik wskazuje osobę doświadczającą.</span>
+
+<span class="subject-sentence-no">20.</span> Studentom <span class="subject-predicate">podobał się</span> <span class="subject-mark subject-mark--grammatical">nowy <strong>system</strong> sterowania</span>.
+
+<span class="subject-sentence-no">21.</span> <span class="subject-mark subject-mark--grammatical"><strong>Obserwować niebo bez pośpiechu</strong></span> <span class="subject-predicate">było</span> dla nich wyjątkowym doświadczeniem.
+
+<span class="subject-sentence-no">22.</span> <span class="subject-mark subject-mark--grammatical"><strong>To, że chmury zniknęły</strong></span>, <span class="subject-predicate">ucieszyło</span> wszystkich.
+
+<span class="subject-sentence-no">23.</span> <span class="subject-mark subject-mark--grammatical"><strong>Kto pierwszy zauważył kometę</strong></span>, <span class="subject-predicate">miał otrzymać</span> dodatkowy czas przy teleskopie.
+
+<span class="subject-sentence-no">24.</span> <span class="subject-mark subject-mark--series"><strong>Ani Marta, ani Paweł</strong></span> <span class="subject-predicate">nie dostrzegli</span> jej od razu.
+
+<span class="subject-sentence-no">25.</span> <span class="subject-mark subject-mark--grammatical"><strong>Jedna ze studentek</strong></span> <span class="subject-predicate">wskazała</span> jasny punkt nad horyzontem.
+
+<span class="subject-sentence-no">26.</span> <span class="subject-predicate">Podeszliśmy</span> do drugiego monitora. <span class="subject-mark subject-mark--implicit">Podmiot domyślny: <strong>my</strong>.</span>
+
+<span class="subject-sentence-no">27.</span> Na ekranie <span class="subject-predicate">było widać</span> niewyraźną smugę. <span class="subject-mark subject-mark--none">Brak podmiotu; wyrażenie „niewyraźną smugę” ma biernik.</span>
+
+<span class="subject-sentence-no">28.</span> <span class="subject-mark subject-mark--grammatical"><strong>To</strong></span> <span class="subject-predicate">wystarczyło</span> do rozpoczęcia pomiaru.
+
+<span class="subject-sentence-no">29.</span> <span class="subject-mark subject-mark--series"><strong>Główny teleskop i kamera szerokokątna</strong></span> <span class="subject-predicate">zaczęły rejestrować</span> obraz.
+
+<span class="subject-sentence-no">30.</span> Po kilku minutach <span class="subject-predicate">napłynęło</span> <span class="subject-mark subject-mark--logical"><strong>wiele nowych danych</strong></span>.
+
+<span class="subject-sentence-no">31.</span> <span class="subject-mark subject-mark--grammatical"><strong>Każdy uczestnik</strong></span> <span class="subject-predicate">otrzymał</span> osobny zestaw wyników.
+
+<span class="subject-sentence-no">32.</span> <span class="subject-mark subject-mark--grammatical"><strong>Nikt</strong></span> <span class="subject-predicate">nie chciał</span> kończyć obserwacji.
+
+<span class="subject-sentence-no">33.</span> O północy nad wzgórzem <span class="subject-predicate">zagrzmiało</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+<span class="subject-sentence-no">34.</span> <span class="subject-mark subject-mark--series"><strong>Kierowniczka albo Paweł</strong></span> <span class="subject-predicate">musiał</span> podjąć decyzję o przerwaniu próby.
+
+<span class="subject-sentence-no">35.</span> Ostatecznie <span class="subject-mark subject-mark--grammatical"><strong>kierowniczka</strong></span> <span class="subject-predicate">zarządziła</span> powrót do budynku.
+
+<span class="subject-sentence-no">36.</span> Następnego ranka <span class="subject-mark subject-mark--grammatical"><strong>wyniki nocnej obserwacji</strong></span> <span class="subject-predicate">zostały przesłane</span> do centrum badawczego.
+
   </div>
+</div>
+
+## Kontrola zakresu
+
+<div class="subject-series">
+  <div class="subject-row"><span class="subject-badge">zdanie 2</span><p>Podmiotem jest cała grupa <strong>kierowniczka zespołu badawczego</strong>, choć stoi po orzeczeniu.</p><span class="subject-note">szyk odwrócony</span></div>
+  <div class="subject-row"><span class="subject-badge">zdania 7–8</span><p>Liczba mnoga w <strong>kierowniczka z Pawłem sprawdzili</strong> tworzy wspólny podmiot; forma pojedyncza w kolejnym zdaniu wskazuje tylko Martę.</p><span class="subject-note">konstrukcja z „z”</span></div>
+  <div class="subject-row"><span class="subject-badge">zdanie 10</span><p><strong>Sześciu studentów</strong> jest grupą liczebnikową, dlatego orzeczenie ma formę <strong>czekało</strong>.</p><span class="subject-note">zgoda nijaka</span></div>
+  <div class="subject-row"><span class="subject-badge">zdanie 13</span><p>Dopełniacz <strong>jednego podpisu</strong> występuje przy czasowniku <strong>brakowało</strong>.</p><span class="subject-note">podmiot logiczny</span></div>
+  <div class="subject-row"><span class="subject-badge">zdanie 15</span><p>W stronie biernej podmiotem są <strong>drzwi ewakuacyjne</strong>, a wyrażenie <strong>przez ochronę</strong> wskazuje wykonawcę.</p><span class="subject-note">strona bierna</span></div>
+  <div class="subject-row"><span class="subject-badge">zdanie 19</span><p>Celownik <strong>jednej ze studentek</strong> nazywa osobę odczuwającą chłód, ale zdanie pozostaje bezpodmiotowe.</p><span class="subject-note">doświadczający</span></div>
+  <div class="subject-row"><span class="subject-badge">zdanie 20</span><p>Podmiotem jest <strong>system</strong>; zmiana na liczbę mnogą dałaby formę <strong>podobały się systemy</strong>.</p><span class="subject-note">„podobać się”</span></div>
+  <div class="subject-row"><span class="subject-badge">zdania 21–23</span><p>Funkcję podmiotu pełnią kolejno grupa bezokolicznikowa i dwa całe zdania.</p><span class="subject-note">większa konstrukcja</span></div>
+  <div class="subject-row"><span class="subject-badge">zdanie 27</span><p>Forma <strong>smugę</strong> jest biernikiem; po bezosobowym <strong>było widać</strong> nie występuje podmiot.</p><span class="subject-note">biernik</span></div>
+</div>
+
+## Przekształcenia i zmiana podmiotu
+
+### Strona czynna i bierna
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Ochrona</strong></span> <span class="subject-predicate">zamknęła</span> drzwi ewakuacyjne.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Drzwi ewakuacyjne</strong></span> <span class="subject-predicate">zostały zamknięte</span> przez ochronę.
+
+Wykonawca tego samego zdarzenia przestaje być podmiotem po zmianie strony.
+
+### Podmiot jawny i domyślny
+
+> <span class="subject-mark subject-mark--grammatical"><strong>My</strong></span> <span class="subject-predicate">wnieśliśmy</span> czujniki.
+
+> <span class="subject-predicate">Wnieśliśmy</span> czujniki. <span class="subject-mark subject-mark--implicit">Podmiot domyślny: <strong>my</strong>.</span>
+
+Usunięcie zaimka nie zmienia uczestnika, ponieważ osoba pozostaje widoczna w formie czasownika.
+
+### Podmiot gramatyczny i logiczny
+
+> W dokumentacji <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>podpis</strong></span>.
+
+> W dokumentacji <span class="subject-predicate">nie ma</span> <span class="subject-mark subject-mark--logical"><strong>podpisu</strong></span>.
+
+Zmiana konstrukcji istnienia na konstrukcję braku powoduje zmianę przypadka.
+
+### Podmiot szeregowy i alternatywa
+
+> <span class="subject-mark subject-mark--series"><strong>Kierowniczka i Paweł</strong></span> <span class="subject-predicate">podejmą</span> decyzję.
+
+> <span class="subject-mark subject-mark--series"><strong>Kierowniczka albo Paweł</strong></span> <span class="subject-predicate">podejmie</span> decyzję.
+
+Spójnik zmienia liczbę potencjalnych wykonawców i formę orzeczenia.
+
+## Jak analizować dłuższy fragment?
+
+<div class="subject-checklist">
+  <div><strong>Podziel tekst na zdania i zdania składowe.</strong> Każde osobowe centrum wymaga osobnej analizy.</div>
+  <div><strong>Zaznacz pełne orzeczenia.</strong> Nie licz mechanicznie wszystkich czasowników i bezokoliczników.</div>
+  <div><strong>Przy każdym orzeczeniu ustal podmiot albo brak podmiotu.</strong> Nie przenoś automatycznie podmiotu z poprzedniego zdania.</div>
+  <div><strong>Kontroluj odniesienia domyślne.</strong> Sprawdź, czy wiadomo, do kogo odnoszą się formy trzeciej osoby.</div>
+  <div><strong>Sprawdź granice ramki.</strong> Obejmuje ona cały składnik podmiotowy, ale nie okoliczniki ani składniki zależne od orzeczenia.</div>
+  <div><strong>Uzasadnij przypadki nietypowe.</strong> Podaj przypadek, zgodę i typ konstrukcji.</div>
+</div>
+
+<div class="subject-summary" markdown>
+
+### Podmiot organizuje perspektywę tekstu
+
+- W kolejnych zdaniach ten sam uczestnik może być nazwany, pominięty albo zastąpiony zaimkiem.
+- Podmiot po orzeczeniu często wprowadza nową informację.
+- Strona bierna pozwala uczynić podmiotem element, którego dotyczy czynność.
+- Konstrukcje bezpodmiotowe kierują uwagę na samo zdarzenie, możliwość lub konieczność.
+- Liczebniki i nazwy zbiorowe wpływają na zgodę.
+- Bezokolicznik i całe zdanie mogą stać się treścią, o której się orzeka.
+- Dobra analiza tekstu wymaga nie tylko nazwania typu, lecz także uzasadnienia granic każdego wyróżnienia.
+
 </div>
 
 [Wróć do przeglądu podmiotu](../){ .md-button }
