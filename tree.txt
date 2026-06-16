@@ -219,7 +219,6 @@
 ./docs/stylesheets/preposition-narrative.css
 ./docs/stylesheets/pronoun-narrative.css
 ./docs/stylesheets/remaining-parts.css
-./docs/stylesheets/subject-concept.tmp
 ./docs/stylesheets/subject-lesson.css
 ./docs/stylesheets/syntactic-relations.css
 ./docs/stylesheets/verb-lesson.css
