@@ -2,169 +2,126 @@
 
 <div class="predicate-lesson" markdown>
 
-## Kiedy jeden czasownik wystarcza?
+## Kiedy czasownik sam przekazuje główną informację?
 
-Porównaj:
-
-> Marta <span class="predicate-mark predicate-mark--verbal">czyta</span> raport.
-
-> Pociąg <span class="predicate-mark predicate-mark--verbal">przyjechał</span> punktualnie.
-
-> Dziecko <span class="predicate-mark predicate-mark--verbal">śpi</span>.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">czyta</span> raport.  
+> Pociąg <span class="predicate-mark predicate-mark--verbal">przyjechał</span>.  
+> Dziecko <span class="predicate-mark predicate-mark--verbal">śpi</span>.  
 > Klucz <span class="predicate-mark predicate-mark--verbal">leży</span> na biurku.
 
-W każdym zdaniu jeden czasownik sam przekazuje główną informację: nazywa czynność, zdarzenie, stan albo położenie. Takie orzeczenie nazywamy **orzeczeniem czasownikowym**.
+W każdym zdaniu czasownik sam mówi o czynności, zdarzeniu, stanie albo położeniu. Taką budowę nazywamy **orzeczeniem czasownikowym**.
 
 <div class="predicate-concept">
   <span class="predicate-concept__label">Pojęcie</span>
   <strong>Orzeczenie czasownikowe</strong>
-  <p>To orzeczenie, w którym główną informację przekazuje forma czasownika. Forma może składać się z jednego wyrazu albo z kilku wyrazów tworzących razem czas, stronę lub inną postać czasownika.</p>
+  <p>To orzeczenie, w którym główną informację przekazuje forma czasownika — pojedynczy wyraz albo kilka wyrazów tworzących razem jedną formę czasu lub trybu.</p>
 </div>
 
-## Jeden wyraz może pokazywać różne informacje
+## Jeden wyraz może nieść wiele informacji
 
 > Marta <span class="predicate-mark predicate-mark--verbal">pisze</span> raport.
 
-Forma **pisze** mówi jednocześnie:
-
-- jaka czynność się odbywa;
-- że odbywa się teraz;
-- że dotyczy jednej osoby;
-- że osobą tą nie jest mówiący ani rozmówca.
+Forma **pisze** pokazuje czynność, teraźniejszość, trzecią osobę i liczbę pojedynczą.
 
 > Marta <span class="predicate-mark predicate-mark--verbal">napisała</span> raport.
 
-Forma **napisała** dodatkowo pokazuje przeszłość i rodzaj żeński.
+Forma **napisała** pokazuje także przeszłość i rodzaj żeński.
 
-## Czas przyszły: jeden wyraz albo kilka
+## Jedna forma może składać się z kilku wyrazów
 
-> Marta <span class="predicate-mark predicate-mark--verbal">napisze</span> raport.
-
-> Marta <span class="predicate-mark predicate-mark--verbal">będzie pisać</span> raport.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">napisze</span> raport.  
+> Marta <span class="predicate-mark predicate-mark--verbal">będzie pisać</span> raport.  
 > Marta <span class="predicate-mark predicate-mark--verbal">będzie pisała</span> raport.
 
-W każdym zdaniu mowa o przyszłości, ale informacja została zbudowana inaczej. Forma **napisze** mieści się w jednym wyrazie. Formy **będzie pisać** i **będzie pisała** składają się z dwóch wyrazów, które razem tworzą jedną formę czasu przyszłego.
+W każdym zdaniu czasownik **pisać** występuje w czasie przyszłym. Formy **będzie pisać** i **będzie pisała** są wielowyrazowe, ale nadal tworzą zwykłe orzeczenia czasownikowe.
 
-> Marta <span class="predicate-part-modal">będzie</span> jutro <span class="predicate-part-infinitive">pisać</span> raport.
+> Marta <span class="predicate-part-linker">będzie</span> jutro <span class="predicate-part-predicative">pisać</span> raport.
 
-Orzeczeniem jest **będzie pisać**. Wyraz **jutro** podaje czas zdarzenia, ale nie jest częścią formy czasownika.
+Orzeczenie to **będzie pisać**. Wyraz **jutro** rozdziela części formy, lecz do niej nie należy.
 
 <div class="predicate-checkpoint">
-  <div class="predicate-checkpoint__title">Kilka wyrazów nie zawsze oznacza orzeczenie złożone</div>
-  <p>Połączenie <em>będzie pisać</em> jest zwykłą formą czasu przyszłego czasownika <em>pisać</em>. Nie wyraża konieczności ani możliwości, dlatego nie klasyfikujemy go tak samo jak <em>musi pisać</em> lub <em>może pisać</em>.</p>
+  <div class="predicate-checkpoint__title">Wielowyrazowe nie znaczy złożone modalnie</div>
+  <p><em>Będzie pisać</em> jest formą czasu przyszłego. <em>Musi pisać</em> zawiera dodatkowo znaczenie konieczności i dlatego należy do innego typu budowy.</p>
 </div>
 
-## Jak mówiący przedstawia czynność?
+## Fakt, możliwość i polecenie
 
-Porównaj:
-
-> Marta <span class="predicate-mark predicate-mark--verbal">pisze</span> raport.
-
-> Marta <span class="predicate-mark predicate-mark--verbal">napisałaby</span> raport.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">pisze</span> raport.  
+> Marta <span class="predicate-mark predicate-mark--verbal">napisałaby</span> raport.  
 > <span class="predicate-mark predicate-mark--verbal">Napisz</span> raport.
 
-Pierwsze zdanie przedstawia czynność jako rzeczywistą. Drugie pokazuje ją jako możliwą pod pewnym warunkiem. Trzecie jest poleceniem.
+Pierwsza forma stwierdza fakt, druga przedstawia możliwość zależną od warunku, a trzecia wpływa na odbiorcę. Dopiero po zauważeniu tej różnicy wprowadzamy nazwy **tryb oznajmujący**, **przypuszczający** i **rozkazujący**.
 
-Takie różne sposoby przedstawiania czynności nazywamy **trybami czasownika**:
+> Ja <span class="predicate-mark predicate-mark--verbal">bym napisał</span> raport.
 
-- **pisze** — tryb oznajmujący;
-- **napisałaby** — tryb przypuszczający;
-- **napisz** — tryb rozkazujący.
+Cząstka **bym** współtworzy formę przypuszczającą, dlatego należy do orzeczenia.
 
 > Niech Marta <span class="predicate-mark predicate-mark--verbal">napisze</span> raport.
 
-Wyraz **niech** pomaga utworzyć polecenie odnoszące się do trzeciej osoby, ale nie jest częścią orzeczenia zaznaczaną ramką.
+Wyraz **niech** wprowadza polecenie, ale w przyjętym oznaczeniu pozostaje poza ramką orzeczenia **napisze**.
 
-## Cząstka „się” może należeć do formy
+## Cząstka „się” może należeć do czasownika
 
-> Marta <span class="predicate-mark predicate-mark--verbal">przygotowuje się</span> do prezentacji.
-
-> Uczestnicy <span class="predicate-mark predicate-mark--verbal">przywitali się</span>.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">przygotowuje się</span> do prezentacji.  
+> Uczestnicy <span class="predicate-mark predicate-mark--verbal">przywitali się</span>.  
 > Drzwi <span class="predicate-mark predicate-mark--verbal">otworzyły się</span> automatycznie.
 
-W tych przykładach **się** współtworzy znaczenie czasownika. Nie można go usunąć bez zmiany znaczenia albo bez stworzenia innej konstrukcji, dlatego obejmujemy je ramką razem z czasownikiem.
+Usunięcie **się** zmieniłoby znaczenie albo utworzyłoby inną konstrukcję, dlatego obejmujemy je ramką.
 
-Porównaj:
-
-> Marta <span class="predicate-mark predicate-mark--verbal">przygotowuje</span> prezentację.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">przygotowuje</span> prezentację.  
 > Marta <span class="predicate-mark predicate-mark--verbal">przygotowuje się</span> do prezentacji.
 
 Pierwsze zdanie mówi o przygotowywaniu czegoś, drugie — o przygotowywaniu samej siebie.
 
-## Ta sama sytuacja z dwóch perspektyw
+## „Być” może samodzielnie tworzyć orzeczenie
 
-> Marta <span class="predicate-mark predicate-mark--verbal">napisała</span> raport.
-
-> Raport <span class="predicate-mark predicate-mark--verbal">został napisany</span> przez Martę.
-
-Pierwsze zdanie zaczyna od wykonawcy. Drugie zaczyna od rzeczy, której dotyczy czynność. Połączenie **został napisany** tworzy jedną formę czasownika i dlatego całe znajduje się w ramce.
-
-Taki sposób przedstawienia zdarzenia nazywamy **stroną bierną**. Wyrażenie **przez Martę** wskazuje wykonawcę, ale nie należy do orzeczenia.
-
-> Okna <span class="predicate-mark predicate-mark--verbal">zostały zamknięte</span> przez system.
-
-> Dokument <span class="predicate-mark predicate-mark--verbal">jest podpisywany</span> przez kierownika.
-
-## „Być” może mieć różne funkcje
-
-> Marta <span class="predicate-mark predicate-mark--verbal">jest</span> w domu.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">jest</span> w domu.  
 > W szufladzie <span class="predicate-mark predicate-mark--verbal">jest</span> klucz.
 
-W tych zdaniach **jest** samodzielnie mówi o obecności lub położeniu.
+Tutaj **jest** oznacza przebywanie albo istnienie i samodzielnie przekazuje główną informację.
 
 > Marta <span class="predicate-mark predicate-mark--nominal">jest spokojna</span>.
 
-Tutaj samo **jest** nie przekazuje pełnej informacji. Łączy Martę z cechą **spokojna**, dlatego współtworzy orzeczenie imienne.
+W tym zdaniu samo **jest** nie mówi, jaka jest Marta. Współtworzy orzeczenie imienne z częścią **spokojna**.
 
-## „Mieć” także zmienia znaczenie
+## „Mieć” może oznaczać posiadanie albo obowiązek
 
-> Marta <span class="predicate-mark predicate-mark--verbal">ma</span> komputer.
-
-Czasownik **ma** sam mówi o posiadaniu.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">ma</span> komputer.  
 > Marta <span class="predicate-mark predicate-mark--compound">ma przygotować</span> prezentację.
 
-Połączenie **ma przygotować** nie mówi o posiadaniu. Wyraża obowiązek lub oczekiwanie i dlatego tworzy orzeczenie złożone.
+W pierwszym zdaniu **ma** samodzielnie oznacza posiadanie. W drugim połączenie **ma przygotować** przedstawia obowiązek i tworzy orzeczenie złożone.
 
 ## Bezokolicznik nie zawsze należy do orzeczenia
 
-Porównaj:
-
 > Marta <span class="predicate-mark predicate-mark--compound">musi przeczytać</span> raport.
 
-Czasownik **musi** nie nazywa czynności. Dopiero bezokolicznik **przeczytać** mówi, co ma się wydarzyć. Oba wyrazy tworzą jedną główną informację.
+Wyraz **musi** nie nazywa właściwej czynności, dlatego potrzebuje bezokolicznika **przeczytać**.
 
-> Marta <span class="predicate-mark predicate-mark--verbal">lubi</span> czytać reportaże.
-
-> Marta <span class="predicate-mark predicate-mark--verbal">planuje</span> odwiedzić archiwum.
-
+> Marta <span class="predicate-mark predicate-mark--verbal">lubi</span> czytać reportaże.  
+> Marta <span class="predicate-mark predicate-mark--verbal">planuje</span> odwiedzić archiwum.  
 > Marta <span class="predicate-mark predicate-mark--verbal">zamierza</span> rozpocząć projekt.
 
-W tej publikacji przyjmujemy szkolny standard, w którym orzeczeniami są **lubi**, **planuje** i **zamierza**, a następujące po nich bezokoliczniki stanowią ich uzupełnienia. Jest to przyjęta konwencja analizy, dlatego stosujemy ją konsekwentnie w całym dziale.
+W szkolnym standardzie tej publikacji orzeczeniami są **lubi**, **planuje** i **zamierza**. Bezokoliczniki stanowią ich uzupełnienia, ponieważ formy osobowe same nazywają upodobanie, plan lub zamiar.
 
-## Formy pochodzące od czasownika nie zawsze są orzeczeniem
+## Strona bierna należy do orzeczenia imiennego
 
-> <strong>Czytając raport</strong>, Marta <span class="predicate-mark predicate-mark--verbal">robiła</span> notatki.
+> Marta <span class="predicate-mark predicate-mark--verbal">napisała</span> raport.  
+> Raport <span class="predicate-mark predicate-mark--nominal">został napisany</span> przez Martę.
 
-Forma **czytając** nazywa czynność towarzyszącą, ale nie wskazuje osoby ani czasu w taki sposób jak **robiła**. Nie tworzy osobnego orzeczenia.
+W pierwszym zdaniu czasownik sam nazywa czynność. W drugim forma **został** łączy raport z informacją **napisany**. W szkolnej analizie jest to orzeczenie imienne: **został** pełni funkcję łącznika, a **napisany** — orzecznika.
 
+## Formy pochodzące od czasownika nie muszą być orzeczeniami
+
+> <strong>Czytając raport</strong>, Marta <span class="predicate-mark predicate-mark--verbal">robiła</span> notatki.  
 > Zamknięte drzwi <span class="predicate-mark predicate-mark--verbal">prowadziły</span> do magazynu.
 
-Wyraz **zamknięte** określa drzwi. Orzeczeniem jest **prowadziły**.
-
-Dopiero po zauważeniu ich funkcji możemy nazwać te formy **imiesłowami**: pierwsza jest imiesłowem przysłówkowym, druga — przymiotnikowym.
+**Czytając** dołącza czynność towarzyszącą, a **zamknięte** określa rzeczownik. Dopiero po zauważeniu tych funkcji nazywamy je imiesłowami.
 
 ## Kilka orzeczeń przy jednym podmiocie
 
 > Motorniczy <span class="predicate-mark predicate-mark--verbal">sprawdził</span> hamulce, <span class="predicate-mark predicate-mark--verbal">zamknął</span> drzwi i <span class="predicate-mark predicate-mark--verbal">uruchomił</span> silnik.
 
-Każdy czasownik nazywa inną czynność. Mamy więc trzy odrębne orzeczenia odnoszące się do tego samego podmiotu.
+Każdy czasownik nazywa odrębną czynność, dlatego mamy trzy orzeczenia odnoszące się do jednego podmiotu.
 
 ## Krótki tekst
 
@@ -172,28 +129,21 @@ Każdy czasownik nazywa inną czynność. Mamy więc trzy odrębne orzeczenia od
   <div class="predicate-story__title">Przed odjazdem</div>
   <div class="predicate-story__body" markdown>
 
-Motorniczy <span class="predicate-mark predicate-mark--verbal">wszedł</span> do kabiny i <span class="predicate-mark predicate-mark--verbal">sprawdził</span> panel sterowania. Za kilka minut tramwaj <span class="predicate-mark predicate-mark--verbal">będzie ruszał</span> z pętli. Drzwi <span class="predicate-mark predicate-mark--verbal">zostały zamknięte</span>, a lampy kontrolne <span class="predicate-mark predicate-mark--verbal">zapaliły się</span> na zielono.
+Motorniczy <span class="predicate-mark predicate-mark--verbal">wszedł</span> do kabiny i <span class="predicate-mark predicate-mark--verbal">sprawdził</span> panel. Tramwaj <span class="predicate-mark predicate-mark--verbal">będzie ruszał</span> za kilka minut. Lampy kontrolne <span class="predicate-mark predicate-mark--verbal">zapaliły się</span> na zielono.
 
-Motorniczy <span class="predicate-mark predicate-mark--verbal">miał</span> przy sobie kartę przejazdu, ale przed odjazdem <span class="predicate-mark predicate-mark--compound">miał sprawdzić</span> jeszcze łączność z dyspozytornią.
+Motorniczy <span class="predicate-mark predicate-mark--verbal">miał</span> kartę przejazdu, ale przed odjazdem <span class="predicate-mark predicate-mark--compound">miał sprawdzić</span> łączność.
 
   </div>
-</div>
-
-<div class="predicate-reading__commentary" markdown>
-<strong>Co pokazuje tekst?</strong>
-
-**Wszedł** i **sprawdził** nazywają osobne czynności. **Będzie ruszał** jest dwuwyrazową formą czasu przyszłego. **Zostały zamknięte** przedstawia czynność od strony drzwi, a **zapaliły się** zawiera cząstkę należącą do formy czasownika. W ostatnim akapicie **miał** oznacza posiadanie, natomiast **miał sprawdzić** wyraża obowiązek.
 </div>
 
 <div class="predicate-summary">
 <h3>Jak rozpoznać orzeczenie czasownikowe?</h3>
 <ul>
   <li>Sprawdź, czy forma czasownika samodzielnie przekazuje główną informację.</li>
-  <li>Obejmij ramką wszystkie części jednej formy czasu przyszłego lub strony biernej.</li>
-  <li>Włącz cząstkę <em>się</em>, jeżeli współtworzy znaczenie czasownika.</li>
-  <li>Nie włączaj wyrażeń z <em>przez</em>, okoliczników ani uzupełnień.</li>
-  <li>Nie każdy bezokolicznik ani imiesłów tworzy orzeczenie.</li>
-  <li>Przy <em>lubić, planować, zamierzać</em> stosuj konsekwentnie przyjęty standard szkolny.</li>
+  <li>Uwzględnij wszystkie części czasu lub trybu, nawet gdy są rozdzielone.</li>
+  <li>Włącz <em>się</em>, jeżeli współtworzy znaczenie czasownika.</li>
+  <li>Nie włączaj okoliczników, uzupełnień ani wyrażeń z <em>przez</em>.</li>
+  <li>Stronę bierną analizuj jako orzeczenie imienne.</li>
 </ul>
 </div>
 
