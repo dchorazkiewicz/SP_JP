@@ -163,7 +163,7 @@ Forma pojedyncza wskazuje jako podmiot gramatyczny wyłącznie człon w mianowni
 
 ## Nie każde „z” oznacza osobę towarzyszącą
 
-> <span class="subject-mark subject-mark--grammatical">filiżanka <strong>kawy</strong> z mlekiem</span> <span class="subject-predicate">stała</span> na stole.
+> <span class="subject-mark subject-mark--grammatical"><strong>Filiżanka</strong> kawy z mlekiem</span> <span class="subject-predicate">stała</span> na stole.
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Dokument</strong> z załącznikami</span> <span class="subject-predicate">został wysłany</span> rano.
 
@@ -200,9 +200,9 @@ Poprawność formalna nie zawsze oznacza najlepszy styl.
 
 <span class="subject-mark subject-mark--series"><strong>Koordynatorka, dwaj technicy i przedstawicielka organizatorów</strong></span> <span class="subject-predicate">spotkali się</span> w głównej sali. Przy scenie <span class="subject-predicate">stały</span> <span class="subject-mark subject-mark--series"><strong>projektor oraz dwa zapasowe ekrany</strong></span>.
 
-<span class="subject-mark subject-mark--companion"><strong>Koordynatorka z jednym z techników</strong></span> <span class="subject-predicate">sprawdzili</span> oświetlenie. Drugi technik <span class="subject-predicate">czekał</span> z przedstawicielką organizatorów przy wejściu. W tym zdaniu podmiotem jest tylko <span class="subject-mark subject-mark--grammatical"><strong>drugi technik</strong></span>, ponieważ orzeczenie ma liczbę pojedynczą.
+<span class="subject-mark subject-mark--companion"><strong>Koordynatorka z jednym z techników</strong></span> <span class="subject-predicate">sprawdzili</span> oświetlenie. <span class="subject-mark subject-mark--grammatical"><strong>Drugi technik</strong></span> <span class="subject-predicate">czekał</span> z przedstawicielką organizatorów przy wejściu.
 
-<span class="subject-mark subject-mark--series"><strong>Albo koordynatorka, albo przedstawicielka organizatorów</strong></span> <span class="subject-predicate">miała powitać</span> pierwszych gości. Ostatecznie <span class="subject-mark subject-mark--series"><strong>obie</strong></span> <span class="subject-predicate">wyszły</span> do holu.
+<span class="subject-mark subject-mark--series"><strong>Albo koordynatorka, albo przedstawicielka organizatorów</strong></span> <span class="subject-predicate">miała powitać</span> pierwszych gości. Ostatecznie <span class="subject-mark subject-mark--grammatical"><strong>obie</strong></span> <span class="subject-predicate">wyszły</span> do holu.
 
   </div>
 </div>
