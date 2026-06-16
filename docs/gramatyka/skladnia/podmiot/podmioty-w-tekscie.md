@@ -39,7 +39,7 @@ W pojedynczym przykładzie łatwo skupić się na jednej regule. W dłuższym te
 
 <span class="subject-sentence-no">1.</span> <span class="subject-mark subject-mark--grammatical">stare <strong>obserwatorium</strong> na wzgórzu</span> <span class="subject-predicate">było gotowe</span> do nocnej próby.
 
-<span class="subject-sentence-no">2.</span> Przed głównym wejściem <span class="subject-predicate">czekała</span> <span class="subject-mark subject-mark--grammatical">kierowniczka <strong>zespołu</strong> badawczego</span>.
+<span class="subject-sentence-no">2.</span> Przed głównym wejściem <span class="subject-predicate">czekała</span> <span class="subject-mark subject-mark--grammatical"><strong>kierowniczka</strong> zespołu badawczego</span>.
 
 <span class="subject-sentence-no">3.</span> <span class="subject-mark subject-mark--series"><strong>Marta, Paweł i dwie techniczki</strong></span> <span class="subject-predicate">przyjechali</span> kilka minut później.
 
@@ -53,7 +53,7 @@ W pojedynczym przykładzie łatwo skupić się na jednej regule. W dłuższym te
 
 <span class="subject-sentence-no">8.</span> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> z jedną z techniczek <span class="subject-predicate">przygotowała</span> stanowisko pomiarowe.
 
-<span class="subject-sentence-no">9.</span> Forma pojedyncza wskazuje, że podmiotem poprzedniego zdania <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span>.
+<span class="subject-sentence-no">9.</span> Przy drugim stanowisku <span class="subject-predicate">pracowała</span> <span class="subject-mark subject-mark--grammatical">młoda <strong>astrofizyczka</strong></span>.
 
 <span class="subject-sentence-no">10.</span> Przy teleskopie <span class="subject-predicate">czekało</span> <span class="subject-mark subject-mark--logical"><strong>sześciu studentów</strong></span>.
 
@@ -61,7 +61,7 @@ W pojedynczym przykładzie łatwo skupić się na jednej regule. W dłuższym te
 
 <span class="subject-sentence-no">12.</span> <span class="subject-mark subject-mark--grammatical"><strong>Większość</strong> uczestników</span> <span class="subject-predicate">znała</span> już procedurę.
 
-<span class="subject-sentence-no">13.</span> Jednego podpisu <span class="subject-predicate">brakowało</span> w dokumentacji. <span class="subject-mark subject-mark--logical">Podmiot logiczny: <strong>jednego podpisu</strong>.</span>
+<span class="subject-sentence-no">13.</span> W dokumentacji <span class="subject-predicate">brakowało</span> <span class="subject-mark subject-mark--logical"><strong>jednego podpisu</strong></span>.
 
 <span class="subject-sentence-no">14.</span> W głównej sali <span class="subject-predicate">sprawdzono</span> wszystkie wyjścia awaryjne. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
 
@@ -103,7 +103,7 @@ W pojedynczym przykładzie łatwo skupić się na jednej regule. W dłuższym te
 
 <span class="subject-sentence-no">33.</span> O północy nad wzgórzem <span class="subject-predicate">zagrzmiało</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
 
-<span class="subject-sentence-no">34.</span> <span class="subject-mark subject-mark--series"><strong>Kierowniczka albo Paweł</strong></span> <span class="subject-predicate">musiał</span> podjąć decyzję o przerwaniu próby.
+<span class="subject-sentence-no">34.</span> <span class="subject-mark subject-mark--series"><strong>Kierowniczka albo jej zastępczyni</strong></span> <span class="subject-predicate">miała</span> podjąć decyzję o przerwaniu próby.
 
 <span class="subject-sentence-no">35.</span> Ostatecznie <span class="subject-mark subject-mark--grammatical"><strong>kierowniczka</strong></span> <span class="subject-predicate">zarządziła</span> powrót do budynku.
 
@@ -156,7 +156,7 @@ Zmiana konstrukcji istnienia na konstrukcję braku powoduje zmianę przypadka.
 
 > <span class="subject-mark subject-mark--series"><strong>Kierowniczka i Paweł</strong></span> <span class="subject-predicate">podejmą</span> decyzję.
 
-> <span class="subject-mark subject-mark--series"><strong>Kierowniczka albo Paweł</strong></span> <span class="subject-predicate">podejmie</span> decyzję.
+> <span class="subject-mark subject-mark--series"><strong>Kierowniczka albo jej zastępczyni</strong></span> <span class="subject-predicate">podejmie</span> decyzję.
 
 Spójnik zmienia liczbę potencjalnych wykonawców i formę orzeczenia.
 
