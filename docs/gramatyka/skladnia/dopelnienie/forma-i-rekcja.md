@@ -88,7 +88,7 @@ Przyimek należy do całej wymaganej konstrukcji. Nie pytamy jedynie **projekcie
 
 > Marta <span class="object-predicate">mówi</span> <span class="object-mark object-mark--basic">o <strong>wynikach</strong></span>.
 
-> Test <span class="object-predicate">polega</span> <span class="object-mark object-mark--basic">na porównaniu <strong>próbek</strong></span>.
+> Test <span class="object-predicate">polega</span> <span class="object-mark object-mark--basic">na <strong>porównaniu</strong> próbek</span>.
 
 W polszczyźnie miejscownik nie występuje samodzielnie. Jego formę rozpoznajemy razem z przyimkiem, na przykład **o projekcie**, **na porównaniu**, **przy urządzeniu**. Ostatnie połączenie może jednak opisywać miejsce, dlatego zawsze trzeba sprawdzić zależność znaczeniową.
 
@@ -107,7 +107,7 @@ Zmienia się forma zaimka, ale jego funkcja pozostaje dopełnieniem zależnym od
 
 > Kierowniczka <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--basic"><strong>pracownikom</strong></span> <span class="object-mark object-mark--basic">nową <strong>instrukcję</strong></span>.
 
-> Kierowniczka <span class="object-predicate">poinformowała</span> <span class="object-mark object-mark--basic"><strong>pracowników</strong></span> <span class="object-mark object-mark--basic">o zmianie <strong>terminu</strong></span>.
+> Kierowniczka <span class="object-predicate">poinformowała</span> <span class="object-mark object-mark--basic"><strong>pracowników</strong></span> <span class="object-mark object-mark--basic">o <strong>zmianie</strong> terminu</span>.
 
 Czasownik **przekazała** otwiera miejsce dla odbiorcy i przekazywanej rzeczy. Czasownik **poinformowała** łączy osobę poinformowaną z treścią informacji.
 
