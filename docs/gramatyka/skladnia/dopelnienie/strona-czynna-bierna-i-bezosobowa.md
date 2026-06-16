@@ -109,7 +109,7 @@ Czasownik **mieć** nie tworzy naturalnej strony biernej mimo obecności dopełn
   <div class="object-reading-header"><h2>Kontrola dokumentacji</h2></div>
   <div class="object-reading-text" markdown>
 
-Komisja <span class="object-predicate">sprawdziła</span> <span class="object-mark object-mark--direct">wszystkie <strong>formularze</strong></span>. Następnie <span class="subject-mark subject-mark--grammatical"><strong>Formularze</strong></span> <span class="object-predicate">zostały przekazane</span> <span class="object-mark object-mark--indirect"><strong>archiwistce</strong></span> przez przewodniczącą. W osobnym pomieszczeniu <span class="object-mark object-mark--direct">brakujące <strong>załączniki</strong></span> <span class="object-predicate">zeskanowano</span> ponownie. Ostatecznie <span class="subject-mark subject-mark--grammatical"><strong>Dokumentacja</strong></span> <span class="object-predicate">została zatwierdzona</span> bez dodatkowych uwag.
+Komisja <span class="object-predicate">sprawdziła</span> <span class="object-mark object-mark--direct">całą <strong>dokumentację</strong></span>. Następnie <span class="subject-mark subject-mark--grammatical"><strong>Dokumentacja</strong></span> <span class="object-predicate">została przekazana</span> <span class="object-mark object-mark--indirect"><strong>archiwistce</strong></span> <span class="object-mark object-mark--indirect">przez <strong>przewodniczącą</strong></span>. W osobnym pomieszczeniu <span class="object-mark object-mark--direct">brakującą <strong>stronę</strong></span> <span class="object-predicate">zeskanowano</span> ponownie. Ostatecznie <span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="object-predicate">został zatwierdzony</span> bez dodatkowych uwag.
 
   </div>
 </div>
@@ -117,7 +117,7 @@ Komisja <span class="object-predicate">sprawdziła</span> <span class="object-ma
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-**Formularze** przechodzą z funkcji dopełnienia bliższego do funkcji podmiotu. **Archiwistce** pozostaje dopełnieniem dalszym. W zdaniu **załączniki zeskanowano** biernik wskazuje dopełnienie, mimo że grupa stoi przed orzeczeniem. Ostatnie zdanie ma podmiot **dokumentacja**, chociaż wykonawca zatwierdzenia nie został nazwany.
+**Dokumentację** przechodzi z funkcji dopełnienia bliższego do funkcji podmiotu **dokumentacja**. **Archiwistce** pozostaje dopełnieniem dalszym, a **przez przewodniczącą** wskazuje wykonawczynię strony biernej. W zdaniu **stronę zeskanowano** wyraźna forma biernika potwierdza dopełnienie mimo pozycji przed orzeczeniem.
 </div>
 
 <div class="object-summary">
