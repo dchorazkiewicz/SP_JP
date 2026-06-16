@@ -2,57 +2,94 @@
 
 <div class="subject-lesson" markdown>
 
-<div class="subject-lead" markdown>
+## O kim albo o czym mówi zdanie?
 
-**Podmiot** jest składnikiem, o którym orzekamy: nazywa uczestnika czynności, nosiciela stanu, rzecz umieszczoną w określonym miejscu, treść ocenianą przez mówiącego albo większą konstrukcję pełniącą tę samą funkcję. Nie zawsze jest wykonawcą czynności i nie zawsze występuje jako rzeczownik na początku zdania.
+Porównaj:
 
-Analizę rozpoczynamy od **pełnego orzeczenia**. Dopiero potem sprawdzamy, z jakim składnikiem pozostaje ono w relacji, jak wygląda zgoda i czy zdanie w ogóle przewiduje podmiot.
+> <span class="subject-mark subject-mark--grammatical"><strong>Badaczka</strong></span> <span class="subject-predicate">wróciła</span>.
 
-</div>
+> <span class="subject-mark subject-mark--grammatical"><strong>Technik</strong></span> <span class="subject-predicate">wrócił</span>.
 
-## Od orzeczenia do podmiotu
+> <span class="subject-mark subject-mark--grammatical"><strong>Badaczki</strong></span> <span class="subject-predicate">wróciły</span>.
 
-> Po zakończeniu pomiarów <span class="subject-mark subject-mark--grammatical">młoda <strong>badaczka</strong></span> <span class="subject-predicate">sprawdziła</span> wyniki.
+W każdym zdaniu mówimy o kimś innym. Raz jest to **badaczka**, raz **technik**, a raz kilka **badaczek**. Wraz ze zmianą osoby lub grupy zmienia się również forma wyrazu opisującego zdarzenie: **wróciła — wrócił — wróciły**.
 
-Najpierw wskazujemy orzeczenie **sprawdziła**. Jego forma prowadzi do pytania: **kto sprawdził?** Podmiotem jest cała grupa **młoda badaczka**, a jej rdzeniem — rzeczownik **badaczka**.
-
-<div class="subject-tree">sprawdziła
-├── kto? → młoda badaczka
-│   └── rdzeń → badaczka
-└── co? → wyniki</div>
+Wyraz, który nazywa osobę, rzecz lub zjawisko, **o którym zdanie coś mówi**, nazywamy **podmiotem**.
 
 <div class="subject-summary" markdown>
 
-### Zasada oznaczeń
+### Pierwsze rozpoznanie
 
-Kolorowa ramka obejmuje **cały składnik podmiotowy**. W rozbudowanej grupie pogrubiamy jej rdzeń. Orzeczenie oznaczamy osobnym podkreśleniem. Podmiot domyślny podajemy w komentarzu, a przy zdaniu bezpodmiotowym wyraźnie zaznaczamy jego brak.
+W zdaniu **Badaczka wróciła**:
+
+- **badaczka** nazywa osobę, o której mówimy — jest podmiotem;
+- **wróciła** mówi, co się z nią wydarzyło — jest orzeczeniem.
+
+Podmiotu szukamy dopiero po znalezieniu orzeczenia, ponieważ to orzeczenie otwiera pytanie: **kto lub co znajduje się w centrum tej informacji?**
 
 </div>
 
-## Podmiot nie jest zawsze wykonawcą
+## Podmiot może mieć własne określenia
+
+Porównaj:
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Badaczka</strong></span> <span class="subject-predicate">przedstawiła</span> wyniki.
+
+> <span class="subject-mark subject-mark--grammatical">młoda <strong>badaczka</strong> z laboratorium</span> <span class="subject-predicate">przedstawiła</span> wyniki.
+
+W obu zdaniach osobą, o której mówimy, jest **badaczka**. W drugim przykładzie dodano informacje:
+
+- **młoda** — mówi, jaka jest badaczka;
+- **z laboratorium** — wskazuje, z jakim miejscem jest związana.
+
+Wyraz **badaczka** pozostaje najważniejszym wyrazem tej części zdania. Nazywamy go **wyrazem głównym**.
+
+Całość **młoda badaczka z laboratorium** nazywamy **grupą podmiotu**: obejmuje ona sam podmiot oraz wszystkie wyrazy, które go określają.
+
+<div class="subject-tree">grupa podmiotu: młoda badaczka z laboratorium
+├── podmiot i wyraz główny → badaczka
+├── jaka? → młoda
+└── skąd? / z którego miejsca? → z laboratorium</div>
+
+<div class="subject-summary" markdown>
+
+### Co pokazują ramka i pogrubienie?
+
+- Kolorowa ramka obejmuje całą **grupę podmiotu**.
+- Pogrubienie wskazuje sam **podmiot**, czyli wyraz główny tej grupy.
+- Okoliczniki i dopełnienia zależne od orzeczenia pozostają poza ramką.
+
+W zdaniu **Młoda badaczka z laboratorium przedstawiła wyniki rano** ramka obejmuje wyrazy **młoda badaczka z laboratorium**, ale nie obejmuje wyrazów **wyniki** ani **rano**.
+
+</div>
+
+## Forma orzeczenia zmienia się razem z podmiotem
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Badaczka</strong></span> <span class="subject-predicate">pracuje</span>.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Badaczki</strong></span> <span class="subject-predicate">pracują</span>.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Badacz</strong></span> <span class="subject-predicate">wrócił</span>.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Badaczka</strong></span> <span class="subject-predicate">wróciła</span>.
+
+Forma orzeczenia dostosowuje się do liczby, osoby, a w niektórych formach także do rodzaju podmiotu. Takie dostosowanie nazywamy **zgodą podmiotu z orzeczeniem**.
+
+Zgoda jest ważną wskazówką, ale nie zawsze wystarcza sama. W dalszych lekcjach pojawią się konstrukcje takie jak **pięciu uczniów przyszło** albo **Marty nie było**, w których budowa jest mniej typowa.
+
+## Podmiot nie zawsze wykonuje czynność
 
 <div class="subject-series">
   <div class="subject-row"><span class="subject-badge">czynność</span><p><span class="subject-mark subject-mark--grammatical"><strong>Technik</strong></span> <span class="subject-predicate">naprawił</span> czujnik.</p><span class="subject-note">wykonawca</span></div>
-  <div class="subject-row"><span class="subject-badge">stan</span><p><span class="subject-mark subject-mark--grammatical"><strong>Technik</strong></span> <span class="subject-predicate">jest zmęczony</span>.</p><span class="subject-note">nosiciel stanu</span></div>
-  <div class="subject-row"><span class="subject-badge">położenie</span><p>Na stole <span class="subject-predicate">leży</span> <span class="subject-mark subject-mark--grammatical"><strong>raport</strong></span>.</p><span class="subject-note">element lokalizowany</span></div>
-  <div class="subject-row"><span class="subject-badge">wrażenie</span><p>Marcie <span class="subject-predicate">podoba się</span> <span class="subject-mark subject-mark--grammatical"><strong>muzyka</strong></span>.</p><span class="subject-note">źródło wrażenia</span></div>
-  <div class="subject-row"><span class="subject-badge">strona bierna</span><p><span class="subject-mark subject-mark--grammatical"><strong>Czujnik</strong></span> <span class="subject-predicate">został naprawiony</span> przez technika.</p><span class="subject-note">odbiorca czynności</span></div>
+  <div class="subject-row"><span class="subject-badge">stan</span><p><span class="subject-mark subject-mark--grammatical"><strong>Technik</strong></span> <span class="subject-predicate">jest zmęczony</span>.</p><span class="subject-note">osoba w określonym stanie</span></div>
+  <div class="subject-row"><span class="subject-badge">położenie</span><p>Na stole <span class="subject-predicate">leży</span> <span class="subject-mark subject-mark--grammatical"><strong>raport</strong></span>.</p><span class="subject-note">rzecz, której położenie opisujemy</span></div>
+  <div class="subject-row"><span class="subject-badge">wrażenie</span><p>Marcie <span class="subject-predicate">podoba się</span> <span class="subject-mark subject-mark--grammatical"><strong>muzyka</strong></span>.</p><span class="subject-note">to, co wywołuje wrażenie</span></div>
+  <div class="subject-row"><span class="subject-badge">strona bierna</span><p><span class="subject-mark subject-mark--grammatical"><strong>Czujnik</strong></span> <span class="subject-predicate">został naprawiony</span> przez technika.</p><span class="subject-note">rzecz objęta czynnością</span></div>
 </div>
 
-Definicja „podmiot to wykonawca czynności” jest zbyt wąska. Podmiot jest przede wszystkim składnikiem, **o którym orzeczenie coś stwierdza**.
+Definicja „podmiot to wykonawca czynności” działa tylko w części zdań. Bezpieczniej powiedzieć: **podmiot nazywa osobę, rzecz lub treść, o której orzeczenie coś stwierdza**.
 
-## Najważniejsze postacie podmiotu
-
-<div class="subject-type-grid">
-  <div class="subject-type-card subject-type-card--grammatical"><strong>Podmiot gramatyczny</strong><span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">czyta</span> raport. Typowo stoi w mianowniku i uzgadnia się z orzeczeniem.</div>
-  <div class="subject-type-card subject-type-card--implicit"><strong>Podmiot domyślny</strong><span class="subject-predicate">Czytamy</span> raport. <span class="subject-mark subject-mark--implicit">Podmiot: <strong>my</strong>.</span></div>
-  <div class="subject-type-card subject-type-card--logical"><strong>Podmiot logiczny lub liczebnikowy</strong><span class="subject-mark subject-mark--logical"><strong>Marty</strong></span> <span class="subject-predicate">nie było</span>. <span class="subject-mark subject-mark--logical"><strong>Pięciu uczniów</strong></span> <span class="subject-predicate">przyszło</span>.</div>
-  <div class="subject-type-card subject-type-card--series"><strong>Podmiot szeregowy</strong><span class="subject-mark subject-mark--series"><strong>Marta i Paweł</strong></span> <span class="subject-predicate">przygotowali</span> prezentację.</div>
-  <div class="subject-type-card subject-type-card--companion"><strong>Konstrukcja z „z”</strong><span class="subject-mark subject-mark--companion"><strong>Marta z Pawłem</strong></span> <span class="subject-predicate">przygotowali</span> prezentację.</div>
-  <div class="subject-type-card subject-type-card--none"><strong>Brak podmiotu</strong>Od rana <span class="subject-predicate">pada</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></div>
-</div>
-
-## Szyk nie rozstrzyga o funkcji
+## Podmiot nie musi stać na początku
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">napisała</span> raport.
 
@@ -60,57 +97,57 @@ Definicja „podmiot to wykonawca czynności” jest zbyt wąska. Podmiot jest p
 
 > Na biurku <span class="subject-predicate">leży</span> <span class="subject-mark subject-mark--grammatical">ważny <strong>dokument</strong></span>.
 
-W każdym zdaniu funkcję ustalamy na podstawie relacji z orzeczeniem, formy i sensu — nie na podstawie miejsca w wypowiedzeniu.
+Pozycja wyrazu nie decyduje o jego funkcji. Podmiot może stać przed orzeczeniem, po nim, a czasem w ogóle nie być zapisany jako osobny wyraz.
 
-## Jawny podmiot, podmiot domyślny i brak podmiotu
+## Podmiot zapisany, niewypowiedziany i brak podmiotu
 
 <div class="subject-comparison">
-  <div class="subject-comparison-item"><span class="subject-comparison-label">jawny</span><p><span class="subject-mark subject-mark--grammatical"><strong>Uczestnicy</strong></span> <span class="subject-predicate">wrócili</span>.</p><p>Podmiot jest zapisany w zdaniu.</p></div>
-  <div class="subject-comparison-item"><span class="subject-comparison-label">domyślny</span><p><span class="subject-predicate">Wróciliśmy</span>. <span class="subject-mark subject-mark--implicit">Podmiot: <strong>my</strong>.</span></p><p>Można go odtworzyć z czasownika.</p></div>
-  <div class="subject-comparison-item"><span class="subject-comparison-label">brak</span><p><span class="subject-predicate">Zagrzmiało</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p><p>Nie dopisujemy sztucznego wykonawcy.</p></div>
+  <div class="subject-comparison-item"><span class="subject-comparison-label">zapisany</span><p><span class="subject-mark subject-mark--grammatical"><strong>Uczestnicy</strong></span> <span class="subject-predicate">wrócili</span>.</p><p>Wyraz nazywający osoby znajduje się w zdaniu.</p></div>
+  <div class="subject-comparison-item"><span class="subject-comparison-label">możliwy do odtworzenia</span><p><span class="subject-predicate">Wróciliśmy</span>. <span class="subject-mark subject-mark--implicit">Mówimy o: <strong>my</strong>.</span></p><p>Końcówka czasownika pozwala ustalić osobę.</p></div>
+  <div class="subject-comparison-item"><span class="subject-comparison-label">nie występuje</span><p><span class="subject-predicate">Zagrzmiało</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p><p>Zdanie opisuje zjawisko bez wskazywania osoby lub rzeczy, o której można orzekać w zwykły sposób.</p></div>
 </div>
 
-## Plan rozdziału
+Dopiero po zauważeniu tej różnicy wprowadzamy nazwy:
 
-Podział został ułożony według kolejnych decyzji analitycznych. Najpierw uczymy się znajdować podmiot, później rozpoznajemy jego typowe postacie, następnie konstrukcje bez jawnego mianownika, szeregi, przypadki nietypowe i granice klasyfikacji. Ostatnia strona łączy wszystko w analizie dłuższego tekstu.
+- podmiot zapisany w zdaniu nazywamy **jawnym**;
+- podmiot możliwy do odtworzenia z formy czasownika lub kontekstu nazywamy **domyślnym**;
+- niektóre zdania są **bezpodmiotowe**, ponieważ podmiotu nie można i nie należy do nich dopisywać.
+
+## Dokąd prowadzi rozdział?
+
+Najpierw nauczymy się rozpoznawać podmiot w prostym zdaniu. Potem zobaczymy, jak może być wyrażony, dlaczego czasem nie jest zapisany, jak działa kilka równorzędnych podmiotów oraz co dzieje się w mniej typowych konstrukcjach.
 
 <div class="subject-topic-grid">
-  <a class="subject-topic-card" href="rozpoznawanie/"><span class="subject-topic-number">01</span><strong>Jak znaleźć podmiot?</strong><span>Pełna procedura: od orzeczenia, przez przypadek i zgodę, do kontroli zakresu.</span></a>
-  <a class="subject-topic-card" href="podmiot-gramatyczny-i-sposoby-wyrazania/"><span class="subject-topic-number">02</span><strong>Podmiot gramatyczny</strong><span>Rzeczownik, zaimek, użycia rzeczownikowe, grupa podmiotu i podstawowa zgoda.</span></a>
-  <a class="subject-topic-card" href="podmiot-domyslny-i-zdania-bezpodmiotowe/"><span class="subject-topic-number">03</span><strong>Podmiot domyślny i bezpodmiotowość</strong><span>Końcówka czasownika, kontekst, formy na „-no, -to”, konstrukcje z „się” i czasowniki niewłaściwe.</span></a>
-  <a class="subject-topic-card" href="podmiot-wieloczlonowy/"><span class="subject-topic-number">04</span><strong>Podmiot wieloczłonowy</strong><span>Szeregi, spójniki, pierwszeństwo osoby, zgodność rodzaju i konstrukcje z „z”.</span></a>
-  <a class="subject-topic-card" href="podmiot-logiczny-i-konstrukcje-nietypowe/"><span class="subject-topic-number">05</span><strong>Podmiot logiczny i konstrukcje nietypowe</strong><span>Dopełniacz, liczebniki, nazwy zbiorowe, bezokolicznik i zdanie podmiotowe.</span></a>
-  <a class="subject-topic-card" href="granice-klasyfikacji/"><span class="subject-topic-number">06</span><strong>Granice klasyfikacji</strong><span>Celownik doświadczenia, strona bierna, „to”, zgoda znaczeniowa i przypadki sporne.</span></a>
-  <a class="subject-topic-card" href="podmioty-w-tekscie/"><span class="subject-topic-number">07</span><strong>Podmioty w tekście</strong><span>Spójna opowieść, kontrola zakresu, przekształcenia i analiza krok po kroku.</span></a>
+  <a class="subject-topic-card" href="rozpoznawanie/"><span class="subject-topic-number">01</span><strong>Jak znaleźć podmiot?</strong><span>Od orzeczenia do osoby, rzeczy lub treści, o której mówi zdanie.</span></a>
+  <a class="subject-topic-card" href="podmiot-gramatyczny-i-sposoby-wyrazania/"><span class="subject-topic-number">02</span><strong>Podmiot gramatyczny</strong><span>Rzeczowniki, zaimki, wyrazy użyte jak rzeczowniki oraz budowa grupy podmiotu.</span></a>
+  <a class="subject-topic-card" href="podmiot-domyslny-i-zdania-bezpodmiotowe/"><span class="subject-topic-number">03</span><strong>Podmiot domyślny i bezpodmiotowość</strong><span>Kiedy osobę odtwarzamy z formy lub kontekstu, a kiedy podmiotu naprawdę nie ma.</span></a>
+  <a class="subject-topic-card" href="podmiot-wieloczlonowy/"><span class="subject-topic-number">04</span><strong>Więcej niż jeden człon</strong><span>Połączenia przez <em>i</em>, <em>albo</em> oraz konstrukcje z przyimkiem <em>z</em>.</span></a>
+  <a class="subject-topic-card" href="podmiot-logiczny-i-konstrukcje-nietypowe/"><span class="subject-topic-number">05</span><strong>Konstrukcje nietypowe</strong><span>Brak i nieobecność, liczebniki, bezokolicznik oraz całe zdanie w funkcji podmiotu.</span></a>
+  <a class="subject-topic-card" href="granice-klasyfikacji/"><span class="subject-topic-number">06</span><strong>Granice klasyfikacji</strong><span>Zdania podobne z wyglądu, ale zbudowane według innych zasad.</span></a>
+  <a class="subject-topic-card" href="podmioty-w-tekscie/"><span class="subject-topic-number">07</span><strong>Podmioty w tekście</strong><span>Spójna opowieść, kontrola zakresu i uzasadnianie rozpoznań.</span></a>
 </div>
 
-## Procedura, która działa w całym rozdziale
+## Procedura analizy
 
 <div class="subject-checklist">
-  <div><strong>Przeczytaj całe zdanie.</strong> Nie wybieraj pierwszego rzeczownika.</div>
-  <div><strong>Wskaż pełne orzeczenie.</strong> Uwzględnij konstrukcje imienne, złożone i bezosobowe.</div>
-  <div><strong>Ustal składnik, o którym orzekamy.</strong> Pytania <em>kto?</em> i <em>co?</em> traktuj jako pomoc, nie definicję.</div>
-  <div><strong>Sprawdź przypadek i zgodę.</strong> Zbadaj mianownik, dopełniacz, liczbę, osobę i rodzaj.</div>
-  <div><strong>Rozpoznaj typ konstrukcji.</strong> Jawny, domyślny, logiczny, liczebnikowy, wieloczłonowy albo brak podmiotu.</div>
-  <div><strong>Kontroluj granice ramki.</strong> Obejmuje ona cały składnik podmiotowy, ale nie elementy zależne od orzeczenia.</div>
-</div>
-
-## Najczęstsze pułapki
-
-<div class="subject-type-grid">
-  <div class="subject-type-card subject-type-card--none"><strong>Celownik doświadczenia</strong>Marcie <span class="subject-predicate">jest zimno</span>. Forma <em>Marcie</em> nie jest podmiotem.</div>
-  <div class="subject-type-card subject-type-card--grammatical"><strong>Strona bierna</strong><span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="subject-predicate">został napisany</span> przez Martę. Podmiotem nie jest wykonawca.</div>
-  <div class="subject-type-card subject-type-card--logical"><strong>Grupa liczebnikowa</strong><span class="subject-mark subject-mark--logical"><strong>Pięciu techników</strong></span> <span class="subject-predicate">przyszło</span>. Forma nijaka nie oznacza podmiotu „ono”.</div>
-  <div class="subject-type-card subject-type-card--implicit"><strong>Nieokreślona osoba</strong><span class="subject-predicate">Dzwonili</span> z sekretariatu. To forma osobowa z domyślnymi, nieokreślonymi wykonawcami.</div>
-  <div class="subject-type-card subject-type-card--none"><strong>Bezosobowość</strong><span class="subject-predicate">Trzeba wyjść</span>. Nie dopisujemy podmiotu „ktoś”.</div>
-  <div class="subject-type-card subject-type-card--companion"><strong>Przyimek „z”</strong><span class="subject-mark subject-mark--companion"><strong>Marta z Pawłem</strong></span> <span class="subject-predicate">przyszli</span>, ale <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> z Pawłem <span class="subject-predicate">przyszła</span>.</div>
+  <div><strong>Znajdź orzeczenie.</strong> Ustal, jaka informacja tworzy centrum zdania.</div>
+  <div><strong>Zapytaj, o kim albo o czym jest ta informacja.</strong> Nie wybieraj automatycznie pierwszego rzeczownika.</div>
+  <div><strong>Sprawdź formę orzeczenia.</strong> Zobacz, czy zmienia się razem z rozpoznanym podmiotem.</div>
+  <div><strong>Oddziel podmiot od jego określeń.</strong> Wskaż wyraz główny oraz całą grupę podmiotu.</div>
+  <div><strong>Sprawdź, czy podmiot jest zapisany.</strong> Może być jawny, domyślny albo nie występować.</div>
+  <div><strong>Dopiero potem nazwij dokładny typ konstrukcji.</strong> Termin ma podsumować analizę, a nie ją zastąpić.</div>
 </div>
 
 <div class="subject-summary" markdown>
 
-### Podmiot jest składnikiem relacyjnym
+### Na początku zapamiętaj
 
-Nie rozpoznajemy go po samym znaczeniu, pozycji ani części mowy. Podmiot ujawnia się przez relację z orzeczeniem, przypadek, zgodę i budowę całego zdania. Może być pojedynczym wyrazem, rozbudowaną grupą, szeregiem, bezokolicznikiem albo całym zdaniem; może też pozostać domyślny. Nie każde zdanie ma jednak podmiot.
+- Podmiot nazywa osobę, rzecz lub treść, o której orzeczenie coś stwierdza.
+- Podmiot nie zawsze jest wykonawcą czynności.
+- Nie musi stać na początku zdania.
+- W grupie podmiotu pogrubienie wskazuje sam podmiot, a ramka obejmuje także jego określenia.
+- Forma orzeczenia często dostosowuje się do podmiotu; to zjawisko nazywamy zgodą.
+- Podmiot może być zapisany, możliwy do odtworzenia albo nie występować.
 
 </div>
 
