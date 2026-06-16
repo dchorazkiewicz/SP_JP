@@ -12,17 +12,28 @@ Części mowy najlepiej poznawać **w zdaniach i całych tekstach**. Najpierw ob
 
 Porównaj:
 
-> Maja, skrzynia, sala, plan.
-
-To nazwy osób, przedmiotów i miejsc, ale nie wiadomo jeszcze, co się wydarzyło.
-
 > weszła, czekały, leżał, usłyszała.
 
-Te wyrazy wprowadzają zdarzenia, lecz bez nazw nie wiadomo, kto lub co w nich uczestniczy.
+Te wyrazy uruchamiają zdarzenia, ale bez kontekstu nie wiadomo jeszcze, kto wszedł, co czekało ani co zostało usłyszane.
+
+> Maja, skrzynia, sala, plan.
+
+To nazwy osób, przedmiotów i miejsc, lecz same nie mówią, co się wydarzyło.
 
 > Maja weszła do sali. Obok trzech skrzyń leżał plan. Nagle usłyszała trzask.
 
-Dopiero pełne zdania łączą nazwy, czynności, liczbę, miejsce i kolejność wydarzeń.
+Dopiero pełne zdania łączą zdarzenia z ich uczestnikami, miejscem, liczbą i kolejnością.
+
+## Dlaczego zaczynamy od czasownika?
+
+Czasownik najszybciej pokazuje, że forma gramatyczna zmienia sens całego zdania:
+
+> Lena <strong>czyta</strong> opowiadanie.  
+> Lena <strong>przeczytała</strong> opowiadanie.  
+> Lena <strong>przeczytałaby</strong> opowiadanie.  
+> <strong>Przeczytaj</strong> opowiadanie.
+
+Zmiana jednego elementu pozwala mówić o trwającej czynności, zakończonym zdarzeniu, możliwości albo poleceniu. Dlatego dział zaczyna się od czasownika. Rzeczownik pojawia się zaraz potem, ponieważ nazywa osoby, rzeczy, miejsca i pojęcia uczestniczące w tych zdarzeniach.
 
 ## Dziesięć rodzajów pracy wykonywanej przez wyrazy
 
@@ -31,8 +42,8 @@ Przeczytaj zdanie:
 > Dwaj uczniowie natychmiast otworzyli stary katalog, ponieważ właśnie w nim zapisano brakujący numer.
 
 <div class="pos-lens-grid">
-  <div class="pos-lens-card"><strong>Rzeczowniki</strong><em>uczniowie, katalog, numer</em> nazywają osoby, przedmiot i informację.</div>
   <div class="pos-lens-card"><strong>Czasowniki</strong><em>otworzyli, zapisano</em> mówią o czynnościach i zdarzeniach.</div>
+  <div class="pos-lens-card"><strong>Rzeczowniki</strong><em>uczniowie, katalog, numer</em> nazywają osoby, przedmiot i informację.</div>
   <div class="pos-lens-card"><strong>Przymiotniki</strong><em>stary, brakujący</em> dodają informacje o katalogu i numerze.</div>
   <div class="pos-lens-card"><strong>Zaimek</strong><em>nim</em> odsyła do wcześniej wymienionego katalogu.</div>
   <div class="pos-lens-card"><strong>Liczebnik</strong><em>dwaj</em> podaje liczbę uczniów.</div>
@@ -52,8 +63,8 @@ Nazwy części mowy porządkują różne sposoby działania wyrazów. Nie są je
     <h2>Poranek przed otwarciem wystawy</h2>
     <p>Wyróżnienia pokazują wybrane przykłady, a komentarze wyjaśniają ich wkład w tekst.</p>
     <div class="pos-overview-legend">
-      <span class="pos-noun">rzeczownik</span>
       <span class="pos-verb">czasownik</span>
+      <span class="pos-noun">rzeczownik</span>
       <span class="pos-adjective">przymiotnik</span>
       <span class="pos-pronoun">zaimek</span>
       <span class="pos-numeral">liczebnik</span>
@@ -75,7 +86,7 @@ Nagle zza kotary dobiegł trzask.
 <div class="pos-commentary" markdown>
 <strong>Jak wyrazy współpracują?</strong>
 
-Rzeczowniki wprowadzają bohaterkę, miejsce i przedmioty. Czasowniki uruchamiają wydarzenia. Przymiotnik pomaga rozpoznać budynek, liczebnik podaje liczbę skrzyń, a przysłówek mówi, jak Maja się poruszała. Przyimek buduje relację przestrzenną. Spójnik łączy dwie informacje, zaimek odsyła do skrzyń, partykuła ustawia zdarzenie wobec oczekiwanego czasu, a wykrzyknik pokazuje natychmiastową reakcję.
+Czasowniki uruchamiają wydarzenia i pokazują ich przebieg. Rzeczowniki wprowadzają bohaterkę, miejsce i przedmioty. Przymiotnik pomaga rozpoznać budynek, liczebnik podaje liczbę skrzyń, a przysłówek mówi, jak Maja się poruszała. Przyimek buduje relację przestrzenną. Spójnik łączy dwie informacje, zaimek odsyła do skrzyń, partykuła ustawia zdarzenie wobec oczekiwanego czasu, a wykrzyknik pokazuje natychmiastową reakcję.
 </div>
 
   </div>
@@ -103,15 +114,15 @@ Dlatego nie rozpoznajemy części mowy wyłącznie na podstawie jednego pytania 
 
 Porównaj:
 
+> piszę — piszesz — piszemy;
+>
 > książka — książki — książce;
 >
-> nowy — nowa — nowe;
->
-> piszę — piszesz — piszemy.
+> nowy — nowa — nowe.
 
 W tych seriach wyrazy przyjmują różne formy. Taką właściwość nazywamy **odmiennością**, a samą zmianę form — **odmianą**.
 
-Rzeczowniki, przymiotniki, większość zaimków i liczebników oraz czasowniki należą do części mowy odmiennych, lecz każdy z tych rodzajów wyrazów zmienia się według innych zasad.
+Czasowniki, rzeczowniki, przymiotniki oraz większość zaimków i liczebników należą do części mowy odmiennych, lecz każdy z tych rodzajów wyrazów zmienia się według innych zasad.
 
 ## Wyrazy, które zachowują jedną formę
 
@@ -130,8 +141,8 @@ Nieodmienność nie oznacza prostoty ani małego znaczenia. Taki wyraz może zmi
 ## Mapa działu
 
 <div class="topic-grid">
-  <a class="topic-card topic-card--primary" href="rzeczownik/"><span class="topic-number">01</span><strong>Rzeczownik</strong><span>Jak nazywamy osoby, rzeczy, miejsca, zdarzenia, uczucia i pojęcia oraz dlaczego forma nazwy zmienia się w zdaniu.</span></a>
-  <a class="topic-card" href="czasownik/"><span class="topic-number">02</span><strong>Czasownik</strong><span>Jak mówimy o czynnościach, stanach i zdarzeniach oraz jak forma pokazuje uczestnika i czas.</span></a>
+  <a class="topic-card topic-card--primary" href="czasownik/"><span class="topic-number">01</span><strong>Czasownik</strong><span>Jak mówimy o czynnościach, stanach i zdarzeniach oraz jak forma pokazuje uczestnika, czas i sposób ujęcia zdarzenia.</span></a>
+  <a class="topic-card" href="rzeczownik/"><span class="topic-number">02</span><strong>Rzeczownik</strong><span>Jak nazywamy osoby, rzeczy, miejsca, zdarzenia, uczucia i pojęcia oraz dlaczego forma nazwy zmienia się w zdaniu.</span></a>
   <a class="topic-card" href="przymiotnik/"><span class="topic-number">03</span><strong>Przymiotnik</strong><span>Jak opisujemy cechy i relacje oraz dlaczego forma określenia dopasowuje się do rzeczownika.</span></a>
   <a class="topic-card" href="przyslowek/"><span class="topic-number">04</span><strong>Przysłówek</strong><span>Jak określamy sposób, miejsce, czas lub stopień bez dopasowywania formy do rzeczownika.</span></a>
   <a class="topic-card" href="zaimki/"><span class="topic-number">05</span><strong>Zaimek</strong><span>Jak odsyłamy do osób, rzeczy, cech i sytuacji bez ciągłego powtarzania nazw.</span></a>
@@ -161,6 +172,7 @@ Dopiero po opisaniu tych różnic możemy odpowiednio nazwać użycia jako party
 <div class="pos-summary">
 <h3>Jak pracować z działem?</h3>
 <ul>
+  <li>Zaczynamy od czasownika, ponieważ jego forma szybko pokazuje zmianę znaczenia całego zdania.</li>
   <li>Najpierw czytaj zdanie i ustal, co wyraz wnosi do informacji.</li>
   <li>Oddzielaj nazwę części mowy od funkcji w konkretnym zdaniu.</li>
   <li>Nazwy odmiany i szczegółowych typów pojawiają się po pokazaniu różnicy form lub znaczeń.</li>
@@ -169,6 +181,6 @@ Dopiero po opisaniu tych różnic możemy odpowiednio nazwać użycia jako party
 </ul>
 </div>
 
-[Przejdź do rozdziału „Granice klasyfikacji”](granice-klasyfikacji/){ .md-button .md-button--primary }
+[Rozpocznij od czasownika](czasownik/){ .md-button .md-button--primary }
 
 </div>
