@@ -2,66 +2,79 @@
 
 <div class="adjective-lesson" markdown>
 
+## Jedna cecha, różne rzeczowniki
+
+> <span class="form-focus">Dobry</span> <span class="noun-anchor">przewodnik</span> zna miasto.  
+> <span class="form-focus">Dobra</span> <span class="noun-anchor">przewodniczka</span> zna miasto.  
+> <span class="form-focus">Dobre</span> <span class="noun-anchor">opracowanie</span> pomaga turystom.
+
+Wyraz oznaczający tę samą cechę przyjmuje formy **dobry, dobra, dobre**, ponieważ dopasowuje się do rzeczownika. Różnicę między tymi typami rzeczowników nazywamy **rodzajem**.
+
+> <span class="form-focus">Dobry</span> przewodnik czeka.  
+> <span class="form-focus">Dobrzy</span> przewodnicy czekają.
+
+Tutaj forma zmienia się dlatego, że raz mówimy o jednej osobie, a raz o kilku. To różnica **liczby**.
+
 <div class="lesson-lead" markdown>
 
-Przymiotnik odmienia się przez rodzaje, liczby i przypadki. Jego zakończenie pokazuje, z którym rzeczownikiem jest związany i jaką formę ma cała grupa wyrazów.
+Zmianę formy przymiotnika zależnie od rodzaju, liczby i związku całej grupy z innymi wyrazami nazywamy **odmianą przymiotnika**.
 
 </div>
 
-## Jeden przewodnik w różnych zdaniach
-
-<div class="adjective-story" markdown>
-  <div class="adjective-story__title">Dobry przewodnik</div>
-  <div class="adjective-story__body" markdown>
-
-W kolejnych zdaniach mówimy o tej samej osobie:
+## Ten sam przewodnik w różnych zdaniach
 
 > <span class="form-focus">Dobry</span> <span class="noun-anchor">przewodnik</span> zna historię miasta.  
 > Nie ma dziś <span class="form-focus">dobrego</span> <span class="noun-anchor">przewodnika</span>.  
 > Pomagamy <span class="form-focus">dobremu</span> <span class="noun-anchor">przewodnikowi</span>.  
 > Dyrektor pochwalił <span class="form-focus">dobrego</span> <span class="noun-anchor">przewodnika</span>.  
 > Klasa idzie z <span class="form-focus">dobrym</span> <span class="noun-anchor">przewodnikiem</span>.  
-> Wszyscy mówią o <span class="form-focus">dobrym</span> <span class="noun-anchor">przewodniku</span>.
+> Mówimy o <span class="form-focus">dobrym</span> <span class="noun-anchor">przewodniku</span>.
 
-Zmieniają się oba wyrazy. Przypadek dotyczy całej grupy, a przymiotnik zachowuje zgodę z rzeczownikiem.
+Zmieniają się oba wyrazy. Cała grupa pozostaje kolejno w innych relacjach: coś jest nazwane, czegoś nie ma, komuś pomagamy, kogoś chwalimy, z kimś idziemy i o kimś mówimy.
 
-  </div>
-</div>
+Formy odpowiadają przypadkom rzeczownika. Przymiotnik przyjmuje ten sam przypadek co określany rzeczownik. Takie dopasowanie nazywamy **zgodą**.
 
-## Temat, końcówka i oboczność
+## Część powtarzająca się i część zmienna
+
+> dobr-y, dobr-ego, dobr-emu, dobr-ym.
+
+Cząstka **dobr-** powtarza się. Nazywamy ją **tematem fleksyjnym**, czyli częścią względnie stałą podczas odmiany.
+
+Cząstki **-y, -ego, -emu, -ym** zmieniają się i pokazują formę. Nazywamy je **końcówkami fleksyjnymi**.
 
 <div class="form-key">
-  <span><span class="key-stem">temat</span> — część względnie stała</span>
+  <span><span class="key-stem">temat fleksyjny</span> — część względnie stała</span>
   <span><span class="key-ending">końcówka</span> — część wskazująca formę</span>
-  <span><span class="key-change">oboczność</span> — zmiana głoski w temacie</span>
 </div>
 
-W formach **dobr-y, dobr-ego, dobr-emu, dobr-ym** zwykle pozostaje temat **dobr-**, a zmieniają się końcówki. W parze **dobry — dobrzy** pojawia się także oboczność **r → rz**.
+W parze:
 
-## Rodzaj męski
+> dobry — dobrzy
+
+pojawia się także wymiana **r → rz**. Taką zmianę głoski w temacie nazywamy **obocznością**.
+
+## Rodzaj męski w liczbie pojedynczej
 
 <div class="example-series">
   <div class="series-header"><strong>dobry przewodnik</strong></div>
-  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">y</span></span> <span class="noun-anchor">przewodnik</span></p><span class="change-note">kto?</span></div>
+  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">y</span></span> <span class="noun-anchor">przewodnik</span> zna miasto.</p><span class="change-note">kto?</span></div>
   <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span></p><span class="change-note">kogo?</span></div>
   <div class="example-row"><span class="grammar-badge">C.</span><p>pomagam <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">emu</span></span> <span class="noun-anchor">przewodnikowi</span></p><span class="change-note">komu?</span></div>
-  <div class="example-row"><span class="grammar-badge">B.</span><p>widzę <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span></p><span class="change-note">jak dopełniacz</span></div>
+  <div class="example-row"><span class="grammar-badge">B.</span><p>widzę <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ego</span></span> <span class="noun-anchor">przewodnika</span></p><span class="change-note">kogo?</span></div>
   <div class="example-row"><span class="grammar-badge">N.</span><p>idę z <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ym</span></span> <span class="noun-anchor">przewodnikiem</span></p><span class="change-note">z kim?</span></div>
   <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">ym</span></span> <span class="noun-anchor">przewodniku</span></p><span class="change-note">o kim?</span></div>
-  <div class="example-row"><span class="grammar-badge">W.</span><p><span class="form-focus"><span class="stem-part">dobr</span><span class="ending-part">y</span></span> <span class="noun-anchor">przewodniku</span>!</p><span class="change-note">jak mianownik</span></div>
+  <div class="example-row"><span class="grammar-badge">W.</span><p><span class="form-focus">Dobry</span> <span class="noun-anchor">przewodniku</span>!</p><span class="change-note">zwrot</span></div>
 </div>
 
-W bierniku rodzaju męskiego nie ma jednego wzoru:
+## Biernik rodzaju męskiego zależy od znaczenia rzeczownika
 
+> Widzę <span class="form-focus">dobrego</span> <span class="noun-anchor">ucznia</span>.  
 > Widzę <span class="form-focus">dużego</span> <span class="noun-anchor">psa</span>.  
 > Widzę <span class="form-focus">duży</span> <span class="noun-anchor">stół</span>.
 
-Przy nazwach osób i wielu zwierząt biernik jest podobny do dopełniacza. Przy nazwach rzeczy nieożywionych jest zwykle podobny do mianownika.
+Przy nazwach osób i wielu zwierząt forma biernika jest taka sama jak w połączeniu **nie ma dobrego ucznia, dużego psa**. Przy nazwach rzeczy nieożywionych jest taka sama jak forma podstawowa **duży stół**.
 
-<div class="adjective-checkpoint">
-  <div class="adjective-checkpoint__title">Dlaczego nie wystarczy zapamiętać jednej końcówki biernika?</div>
-  <p>Forma przymiotnika zależy także od tego, czy rzeczownik rodzaju męskiego nazywa osobę, istotę żywą czy przedmiot nieożywiony.</p>
-</div>
+Dopiero po obserwacji tego wzoru używamy terminów **męskoosobowy**, **męskożywotny** i **męskonieżywotny**.
 
 ## Rodzaj żeński i nijaki
 
@@ -70,87 +83,54 @@ Przy nazwach osób i wielu zwierząt biernik jest podobny do dopełniacza. Przy 
   <div class="comparison-item"><span class="comparison-label">rodzaj nijaki</span><p><span class="form-focus">dobre</span> <span class="noun-anchor">rozwiązanie</span><br>nie ma <span class="form-focus">dobrego</span> <span class="noun-anchor">rozwiązania</span><br>wybieram <span class="form-focus">dobre</span> <span class="noun-anchor">rozwiązanie</span><br>pracuję nad <span class="form-focus">dobrym</span> <span class="noun-anchor">rozwiązaniem</span><br>mówię o <span class="form-focus">dobrym</span> <span class="noun-anchor">rozwiązaniu</span></p></div>
 </div>
 
-W rodzaju nijakim biernik liczby pojedynczej jest równy mianownikowi.
-
 Wołacz przymiotnika ma zwykle taką samą formę jak mianownik:
 
-> <span class="form-focus">dobry</span> <span class="noun-anchor">przewodniku</span>;  
-> <span class="form-focus">dobra</span> <span class="noun-anchor">książko</span>;  
-> <span class="form-focus">dobre</span> <span class="noun-anchor">dziecko</span>.
+> dobry przewodniku; dobra książko; dobre dziecko.
 
-Zwroty do przedmiotów, takie jak **dobra książko**, pojawiają się głównie w uosobieniu, poezji lub żarcie.
+## Liczba mnoga: dwa wzory
 
-## Liczba mnoga
-
-> <span class="form-focus">Dobrzy</span> <span class="noun-anchor">uczniowie</span> przygotowali prezentacje.  
-> <span class="form-focus">Dobre</span> <span class="noun-anchor">uczennice</span> przygotowały prezentacje.  
+> <span class="form-focus">Dobrzy</span> <span class="noun-anchor">uczniowie</span> przygotowali prezentację.  
+> <span class="form-focus">Dobre</span> <span class="noun-anchor">uczennice</span> przygotowały prezentację.  
 > <span class="form-focus">Dobre</span> <span class="noun-anchor">psy</span> czekały przy bramie.  
-> <span class="form-focus">Dobre</span> <span class="noun-anchor">rozwiązania</span> zostały zapisane.
+> <span class="form-focus">Dobre</span> <span class="noun-anchor">rozwiązania</span> zapisano.
 
-Tylko pierwsza grupa wymaga formy męskoosobowej **dobrzy**. Pozostałe przyjmują formę niemęskoosobową **dobre**.
+Forma **dobrzy** występuje przy grupie osób obejmującej co najmniej jednego mężczyznę. Nazywamy ją **męskoosobową**.
 
-<div class="example-series">
-  <div class="series-header"><strong>dobrzy uczniowie</strong></div>
-  <div class="example-row"><span class="grammar-badge">M.</span><p><span class="form-focus"><span class="stem-part stem-part--changed">dobrz</span><span class="ending-part">y</span></span> <span class="noun-anchor">uczniowie</span></p><span class="change-note">r → rz</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus">dobrych</span> <span class="noun-anchor">uczniów</span></p><span class="change-note">-ych</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>pomagam <span class="form-focus">dobrym</span> <span class="noun-anchor">uczniom</span></p><span class="change-note">-ym</span></div>
-  <div class="example-row"><span class="grammar-badge">B.</span><p>widzę <span class="form-focus">dobrych</span> <span class="noun-anchor">uczniów</span></p><span class="change-note">jak dopełniacz</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>rozmawiam z <span class="form-focus">dobrymi</span> <span class="noun-anchor">uczniami</span></p><span class="change-note">-ymi</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus">dobrych</span> <span class="noun-anchor">uczniach</span></p><span class="change-note">-ych</span></div>
-</div>
+Forma **dobre** występuje przy pozostałych grupach. Nazywamy ją **niemęskoosobową**.
 
-W bierniku liczby mnogiej porównaj:
+W bierniku porównaj:
 
-> widzę dobrych uczniów — forma męskoosobowa jak dopełniacz;  
-> widzę dobre książki — forma niemęskoosobowa jak mianownik.
+> widzę dobrych uczniów;  
+> widzę dobre książki.
 
-## Końcówki „-y” i „-i”
+## Ta sama postać może należeć do różnych przypadków
 
-W formie podstawowej rodzaju męskiego przymiotniki mogą kończyć się na **-y** albo **-i**:
+> Pomagam <strong>dobrym uczniom</strong>. — celownik liczby mnogiej;  
+> Idę z <strong>dobrym uczniem</strong>. — narzędnik liczby pojedynczej;  
+> Mówię o <strong>dobrym uczniu</strong>. — miejscownik liczby pojedynczej.
 
-> dobry plan, cichy pokój, obcy język;  
-> tani bilet, wysoki budynek, polski film.
-
-W liczbie mnogiej mogą pojawiać się zmiany w temacie:
-
-> dobry uczeń → dobrzy uczniowie;  
-> młody zawodnik → młodzi zawodnicy;  
-> wysoki uczeń → wysocy uczniowie;  
-> drogi kolega → drodzy koledzy.
-
-Nie należy przewidywać całej odmiany wyłącznie z ostatniej litery formy podstawowej.
-
-## Ta sama forma, różne przypadki
-
-Forma **dobrym** może wystąpić jako:
-
-> Pomagam dobrym uczniom. — celownik liczby mnogiej;  
-> Idę z dobrym uczniem. — narzędnik liczby pojedynczej;  
-> Mówię o dobrym uczniu. — miejscownik liczby pojedynczej.
-
-Przypadek ustalamy z całego zdania, a nie z samej końcówki.
+Forma **dobrym** sama nie wskazuje jednoznacznie przypadku. Potrzebne jest całe zdanie.
 
 ## Jak analizować formę przymiotnika?
 
 <div class="adjective-step-list">
-  <div class="adjective-step"><strong>Znajdź określany rzeczownik.</strong> Bez niego trudno poprawnie ustalić formę.</div>
-  <div class="adjective-step"><strong>Ustal rodzaj i liczbę.</strong> W liczbie mnogiej sprawdź, czy forma jest męskoosobowa.</div>
-  <div class="adjective-step"><strong>Ustal przypadek całej grupy.</strong> Zwróć uwagę na czasownik, przyimek i funkcję w zdaniu.</div>
-  <div class="adjective-step"><strong>Sprawdź zgodę.</strong> Porównaj: <em>dobry uczeń, dobrego ucznia, dobrym uczniem</em>.</div>
-  <div class="adjective-step"><strong>Zwróć uwagę na żywotność.</strong> Porównaj: <em>widzę dużego psa</em>, ale <em>widzę duży stół</em>.</div>
-  <div class="adjective-step"><strong>Nie rozstrzygaj z samej końcówki.</strong> Forma <em>dobrym</em> może należeć do różnych przypadków.</div>
+  <div class="adjective-step"><strong>Znajdź określany rzeczownik.</strong></div>
+  <div class="adjective-step"><strong>Sprawdź jego rodzaj i liczbę.</strong> Najpierw przez porównanie całych form.</div>
+  <div class="adjective-step"><strong>Ustal relację całej grupy w zdaniu.</strong> Dopiero potem nazwij przypadek.</div>
+  <div class="adjective-step"><strong>Sprawdź zgodę.</strong> Przymiotnik powinien dopasować formę do rzeczownika.</div>
+  <div class="adjective-step"><strong>Przy rodzaju męskim uwzględnij znaczenie rzeczownika.</strong></div>
+  <div class="adjective-step"><strong>Nie rozstrzygaj z samej końcówki.</strong></div>
 </div>
 
 <div class="adjective-summary">
 <h3>Podsumowanie</h3>
 <ul>
-  <li>Przymiotnik odmienia się razem z rzeczownikiem przez rodzaje, liczby i przypadki.</li>
-  <li>W rodzaju męskim biernik zależy od znaczenia i żywotności rzeczownika.</li>
+  <li>Przymiotnik zmienia formę razem z rzeczownikiem.</li>
+  <li>Rodzaj, liczba i przypadek wynikają z całej grupy i zdania.</li>
+  <li>Temat fleksyjny jest częścią względnie stałą, a końcówka wskazuje formę.</li>
+  <li>Oboczność oznacza zmianę głoski w temacie.</li>
   <li>W liczbie mnogiej rozróżniamy formy męskoosobowe i niemęskoosobowe.</li>
-  <li>Wołacz przymiotnika jest zwykle równy mianownikowi.</li>
-  <li>Odmiana może zmieniać końcówkę oraz głoski w temacie.</li>
-  <li>Ta sama forma może należeć do różnych przypadków.</li>
-  <li>Formę przymiotnika analizujemy w całej grupie rzeczownikowej i w pełnym zdaniu.</li>
+  <li>Ta sama postać przymiotnika może należeć do różnych przypadków.</li>
 </ul>
 </div>
 
