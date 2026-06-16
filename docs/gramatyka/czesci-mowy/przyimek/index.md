@@ -4,7 +4,7 @@
 
 <div class="lesson-lead" markdown>
 
-Przyimek pokazuje **relację między elementami zdania**: miejsce, kierunek, czas, przyczynę, cel, sposób albo zależność. Zwykle nie działa sam. Łączy się z rzeczownikiem, zaimkiem lub liczebnikiem i wpływa na jego przypadek.
+Przyimek pokazuje **relację między elementami zdania**: miejsce, kierunek, czas, przyczynę, cel, sposób albo zależność. Najpierw obserwujemy tę relację i zmianę formy następnego wyrazu. Dopiero później nazywamy przypadek i wymaganie przyimka.
 
 </div>
 
@@ -14,16 +14,12 @@ Przyimek pokazuje **relację między elementami zdania**: miejsce, kierunek, cza
 > Książka leży <span class="prep-focus">pod</span> <span class="governed-focus">stołem</span>.  
 > Książka leży <span class="prep-focus">obok</span> <span class="governed-focus">stołu</span>.
 
-Rzeczowniki **stole, stołem, stołu** odnoszą się do tego samego przedmiotu, ale przyimki budują inne relacje przestrzenne. Każdy przyimek wymaga także odpowiedniej formy rzeczownika:
-
-- **na stole** — miejscownik;
-- **pod stołem** — narzędnik;
-- **obok stołu** — dopełniacz.
+W każdym zdaniu chodzi o ten sam stół. Zmienia się jednak położenie książki, a razem z przyimkiem zmienia się forma nazwy: **stole**, **stołem**, **stołu**.
 
 <div class="preposition-concept">
   <span class="preposition-concept__label">Pojęcie</span>
   <strong>Przyimek</strong>
-  <p>To nieodmienna część mowy, która łączy się z formą rzeczownika, zaimka albo liczebnika i wraz z nią wyraża określoną relację. Przyimek wymaga konkretnego przypadku.</p>
+  <p>To część mowy, która łączy się z rzeczownikiem, zaimkiem albo liczebnikiem i razem z nim buduje relację, na przykład miejsca, czasu, kierunku, przyczyny lub celu.</p>
 </div>
 
 ## Przyimek tworzy całość z następującym wyrazem
@@ -33,25 +29,48 @@ Rzeczowniki **stole, stołem, stołu** odnoszą się do tego samego przedmiotu, 
 > <span class="prep-focus">z</span> <span class="governed-focus">mapą</span>;  
 > <span class="prep-focus">o</span> <span class="governed-focus">mapie</span>.
 
-Sam wyraz **mapa** nie informuje, czy czegoś brakuje, co komuś pomogło, co komuś towarzyszy ani czego dotyczy rozmowa. Dopiero przyimek wraz z odpowiednią formą rzeczownika tworzy pełną relację.
+Sam wyraz **mapa** nie mówi, czy czegoś brakuje, co komuś pomogło, co komuś towarzyszy ani czego dotyczy rozmowa. Pełną relację tworzy dopiero całe połączenie.
 
-Taką konstrukcję nazywamy **wyrażeniem przyimkowym**.
+Taką całość nazywamy **wyrażeniem przyimkowym**.
 
-## Ten sam przyimek może wymagać różnych przypadków
+## Dlaczego forma rzeczownika się zmienia?
+
+Porównaj:
+
+> nie wyruszymy **bez mapy**;  
+> pomożemy sobie **dzięki mapie**;  
+> idziemy **z mapą**;  
+> rozmawiamy **o mapie**.
+
+Każdy przyimek dopuszcza określony sposób ukształtowania następnej nazwy. Poszczególne formy rzeczownika nazywamy **przypadkami**:
+
+- **mapy** po **bez** — dopełniacz;
+- **mapie** po **dzięki** — celownik;
+- **mapą** po **z** w znaczeniu towarzyszenia — narzędnik;
+- **mapie** po **o** — miejscownik.
+
+Wymaganie określonego przypadku przez przyimek nazywamy **rekcją przyimka**. Termin pojawia się dopiero po zauważeniu zależności: przyimek kieruje formą kolejnego wyrazu.
+
+## Ten sam przyimek może wymagać różnych form
 
 > Położyłem zeszyt <span class="prep-focus">na</span> <span class="governed-focus">biurko</span>.  
 > Zeszyt leży <span class="prep-focus">na</span> <span class="governed-focus">biurku</span>.
 
-W pierwszym zdaniu grupa **na biurko** wskazuje cel przemieszczenia i ma biernik. W drugim **na biurku** określa miejsce i ma miejscownik.
+Pierwsze połączenie wskazuje cel przemieszczenia. Drugie określa położenie. Dlatego po tym samym przyimku występują różne formy.
+
+Dopiero teraz możemy je nazwać:
+
+- **na biurko** — biernik;
+- **na biurku** — miejscownik.
 
 Podobnie:
 
-> Kot wbiegł <span class="prep-focus">pod</span> <span class="governed-focus">stół</span>. — biernik  
-> Kot śpi <span class="prep-focus">pod</span> <span class="governed-focus">stołem</span>. — narzędnik
+> Kot wbiegł <span class="prep-focus">pod</span> <span class="governed-focus">stół</span>. — kierunek, biernik;  
+> Kot śpi <span class="prep-focus">pod</span> <span class="governed-focus">stołem</span>. — położenie, narzędnik.
 
 <div class="preposition-checkpoint">
-  <div class="preposition-checkpoint__title">Nie każdy ruch oznacza biernik</div>
-  <p>Mówimy <em>spacerować po parku</em>, <em>iść wzdłuż rzeki</em> i <em>wracać z miasta</em>. O przypadku decyduje konkretna konstrukcja przyimkowa, a nie samo wystąpienie ruchu.</p>
+  <div class="preposition-checkpoint__title">Ruch nie wystarcza do wyboru formy</div>
+  <p>Mówimy <em>spacerować po parku</em>, <em>iść wzdłuż rzeki</em> i <em>wracać z miasta</em>. Trzeba znać całe połączenie i jego znaczenie.</p>
 </div>
 
 ## Jeden przyimek może budować różne znaczenia
@@ -61,49 +80,41 @@ Podobnie:
 > spacerować <span class="prep-focus">po</span> <span class="governed-focus">parku</span> — przestrzeń;  
 > dostać <span class="prep-focus">po</span> <span class="governed-focus">dwa bilety</span> — podział.
 
-Nie rozpoznajemy znaczenia po samym przyimku **po**. Trzeba przeczytać całe wyrażenie i całe zdanie.
+Znaczenia nie rozpoznajemy po samym słowie **po**. Trzeba przeczytać całe wyrażenie i zdanie.
 
 ## Przyimek a przysłówek
 
-> Poczekaj <span class="adverb-anchor">obok</span>. — przysłówek  
-> Poczekaj <span class="prep-focus">obok</span> <span class="governed-focus">wejścia</span>. — przyimek z rzeczownikiem
+> Poczekaj <span class="adverb-anchor">obok</span>.  
+> Poczekaj <span class="prep-focus">obok</span> <span class="governed-focus">wejścia</span>.
 
-W pierwszym zdaniu **obok** samodzielnie wskazuje miejsce. W drugim wprowadza rzeczownik **wejścia** i wymaga dopełniacza.
+W pierwszym zdaniu **obok** samodzielnie wskazuje miejsce i jest przysłówkiem. W drugim wprowadza punkt odniesienia **wejścia**, więc działa jako przyimek.
 
-Podobnie zachowują się między innymi formy **blisko, naprzeciwko, wokoło**. O ich części mowy rozstrzyga sposób użycia w zdaniu.
+Nie klasyfikujemy wyrazu bez kontekstu.
 
-## Przyimki nie łączą się ze wszystkimi przypadkami
+## Przyimek nie zmienia własnej formy
 
-Przyimki mogą wymagać:
+> bez mapy — bez planu — bez dokumentów;  
+> przy oknie — przy drzwiach — przy budynku.
 
-- dopełniacza;
-- celownika;
-- biernika;
-- narzędnika;
-- miejscownika.
-
-Nie występują konstrukcje przyimkowe z mianownikiem ani wołaczem. Formę po przyimku ustalamy więc spośród pięciu przypadków zależnych.
+Przyimek **bez** lub **przy** pozostaje taki sam, choć zmienia się następujący wyraz. Dlatego przyimek nazywamy częścią mowy **nieodmienną**.
 
 ## Jak czytać ten dział?
 
-Najpierw zobaczymy, jak przyimek wybiera przypadek i dlaczego należy zapamiętywać całe konstrukcje. Następnie uporządkujemy relacje miejsca, czasu, przyczyny, celu i sposobu. Później przyjrzymy się składni, zaimkom, formom **w/we, z/ze, przede mną**, pisowni oraz niejasnym zdaniom. Na końcu przeanalizujemy przyimki w spójnej opowieści.
-
 <div class="topic-grid">
-  <a class="topic-card topic-card--primary" href="przypadki-i-rekcja/"><span class="topic-number">01</span><strong>Przyimek wybiera przypadek</strong><span>„Bez mapy”, „dzięki mapie”, „z mapą”, „o mapie” oraz konstrukcje o zmiennej rekcji.</span></a>
-  <a class="topic-card" href="znaczenie-i-rodzaje/"><span class="topic-number">02</span><strong>Jaką relację buduje przyimek?</strong><span>Miejsce, kierunek, czas, przyczyna, cel, sposób i relacje abstrakcyjne.</span></a>
-  <a class="topic-card" href="skladnia-i-pisownia/"><span class="topic-number">03</span><strong>Budowa, szyk i pisownia</strong><span>Formy zaimków, warianty rozszerzone, przyimki złożone i niejednoznaczne połączenia.</span></a>
+  <a class="topic-card topic-card--primary" href="przypadki-i-rekcja/"><span class="topic-number">01</span><strong>Dlaczego przyimek zmienia formę następnego wyrazu?</strong><span>Najpierw całe połączenia, później nazwy przypadków i pojęcie rekcji.</span></a>
+  <a class="topic-card" href="znaczenie-i-rodzaje/"><span class="topic-number">02</span><strong>Jaką relację buduje przyimek?</strong><span>Miejsce, kierunek, czas, przyczyna, cel, sposób i relacje pojęciowe.</span></a>
+  <a class="topic-card" href="skladnia-i-pisownia/"><span class="topic-number">03</span><strong>Budowa i zapis całych połączeń</strong><span>Formy zaimków po przyimku, warianty <em>w/we, z/ze</em>, połączenia wielowyrazowe i zdania niejednoznaczne.</span></a>
   <a class="topic-card topic-card--reading" href="przyimki-w-tekscie/"><span class="topic-number">04</span><strong>Przyimki w opowieści</strong><span>Jak relacje przestrzenne, czasowe i przyczynowe budują drogę bohaterów oraz logikę wydarzeń.</span></a>
 </div>
 
 <div class="preposition-summary">
 <h3>Na początek</h3>
 <ul>
-  <li>Przyimek nie odmienia się, ale wymaga odpowiedniej formy wyrazu, z którym się łączy.</li>
-  <li>Przyimek i forma rzeczownika, zaimka lub liczebnika tworzą wyrażenie przyimkowe.</li>
-  <li>Ten sam przyimek może łączyć się z różnymi przypadkami i budować różne znaczenia.</li>
-  <li>Nie każdy ruch wymaga biernika.</li>
-  <li>To samo słowo może być przyimkiem albo przysłówkiem zależnie od użycia.</li>
-  <li>Przyimki nie łączą się z mianownikiem ani wołaczem.</li>
+  <li>Przyimek buduje relację razem z następującym wyrazem.</li>
+  <li>Całe połączenie nazywamy wyrażeniem przyimkowym.</li>
+  <li>Przyimek może wymagać określonej formy rzeczownika; to wymaganie nazywamy rekcją.</li>
+  <li>Ten sam przyimek może łączyć się z różnymi przypadkami zależnie od znaczenia.</li>
+  <li>Przyimek rozpoznajemy po sposobie użycia, nie po samym zapisie.</li>
 </ul>
 </div>
 
