@@ -67,9 +67,9 @@ Czynność czytania raportu jest zaprzeczona, dlatego używamy dopełniacza.
 
 Tutaj orzeczenie **przeczytała** pozostaje twierdzące. Partykuła **nie** przeciwstawia dwa dopełnienia, dlatego oba zachowują biernik.
 
-> Marta <span class="object-predicate">wysłała</span> dokument nie <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span>, lecz <span class="object-mark object-mark--indirect"><strong>zastępczyni</strong></span>.
+> Marta <span class="object-predicate">wysłała</span> <span class="object-mark object-mark--direct"><strong>dokument</strong></span> nie <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span>, lecz <span class="object-mark object-mark--indirect"><strong>zastępczyni</strong></span>.
 
-Przeczenie dotyczy wyboru odbiorcy, a nie samego wysłania.
+Przeczenie dotyczy wyboru odbiorcy, a nie samego wysłania ani przekazywanego dokumentu.
 
 <div class="object-checkpoint">
   <div class="object-checkpoint__title">Najpierw ustal zakres przeczenia</div>
@@ -104,7 +104,7 @@ Biernik może pojawiać się w wypowiedziach z bardzo silnym kontrastem lub szcz
   <div class="object-reading-header"><h2>Brakujące załączniki</h2></div>
   <div class="object-reading-text" markdown>
 
-Kierowniczka <span class="object-predicate">otworzyła</span> <span class="object-mark object-mark--direct"><strong>wiadomość</strong></span>, ale <span class="object-predicate">nie znalazła</span> <span class="object-mark object-mark--direct"><strong>załączników</strong></span>. Sekretariat <span class="object-predicate">nie wysłał</span> <span class="object-mark object-mark--direct">pełnego <strong>raportu</strong></span> ani <span class="object-mark object-mark--direct"><strong>tabel</strong></span>. Kierowniczka <span class="object-predicate">zadzwoniła</span> do pracownika, lecz <span class="object-predicate">nie rozmawiała</span> <span class="object-mark object-mark--indirect">z właściwą <strong>osobą</strong></span>. Ostatecznie pracownik <span class="object-predicate">wysłał</span> nie <span class="object-mark object-mark--direct"><strong>streszczenie</strong></span>, lecz <span class="object-mark object-mark--direct">cały <strong>dokument</strong></span>.
+Kierowniczka <span class="object-predicate">otworzyła</span> <span class="object-mark object-mark--direct"><strong>wiadomość</strong></span>, ale <span class="object-predicate">nie znalazła</span> <span class="object-mark object-mark--direct"><strong>załączników</strong></span>. Sekretariat <span class="object-predicate">nie wysłał</span> <span class="object-mark object-mark--direct">pełnego <strong>raportu</strong></span> ani <span class="object-mark object-mark--direct"><strong>tabel</strong></span>. Kierowniczka <span class="object-predicate">zadzwoniła</span> <span class="object-mark object-mark--indirect">do <strong>pracownika</strong></span>, lecz <span class="object-predicate">nie rozmawiała</span> <span class="object-mark object-mark--indirect">z właściwą <strong>osobą</strong></span>. Ostatecznie pracownik <span class="object-predicate">wysłał</span> nie <span class="object-mark object-mark--direct"><strong>streszczenie</strong></span>, lecz <span class="object-mark object-mark--direct">cały <strong>dokument</strong></span>.
 
   </div>
 </div>
@@ -112,7 +112,7 @@ Kierowniczka <span class="object-predicate">otworzyła</span> <span class="objec
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-Po formach **nie znalazła** i **nie wysłał** dopełnienia bliższe przyjmują dopełniacz. Konstrukcja **rozmawiać z kimś** zachowuje przyimek i narzędnik. W ostatnim zdaniu czynność wysłania jest twierdząca, a **nie… lecz…** tylko przeciwstawia dwa możliwe przedmioty.
+Po formach **nie znalazła** i **nie wysłał** dopełnienia bliższe przyjmują dopełniacz. Konstrukcje **zadzwonić do kogoś** oraz **rozmawiać z kimś** zachowują przyimki i wymagane przypadki. W ostatnim zdaniu czynność wysłania jest twierdząca, a **nie… lecz…** tylko przeciwstawia dwa możliwe przedmioty.
 </div>
 
 <div class="object-summary">
