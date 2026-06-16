@@ -209,6 +209,6 @@ Nie stawiamy przecinka tylko przed samym zakończeniem **-ąc** lub **-wszy**. O
 </ul>
 </div>
 
-[Przejdź dalej: czasowniki w tekście](../czasowniki-w-tekscie/){ .md-button .md-button--primary }
+[Przejdź dalej: synteza form czasownika](../strony-i-formy-nieosobowe/){ .md-button .md-button--primary }
 
 </div>
