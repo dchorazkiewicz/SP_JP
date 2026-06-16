@@ -1,129 +1,238 @@
 # Granice klasyfikacji podmiotu
 
-Niektóre konstrukcje mają jedną odpowiedź oczekiwaną w szkole, ale bardziej szczegółowy opis może ujmować je inaczej. W takiej sytuacji trzeba podać analizę oraz kryterium, na którym została oparta.
+<div class="subject-lesson" markdown>
+
+<div class="subject-lead" markdown>
+
+Nie każda konstrukcja daje się rozpoznać przez proste pytanie **kto?** albo **co?**. W tym materiale przyjmujemy konsekwentny standard szkolny, a przy przypadkach spornych podajemy również kryterium analizy. Najważniejsze są: forma orzeczenia, przypadek składnika, zgoda oraz budowa całego zdania.
+
+</div>
+
+<div class="subject-summary" markdown>
+
+### Standard oznaczeń
+
+- Ramka obejmuje cały składnik pełniący funkcję podmiotu.
+- Pogrubienie wskazuje jego rdzeń.
+- Podmiot domyślny podajemy w komentarzu, nie dopisujemy go do zdania.
+- Przy bezpodmiotowości zaznaczamy wyraźnie brak podmiotu.
+- Podmiot logiczny i liczebnikowy otrzymują osobny typ oznaczenia.
+
+</div>
+
+## Podmiot a grupa podmiotu
+
+> <span class="subject-mark subject-mark--grammatical">dwie doświadczone <strong>badaczki</strong> z Krakowa</span> <span class="subject-predicate">przedstawiły</span> wyniki.
+
+Cała wyróżniona konstrukcja jest składnikiem podmiotowym. Rdzeniem jest rzeczownik **badaczki**, a pozostałe wyrazy są jego określeniami.
+
+W analizie szkolnej można spotkać dwa sposoby zapisu:
+
+- podmiot: **badaczki**, grupa podmiotu: **dwie doświadczone badaczki z Krakowa**;
+- podmiot jako składnik zdania: cała grupa, z wyróżnionym rdzeniem **badaczki**.
+
+W tej publikacji stosujemy drugi sposób oznaczania, ale zawsze wskazujemy rdzeń.
 
 ## „Mnie jest zimno”
 
-**Mnie** jest zimno.
+> Mnie <span class="subject-predicate">jest zimno</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
 
-Forma **mnie** stoi w celowniku i nazywa osobę doświadczającą stanu. W szkolnej analizie nie jest podmiotem; zdanie uznaje się za bezpodmiotowe.
+Forma **mnie** stoi w celowniku i nazywa osobę doświadczającą stanu. Nie jest podmiotem gramatycznym ani logicznym w przyjętym tu standardzie.
 
 Porównaj:
 
-**Marta** jest zmęczona. — podmiot gramatyczny w mianowniku.
-
-**Marcie** jest zimno. — osoba doświadczająca stanu w celowniku.
+<div class="subject-comparison">
+  <div class="subject-comparison-item"><span class="subject-comparison-label">podmiot</span><p><span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">jest zmęczona</span>.</p></div>
+  <div class="subject-comparison-item"><span class="subject-comparison-label">doświadczający</span><p>Marcie <span class="subject-predicate">jest zimno</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span></p></div>
+</div>
 
 ## „Muzyka podoba się Marcie”
 
-**Muzyka** podoba się Marcie.
+> Marcie <span class="subject-predicate">podoba się</span> <span class="subject-mark subject-mark--grammatical"><strong>muzyka</strong></span>.
 
-Podmiotem jest **muzyka**, ponieważ występuje w mianowniku. Forma **Marcie** wskazuje odbiorcę wrażenia.
+> Marcie <span class="subject-predicate">podobają się</span> <span class="subject-mark subject-mark--grammatical"><strong>piosenki</strong></span>.
 
-Marcie podoba się **muzyka**.
+Podmiotem jest składnik w mianowniku, ponieważ wpływa na liczbę orzeczenia. Celownik **Marcie** wskazuje odbiorcę wrażenia.
 
-Szyk się zmienił, ale podmiot pozostał ten sam.
+## „Marty nie było”
+
+> <span class="subject-mark subject-mark--logical"><strong>Marty</strong></span> <span class="subject-predicate">nie było</span> w domu.
+
+W szkolnym standardzie **Marty** nazywamy podmiotem logicznym w dopełniaczu. Nie jest to zwykły podmiot gramatyczny, ponieważ nie występuje w mianowniku i nie uzgadnia się typowo z orzeczeniem.
+
+Porównaj:
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">była</span> w domu.
+
+> <span class="subject-mark subject-mark--logical"><strong>Marty</strong></span> <span class="subject-predicate">nie było</span> w domu.
+
+## Przeczenie nie zawsze zmienia podmiot
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">nie przyszła</span>.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="subject-predicate">nie został wysłany</span>.
+
+Podmiot pozostaje w mianowniku. Konstrukcja z dopełniaczem pojawia się tylko przy określonych czasownikach i schematach, np. **nie ma**, **nie było**, **zabrakło**.
 
 ## Konstrukcje liczebnikowe
 
-**Dwaj technicy** przyszli wcześniej.
+> <span class="subject-mark subject-mark--grammatical"><strong>Dwaj technicy</strong></span> <span class="subject-predicate">przyszli</span> wcześniej.
 
-**Pięciu techników** przyszło wcześniej.
+> <span class="subject-mark subject-mark--logical"><strong>Pięciu techników</strong></span> <span class="subject-predicate">przyszło</span> wcześniej.
 
-Pierwsza grupa ma formę mianownika liczby mnogiej. Druga jest zorganizowana przez liczebnik i łączy się z orzeczeniem w liczbie pojedynczej rodzaju nijakiego.
+Pierwsza grupa zachowuje się jak mianownik liczby mnogiej. Druga łączy się z formą liczby pojedynczej rodzaju nijakiego. W szkolnym opisie całość nazywamy podmiotem liczebnikowym.
 
-W szkolnych materiałach całe wyrażenie **pięciu techników** nazywa się zwykle podmiotem liczebnikowym albo logicznym. W opisach składniowych analizuje się dokładniej relację między liczebnikiem a rzeczownikiem.
+<div class="subject-summary" markdown>
 
-## Nazwy zbiorowe
+### Nie dopisujemy „ono”
 
-**Większość uczestników** przyszła punktualnie.
+Forma **przyszło** w zdaniu **Pięciu techników przyszło** wynika z budowy grupy liczebnikowej. Nie oznacza ukrytego podmiotu **ono** i nie czyni zdania bezpodmiotowym.
 
-**Część dokumentów** została poprawiona.
+</div>
 
-**Grupa techników** weszła do laboratorium.
+## Nazwa zbiorowa a liczebnik
 
-Forma orzeczenia zależy od rzeczownika nadrzędnego: **większość**, **część**, **grupa**. Wszystkie mają liczbę pojedynczą.
+> <span class="subject-mark subject-mark--grammatical"><strong>Grupa</strong> techników</span> <span class="subject-predicate">weszła</span> do sali.
 
-## Kilka składników
+> <span class="subject-mark subject-mark--logical"><strong>Pięciu techników</strong></span> <span class="subject-predicate">weszło</span> do sali.
 
-**Marta i Anna** przyszły wcześniej.
+W pierwszym zdaniu rdzeniem jest rzeczownik **grupa** w mianowniku. W drugim konstrukcję organizuje liczebnik.
 
-**Marta i Paweł** przyszli wcześniej.
+## Zgoda znaczeniowa z nazwą zbiorową
 
-**Komputer i drukarka** zostały wyłączone.
+> <span class="subject-mark subject-mark--grammatical"><strong>Większość</strong> uczestników</span> <span class="subject-predicate">wyszła</span> przed końcem.
 
-Kilka równorzędnych elementów wymaga zwykle liczby mnogiej. Gdy szereg osób obejmuje mężczyznę, pojawia się forma męskoosobowa: **przyszli**.
+To neutralna zgoda gramatyczna z rzeczownikiem **większość**.
+
+W rzeczywistych tekstach spotyka się:
+
+> Większość uczestników <span class="subject-predicate">wyszli</span> przed końcem.
+
+Forma mnoga podkreśla osoby tworzące zbiorowość. W ćwiczeniach szkolnych jako rozwiązanie podstawowe przyjmujemy jednak liczbę pojedynczą.
+
+## Podmiot szeregowy i zgoda z najbliższym członem
+
+> Na stole <span class="subject-predicate">leżały</span> <span class="subject-mark subject-mark--series"><strong>zeszyt i dwa długopisy</strong></span>.
+
+Liczba mnoga jasno pokazuje wspólny podmiot.
+
+> Na stole <span class="subject-predicate">leżał</span> <span class="subject-mark subject-mark--series"><strong>zeszyt i dwa długopisy</strong></span>.
+
+Zgoda z najbliższym członem jest spotykana, zwłaszcza gdy dalszy element ma charakter dopowiedzenia. Nie traktujemy jej jako błędu automatycznie, ale w neutralnym wzorze preferujemy liczbę mnogą.
 
 ## Konstrukcja z „z”
 
-**Marta z Pawłem** przygotowali prezentację.
+> <span class="subject-mark subject-mark--companion"><strong>Marta z Pawłem</strong></span> <span class="subject-predicate">przygotowali</span> raport.
 
-Liczba mnoga pokazuje równorzędny udział obu osób.
+> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> z Pawłem <span class="subject-predicate">przygotowała</span> raport.
 
-**Marta** z Pawłem przygotowała prezentację.
-
-Forma pojedyncza wysuwa Martę na pierwszy plan, a wyrażenie **z Pawłem** może zostać odczytane jako dodatkowa informacja.
+W pierwszym zdaniu forma mnoga przedstawia obie osoby jako wspólny podmiot. W drugim podmiotem gramatycznym jest tylko **Marta**, a wyrażenie **z Pawłem** nie steruje orzeczeniem.
 
 ## Strona bierna
 
-**Raport** został napisany przez Martę.
+> <span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="subject-predicate">został napisany</span> przez Martę.
 
-Podmiotem jest **raport**, ponieważ to on pozostaje w związku z orzeczeniem **został napisany**. Wyrażenie **przez Martę** nazywa wykonawcę, ale nie jest podmiotem.
+Podmiotem jest **raport**, mimo że wykonawcą czynności jest Marta. Wyrażenie **przez Martę** nie jest podmiotem.
 
-## „To” jako podmiot albo element konstrukcji
+Porównaj:
 
-**To** mnie zaskoczyło.
+> Raport <span class="subject-predicate">napisano</span> rano. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
 
-Zaimek **to** zastępuje wcześniejszą sytuację i pełni funkcję podmiotu.
+W konstrukcji na **-no** wyraz **raport** jest dopełnieniem.
 
-Marta **to kierowniczka projektu**.
+## „Słychać muzykę”
 
-W tej konstrukcji **to** łączy dwa człony. W szkolnej analizie całość **to kierowniczka projektu** bywa traktowana jako orzeczenie imienne, a nie jako zwykły podmiot z czasownikiem.
+> Z sali <span class="subject-predicate">słychać</span> muzykę. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+> Z okna <span class="subject-predicate">widać</span> góry. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+Rzeczowniki **muzykę**, **góry** występują w bierniku i nie są podmiotami.
+
+## „Jest klucz” i „nie ma klucza”
+
+> W szufladzie <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>klucz</strong></span>.
+
+> W szufladzie <span class="subject-predicate">nie ma</span> <span class="subject-mark subject-mark--logical"><strong>klucza</strong></span>.
+
+Zmiana konstrukcji istnienia na konstrukcję braku powoduje zmianę przypadka i sposobu klasyfikacji.
 
 ## Bezokolicznik jako podmiot
 
-**Czytać** jest przyjemnie.
+> <span class="subject-mark subject-mark--grammatical"><strong>Czytać uważnie</strong></span> <span class="subject-predicate">jest trudno</span>.
 
-W tradycyjnej analizie bezokolicznik **czytać** pełni funkcję podmiotu. W dokładniejszym opisie można mówić o całej konstrukcji predykatywnej, w której czynność staje się tematem oceny.
+Cała grupa bezokolicznikowa jest tym, o czym się orzeka.
+
+> <span class="subject-predicate">Trzeba czytać</span> uważnie. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+Tutaj bezokolicznik współtworzy konstrukcję bezosobową.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">lubi</span> czytać.
+
+Tutaj bezokolicznik jest uzupełnieniem czasownika, a podmiotem pozostaje **Marta**.
 
 ## Całe zdanie jako podmiot
 
-**To, że termin został przesunięty**, zaskoczyło uczestników.
+> <span class="subject-mark subject-mark--grammatical"><strong>To, że termin został przesunięty</strong></span>, <span class="subject-predicate">zaskoczyło</span> uczestników.
 
-Całe zdanie podrzędne jest treścią, o której orzeka forma **zaskoczyło**. W szkolnej terminologii mówi się o zdaniu podrzędnym podmiotowym.
+> <span class="subject-mark subject-mark--grammatical"><strong>Czy spotkanie się odbędzie</strong></span>, <span class="subject-predicate">pozostaje niejasne</span>.
 
-## Podmiot po orzeczeniu
+Wyróżniona treść pełni funkcję podmiotu zdania nadrzędnego.
 
-Na stole leży **książka**.
+Porównaj zdanie dopełnieniowe:
 
-Do sali weszła **dyrektorka**.
+> <span class="subject-mark subject-mark--grammatical"><strong>Uczestnicy</strong></span> <span class="subject-predicate">wiedzą</span>, że termin został przesunięty.
 
-W szufladzie znajduje się **klucz**.
+Tutaj zdanie z **że** uzupełnia czasownik **wiedzą**, nie pełni funkcji podmiotu.
 
-Końcowa pozycja nie zmienia funkcji. Podmiot często stoi później, ponieważ przekazuje nową informację.
+## „To”
 
-## Brak podmiotu a podmiot domyślny
+> <span class="subject-mark subject-mark--grammatical"><strong>To</strong></span> <span class="subject-predicate">mnie zaskoczyło</span>.
 
-**Przyszliśmy** wcześniej. — podmiot domyślny **my**.
+Zaimek **to** zastępuje wcześniejszą sytuację i jest podmiotem.
 
-**Pada**. — brak podmiotu.
+> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">to kierowniczka projektu</span>.
 
-**Zamknięto** drogę. — brak podmiotu.
+W przyjętym standardzie **Marta** jest podmiotem, a **to kierowniczka projektu** tworzy szczególną postać orzeczenia imiennego.
 
-**Trzeba wyjść**. — brak podmiotu.
+## Podmiot domyślny czy brak podmiotu?
 
-Nie wolno wpisywać domyślnego „ktoś” w każdej konstrukcji bez jawnego rzeczownika.
+<div class="subject-series">
+  <div class="subject-row"><span class="subject-badge">domyślny</span><p><span class="subject-predicate">Przyszliśmy</span> wcześniej.</p><span class="subject-note">my</span></div>
+  <div class="subject-row"><span class="subject-badge">domyślny</span><p><span class="subject-predicate">Dzwonili</span> z sekretariatu.</p><span class="subject-note">nieokreśleni oni</span></div>
+  <div class="subject-row"><span class="subject-badge">brak</span><p><span class="subject-predicate">Pada</span>.</p><span class="subject-note">bez podmiotu</span></div>
+  <div class="subject-row"><span class="subject-badge">brak</span><p><span class="subject-predicate">Zamknięto</span> drogę.</p><span class="subject-note">bez podmiotu</span></div>
+  <div class="subject-row"><span class="subject-badge">brak</span><p><span class="subject-predicate">Trzeba wyjść</span>.</p><span class="subject-note">bez podmiotu</span></div>
+</div>
 
-## Jak uzasadniać analizę?
+Nie wpisujemy domyślnego **ktoś** do każdej konstrukcji bez jawnego mianownika.
 
-1. Najpierw wskaż orzeczenie.
-2. Sprawdź przypadek analizowanego wyrazu.
-3. Ustal, czy forma orzeczenia reaguje na jego liczbę i rodzaj.
-4. Sprawdź, czy nie występuje liczebnik, nazwa zbiorowa albo strona bierna.
-5. Przy kilku możliwych opisach podaj rozwiązanie szkolne i krótko nazwij alternatywę.
+## Wzór uzasadnienia
 
-## Wzór odpowiedzi
+> W zdaniu **„Marcie podoba się muzyka”** podmiotem jest **muzyka**, ponieważ występuje w mianowniku i wpływa na liczbę orzeczenia **podoba się**. Forma **Marcie** stoi w celowniku i wskazuje osobę doświadczającą wrażenia.
 
-> W zdaniu **„Marcie podoba się muzyka”** podmiotem jest **muzyka**, ponieważ występuje w mianowniku i łączy się z orzeczeniem **podoba się**. Forma **Marcie** stoi w celowniku i wskazuje osobę doświadczającą wrażenia.
+Dobre uzasadnienie powinno wskazywać:
+
+1. pełne orzeczenie;
+2. przypadek badanego składnika;
+3. jego wpływ na formę orzeczenia;
+4. typ konstrukcji;
+5. rozwiązanie szkolne i ewentualną uwagę o innym opisie.
+
+<div class="subject-summary" markdown>
+
+### Najważniejsze rozstrzygnięcia
+
+- Podmiot nie musi być wykonawcą czynności.
+- Celownik osoby doświadczającej nie jest podmiotem.
+- Dopełniacz przy **nie ma, nie było, zabrakło** nazywamy szkolnie podmiotem logicznym.
+- Grupy liczebnikowe nie są zdaniami bezpodmiotowymi.
+- Nazwa zbiorowa i grupa liczebnikowa wymagają innej zgody.
+- W stronie biernej podmiotem jest składnik w mianowniku.
+- Bezokolicznik i całe zdanie mogą pełnić funkcję podmiotu.
+- O funkcji decyduje relacja z orzeczeniem, nie pozycja ani samo znaczenie wykonawcy.
+
+</div>
 
 [Przejdź dalej: podmioty w tekście](../podmioty-w-tekscie/){ .md-button .md-button--primary }
+
+</div>
