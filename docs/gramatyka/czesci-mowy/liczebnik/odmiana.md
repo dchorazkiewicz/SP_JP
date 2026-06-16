@@ -2,17 +2,7 @@
 
 <div class="numeral-lesson" markdown>
 
-<div class="lesson-lead" markdown>
-
-Liczebniki nie tworzą jednego wspólnego wzorca odmiany. Formy **dwa, trzej, pięć, dwoje** oraz liczebniki porządkowe zachowują się inaczej, dlatego trzeba obserwować je razem z liczonym rzeczownikiem.
-
-</div>
-
 ## Ta sama liczba w różnych zdaniach
-
-<div class="numeral-story" markdown>
-  <div class="numeral-story__title">Dwie mapy</div>
-  <div class="numeral-story__body" markdown>
 
 > <span class="form-focus">Dwie</span> <span class="counted-anchor">mapy</span> leżały na stole.  
 > Nie znalazłem <span class="form-focus">dwóch</span> <span class="counted-anchor">map</span>.  
@@ -20,103 +10,88 @@ Liczebniki nie tworzą jednego wspólnego wzorca odmiany. Formy **dwa, trzej, pi
 > Wróciłem z <span class="form-focus">dwiema</span> <span class="counted-anchor">mapami</span>.  
 > Rozmawialiśmy o <span class="form-focus">dwóch</span> <span class="counted-anchor">mapach</span>.
 
-Zmienia się liczebnik i rzeczownik. Przypadek dotyczy całej grupy, a nie każdego wyrazu analizowanego osobno.
+Zmienia się liczebnik i rzeczownik. Cała grupa pozostaje kolejno w innych relacjach: coś leży, czegoś nie znaleziono, czemuś się przyglądamy, z czymś wracamy i o czymś rozmawiamy.
 
-  </div>
+Taką zmianę formy całej grupy nazywamy **odmianą przez przypadki**. Nazwę przypadku ustalamy z całego zdania, nie z samej postaci liczebnika.
+
+<div class="lesson-lead" markdown>
+
+Liczebniki nie tworzą jednego wspólnego wzorca. Formy **dwa**, **trzy**, **pięć**, **dwoje** i liczebniki porządkowe zachowują się inaczej, dlatego obserwujemy je razem z liczonym rzeczownikiem.
+
 </div>
 
 ## Liczebnik „dwa”
 
-### Rodzaj żeński
+Z nazwami żeńskimi:
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M./B.</span><p><span class="form-focus">dwie</span> <span class="counted-anchor">książki</span></p><span class="change-note">dwie</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus">dwóch</span> <span class="counted-anchor">książek</span></p><span class="change-note">dwóch</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>pomagam <span class="form-focus">dwóm</span> <span class="counted-anchor">uczennicom</span></p><span class="change-note">dwóm</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>idę z <span class="form-focus">dwiema</span> <span class="counted-anchor">uczennicami</span></p><span class="change-note">dwiema</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus">dwóch</span> <span class="counted-anchor">uczennicach</span></p><span class="change-note">dwóch</span></div>
-</div>
+> dwie książki;  
+> nie ma dwóch książek;  
+> pomagam dwóm uczennicom;  
+> idę z dwiema uczennicami;  
+> mówię o dwóch uczennicach.
 
-### Rodzaj męski nieosobowy i nijaki
+Po rozpoznaniu relacji możemy nazwać formy kolejno mianownikiem, dopełniaczem, celownikiem, narzędnikiem i miejscownikiem.
 
-> <span class="form-focus">dwa</span> samochody;  
-> <span class="form-focus">dwa</span> okna;  
-> nie ma <span class="form-focus">dwóch</span> samochodów;  
-> jadę między <span class="form-focus">dwoma</span> samochodami;  
-> stoję między <span class="form-focus">dwoma</span> oknami.
+Z nazwami męskimi i nijakimi:
+
+> dwa samochody; dwa okna;  
+> nie ma dwóch samochodów;  
+> jadę między dwoma samochodami;  
+> stoję między dwoma oknami.
 
 W narzędniku forma **dwiema** łączy się przede wszystkim z rzeczownikami żeńskimi, a **dwoma** — z męskimi i nijakimi.
 
-### Grupy męskoosobowe
+## Szczególne formy przy grupach mężczyzn
 
-> <span class="form-focus">dwaj</span> uczniowie przyszli;  
-> <span class="form-focus">dwóch</span> uczniów przyszło;  
-> nie ma <span class="form-focus">dwóch</span> uczniów;  
-> pomagam <span class="form-focus">dwóm</span> uczniom;  
-> zaprosiłem <span class="form-focus">dwóch</span> uczniów;  
-> rozmawiam z <span class="form-focus">dwoma</span> uczniami;  
-> mówię o <span class="form-focus">dwóch</span> uczniach.
+> <span class="form-focus">Dwaj</span> uczniowie przyszli.  
+> <span class="form-focus">Dwóch</span> uczniów przyszło.
+
+Oba zdania są poprawne. Pierwsze zachowuje liczbę mnogą, drugie ma budowę podobną do połączeń z liczebnikami od pięciu wzwyż.
+
+Grupy osób obejmujące co najmniej jednego mężczyznę nazywamy **męskoosobowymi**. Nazwa pojawia się po zauważeniu form **dwaj**, **trzej**, **czterej** oraz wariantów **dwóch**, **trzech**, **czterech**.
+
+> trzej lekarze przyjechali — trzech lekarzy przyjechało;  
+> czterej zawodnicy wystartowali — czterech zawodników wystartowało.
 
 ## Liczebniki „trzy” i „cztery”
 
-> <span class="form-focus">trzy</span> zeszyty;  
-> nie ma <span class="form-focus">trzech</span> zeszytów;  
-> przyglądam się <span class="form-focus">trzem</span> zeszytom;  
-> idę z <span class="form-focus">trzema</span> zeszytami;  
-> mówię o <span class="form-focus">trzech</span> zeszytach.
+> trzy zeszyty; nie ma trzech zeszytów; przyglądam się trzem zeszytom; idę z trzema zeszytami; mówię o trzech zeszytach.  
+> cztery osoby; nie ma czterech osób; pomagam czterem osobom; pracuję z czterema osobami; mówię o czterech osobach.
 
-> <span class="form-focus">cztery</span> krzesła;  
-> nie ma <span class="form-focus">czterech</span> krzeseł;  
-> pomagam <span class="form-focus">czterem</span> osobom;  
-> pracuję z <span class="form-focus">czterema</span> osobami;  
-> mówię o <span class="form-focus">czterech</span> osobach.
-
-Przy grupach męskoosobowych w mianowniku występują dwa warianty:
-
-> <span class="form-focus">trzej</span> lekarze przyjechali — <span class="form-focus">trzech</span> lekarzy przyjechało;  
-> <span class="form-focus">czterej</span> zawodnicy wystartowali — <span class="form-focus">czterech</span> zawodników wystartowało.
+Liczebnik i rzeczownik zmieniają formę razem z relacją całej grupy w zdaniu.
 
 ## Liczebniki od „pięć” wzwyż
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M./B. rzeczy</span><p><span class="form-focus">pięć</span> <span class="counted-anchor">paczek</span></p><span class="change-note">pięć</span></div>
-  <div class="example-row"><span class="grammar-badge">M./B. osoby męskie</span><p><span class="form-focus">pięciu</span> <span class="counted-anchor">pracowników</span></p><span class="change-note">pięciu</span></div>
-  <div class="example-row"><span class="grammar-badge">D.</span><p>nie ma <span class="form-focus">pięciu</span> <span class="counted-anchor">paczek</span></p><span class="change-note">pięciu</span></div>
-  <div class="example-row"><span class="grammar-badge">C.</span><p>przyglądam się <span class="form-focus">pięciu</span> <span class="counted-anchor">paczkom</span></p><span class="change-note">pięciu</span></div>
-  <div class="example-row"><span class="grammar-badge">N.</span><p>jadę z <span class="form-focus">pięcioma</span> <span class="counted-anchor">paczkami</span></p><span class="change-note">pięcioma</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms.</span><p>mówię o <span class="form-focus">pięciu</span> <span class="counted-anchor">paczkach</span></p><span class="change-note">pięciu</span></div>
-</div>
+> pięć paczek;  
+> pięciu pracowników;  
+> nie ma pięciu paczek;  
+> przyglądam się pięciu paczkom;  
+> jadę z pięcioma paczkami;  
+> mówię o pięciu paczkach.
 
-Forma mianownika zależy od tego, czy liczymy osoby należące do grupy męskoosobowej:
+Forma podstawowa zależy między innymi od tego, czy liczymy osoby należące do grupy męskoosobowej:
 
-> pięć książek;  
-> pięć uczennic;  
-> pięciu uczniów.
+> pięć książek; pięć uczennic; pięciu uczniów.
+
+Nazwy przypadków stosujemy dopiero po ustaleniu relacji: **nie ma** wprowadza dopełniacz, **przyglądam się** — celownik, **z** w znaczeniu towarzyszenia — narzędnik, a **o** — miejscownik.
 
 ## Liczebniki wielowyrazowe
 
-W starannej odmianie zmieniają się wszystkie człony, które mogą przyjąć formę danego przypadku:
+> dwadzieścia trzy osoby zgłosiły udział;  
+> bez dwudziestu trzech osób;  
+> przekazano materiały dwudziestu trzem osobom;  
+> rozmawiano z dwudziestoma trzema osobami;  
+> wspomniano o dwudziestu trzech osobach.
 
-> <span class="form-focus">dwadzieścia trzy</span> osoby zgłosiły udział;  
-> nie otrzymaliśmy odpowiedzi od <span class="form-focus">dwudziestu trzech</span> osób;  
-> przekazaliśmy materiały <span class="form-focus">dwudziestu trzem</span> osobom;  
-> rozmawialiśmy z <span class="form-focus">dwudziestoma trzema</span> osobami;  
-> wspomniano o <span class="form-focus">dwudziestu trzech</span> osobach.
-
-Podobnie:
+W starannej odmianie zmieniają się wszystkie człony, które mogą przyjąć formę danego przypadku.
 
 > dwieście trzydzieści pięć stron;  
 > bez dwustu trzydziestu pięciu stron;  
 > z dwustoma trzydziestoma pięcioma stronami.
 
-<div class="numeral-checkpoint">
-  <div class="numeral-checkpoint__title">Nie odmieniamy tylko ostatniego członu</div>
-  <p>W starannym języku mówimy <strong>z dwudziestoma trzema osobami</strong>, a nie ograniczamy odmiany wyłącznie do formy <em>trzema</em>.</p>
-</div>
+Nie odmieniamy wyłącznie ostatniego członu.
 
 ## Liczebniki porządkowe
-
-Liczebnik porządkowy odmienia się jak przymiotnik:
 
 > drugi pociąg;  
 > nie ma drugiego pociągu;  
@@ -124,46 +99,41 @@ Liczebnik porządkowy odmienia się jak przymiotnik:
 > jadę drugim pociągiem;  
 > mówię o drugim pociągu.
 
-W liczebnikach wielowyrazowych człony oznaczające końcową część kolejności przyjmują formy porządkowe:
+Liczebnik porządkowy dopasowuje rodzaj, liczbę i przypadek do rzeczownika podobnie jak przymiotnik.
+
+W liczebnikach wielowyrazowych formy porządkowe przyjmuje końcowa część liczby:
 
 > dwudziesty pierwszy rozdział;  
 > w dwudziestym pierwszym rozdziale;  
-> sto dwudzieste trzecie spotkanie;  
-> podczas sto dwudziestego trzeciego spotkania.
-
-W liczebniku **sto dwudziesty trzeci** człon **sto** pozostaje liczebnikiem głównym, a końcową kolejność wyrażają człony **dwudziesty trzeci**. Gdy mówimy o samej liczbie 100 w kolejności, używamy formy **setny**.
+> sto dwudzieste trzecie spotkanie.
 
 ## Ta sama forma może należeć do różnych przypadków
-
-Forma **dwóch** pojawia się jako:
 
 > Nie ma dwóch uczniów. — dopełniacz;  
 > Dyrektor zaprosił dwóch uczniów. — biernik;  
 > Rozmawiamy o dwóch uczniach. — miejscownik.
 
-Przypadek ustalamy z funkcji całej grupy, a nie z samej postaci liczebnika.
+Postać **dwóch** sama nie rozstrzyga przypadku. Decyduje relacja całej grupy z czasownikiem lub przyimkiem.
 
 ## Jak analizować odmianę liczebnika?
 
 <div class="numeral-step-list">
   <div class="numeral-step"><strong>Znajdź cały liczebnik i liczony rzeczownik.</strong></div>
-  <div class="numeral-step"><strong>Ustal rodzaj grupy.</strong> Szczególnie ważne są rodzaj żeński oraz grupa męskoosobowa.</div>
-  <div class="numeral-step"><strong>Ustal przypadek całej grupy.</strong> Zwróć uwagę na czasownik i przyimek.</div>
-  <div class="numeral-step"><strong>Dobierz wzorzec.</strong> Inaczej odmieniają się <em>dwa</em>, <em>trzy–cztery</em> i liczebniki od <em>pięć</em> wzwyż.</div>
+  <div class="numeral-step"><strong>Opisz relację grupy zwykłym językiem.</strong> Brak, odbiorca, towarzystwo czy temat?</div>
+  <div class="numeral-step"><strong>Dopiero potem nazwij przypadek.</strong></div>
+  <div class="numeral-step"><strong>Ustal wzór liczebnika.</strong> Dwa, trzy–cztery, pięć i więcej czy porządkowy?</div>
   <div class="numeral-step"><strong>W liczebniku wielowyrazowym sprawdź każdy człon.</strong></div>
-  <div class="numeral-step"><strong>Nie ustalaj przypadku z jednej formy.</strong> <em>Dwóch</em> może wystąpić w kilku przypadkach.</div>
+  <div class="numeral-step"><strong>Nie ustalaj przypadku z jednej formy.</strong></div>
 </div>
 
 <div class="numeral-summary">
 <h3>Podsumowanie</h3>
 <ul>
-  <li>Liczebniki odmieniają się według kilku różnych wzorców.</li>
-  <li><em>Dwie</em> występuje z rzeczownikami żeńskimi, a <em>dwa</em> z męskimi nieosobowymi i nijakimi.</li>
-  <li>Grupy męskoosobowe mają szczególne formy: <em>dwaj, trzej, czterej</em> albo <em>dwóch, trzech, czterech</em>.</li>
-  <li>W liczebnikach od pięciu wzwyż mianownik osób męskich ma formę typu <em>pięciu uczniów</em>.</li>
-  <li>W starannej odmianie liczebnika wielowyrazowego zmieniamy wszystkie odpowiednie człony.</li>
-  <li>Liczebniki porządkowe odmieniają się podobnie do przymiotników.</li>
-  <li>Przypadek rozpoznajemy z całej grupy i zdania.</li>
+  <li>Przypadek dotyczy całej grupy liczebnikowej.</li>
+  <li>Nazwę przypadku ustalamy po rozpoznaniu relacji w zdaniu.</li>
+  <li>Liczebniki <em>dwa</em>, <em>trzy–cztery</em> oraz liczebniki od <em>pięć</em> wzwyż mają różne wzory.</li>
+  <li>Grupy męskoosobowe mają szczególne formy.</li>
+  <li>W liczebnikach wielowyrazowych odmieniamy wszystkie odpowiednie człony.</li>
 </ul>
 </div>
 
