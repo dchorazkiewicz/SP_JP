@@ -2,119 +2,154 @@
 
 <div class="predicate-lesson" markdown>
 
-<div class="predicate-lead" markdown>
+## Podobny wygląd nie oznacza tej samej funkcji
 
-W tym materiale obowiązuje jeden konsekwentny standard szkolny. Ramka pokazuje wyłącznie orzeczenie, nigdy całą grupę orzeczenia. Przypadki sporne są opisane, ale oznaczenia pozostają jednoznaczne.
+Na tej stronie porównujemy zdania, w których ten sam wyraz może działać inaczej. Za każdym razem sprawdzamy:
 
-</div>
+- czy czasownik sam przekazuje pełną informację;
+- czy potrzebuje drugiej części;
+- czy bezokolicznik należy do orzeczenia;
+- czy dany wyraz jest tylko określeniem lub uzupełnieniem.
 
 <div class="predicate-checkpoint">
-  <div class="predicate-checkpoint__title">Standard oznaczeń</div>
-  <p>Okoliczniki, dopełnienia, przydawki i określenia stopnia pozostają poza ramkami. Orzeczenie złożone obejmuje jednoznaczne konstrukcje modalne i fazowe. Czasowniki <em>lubić, planować, zamierzać</em> oznaczamy jako samodzielne orzeczenia, a zależny bezokolicznik pozostawiamy poza ramką.</p>
+  <div class="predicate-checkpoint__title">Orzeczenie a grupa orzeczenia</div>
+  <p><strong>Orzeczenie</strong> to zaznaczony wyraz lub połączenie. <strong>Grupa orzeczenia</strong> jest szersza: obejmuje także zależne dopełnienia i okoliczniki. Ramka pokazuje tylko orzeczenie.</p>
 </div>
 
-## „Jest”: łącznik albo samodzielny czasownik
+## „Jest”: cecha albo obecność
 
-> Marta <span class="predicate-mark predicate-mark--nominal">jest spokojna</span>.  
-> Marta <span class="predicate-mark predicate-mark--verbal">jest</span> w domu.  
+> Marta <span class="predicate-mark predicate-mark--nominal">jest spokojna</span>.
+
+Samo **jest** nie mówi, jaka jest Marta. Potrzebuje części **spokojna**.
+
+> Marta <span class="predicate-mark predicate-mark--verbal">jest</span> w domu.
+
 > W szufladzie <span class="predicate-mark predicate-mark--verbal">jest</span> klucz.
 
-Gdy **jest** przypisuje cechę lub nazwę, tworzy orzeczenie imienne z orzecznikiem. Gdy oznacza obecność, istnienie albo położenie, jest samodzielnym orzeczeniem czasownikowym.
+Tutaj **jest** samodzielnie oznacza przebywanie lub istnienie. Wyrażenie miejsca nie jest orzecznikiem.
 
 ## „Zostać”: rola, pozostanie albo strona bierna
 
-> Paweł <span class="predicate-mark predicate-mark--nominal">został kierownikiem</span>.  
-> Paweł <span class="predicate-mark predicate-mark--verbal">został</span> w biurze.  
+> Paweł <span class="predicate-mark predicate-mark--nominal">został kierownikiem</span>.
+
+Wyraz **kierownikiem** nazywa nową rolę Pawła.
+
+> Paweł <span class="predicate-mark predicate-mark--verbal">został</span> w biurze.
+
+Czasownik oznacza, że Paweł nie wyszedł.
+
 > Paweł <span class="predicate-mark predicate-mark--verbal">został wybrany</span> przez zespół.
 
-## Strona bierna i opis stanu
+Połączenie przedstawia czynność od strony osoby, której dotyczy wybór.
 
-> Raport <span class="predicate-mark predicate-mark--verbal">został napisany</span> przez Martę.  
-> Raport <span class="predicate-mark predicate-mark--nominal">jest gotowy</span>.  
+## Czynność bierna czy stan?
+
+> Raport <span class="predicate-mark predicate-mark--verbal">został napisany</span> przez Martę.
+
+Zdanie mówi o wykonanej czynności, a wyrażenie **przez Martę** wskazuje wykonawcę.
+
+> Raport <span class="predicate-mark predicate-mark--nominal">jest gotowy</span>.
+
 > Drzwi <span class="predicate-mark predicate-mark--nominal">są zamknięte</span> od trzech godzin.
 
-W pierwszym zdaniu przedstawiona jest czynność bierna. Dwa następne zdania opisują stan.
+Te zdania przede wszystkim przypisują raportowi i drzwiom stan. O klasyfikacji rozstrzyga znaczenie w kontekście.
 
-## Jednoznaczne orzeczenia złożone
+## Konieczność lub etap czynności
 
-> Marta <span class="predicate-mark predicate-mark--compound">musi napisać</span> raport.  
-> Marta <span class="predicate-mark predicate-mark--compound">może przyjść</span> jutro.  
-> Marta <span class="predicate-mark predicate-mark--compound">powinna sprawdzić</span> dane.  
-> Paweł <span class="predicate-mark predicate-mark--compound">zaczął pracować</span> o ósmej.  
+> Marta <span class="predicate-mark predicate-mark--compound">musi napisać</span> raport.
+
+> Marta <span class="predicate-mark predicate-mark--compound">może przyjść</span> jutro.
+
+> Paweł <span class="predicate-mark predicate-mark--compound">zaczął pracować</span> o ósmej.
+
 > Paweł <span class="predicate-mark predicate-mark--compound">przestał mówić</span>.
 
-## Czasownik z uzupełnieniem bezokolicznikowym
+Pierwsza część wyraża konieczność, możliwość albo etap czynności. Druga nazywa samą czynność, dlatego zaznaczamy całe połączenie.
 
-W tym materiale stosujemy następujące oznaczenia:
+## Czasownik z własnym znaczeniem i zależny bezokolicznik
 
-> Marta <span class="predicate-mark predicate-mark--verbal">planuje</span> odwiedzić archiwum.  
-> Marta <span class="predicate-mark predicate-mark--verbal">zamierza</span> napisać raport.  
+> Marta <span class="predicate-mark predicate-mark--verbal">planuje</span> odwiedzić archiwum.
+
+> Marta <span class="predicate-mark predicate-mark--verbal">zamierza</span> napisać raport.
+
 > Marta <span class="predicate-mark predicate-mark--verbal">lubi</span> czytać reportaże.
 
-Orzeczeniami są **planuje**, **zamierza** i **lubi**. Bezokoliczniki są uzupełnieniami.
+Czasowniki **planuje**, **zamierza** i **lubi** nazywają plan, zamiar lub upodobanie. W przyjętym standardzie tylko forma osobowa jest orzeczeniem, a bezokolicznik stanowi uzupełnienie.
 
-## Konstrukcje bezosobowe
+Porównaj:
 
-> Tutaj <span class="predicate-mark predicate-mark--impersonal">można wejść</span>.  
-> Raport <span class="predicate-mark predicate-mark--impersonal">trzeba sprawdzić</span>.  
-> W tej sali <span class="predicate-mark predicate-mark--impersonal">wolno rozmawiać</span>.  
-> Ten tekst <span class="predicate-mark predicate-mark--impersonal">warto przeczytać</span>.
+> Marta <span class="predicate-mark predicate-mark--compound">musi czytać</span>.
 
-Jeżeli między składnikami stoi okolicznik:
+Wyraz **musi** nie nazywa czynności, dlatego bezokolicznik należy do orzeczenia.
 
-> Ten tekst <span class="predicate-part-modal">warto</span> uważnie <span class="predicate-part-infinitive">przeczytać</span>.
+## Cecha konieczna albo dodatkowy stan
 
-Orzeczenie to **warto przeczytać**. Wyraz **uważnie** pozostaje poza ramkami.
+> Marta <span class="predicate-mark predicate-mark--nominal">była zmęczona</span>.
 
-## Dodatkowa cecha przy czasowniku pełnoznacznym
+Wyraz **zmęczona** jest konieczny do przekazania głównej informacji.
 
-> Marta <span class="predicate-mark predicate-mark--nominal">była zmęczona</span>.  
-> Marta <span class="predicate-mark predicate-mark--verbal">wróciła</span> zmęczona.  
+> Marta <span class="predicate-mark predicate-mark--verbal">wróciła</span> zmęczona.
+
 > Uczniowie <span class="predicate-mark predicate-mark--verbal">wyszli</span> zadowoleni.
 
-W drugim i trzecim zdaniu orzeczeniami są wyłącznie **wróciła** i **wyszli**. Przymiotniki opisują dodatkowy stan podmiotu.
+Czasowniki **wróciła** i **wyszli** samodzielnie nazywają zdarzenia. Przymiotniki dopowiadają stan uczestników, ale nie należą do orzeczeń.
 
 ## Konstrukcje z „to”
 
-> To <span class="predicate-mark predicate-mark--nominal">jest lekarz</span>.  
-> Marek <span class="predicate-mark predicate-mark--nominal">jest lekarzem</span>.  
+> To <span class="predicate-mark predicate-mark--nominal">jest lekarz</span>.
+
+> Marek <span class="predicate-mark predicate-mark--nominal">jest lekarzem</span>.
+
 > Marek <span class="predicate-mark predicate-mark--nominal">to lekarz</span>.
 
-## Grupa liczebnikowa nie należy do orzeczenia
+W każdym zdaniu przypisujemy osobie nazwę **lekarz**. Konstrukcja może zawierać łącznik **jest** albo szczególny łącznik **to**. W tym materiale całe połączenia traktujemy jako orzeczenia imienne.
 
-> W sali <span class="predicate-mark predicate-mark--verbal">było</span> dwudziestu uczestników.  
-> Do północy <span class="predicate-mark predicate-mark--verbal">pozostało</span> piętnaście minut.  
+## Grupa liczebnikowa pozostaje poza orzeczeniem
+
+> W sali <span class="predicate-mark predicate-mark--verbal">było</span> dwudziestu uczestników.
+
+> Do północy <span class="predicate-mark predicate-mark--verbal">pozostało</span> piętnaście minut.
+
 > Dwudziestu uczestników <span class="predicate-mark predicate-mark--verbal">weszło</span> do sali.
 
-Orzeczeniami są **było**, **pozostało** i **weszło**. Grupy **dwudziestu uczestników** oraz **piętnaście minut** nie mogą znaleźć się w ramce orzeczenia.
+Orzeczeniami są **było**, **pozostało** i **weszło**. Grupy liczebnikowe nazywają uczestników albo ilość czasu i nie należą do ramki.
 
-## Kilka czasowników przy jednym podmiocie
+## „Mieć”: posiadanie albo obowiązek
 
-> Marta <span class="predicate-mark predicate-mark--verbal">otworzyła</span> plik, <span class="predicate-mark predicate-mark--verbal">sprawdziła</span> dane i <span class="predicate-mark predicate-mark--verbal">wysłała</span> raport.
+> Paweł <span class="predicate-mark predicate-mark--verbal">miał</span> bilet.
 
-Są to trzy odrębne orzeczenia, a nie jedno orzeczenie wielowyrazowe.
+Czasownik oznacza posiadanie.
 
-## „Mieć”
-
-> Paweł <span class="predicate-mark predicate-mark--verbal">miał</span> bilet.  
 > Paweł <span class="predicate-mark predicate-mark--compound">miał kupić</span> bilet.
 
-W pierwszym zdaniu **miał** oznacza posiadanie. W drugim współtworzy plan lub obowiązek.
+Połączenie oznacza plan, oczekiwanie lub obowiązek. Bezokolicznik nazywa właściwą czynność.
 
-## „Wydaje się”
+## „Wydaje się”: osobna ocena albo część orzeczenia
 
-> <span class="predicate-mark predicate-mark--verbal">Wydaje się</span>, że problem <span class="predicate-mark predicate-mark--nominal">jest rozwiązany</span>.  
+> <span class="predicate-mark predicate-mark--impersonal">Wydaje się</span>, że problem <span class="predicate-mark predicate-mark--nominal">jest rozwiązany</span>.
+
+Pierwsza część wyraża ogólną ocenę, a zdanie z **że** podaje jej treść. Mamy dwa orzeczenia.
+
 > Problem <span class="predicate-mark predicate-mark--nominal">wydaje się rozwiązany</span>.
 
-Pierwsze zdanie ma dwa centra. W drugim całe połączenie tworzy orzeczenie imienne.
+Tutaj **wydaje się** łączy podmiot **problem** z przypisaną mu cechą **rozwiązany**. Całe połączenie tworzy jedno orzeczenie imienne.
+
+## Jak rozstrzygać?
+
+<div class="predicate-checklist">
+  <div><strong>Sprawdź samodzielność czasownika.</strong> Czy bez dalszej części nadal przekazuje pełną główną informację?</div>
+  <div><strong>Uwzględnij znaczenie.</strong> <em>Jest</em> może oznaczać obecność albo łączyć podmiot z cechą.</div>
+  <div><strong>Oddziel części konieczne od dodatków.</strong> Okolicznik i dodatkowy opis stanu nie stają się częścią orzeczenia przez samo sąsiedztwo.</div>
+  <div><strong>Stosuj przyjęty standard.</strong> Przy <em>lubić, planować, zamierzać</em> bezokolicznik pozostaje poza ramką.</div>
+</div>
 
 <div class="predicate-summary">
-<h3>Jednoznaczna odpowiedź</h3>
+<h3>Granice wynikają z funkcji</h3>
 <ul>
-  <li>Ramka obejmuje tylko orzeczenie.</li>
-  <li>Grupa liczebnikowa, okolicznik i dodatkowa cecha pozostają poza ramką.</li>
-  <li>Jednoznaczne konstrukcje modalne i fazowe zaznaczamy w całości.</li>
-  <li>Przy czasownikach <em>planować, zamierzać, lubić</em> ramka obejmuje tylko formę osobową.</li>
+  <li>Ten sam wyraz może w różnych zdaniach pełnić inną funkcję.</li>
+  <li>Ramka obejmuje tylko części konieczne do przekazania głównej informacji.</li>
+  <li>Grupy liczebnikowe, okoliczniki i dodatkowe opisy stanu pozostają poza ramką.</li>
+  <li>Przypadki sporne rozstrzygamy konsekwentnie według standardu publikacji.</li>
 </ul>
 </div>
 
