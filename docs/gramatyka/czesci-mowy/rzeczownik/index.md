@@ -4,64 +4,43 @@
 
 <div class="lead-box" markdown>
 
-Rzeczowniki pozwalają **nazywać** ludzi, zwierzęta, miejsca, przedmioty, zjawiska, czynności, uczucia i pojęcia. Dzięki nim możemy wskazać, o kim lub o czym mówimy, a ich formy pokazują liczbę, rodzaj i związki z innymi wyrazami w zdaniu.
+Rzeczowniki pozwalają **nazywać** ludzi, zwierzęta, miejsca, przedmioty, zjawiska, czynności, uczucia i pojęcia. Najpierw zobaczymy, co nazywają i jak zmieniają formę. Nazwy szczegółowych kategorii pojawią się dopiero po zauważeniu różnic.
 
 </div>
 
 ## Nazwy, dzięki którym można opowiadać
 
-Wyobraźmy sobie szkolny korytarz po lekcjach. Widzimy uczennicę, psa, plecak, okno i deszcz za szybą. Możemy też mówić o pośpiechu, zmęczeniu albo radości z powrotu do domu.
-
-Wszystkie wyróżnione wyrazy mogą być rzeczownikami:
-
 > <span class="form-focus">Maja</span> podniosła <span class="form-focus">plecak</span>.  
 > Przy <span class="form-focus">oknie</span> czekał <span class="form-focus">pies</span>.  
 > Odgłos <span class="form-focus">deszczu</span> wypełniał <span class="form-focus">korytarz</span>.  
-> Po całym dniu uczniowie czuli <span class="form-focus">zmęczenie</span>, ale także <span class="form-focus">radość</span>.
+> Uczniowie czuli <span class="form-focus">zmęczenie</span>, ale także <span class="form-focus">radość</span>.
 
-Nie wszystkie rzeczowniki nazywają rzeczy, które można zobaczyć lub dotknąć. **Zmęczenie**, **radość**, **odwaga**, **czytanie** i **pamięć** także są rzeczownikami, chociaż nazywają stany, uczucia, cechy, czynności albo pojęcia.
+Wyróżnione wyrazy nazywają osobę, przedmiot, miejsce, zwierzę, zjawisko, stan i uczucie. Nie wszystkie oznaczają rzeczy, które można zobaczyć lub dotknąć.
 
 <div class="noun-concept">
   <span class="noun-concept__label">Pojęcie</span>
   <strong>Rzeczownik</strong>
-  <p>To odmienna część mowy, która nazywa osoby, zwierzęta, przedmioty, miejsca, zjawiska, czynności, stany, cechy, uczucia i pojęcia. Rzeczowniki odmieniają się przez przypadki, a większość z nich także przez liczby.</p>
+  <p>To część mowy służąca do nazywania osób, istot, rzeczy, miejsc, zjawisk, czynności, stanów, cech, uczuć i pojęć.</p>
 </div>
 
 ## Pytania „kto?” i „co?” pomagają, ale nie wystarczają
 
-Rzeczowniki w formie podstawowej odpowiadają zwykle na pytania **kto?** lub **co?**:
-
 > kto? — uczennica, lekarz, pies;  
 > co? — plecak, szkoła, burza, odwaga.
 
-Samo pytanie nie rozwiązuje jednak każdego przypadku. Porównaj:
+Porównaj jednak:
 
 > Maja <span class="form-focus">czyta</span> książkę.  
 > Codzienne <span class="form-focus">czytanie</span> rozwija wyobraźnię.
 
-**Czyta** jest czasownikiem, a **czytanie** rzeczownikiem. Oba wyrazy dotyczą tej samej czynności, lecz zachowują się inaczej:
+Oba wyrazy odnoszą się do tej samej czynności, lecz zachowują się inaczej:
 
 > czytam, czytasz, czytają;  
 > czytanie, czytania, czytaniu, czytaniem.
 
-O części mowy decyduje więc nie tylko znaczenie, ale również odmiana i rola wyrazu w zdaniu.
+Wyraz **czyta** zmienia formę zależnie od osoby wykonującej czynność. Wyraz **czytanie** zachowuje się jak nazwa: może łączyć się z innymi wyrazami w formach **czytania**, **czytaniu**, **czytaniem**. Dlatego **czyta** jest czasownikiem, a **czytanie** — rzeczownikiem.
 
-## Jedna forma może przekazywać kilka informacji
-
-Spójrz na wyraz:
-
-> Nie znaleźliśmy <span class="form-focus"><span class="stem-part">klucz</span><span class="ending-part">a</span></span>.
-
-Forma **klucza** informuje między innymi, że:
-
-- mówimy o jednym kluczu;
-- rzeczownik ma rodzaj męski;
-- występuje w dopełniaczu;
-- jego forma zależy od przeczonego czasownika **nie znaleźliśmy**.
-
-Rzeczownik nie jest więc tylko nazwą. Jego zakończenie pomaga zrozumieć związki między wyrazami.
-
-## Rzeczownik może się zmieniać, choć nazywa to samo
+## Rzeczownik może się zmieniać, choć nadal nazywa to samo
 
 > <span class="form-focus">Książka</span> leży na stole.  
 > Nie ma <span class="form-focus">książki</span> na półce.  
@@ -70,29 +49,46 @@ Rzeczownik nie jest więc tylko nazwą. Jego zakończenie pomaga zrozumieć zwi�
 > Idę z <span class="form-focus">książką</span> do szkoły.  
 > Rozmawiamy o <span class="form-focus">książce</span>.
 
-Za każdym razem chodzi o ten sam rodzaj przedmiotu. Zmienia się forma rzeczownika, ponieważ zmienia się jego związek z czasownikiem, przyimkiem i pozostałą częścią zdania.
+Za każdym razem chodzi o ten sam rodzaj przedmiotu. Zmienia się forma nazwy, ponieważ zmienia się jej związek z czasownikiem albo przyimkiem.
+
+Taką zmianę formy nazywamy **odmianą**. Poszczególne formy rzeczownika poznamy później jako **przypadki**. Nazwy przypadków nie są jednak punktem wyjścia — najpierw trzeba zrozumieć relację między wyrazami.
+
+## Forma może ujawniać liczbę i rodzaj
+
+Porównaj:
+
+> jedna książka — trzy książki;  
+> ten stół — ta mapa — to okno.
+
+Pierwsza para pokazuje, czy mówimy o jednym obiekcie, czy o większej liczbie. Nazywamy tę właściwość **liczbą**.
+
+Druga seria pokazuje, że rzeczowniki łączą się z różnymi formami **ten**, **ta**, **to**. Taką właściwość rzeczownika nazywamy **rodzajem gramatycznym**. Rodzaj nie oznacza płci przedmiotu; opisuje sposób łączenia się wyrazu z innymi formami.
+
+## Jedna forma może przekazywać kilka informacji
+
+> Nie znaleźliśmy <span class="form-focus">klucza</span>.
+
+Forma **klucza** pokazuje, że mówimy o jednym kluczu i że nazwa pozostaje w określonym związku z przeczoną czynnością **nie znaleźliśmy**. Na odpowiedniej stronie zobaczymy, jak tę relację nazywamy i jak oddzielamy część wyrazu powtarzającą się od części zmiennej.
 
 ## Jak czytać ten dział?
 
-Najpierw będziemy obserwować rzeczowniki w zdaniach i krótkich opowieściach. Następnie porównamy ich znaczenia, rodzaje, liczby i przypadki, aby zobaczyć, jak forma rzeczownika wpływa na całe zdanie. Terminy pojawią się wtedy, gdy pomogą nazwać zauważoną różnicę.
-
 <div class="noun-topic-grid">
-  <a class="noun-topic-card noun-topic-card--primary" href="znaczenie-i-typy/"><span class="noun-topic-number">01</span><strong>Co nazywa rzeczownik i jak go rozpoznać?</strong><span>Osoby, miejsca, przedmioty, zjawiska, uczucia i pojęcia oraz najważniejsze grupy znaczeniowe.</span></a>
-  <a class="noun-topic-card" href="rodzaj-i-liczba/"><span class="noun-topic-number">02</span><strong>Rodzaj i liczba</strong><span>Jak rzeczownik wpływa na formę przymiotników, zaimków, liczebników i czasowników.</span></a>
-  <a class="noun-topic-card" href="przypadki-i-odmiana/"><span class="noun-topic-number">03</span><strong>Przypadki i odmiana</strong><span>Dlaczego forma rzeczownika zmienia się w zależności od jego miejsca i roli w zdaniu.</span></a>
-  <a class="noun-topic-card" href="rzeczownik-w-zdaniu/"><span class="noun-topic-number">04</span><strong>Rzeczownik w zdaniu</strong><span>Podmiot, dopełnienie, orzecznik, określenia rzeczownika i rozbudowane grupy wyrazów.</span></a>
-  <a class="noun-topic-card" href="slowotworstwo-i-pisownia/"><span class="noun-topic-number">05</span><strong>Jak powstają i jak są zapisywane rzeczowniki?</strong><span>Rodziny wyrazów, zdrobnienia, zgrubienia, nazwy własne i rzeczowniki nieodmienne.</span></a>
+  <a class="noun-topic-card noun-topic-card--primary" href="znaczenie-i-typy/"><span class="noun-topic-number">01</span><strong>Co nazywa rzeczownik?</strong><span>Osoby, miejsca, przedmioty, zjawiska, uczucia i pojęcia oraz różnice znaczeniowe między nazwami.</span></a>
+  <a class="noun-topic-card" href="rodzaj-i-liczba/"><span class="noun-topic-number">02</span><strong>Jeden obiekt, wiele obiektów i różne sposoby dopasowania form</strong><span>Najpierw porównamy <em>ten dom, ta szkoła, to muzeum</em>, a później nazwiemy rodzaj i liczbę.</span></a>
+  <a class="noun-topic-card" href="przypadki-i-odmiana/"><span class="noun-topic-number">03</span><strong>Dlaczego forma nazwy zmienia się w zdaniu?</strong><span>Relacje z czasownikiem i przyimkiem, a następnie nazwy przypadków oraz budowa form.</span></a>
+  <a class="noun-topic-card" href="rzeczownik-w-zdaniu/"><span class="noun-topic-number">04</span><strong>Co rzeczownik robi w zdaniu?</strong><span>Jak nazwa może wskazywać uczestnika, przedmiot czynności, rolę lub element rozbudowanej grupy.</span></a>
+  <a class="noun-topic-card" href="slowotworstwo-i-pisownia/"><span class="noun-topic-number">05</span><strong>Jak powstają i jak są zapisywane rzeczowniki?</strong><span>Rodziny wyrazów, nazwy własne, zdrobnienia, zgrubienia i wyrazy zachowujące jedną formę.</span></a>
   <a class="noun-topic-card noun-topic-card--reading" href="rzeczowniki-w-tekscie/"><span class="noun-topic-number">06</span><strong>Rzeczowniki w opowieści</strong><span>Jak nazwy bohaterów, miejsc, przedmiotów i pojęć budują świat dłuższego tekstu.</span></a>
 </div>
 
 <div class="noun-summary">
 <h3>Na początek</h3>
 <ul>
-  <li>Rzeczownik może nazywać zarówno coś widzialnego, jak i uczucie, czynność, cechę albo pojęcie.</li>
-  <li>Pytania <em>kto?</em> i <em>co?</em> pomagają, lecz nie zastępują obserwacji odmiany.</li>
-  <li>Rzeczownik ma rodzaj gramatyczny i odmienia się przez przypadki.</li>
-  <li>Większość rzeczowników występuje w liczbie pojedynczej i mnogiej, ale istnieją ważne wyjątki.</li>
-  <li>Formę i funkcję rzeczownika rozpoznajemy w całym zdaniu.</li>
+  <li>Rzeczownik może nazywać coś widzialnego albo uczucie, czynność, cechę czy pojęcie.</li>
+  <li>Pytania <em>kto?</em> i <em>co?</em> pomagają, lecz nie zastępują obserwacji zachowania wyrazu.</li>
+  <li>Rzeczownik może zmieniać formę zależnie od związku z innymi wyrazami.</li>
+  <li>Liczbę i rodzaj najpierw rozpoznajemy przez porównanie form, a dopiero potem nazywamy.</li>
+  <li>Rzeczownik jako część mowy należy odróżniać od jego zadania w konkretnym zdaniu.</li>
 </ul>
 </div>
 
