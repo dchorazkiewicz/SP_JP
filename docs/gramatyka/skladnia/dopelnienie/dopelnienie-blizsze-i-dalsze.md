@@ -115,7 +115,7 @@ Czasowniki **przyjść** i **spać** nie otwierają miejsca dla dopełnienia bli
   <div class="object-reading-header"><h2>Przesyłka do laboratorium</h2></div>
   <div class="object-reading-text" markdown>
 
-Kierowniczka <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--indirect"><strong>kurierowi</strong></span> <span class="object-mark object-mark--direct">zabezpieczoną <strong>próbkę</strong></span>. Kurier <span class="object-predicate">sprawdził</span> <span class="object-mark object-mark--direct"><strong>adres</strong></span> i <span class="object-predicate">zapytał</span> <span class="object-mark object-mark--indirect"><strong>kierowniczkę</strong></span> <span class="object-mark object-mark--indirect">o godzinę <strong>odbioru</strong></span>. Następnego dnia <span class="subject-mark subject-mark--grammatical"><strong>Próbka</strong></span> <span class="object-predicate">została dostarczona</span> <span class="object-mark object-mark--indirect"><strong>laboratorium</strong></span>.
+Kierowniczka <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--indirect"><strong>kurierowi</strong></span> <span class="object-mark object-mark--direct">zabezpieczoną <strong>próbkę</strong></span>. Kurier <span class="object-predicate">sprawdził</span> <span class="object-mark object-mark--direct"><strong>adres</strong></span> i <span class="object-predicate">zapytał</span> <span class="object-mark object-mark--direct"><strong>kierowniczkę</strong></span> <span class="object-mark object-mark--indirect">o godzinę <strong>odbioru</strong></span>. Następnego dnia <span class="subject-mark subject-mark--grammatical"><strong>Próbka</strong></span> <span class="object-predicate">została dostarczona</span> <span class="object-mark object-mark--indirect"><strong>laborantce</strong></span>.
 
   </div>
 </div>
@@ -123,7 +123,7 @@ Kierowniczka <span class="object-predicate">przekazała</span> <span class="obje
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-**Próbkę** i **adres** można uczynić podmiotami strony biernej, dlatego są dopełnieniami bliższymi. **Kurierowi**, **kierowniczkę**, **o godzinę odbioru** i **laboratorium** nazywają innych uczestników lub treść relacji. Po transformacji próbka staje się podmiotem, a adresat pozostaje dopełnieniem.
+**Próbkę**, **adres** i **kierowniczkę** można uczynić podmiotami strony biernej, dlatego są dopełnieniami bliższymi. **Kurierowi**, **o godzinę odbioru** i **laborantce** nazywają odbiorców albo treść relacji i pozostają dopełnieniami dalszymi. Po transformacji próbka staje się podmiotem, a odbiorczyni nadal jest dopełnieniem.
 </div>
 
 <div class="object-summary">
