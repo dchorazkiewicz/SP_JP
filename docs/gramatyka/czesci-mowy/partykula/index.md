@@ -26,9 +26,9 @@ W każdym zdaniu mówimy o Marcie i projekcie, ale zmienia się sposób ujęcia 
 
 - **właśnie** wyróżnia Martę spośród innych osób;
 - **już** pokazuje, że oczekiwany moment został osiągnięty;
-- **tylko** ogranicza zakres tego, co Marta oddała;
+- **tylko** ogranicza to, co Marta oddała;
 - **chyba** sygnalizuje niepewność mówiącego;
-- **nie** odrzuca prawdziwość informacji o oddaniu projektu.
+- **nie** odrzuca informację o oddaniu projektu.
 
 <div class="indecl-summary">
 <h3>Pojęcie</h3>
@@ -46,13 +46,13 @@ Porównaj:
 
 Wyraz **nawet** nie nazywa osobnej czynności. Nadal chodzi o przeczytanie raportu. Partykuła pokazuje jednak, że mówiący uważa tę czynność za nieoczekiwaną albo szczególnie godną uwagi.
 
-Podobnie w zdaniu:
+Podobnie:
 
 > Paweł <span class="indecl-focus">też</span> przyszedł na spotkanie.
 
-**Też** nie nazywa kolejnej osoby. Informuje, że Paweł dołącza do osób, o których podobną informację można już było powiedzieć.
+**Też** nie wprowadza nowej osoby do zdania. Informuje, że o Pawle można powiedzieć to samo, co wcześniej o kimś innym.
 
-Partykuła zwykle nie jest więc samodzielnym członem zdania takim jak podmiot, dopełnienie lub okolicznik. Działa na inną część wypowiedzi i zmienia sposób jej odczytania.
+Partykuła nie nazywa więc osoby, rzeczy ani okoliczności. Działa na gotowy fragment wypowiedzi i zmienia sposób jego odczytania. W późniejszym dziale składni nazwiemy dokładniej zadania takich elementów jak osoba, o której mówimy, przedmiot czynności czy informacja o miejscu i czasie.
 
 ## Najważniejszy jest zakres
 
@@ -62,7 +62,7 @@ Partykuła zwykle nie jest więc samodzielnym członem zdania takim jak podmiot,
 
 W pierwszym zdaniu ograniczenie dotyczy osoby: nikt poza Martą nie przeczytał raportu. W drugim dotyczy czynności: Marta przeczytała dokument, ale go nie poprawiała ani nie omawiała. W trzecim obejmuje przedmiot czynności: przeczytała raport, lecz nie załączniki.
 
-Sama obecność partykuły nie wystarcza więc do wyjaśnienia znaczenia. Trzeba ustalić, **który fragment wypowiedzi znajduje się w jej zasięgu**.
+Fragment informacji, którego sens zmienia partykuła, nazywamy jej **zakresem**. Nie wystarczy więc znaleźć partykułę; trzeba jeszcze ustalić, czego dokładnie dotyczy.
 
 ## Jedna postać może pełnić różne funkcje
 
@@ -74,19 +74,19 @@ W pierwszym zdaniu **może** wyraża przypuszczenie i jest partykułą. W drugim
 > <span class="indecl-focus">Czy</span> Marta przyjedzie?  
 > Nie wiem, <span class="indecl-focus">czy</span> Marta przyjedzie.
 
-W pytaniu niezależnym **czy** pełni funkcję partykuły pytajnej. W drugim zdaniu wprowadza pytanie zależne i jest opisywane jako spójnik.
+W pytaniu samodzielnym **czy** nadaje całej wypowiedzi charakter pytania i jest partykułą pytajną. W drugim przykładzie otwiera treść zależną od wyrażenia **nie wiem**; w szkolnym opisie nazywamy je wtedy spójnikiem.
 
-Takie przykłady pokazują, że części mowy nie rozpoznajemy wyłącznie po wyglądzie wyrazu. Liczą się jego znaczenie, otoczenie i funkcja w konkretnym zdaniu.
+Części mowy nie rozpoznajemy więc wyłącznie po wyglądzie wyrazu. Liczą się znaczenie, otoczenie i funkcja w konkretnym zdaniu.
 
 ## Granice klasyfikacji nie zawsze są jednakowe
 
 Wyrazy takie jak **pewnie, właśnie, dopiero, jednak, niestety** bywają opisywane różnie w zależności od zdania i przyjętej tradycji gramatycznej. Mogą zbliżać się do przysłówków, partykuł albo wyrazów nawiązujących.
 
-W tym dziale będziemy stosować praktyczne kryterium: sprawdzimy, czy dany wyraz przede wszystkim określa sposób, czas lub miejsce czynności, czy raczej komentuje informację, ustawia jej zakres albo pokazuje stosunek mówiącego.
+W tym dziale stosujemy praktyczne kryterium: sprawdzamy, czy wyraz przede wszystkim opisuje sposób, czas lub miejsce czynności, czy raczej komentuje informację, ustawia jej zakres albo pokazuje stosunek mówiącego.
 
 > Paweł <span class="indecl-focus">pewnie</span> zamknął drzwi.
 
-Zdanie może znaczyć, że Paweł zamknął drzwi **prawdopodobnie** — wtedy wyraz komentuje prawdziwość informacji. Może też znaczyć, że zamknął je **zdecydowanie i bez wahania** — wtedy wyraz określa sposób czynności. Bez kontekstu interpretacja może pozostać niejednoznaczna.
+Zdanie może znaczyć, że Paweł zamknął drzwi **prawdopodobnie** — wtedy wyraz komentuje prawdziwość całej informacji. Może też znaczyć, że zamknął je **zdecydowanie i bez wahania** — wtedy opisuje sposób czynności. Bez kontekstu interpretacja może pozostać niejednoznaczna.
 
 ## Jak czytać ten dział?
 
