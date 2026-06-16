@@ -4,6 +4,7 @@
 ./.github/workflows/deploy-pages.yml
 ./.github/workflows/update-tree.yml
 ./.gitignore
+./AGENTS.md
 ./README.md
 ./docs
 ./docs/gramatyka
