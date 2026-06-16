@@ -2,97 +2,192 @@
 
 <div class="predicate-lesson" markdown>
 
-<div class="predicate-lead" markdown>
+## Jeden wyraz czy dwa?
 
-Orzeczenie imienne składa się z **łącznika** i **orzecznika**. Ramki obejmują wyłącznie te dwa składniki. Określenia orzecznika pozostają poza ramkami.
+Porównaj:
 
-</div>
-
-<div class="predicate-checkpoint">
-  <div class="predicate-checkpoint__title">Zasada oznaczeń</div>
-  <p>W zdaniu <em>Marta jest bardzo spokojna</em> orzeczenie to <strong>jest spokojna</strong>. Wyraz <em>bardzo</em> nie należy do orzeczenia.</p>
-</div>
-
-## Łącznik i orzecznik
+> Marta <span class="predicate-mark predicate-mark--verbal">pracuje</span>.
 
 > Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">spokojna</span>.
 
+W pierwszym zdaniu jeden wyraz wystarcza, aby powiedzieć, co robi Marta. W drugim pełna informacja powstaje dopiero z połączenia dwóch wyrazów.
+
+Spróbuj usunąć jeden z nich:
+
+> Marta jest…
+
+Nie dowiadujemy się, jaka jest Marta ani kim jest.
+
+> Marta spokojna.
+
+Rozumiemy przypisaną cechę, ale w neutralnej wypowiedzi brakuje elementu, który tworzy pełne zdanie i umieszcza informację w czasie.
+
+Dopiero połączenie **jest spokojna** przekazuje całość: mówi, że teraz przypisujemy Marcie cechę spokoju.
+
+## Co robi każda część?
+
+> Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">spokojna</span>.
+
+- **jest** łączy Martę z informacją o niej oraz pokazuje czas teraźniejszy, trzecią osobę i liczbę pojedynczą;
+- **spokojna** podaje właściwą treść informacji — nazywa cechę Marty.
+
+Część, która **łączy** podmiot z informacją o nim, nazywamy **łącznikiem**. Część, która mówi, jaka jest dana osoba lub rzecz, kim jest albo czym się stała, nazywamy **orzecznikiem**.
+
 <div class="predicate-tree">jest spokojna
-├── łącznik → jest
-└── orzecznik → spokojna</div>
+├── łączy Martę z informacją → jest → łącznik
+└── nazywa przypisaną cechę → spokojna → orzecznik</div>
 
-## Przykłady
+Połączenie łącznika i orzecznika nazywamy **orzeczeniem imiennym**.
 
-> Sala <span class="predicate-mark predicate-mark--nominal">jest przestronna</span>.  
-> Marta <span class="predicate-mark predicate-mark--nominal">jest lekarką</span>.  
-> Paweł <span class="predicate-mark predicate-mark--nominal">został przewodniczącym</span>.  
-> Niebo <span class="predicate-mark predicate-mark--nominal">stało się ciemne</span>.  
-> Rozwiązanie <span class="predicate-mark predicate-mark--nominal">okazało się skuteczne</span>.  
-> Drzwi <span class="predicate-mark predicate-mark--nominal">pozostały zamknięte</span>.
+<div class="predicate-concept">
+  <span class="predicate-concept__label">Pojęcie</span>
+  <strong>Orzeczenie imienne</strong>
+  <p>To orzeczenie, w którym jedna część łączy podmiot z informacją, a druga przypisuje mu cechę, stan, rolę, zawód lub tożsamość.</p>
+</div>
 
-Orzecznik może być przymiotnikiem, rzeczownikiem, zaimkiem, liczebnikiem albo przysłówkiem:
+## Łącznik pokazuje czas i formę gramatyczną
 
-> Sala <span class="predicate-mark predicate-mark--nominal">jest jasna</span>.  
-> Anna <span class="predicate-mark predicate-mark--nominal">jest nauczycielką</span>.  
-> Ten plecak <span class="predicate-mark predicate-mark--nominal">jest mój</span>.  
-> Marta <span class="predicate-mark predicate-mark--nominal">była pierwsza</span>.  
+Porównaj zdania, w których cecha pozostaje ta sama:
+
+> Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">spokojna</span>.
+
+> Marta <span class="predicate-part-linker">była</span> <span class="predicate-part-predicative">spokojna</span>.
+
+> Marta <span class="predicate-part-linker">będzie</span> <span class="predicate-part-predicative">spokojna</span>.
+
+Wyraz **spokojna** za każdym razem nazywa tę samą cechę. Zmiana **jest — była — będzie** przesuwa informację między teraźniejszością, przeszłością i przyszłością.
+
+Łącznik dostosowuje się również do osoby lub rzeczy, o której mówimy:
+
+> Marta <span class="predicate-part-linker">była</span> <span class="predicate-part-predicative">spokojna</span>.
+
+> Paweł <span class="predicate-part-linker">był</span> <span class="predicate-part-predicative">spokojny</span>.
+
+> Dzieci <span class="predicate-part-linker">były</span> <span class="predicate-part-predicative">spokojne</span>.
+
+## Orzecznik podaje treść informacji
+
+Teraz pozostawmy ten sam łącznik i zmieniajmy drugą część:
+
+> Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">spokojna</span>.
+
+> Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">zmęczona</span>.
+
+> Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">lekarką</span>.
+
+> Marta <span class="predicate-part-linker">jest</span> <span class="predicate-part-predicative">pierwsza</span>.
+
+Orzecznik może przekazywać różne rodzaje informacji:
+
+- **spokojna**, **zmęczona** — cechę lub stan;
+- **lekarką** — zawód lub rolę;
+- **pierwsza** — miejsce w kolejności.
+
+Może być wyrażony między innymi przymiotnikiem, rzeczownikiem, zaimkiem, liczebnikiem lub przysłówkiem:
+
+> Sala <span class="predicate-mark predicate-mark--nominal">jest jasna</span>.
+
+> Anna <span class="predicate-mark predicate-mark--nominal">jest nauczycielką</span>.
+
+> Ten plecak <span class="predicate-mark predicate-mark--nominal">jest mój</span>.
+
+> Marta <span class="predicate-mark predicate-mark--nominal">była pierwsza</span>.
+
 > W sali <span class="predicate-mark predicate-mark--nominal">jest cicho</span>.
 
-## Określenia nie należą do orzeczenia
+## Nie tylko „być”
 
-> Marta <span class="predicate-part-linker">jest</span> bardzo <span class="predicate-part-predicative">spokojna</span>.  
-> Członkowie koła <span class="predicate-part-linker">byli</span> niezwykle <span class="predicate-part-predicative">aktywni</span>.  
-> Polecenia <span class="predicate-part-linker">były</span> coraz bardziej <span class="predicate-part-predicative">precyzyjne</span>.
+Orzeczenie imienne może opisywać również zmianę lub wynik zmiany:
 
-Orzeczenia to **jest spokojna**, **byli aktywni** i **były precyzyjne**. Wyrazy **bardzo**, **niezwykle** oraz **coraz bardziej** określają stopień cechy.
+> Paweł <span class="predicate-part-linker">został</span> <span class="predicate-part-predicative">przewodniczącym</span>.
 
-## Rozbudowana grupa orzecznikowa
+> Niebo <span class="predicate-part-linker">stało się</span> <span class="predicate-part-predicative">ciemne</span>.
+
+> Rozwiązanie <span class="predicate-part-linker">okazało się</span> <span class="predicate-part-predicative">skuteczne</span>.
+
+> Drzwi <span class="predicate-part-linker">pozostały</span> <span class="predicate-part-predicative">zamknięte</span>.
+
+W każdym przykładzie pierwsza część łączy podmiot z informacją i wskazuje sposób jej obowiązywania, a druga podaje właściwą treść.
+
+## Co dokładnie obejmują ramki?
+
+> Marta <span class="predicate-part-linker">jest</span> bardzo <span class="predicate-part-predicative">spokojna</span>.
+
+Orzeczeniem jest **jest spokojna**. Wyraz **bardzo** nie nazywa nowej cechy, lecz mówi o jej natężeniu. Dlatego pozostaje poza ramkami.
 
 > Marta <span class="predicate-part-linker">jest</span> bardzo doświadczoną <span class="predicate-part-predicative">kierowniczką</span> dużego zespołu badawczego.
 
-Ramki pokazują wyłącznie **jest kierowniczką**. Wyrazy **bardzo doświadczoną** i **dużego zespołu badawczego** rozwijają rzeczownik **kierowniczką**, ale nie są samym orzeczeniem.
+Orzeczenie to **jest kierowniczką**:
 
-> Budynek <span class="predicate-part-linker">został</span> <span class="predicate-part-predicative">siedzibą</span> muzeum.  
-> Pracownia <span class="predicate-part-linker">stała się</span> <span class="predicate-part-predicative">centrum</span> projektu.  
-> Wyniki <span class="predicate-part-linker">były</span> <span class="predicate-part-predicative">podstawą</span> prezentacji.
+- **jest** — łącznik;
+- **kierowniczką** — właściwy orzecznik;
+- **bardzo doświadczoną** — określenie rzeczownika **kierowniczką**;
+- **dużego zespołu badawczego** — informacja rozwijająca nazwę roli.
 
-Wyrazy **muzeum**, **projektu** i **prezentacji** pozostają poza ramkami.
+<div class="predicate-checkpoint">
+  <div class="predicate-checkpoint__title">Zasada oznaczeń</div>
+  <p>Ramki obejmują łącznik i właściwy orzecznik. Wyrazy tylko rozwijające cechę, stan lub nazwę roli pozostają poza ramkami. Jeżeli dodatki rozdzielają obie części, każdą z nich zaznaczamy osobno.</p>
+</div>
 
-## Dodatkowy stan podmiotu
+## Podobne zdania, inna budowa
 
-> Marta <span class="predicate-mark predicate-mark--nominal">jest zmęczona</span>.  
+Porównaj:
+
+> Marta <span class="predicate-mark predicate-mark--nominal">jest zmęczona</span>.
+
 > Marta <span class="predicate-mark predicate-mark--verbal">wróciła</span> zmęczona.
 
-W drugim zdaniu orzeczeniem jest wyłącznie **wróciła**. Wyraz **zmęczona** opisuje dodatkowy stan podmiotu.
+W pierwszym zdaniu **zmęczona** jest konieczną częścią głównej informacji: **jest zmęczona**. W drugim główną informację przekazuje czasownik **wróciła**, a wyraz **zmęczona** dopowiada, w jakim stanie Marta wróciła. Nie jest częścią orzeczenia.
 
-## Przeczenie i rozdzielenie składników
+## „Być” i „zostać” nie zawsze łączą
 
-> Marta <span class="predicate-mark predicate-mark--nominal">nie jest zmęczona</span>.  
-> Paweł <span class="predicate-mark predicate-mark--nominal">nie został kierownikiem</span>.  
+> Marta <span class="predicate-mark predicate-mark--nominal">jest zmęczona</span>.
+
+> Marta <span class="predicate-mark predicate-mark--verbal">jest</span> w domu.
+
+W pierwszym zdaniu **jest** potrzebuje informacji **zmęczona**, aby przypisać Marcie cechę. W drugim samo **jest** oznacza przebywanie lub znajdowanie się w określonym miejscu. Nie pełni wtedy funkcji łącznika.
+
+> Paweł <span class="predicate-mark predicate-mark--nominal">został kierownikiem</span>.
+
+> Paweł <span class="predicate-mark predicate-mark--verbal">został</span> w biurze.
+
+W pierwszym zdaniu **został** łączy Pawła z nową rolą. W drugim oznacza, że Paweł nie wyszedł z biura.
+
+## Przeczenie
+
+> Marta <span class="predicate-mark predicate-mark--nominal">nie jest zmęczona</span>.
+
+> Paweł <span class="predicate-mark predicate-mark--nominal">nie został kierownikiem</span>.
+
 > Marta <span class="predicate-part-linker">nie jest</span> całkiem <span class="predicate-part-predicative">pewna</span>.
 
-W ostatnim zdaniu orzeczenie to **nie jest pewna**. Wyraz **całkiem** pozostaje poza ramką.
+Przeczenie **nie** odnosi się do całego orzeczenia. W ostatnim zdaniu wyraz **całkiem** określa stopień pewności i pozostaje poza oznaczeniem.
 
-## „Być” i „zostać” nie zawsze są łącznikami
+## Krótki tekst
 
-> Marta <span class="predicate-mark predicate-mark--nominal">jest zmęczona</span>.  
-> Marta <span class="predicate-mark predicate-mark--verbal">jest</span> w domu.  
-> Paweł <span class="predicate-mark predicate-mark--nominal">został kierownikiem</span>.  
-> Paweł <span class="predicate-mark predicate-mark--verbal">został</span> w biurze.  
-> Paweł <span class="predicate-mark predicate-mark--verbal">został wybrany</span> przez zespół.
+<div class="predicate-story">
+  <div class="predicate-story__title">Po zakończeniu projektu</div>
+  <div class="predicate-story__body" markdown>
 
-## Pełne zdanie
+Na początku Marta <span class="predicate-part-linker">była</span> jeszcze <span class="predicate-part-predicative">niepewna</span> swojej nowej roli. Po kilku miesiącach <span class="predicate-part-linker">stała się</span> najbardziej samodzielną <span class="predicate-part-predicative">badaczką</span> w zespole. Jej raport <span class="predicate-part-linker">okazał się</span> wyjątkowo <span class="predicate-part-predicative">dokładny</span>, a zaproponowana metoda <span class="predicate-part-linker">pozostała</span> <span class="predicate-part-predicative">podstawą</span> dalszych prac.
 
-> Po zakończeniu projektu młoda badaczka <span class="predicate-part-linker">została</span> najbardziej doświadczoną <span class="predicate-part-predicative">członkinią</span> całego zespołu.
+  </div>
+</div>
 
-Orzeczenie to **została członkinią**. Pozostałe wyrazy pełnią inne funkcje składniowe.
+<div class="predicate-reading__commentary" markdown>
+<strong>Co pokazuje tekst?</strong>
+
+Łączniki **była**, **stała się**, **okazał się** i **pozostała** wskazują czas oraz sposób przypisania informacji. Orzeczniki **niepewna**, **badaczką**, **dokładny** i **podstawą** podają właściwą treść. Wyrazy **jeszcze**, **najbardziej samodzielną** i **wyjątkowo** rozwijają tę treść, dlatego nie należą do właściwych orzeczników zaznaczonych ramką.
+</div>
 
 <div class="predicate-summary">
-<h3>Łącznik i orzecznik — bez dodatków</h3>
+<h3>Jak rozpoznać orzeczenie imienne?</h3>
 <ul>
-  <li>Ramka obejmuje łącznik i właściwy orzecznik.</li>
-  <li>Określenia pozostają poza ramką.</li>
-  <li>Rozdzielone składniki zaznaczamy osobno.</li>
+  <li>Sprawdź, czy pełna informacja wymaga dwóch współpracujących części.</li>
+  <li>Ustal, która część łączy podmiot z informacją i pokazuje czas lub formę gramatyczną — to łącznik.</li>
+  <li>Ustal, która część nazywa cechę, stan, rolę, zawód lub tożsamość — to orzecznik.</li>
+  <li>Nie włączaj do ramek wyrazów, które tylko określają stopień albo rozwijają nazwę.</li>
+  <li>Sprawdź znaczenie czasowników <em>być</em> i <em>zostać</em>; nie w każdym zdaniu pełnią funkcję łącznika.</li>
 </ul>
 </div>
 
