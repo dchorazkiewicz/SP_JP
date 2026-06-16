@@ -1,219 +1,115 @@
-# Fakt, możliwość i wpływanie na odbiorcę
+# Tryby czasownika
 
 <div class="verb-lesson" markdown>
 
+## Ta sama czynność przedstawiona na trzy sposoby
+
+> Kuba <span class="verb-form">zamyka</span> okno.  
+> Kuba <span class="verb-form">zamknąłby</span> okno, gdyby było zimno.  
+> Kuba, <span class="verb-form">zamknij</span> okno.
+
+W pierwszym zdaniu mówiący przekazuje informację. W drugim rozważa możliwość zależną od warunku. W trzecim próbuje wpłynąć na zachowanie odbiorcy.
+
+Sposób, w jaki forma czasownika przedstawia czynność wobec rzeczywistości i intencji mówiącego, nazywamy **trybem**.
+
 <div class="lead-box" markdown>
 
-Tryb czasownika pokazuje, **jak osoba mówiąca przedstawia czynność lub stan**. Może mówić o czymś jak o fakcie, rozważać możliwość albo próbować skłonić kogoś do działania. Ta sama sytuacja może więc zostać ujęta na kilka sposobów.
+Najpierw ustalamy, co robi osoba mówiąca: informuje, rozważa możliwość czy wpływa na odbiorcę. Dopiero potem nazywamy tryb.
 
 </div>
 
-## Burza w schronisku
+## Tryb oznajmujący: informacja i pytanie o rzeczywistość
 
-<div class="verb-story" markdown>
-  <div class="verb-story__title">Jedna sytuacja, trzy sposoby mówienia</div>
-  <div class="verb-story__body" markdown>
+> Marta <span class="verb-form">czyta</span> instrukcję.  
+> Wczoraj Marta <span class="verb-form">przeczytała</span> instrukcję.  
+> Jutro Marta <span class="verb-form">będzie czytać</span> instrukcję.
 
-Klasa spędzała weekend w górskim schronisku. Wieczorem nad doliną pojawiły się ciężkie chmury.
+Formy przedstawiają czynność jako informację odnoszoną do przeszłości, teraźniejszości albo przyszłości. Nazywamy je formami **trybu oznajmującego**.
 
-Kuba spojrzał przez okno:
+Tryb oznajmujący może wystąpić również w pytaniu:
 
-> Burza <span class="verb-form">nadciąga</span>.
+> Czy Marta <span class="verb-form">przeczytała</span> instrukcję?  
+> Kiedy pociąg <span class="verb-form">odjedzie</span>?
 
-Opisał to, co widział.
+Pytajnik zmienia cel całej wypowiedzi, ale nie tworzy osobnego trybu czasownika.
 
-Maja zauważyła otwarte okno:
-
-> Gdyby zaczęło mocniej padać, deszcz <span class="verb-form">wpadłby</span> do środka.
-
-Nie twierdziła, że deszcz już wpada. Przedstawiła możliwą sytuację.
-
-Pani Marta powiedziała:
-
-> Kuba, <span class="verb-form">zamknij</span> okno, proszę.
-
-Nie opisywała wydarzenia. Zwróciła się do Kuby i poprosiła go o działanie.
-
-Te trzy formy pokazują trzy tryby:
-
-> burza <span class="verb-form">nadciąga</span> — tryb oznajmujący;  
-> deszcz <span class="verb-form">wpadłby</span> — tryb przypuszczający;  
-> <span class="verb-form">zamknij</span> okno — tryb rozkazujący.
-
-  </div>
-</div>
-
-## Tryb oznajmujący
-
-Tryb oznajmujący przedstawia czynność, stan lub zdarzenie jako informację o rzeczywistości albo jako przedmiot pytania.
-
-> Burza <span class="verb-form">nadciąga</span>.  
-> Wczoraj deszcz <span class="verb-form">zalał</span> ścieżkę.  
-> Jutro pogoda <span class="verb-form">poprawi się</span>.
-
-Może występować w różnych czasach.
-
-Tryb oznajmujący nie gwarantuje prawdziwości wypowiedzi. Ktoś może się pomylić albo skłamać:
-
-> Klucz <span class="verb-form">leży</span> na stole.
-
-Nawet jeśli klucza tam nie ma, forma pozostaje oznajmująca. Tryb pokazuje sposób przedstawienia treści, a nie jej zgodność z rzeczywistością.
-
-### Pytanie również może mieć tryb oznajmujący
-
-> Czy burza <span class="verb-form">minęła</span>?  
-> Gdzie Kuba <span class="verb-form">położył</span> latarkę?  
-> Kiedy <span class="verb-form">wrócimy</span> na szlak?
-
-Pytamy o fakt, dlatego czasowniki pozostają w trybie oznajmującym.
-
-### Przeczenie nie zmienia trybu
-
-> Burza <span class="verb-form">nadciąga</span>.  
-> Burza nie <span class="verb-form">nadciąga</span>.
-
-Treść się zmieniła, lecz oba czasowniki są w trybie oznajmującym.
-
-<div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Tryb oznajmujący</div>
-  <p>Przedstawia czynność, stan lub zdarzenie jako informację albo jako przedmiot pytania o rzeczywistość.</p>
-  <p class="verb-checkpoint__term">Przykłady: <strong>pada, padało, będzie padać, czy pada?</strong></p>
-</div>
-
-## Tryb przypuszczający
-
-Tryb przypuszczający pozwala mówić o tym, co możliwe, wyobrażone, pożądane albo zależne od warunku.
-
-### Możliwość
-
-> Maja <span class="verb-form">pomogłaby</span> Kubie.  
-> Przy dobrej pogodzie <span class="verb-form">dotarlibyśmy</span> na szczyt przed południem.
-
-Mówiący nie przedstawia tych czynności jako pewnych faktów.
-
-### Warunek
-
-> Gdybym miał mapę, szybciej <span class="verb-form">znalazłbym</span> drogę.  
-> Gdyby wiatr ucichł, przewodnik <span class="verb-form">otworzyłby</span> szlak.
-
-Jedno wydarzenie zależy od drugiego.
-
-### Życzenie lub marzenie
-
-> Chciałbym zobaczyć Tatry zimą.  
-> Pojechałabym kiedyś nad morze.
-
-### Uprzejma prośba
-
-> Czy <span class="verb-form">podałbyś</span> mi latarkę?  
-> Czy <span class="verb-form">mogłaby</span> pani powtórzyć wskazówkę?
-
-Tryb przypuszczający może łagodzić wypowiedź. Prośba **Podałbyś mi latarkę?** brzmi zwykle delikatniej niż bezpośrednie **Podaj mi latarkę**.
-
-## Jak powstają formy trybu przypuszczającego?
-
-Formy zawierają cząstki:
-
-> **bym, byś, by, byśmy, byście, by**
+## Tryb przypuszczający: możliwość, warunek i życzenie
 
 Porównaj:
 
-> zrobiłbym — ja, rodzaj męski;  
-> zrobiłabym — ja, rodzaj żeński;  
-> zrobiłbyś — ty, rodzaj męski;  
-> zrobiłabyś — ty, rodzaj żeński;  
-> zrobiłby / zrobiłaby / zrobiłoby — on / ona / ono;  
-> zrobilibyśmy / zrobiłybyśmy — my;  
-> zrobilibyście / zrobiłybyście — wy;  
-> zrobiliby / zrobiłyby — oni / one.
+> Marta <span class="verb-form">wróci</span> wcześniej.  
+> Marta <span class="verb-form">wróciłaby</span> wcześniej, gdyby skończyła pracę.
 
-Forma pokazuje możliwość, ale także osobę, liczbę i często rodzaj.
+Pierwsze zdanie przedstawia przyszłe zdarzenie. Drugie pokazuje możliwość zależną od warunku. Formę **wróciłaby** nazywamy trybem **przypuszczającym**.
 
-### Miejsce cząstki „by”
+Tryb przypuszczający może wyrażać:
 
-> Przeczytałbym tę książkę.  
-> Ja bym przeczytał tę książkę.  
-> Chętnie bym przeczytał tę książkę.  
-> Tę książkę bym przeczytał, ale tamtej nie.
+### Możliwość zależną od warunku
 
-Podstawowe znaczenie pozostaje podobne, lecz inne miejsce cząstki pozwala podkreślić inny fragment wypowiedzi.
+> Gdyby nie padało, <span class="verb-form">poszlibyśmy</span> na spacer.  
+> Marta <span class="verb-form">pomogłaby</span>, gdyby miała czas.
 
-Gdy cząstka stoi bezpośrednio przy formie czasownika, piszemy ją łącznie:
+### Życzenie
+
+> Chętnie <span class="verb-form">pojechałbym</span> nad morze.  
+> Oby wszystko dobrze się <span class="verb-form">skończyło</span>.
+
+### Uprzejmą prośbę albo sugestię
+
+> Czy <span class="verb-form">mógłbyś</span> zamknąć okno?  
+> <span class="verb-form">Prosiłbym</span> o chwilę ciszy.
+
+### Ostrożną ocenę
+
+> To <span class="verb-form">mogłoby</span> rozwiązać problem.  
+> Takie wyjaśnienie <span class="verb-form">byłoby</span> dokładniejsze.
+
+## Cząstki „bym, byś, by...”
+
+> zrobiłbym; zrobiłbyś; zrobiłby; zrobilibyśmy; zrobilibyście; zrobiliby.
+
+Cząstki **bym, byś, by, byśmy, byście** pomagają rozpoznać tryb przypuszczający. Mogą występować przy czasowniku albo po innym wyrazie:
+
+> Zrobiłbym to jutro.  
+> Ja bym to zrobił jutro.  
+> Chętnie bym to zrobił.
+
+W każdym zdaniu chodzi o tę samą możliwość, ale szyk zmienia nacisk informacji.
+
+Cząstki zapisujemy łącznie z osobową formą czasownika:
 
 > zrobiłbym, poszłabyś, przeczytalibyśmy.
 
-Gdy łączy się z innym wyrazem, zapisujemy ją oddzielnie:
+Oddzielnie zapisujemy je po innych wyrazach:
 
-> ja bym zrobił;  
-> chętnie byś poszła;  
-> może byśmy zostali.
+> ja bym zrobił; może by przyszła; gdybyśmy wiedzieli.
 
-W wyrazach **gdybym**, **gdybyś**, **żebyśmy** cząstkę zapisujemy łącznie z poprzedzającym wyrazem:
+## Tryb rozkazujący: wpływanie na zachowanie odbiorcy
 
-> Gdybym wiedział, powiedziałbym.  
-> Chcę, żebyście zostali.
-
-## Czy tryb przypuszczający ma czas?
-
-Forma **poszedłbym** może odnosić się do różnych momentów:
-
-> Jutro poszedłbym z wami, ale mam wizytę.  
-> Wczoraj poszedłbym z wami, gdybym wcześniej znał plan.
-
-Sama forma wygląda tak samo. Informację o czasie przekazuje kontekst.
-
-Najważniejsze w trybie przypuszczającym nie jest więc proste wskazanie przeszłości, teraźniejszości lub przyszłości, lecz przedstawienie czynności jako możliwej, wyobrażonej albo zależnej od warunku.
-
-<div class="verb-checkpoint">
-  <div class="verb-checkpoint__title">Tryb przypuszczający</div>
-  <ul>
-    <li>wyraża możliwość, warunek, życzenie albo uprzejmą prośbę;</li>
-    <li>zawiera cząstki <strong>bym, byś, by, byśmy, byście</strong>;</li>
-    <li>często pokazuje osobę, liczbę i rodzaj;</li>
-    <li>jego odniesienie do czasu wynika często z kontekstu.</li>
-  </ul>
-</div>
-
-## Tryb rozkazujący
-
-Nazwa **tryb rozkazujący** jest węższa niż jego rzeczywiste zastosowanie. Form tych używamy nie tylko do rozkazów, ale również do próśb, rad, zachęt, ostrzeżeń i instrukcji.
-
-### Rozkaz
-
-> <span class="verb-form">Zatrzymaj się</span> natychmiast.  
-> <span class="verb-form">Opuśćcie</span> salę.
-
-### Prośba
-
-> <span class="verb-form">Podaj</span> mi plecak, proszę.  
-> <span class="verb-form">Poczekaj</span> na mnie chwilę.
-
-### Rada
-
-> <span class="verb-form">Załóż</span> cieplejszą kurtkę.  
-> <span class="verb-form">Sprawdź</span> prognozę przed wyjściem.
-
-### Ostrzeżenie
-
-> Nie <span class="verb-form">dotykaj</span> mokrych przewodów.  
-> <span class="verb-form">Uważaj</span> na śliskie kamienie.
-
-### Zachęta do wspólnego działania
-
-> <span class="verb-form">Chodźmy</span> dalej.  
+> <span class="verb-form">Zamknij</span> okno.  
+> <span class="verb-form">Poczekajcie</span> przy wejściu.  
 > <span class="verb-form">Sprawdźmy</span> mapę.
 
-Forma pierwszej osoby liczby mnogiej obejmuje mówiącego. Oznacza: „zróbmy to razem”.
+Formy służą wpływaniu na działanie odbiorcy albo zachęcaniu do wspólnej czynności. Nazywamy je formami **trybu rozkazującego**.
 
-## Podstawowe formy trybu rozkazującego
+Nazwa „rozkazujący” nie oznacza, że każda taka forma jest ostrym rozkazem. Może wyrażać:
+
+- polecenie: **Otwórz podręcznik**;
+- prośbę: **Podaj mi plecak, proszę**;
+- radę: **Załóż cieplejszą kurtkę**;
+- ostrzeżenie: **Uważaj na schody**;
+- zachętę: **Chodźmy dalej**;
+- instrukcję: **Naciśnij przycisk i poczekaj**.
+
+## Podstawowe formy rozkazujące
 
 <div class="verb-series">
-  <div class="verb-row"><span class="verb-badge">ty</span><p><span class="verb-form">czytaj</span>, <span class="verb-form">zrób</span>, <span class="verb-form">weź</span>, <span class="verb-form">usiądź</span></p><span class="verb-note">2. osoba liczby pojedynczej</span></div>
-  <div class="verb-row"><span class="verb-badge">my</span><p><span class="verb-form">czytajmy</span>, <span class="verb-form">zróbmy</span>, <span class="verb-form">weźmy</span>, <span class="verb-form">usiądźmy</span></p><span class="verb-note">1. osoba liczby mnogiej</span></div>
-  <div class="verb-row"><span class="verb-badge">wy</span><p><span class="verb-form">czytajcie</span>, <span class="verb-form">zróbcie</span>, <span class="verb-form">weźcie</span>, <span class="verb-form">usiądźcie</span></p><span class="verb-note">2. osoba liczby mnogiej</span></div>
+  <div class="verb-row"><span class="verb-badge">ty</span><p><span class="verb-form">czytaj</span>, <span class="verb-form">zrób</span>, <span class="verb-form">weź</span>, <span class="verb-form">usiądź</span></p><span class="verb-note">jedna osoba — odbiorca</span></div>
+  <div class="verb-row"><span class="verb-badge">my</span><p><span class="verb-form">czytajmy</span>, <span class="verb-form">zróbmy</span>, <span class="verb-form">weźmy</span>, <span class="verb-form">usiądźmy</span></p><span class="verb-note">mówiący wraz z innymi</span></div>
+  <div class="verb-row"><span class="verb-badge">wy</span><p><span class="verb-form">czytajcie</span>, <span class="verb-form">zróbcie</span>, <span class="verb-form">weźcie</span>, <span class="verb-form">usiądźcie</span></p><span class="verb-note">kilku odbiorców</span></div>
 </div>
 
-Niektóre formy są nieregularne:
+Niektóre formy trzeba zapamiętać:
 
 > iść — idź — idźmy — idźcie;  
 > wziąć — weź — weźmy — weźcie;  
@@ -227,89 +123,66 @@ Gdy nie zwracamy się bezpośrednio do wykonawcy, często używamy słowa **niec
 > Niech Maja <span class="verb-form">włączy</span> latarkę.  
 > Niech uczniowie <span class="verb-form">usiądą</span> przy stole.
 
-Konstrukcja może wyrażać polecenie, życzenie lub zgodę:
+Konstrukcja może wyrażać polecenie, życzenie albo zgodę:
 
-> Niech każdy zabierze plecak. — polecenie.  
-> Niech zwycięży najlepszy. — życzenie.  
+> Niech każdy zabierze plecak. — polecenie;  
+> Niech zwycięży najlepszy. — życzenie;  
 > Niech pada. — zgoda lub obojętność.
 
-Znaczenie zależy od sytuacji.
+Znaczenie wynika z sytuacji.
 
-## Zakaz i aspekt
+## Zakaz i sposób przedstawienia czynności
 
 > Nie <span class="verb-form">otwieraj</span> okna podczas burzy.  
 > Nie <span class="verb-form">otwórz</span> przez pomyłkę drzwi na taras.
 
-**Nie otwieraj** wyraża zwykle ogólny zakaz albo zakaz podejmowania czynności. **Nie otwórz** ostrzega przed jednym konkretnym skutkiem.
+Pierwsza forma zwykle zakazuje podejmowania lub kontynuowania czynności. Druga ostrzega przed jednym konkretnym skutkiem. Różnica wiąże się z aspektem czasownika, czyli sposobem ujmowania przebiegu i granicy czynności.
 
-Różnica wynika z aspektu czasownika.
+## Tryb nie jest tym samym co rodzaj zdania
 
-## Ta sama treść w trzech trybach
+> Pada deszcz. — zdanie oznajmujące, tryb oznajmujący;  
+> Czy pada deszcz? — zdanie pytające, tryb oznajmujący;  
+> Jak mocno pada! — zdanie wykrzyknikowe, tryb oznajmujący;  
+> Czy podałbyś mi płaszcz? — zdanie pytające, tryb przypuszczający;  
+> Zamknij okno, proszę. — prośba, tryb rozkazujący.
 
-### Otwieranie drzwi
+Tryb dotyczy formy czasownika i sposobu przedstawienia czynności. Rodzaj zdania dotyczy celu całej wypowiedzi.
 
-> Kuba <span class="verb-form">otwiera</span> drzwi. — oznajmujący.  
-> Kuba <span class="verb-form">otworzyłby</span> drzwi, gdyby miał klucz. — przypuszczający.  
-> Kuba, <span class="verb-form">otwórz</span> drzwi. — rozkazujący.
+## Forma i ton wypowiedzi
 
-### Czytanie instrukcji
-
-> Maja <span class="verb-form">czyta</span> instrukcję. — informacja.  
-> Maja <span class="verb-form">przeczytałaby</span> instrukcję, gdyby miała czas. — możliwość.  
-> Maju, <span class="verb-form">przeczytaj</span> instrukcję. — polecenie lub prośba.
-
-Zmiana trybu nie musi zmieniać głównego znaczenia czasownika. Zmienia sposób, w jaki mówiący odnosi się do czynności.
-
-## Tryb a ton wypowiedzi
-
-> Zamknij drzwi.
-
-To samo zdanie może zabrzmieć jak spokojna prośba, zwykłe polecenie albo ostry rozkaz. Zależy od intonacji, sytuacji i relacji między rozmówcami.
-
+> Zamknij drzwi.  
 > Zamknij drzwi, proszę.  
 > Zamknij drzwi, bo jest zimno.  
 > Zamknij drzwi natychmiast!
 
-Forma **zamknij** pozostaje rozkazująca, ale pozostałe wyrazy zmieniają ton wypowiedzi.
-
-## Tryb a rodzaj zdania
-
-Nie należy utożsamiać trybu z kropką, pytajnikiem lub wykrzyknikiem.
-
-> Pada deszcz. — zdanie oznajmujące, tryb oznajmujący.  
-> Czy pada deszcz? — zdanie pytające, tryb oznajmujący.  
-> Jak mocno pada! — zdanie wykrzyknikowe, tryb oznajmujący.  
-> Czy podałbyś mi płaszcz? — zdanie pytające, tryb przypuszczający.  
-> Zamknij okno, proszę. — spokojna prośba, tryb rozkazujący.
-
-Tryb dotyczy formy czasownika i sposobu przedstawienia czynności. Rodzaj zdania dotyczy celu całej wypowiedzi.
+Forma czasownika pozostaje rozkazująca, ale pozostałe wyrazy, intonacja i sytuacja zmieniają ton od spokojnej prośby do ostrego polecenia.
 
 ## Jak rozpoznawać tryb w tekście?
 
-Najpierw warto ustalić, co robi osoba mówiąca:
-
-- informuje lub pyta o fakt;
-- rozważa możliwość, warunek albo życzenie;
-- prosi, radzi, ostrzega, zachęca albo poleca.
-
-Dopiero potem nazywamy tryb.
+<div class="verb-step-list">
+  <div class="verb-step"><strong>Znajdź formę czasownika.</strong></div>
+  <div class="verb-step"><strong>Ustal, co robi mówiący.</strong> Informuje, rozważa możliwość czy wpływa na odbiorcę?</div>
+  <div class="verb-step"><strong>Sprawdź cząstki „bym, byś, by...”.</strong></div>
+  <div class="verb-step"><strong>Przy poleceniu sprawdź formę rozkazującą albo konstrukcję z „niech”.</strong></div>
+  <div class="verb-step"><strong>Nie rozstrzygaj na podstawie znaku interpunkcyjnego.</strong></div>
+  <div class="verb-step"><strong>Dopiero potem nazwij tryb.</strong></div>
+</div>
 
 > Przewodnik powiedział, że burza zbliża się do doliny. Gdyby wiatr osłabł, grupa mogłaby wrócić na szlak. „Zostańcie jednak w schronisku” — dodał.
 
-**Zbliża się** należy do trybu oznajmującego. **Mogłaby wrócić** — do przypuszczającego. **Zostańcie** — do rozkazującego.
+**Zbliża się** przekazuje informację. **Mogłaby wrócić** przedstawia możliwość zależną od warunku. **Zostańcie** wpływa na zachowanie odbiorców. Dopiero po tej obserwacji nazywamy formy odpowiednio oznajmującą, przypuszczającą i rozkazującą.
 
 <div class="verb-mini-summary">
 <h3>Podsumowanie</h3>
 <ul>
   <li>Tryb oznajmujący przedstawia czynność jako informację albo przedmiot pytania o rzeczywistość.</li>
   <li>Tryb przypuszczający wyraża możliwość, warunek, życzenie lub uprzejmą prośbę.</li>
-  <li>Tryb rozkazujący służy rozkazom, prośbom, radom, zachętom, ostrzeżeniom i instrukcjom.</li>
+  <li>Tryb rozkazujący służy poleceniom, prośbom, radom, zachętom, ostrzeżeniom i instrukcjom.</li>
   <li>Cząstki <strong>bym, byś, by, byśmy, byście</strong> pomagają rozpoznać tryb przypuszczający.</li>
-  <li>Podstawowe formy rozkazujące dotyczą <strong>ty</strong>, <strong>my</strong> i <strong>wy</strong>; przy trzeciej osobie często używamy słowa <strong>niech</strong>.</li>
   <li>Pytajnik, wykrzyknik i przeczenie nie wyznaczają trybu automatycznie.</li>
 </ul>
 </div>
 
-[Przejdź dalej: różne sposoby przedstawiania czynności](../strony-i-formy-nieosobowe/){ .md-button .md-button--primary }
+[Przejdź dalej: strona czynna i bierna](../strona-czynna-i-bierna/){ .md-button .md-button--primary }
 
 </div>
