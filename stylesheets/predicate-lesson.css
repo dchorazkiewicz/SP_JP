@@ -11,10 +11,8 @@
   --pred-nominal-line:#9a72bd;
   --pred-compound-bg:#fff2d6;
   --pred-compound-line:#c79735;
-  --pred-impersonal-bg:#eaf7ee;
-  --pred-impersonal-line:#69a87a;
-  --pred-negation-bg:#ffe9e9;
-  --pred-negation-line:#c86f6f;
+  --pred-infinitive-bg:#eaf7ee;
+  --pred-infinitive-line:#69a87a;
 }
 
 [data-md-color-scheme="slate"] .predicate-lesson {
@@ -28,10 +26,8 @@
   --pred-nominal-line:#b394cf;
   --pred-compound-bg:#4a391a;
   --pred-compound-line:#ddb35b;
-  --pred-impersonal-bg:#203d2a;
-  --pred-impersonal-line:#8ac79a;
-  --pred-negation-bg:#4c2929;
-  --pred-negation-line:#df9393;
+  --pred-infinitive-bg:#203d2a;
+  --pred-infinitive-line:#8ac79a;
 }
 
 .predicate-lead {
@@ -103,7 +99,6 @@
 .predicate-type-card--verbal { border:1px solid var(--pred-verbal-line); border-bottom:5px solid var(--pred-verbal-line); border-radius:.2rem; }
 .predicate-type-card--nominal { border:2px solid var(--pred-nominal-line); border-radius:1.25rem; }
 .predicate-type-card--compound { border:2px dashed var(--pred-compound-line); border-radius:.65rem; }
-.predicate-type-card--impersonal { border:2px dotted var(--pred-impersonal-line); border-radius:.65rem; }
 
 .predicate-series {
   border:1px solid var(--pred-border);
@@ -154,8 +149,6 @@
 .predicate-mark--verbal { background:var(--pred-verbal-bg); border:1px solid var(--pred-verbal-line); border-radius:.18rem; border-bottom-width:4px; }
 .predicate-mark--nominal { background:var(--pred-nominal-bg); border:2px solid var(--pred-nominal-line); border-radius:999px; padding:.05rem .38rem; }
 .predicate-mark--compound { background:var(--pred-compound-bg); border:2px dashed var(--pred-compound-line); border-radius:.45rem; }
-.predicate-mark--impersonal { background:var(--pred-impersonal-bg); border:2px dotted var(--pred-impersonal-line); border-radius:.45rem; }
-.predicate-mark--negation { background:var(--pred-negation-bg); border:1px solid var(--pred-negation-line); border-radius:.35rem; }
 
 .predicate-part-linker,
 .predicate-part-predicative,
@@ -169,7 +162,7 @@
 .predicate-part-linker { background:var(--pred-verbal-bg); border-bottom:3px solid var(--pred-verbal-line); }
 .predicate-part-predicative { background:var(--pred-nominal-bg); border-radius:999px; outline:1px solid var(--pred-nominal-line); }
 .predicate-part-modal { background:var(--pred-compound-bg); border:2px dashed var(--pred-compound-line); border-radius:.4rem; }
-.predicate-part-infinitive { background:var(--pred-impersonal-bg); border-bottom:3px dotted var(--pred-impersonal-line); }
+.predicate-part-infinitive { background:var(--pred-infinitive-bg); border-bottom:3px dotted var(--pred-infinitive-line); }
 
 .predicate-comparison {
   border:1px solid var(--pred-border);
@@ -258,4 +251,6 @@
 
 @media (max-width:700px) {
   .predicate-reading-text { padding:.85rem; }
+  .predicate-topic-grid,
+  .predicate-type-grid { grid-template-columns:1fr; }
 }
