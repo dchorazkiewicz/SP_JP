@@ -108,7 +108,7 @@ W odpowiedzi nie powtarzamy wyrazu **raport**, ponieważ odbiorca odtwarza go z 
   </div>
   <div class="object-reading-text" markdown>
 
-Kierowniczka <span class="object-predicate">otworzyła</span> <span class="object-mark object-mark--basic">pilną <strong>wiadomość</strong> od laboratorium</span>. Następnie <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--basic"><strong>zespołowi</strong></span> <span class="object-mark object-mark--basic">nowy <strong>harmonogram</strong> badań</span>. Jeden z techników <span class="object-predicate">zapytał</span> <span class="object-mark object-mark--basic"><strong>kierowniczkę</strong></span> o termin kontroli. Po rozmowie wszyscy <span class="object-predicate">rozpoczęli</span> <span class="object-mark object-mark--basic"><strong>przygotowania</strong></span>.
+Kierowniczka <span class="object-predicate">otworzyła</span> <span class="object-mark object-mark--basic">pilną <strong>wiadomość</strong> od laboratorium</span>. Następnie <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--basic"><strong>zespołowi</strong></span> <span class="object-mark object-mark--basic">nowy <strong>harmonogram</strong> badań</span>. Jeden z techników <span class="object-predicate">zapytał</span> <span class="object-mark object-mark--basic"><strong>kierowniczkę</strong></span> <span class="object-mark object-mark--basic">o <strong>termin</strong> kontroli</span>. Po rozmowie wszyscy <span class="object-predicate">rozpoczęli</span> <span class="object-mark object-mark--basic"><strong>przygotowania</strong></span>.
 
   </div>
 </div>
