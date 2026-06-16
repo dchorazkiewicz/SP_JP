@@ -4,7 +4,7 @@
 
 <div class="lesson-lead" markdown>
 
-Wykrzyknik pozwala mówiącemu **zareagować natychmiast**: okazać radość, ból, zaskoczenie, ulgę lub niechęć, przywołać kogoś, zatrzymać działanie albo naśladować dźwięk. Często tworzy samodzielną wypowiedź, choć nie zawiera czasownika i nie opisuje sytuacji pełnym zdaniem.
+Wykrzyknik pozwala mówiącemu **zareagować natychmiast**: okazać radość, ból, zaskoczenie, ulgę lub niechęć, przywołać kogoś, zatrzymać działanie albo naśladować dźwięk. Często tworzy samodzielną wypowiedź, choć nie opisuje sytuacji pełnym zdaniem.
 
 </div>
 
@@ -39,7 +39,7 @@ Porównaj:
 > Marta <span class="interjection-anchor">przestraszyła się</span> hałasu.  
 > — <span class="interjection-focus">Ojej!</span> — zawołała Marta.
 
-W pierwszym zdaniu narrator **nazywa emocję** za pomocą czasownika. W drugim czytelnik otrzymuje bezpośrednią reakcję bohaterki. Wykrzyknik nie informuje dokładnie, dlaczego ktoś się przestraszył ani jak długo trwała emocja. Przenosi natomiast do wypowiedzi jej nagłość, ton i siłę.
+W pierwszym zdaniu narrator nazywa emocję za pomocą czasownika. W drugim czytelnik otrzymuje bezpośrednią reakcję bohaterki. Wykrzyknik nie informuje dokładnie, dlaczego ktoś się przestraszył ani jak długo trwała emocja. Przekazuje natomiast jej nagłość, ton i siłę.
 
 Podobnie:
 
@@ -48,35 +48,40 @@ Podobnie:
 
 Zdanie opisowe jest dokładniejsze, ale wykrzyknik brzmi bardziej bezpośrednio.
 
-## Samodzielna wypowiedź bez orzeczenia
+## Samodzielna wypowiedź bez pełnego zdania
 
 > <span class="interjection-emotion">Hurra!</span>  
 > <span class="interjection-focus">Au!</span>  
 > <span class="interjection-call">Halo!</span>  
 > <span class="interjection-sound">Puk, puk!</span>
 
-Takie wypowiedzi mogą być kompletne komunikacyjnie mimo braku orzeczenia. Odbiorca rozpoznaje ich funkcję dzięki sytuacji, intonacji i utrwalonemu znaczeniu.
+Takie formy mogą być kompletnymi komunikatami w konkretnej sytuacji. Nie zawierają jednak zwykłej informacji zbudowanej wokół czasownika, takiej jak:
 
-Nie oznacza to jednak, że wykrzyknik jest zdaniem w zwykłym sensie składniowym. Najczęściej nie da się w nim wskazać podmiotu i orzeczenia. Jest natomiast samodzielnym **aktem reakcji, wezwania lub naśladowania dźwięku**.
+> Marta wróciła.  
+> Drzwi się otworzyły.
+
+Czasownik przekazujący główną informację o zdarzeniu nazywamy w składni **orzeczeniem**. Wykrzykniki **hurra, au, halo, puk** nie mają takiego elementu, ale odbiorca rozumie ich funkcję dzięki sytuacji i utrwalonemu znaczeniu.
+
+Samodzielność komunikacyjna nie oznacza więc automatycznie pełnej budowy zdaniowej.
 
 ## Znak wykrzyknienia nie tworzy wykrzyknika
 
-> <span class="interjection-focus">Ratunku!</span> — wykrzyknik lub samodzielne wezwanie.  
-> Zamknij drzwi! — zdanie rozkazujące z czasownikiem.  
-> To naprawdę wspaniała wiadomość! — zdanie oznajmujące wypowiedziane z silną emocją.
+> <span class="interjection-focus">Ratunku!</span> — wykrzyknik lub samodzielne wezwanie;  
+> Zamknij drzwi! — zdanie z czasownikiem;  
+> To naprawdę wspaniała wiadomość! — pełne zdanie wypowiedziane z silną emocją.
 
-Znak **!** informuje o ekspresji lub stanowczości całej wypowiedzi, ale nie rozstrzyga o części mowy. Wykrzyknik rozpoznajemy po funkcji samego wyrazu, a nie po znaku interpunkcyjnym stojącym na końcu.
+Znak **!** informuje o ekspresji lub stanowczości całej wypowiedzi, ale nie rozstrzyga o części mowy. Wykrzyknik rozpoznajemy po funkcji samego wyrazu.
 
 <div class="interjection-checkpoint">
   <div class="interjection-checkpoint__title">Wykrzyknik i zdanie wykrzyknikowe to nie to samo</div>
   <p><strong>Ach!</strong> jest wykrzyknikiem. Zdanie <em>Jak tu pięknie!</em> nie zawiera wykrzyknika, choć kończy się znakiem wykrzyknienia i wyraża silne emocje.</p>
 </div>
 
-## To samo brzmienie może znaczyć coś innego
+## To samo brzmienie może oznaczać różne reakcje
 
-> <span class="interjection-focus">Och!</span> Jak tu pięknie. — zachwyt  
-> <span class="interjection-focus">Och…</span> Znowu muszę wszystko poprawiać. — znużenie  
-> <span class="interjection-focus">Och!</span> Dobrze, że jesteś. — ulga lub radość
+> <span class="interjection-focus">Och!</span> Jak tu pięknie. — zachwyt;  
+> <span class="interjection-focus">Och…</span> Znowu muszę wszystko poprawiać. — znużenie;  
+> <span class="interjection-focus">Och!</span> Dobrze, że jesteś. — ulga lub radość.
 
 Sam zapis **och** nie wskazuje jednej emocji. Znaczenie tworzą wspólnie:
 
@@ -88,28 +93,40 @@ Sam zapis **och** nie wskazuje jednej emocji. Znaczenie tworzą wspólnie:
 
 W tekście pisanym część informacji przekazywanej głosem trzeba odtworzyć za pomocą kontekstu i znaków interpunkcyjnych.
 
-## Nie wszystkie formuły kontaktu są tą samą częścią mowy
+## Nie wszystkie samodzielne formuły są wykrzyknikami
 
 > <span class="interjection-call">Hej!</span> Zaczekaj.  
 > <span class="interjection-formula">Dzień dobry!</span> Przyszedłem na spotkanie.  
 > <span class="interjection-formula">Dziękuję!</span> Bardzo mi pomogłeś.
 
-Wszystkie trzy wypowiedzi mogą działać samodzielnie, ale ich budowa jest różna. **Hej** jest typowym wykrzyknikiem przywołującym. **Dzień dobry** jest utrwaloną formułą powitania, a **dziękuję** pozostaje formą czasownika, nawet gdy tworzy samodzielną wypowiedź grzecznościową.
+Wszystkie trzy wypowiedzi mogą działać samodzielnie, ale ich budowa jest różna:
 
-Samodzielność komunikacyjna nie wystarcza więc do uznania wyrazu za wykrzyknik.
+- **hej** jest typowym wykrzyknikiem przywołującym;
+- **dzień dobry** jest utrwaloną formułą powitania;
+- **dziękuję** pozostaje formą czasownika, nawet gdy tworzy pełną wypowiedź grzecznościową.
 
-## Wykrzyknik, wołacz i rozkaz
+Samodzielność nie wystarcza więc do uznania wyrazu za wykrzyknik.
 
-> <span class="interjection-call">Hej!</span> — wykrzyknik przywołujący  
-> <span class="interjection-anchor">Mario!</span> — rzeczownik w wołaczu  
-> <span class="interjection-anchor">Poczekaj!</span> — czasownik w trybie rozkazującym  
-> <span class="interjection-call">Hej, Mario!</span> Poczekaj! — trzy różne elementy w jednej wypowiedzi
+## Przywołanie, nazwanie odbiorcy i polecenie
 
-Wszystkie mogą służyć zwróceniu uwagi lub wpływaniu na zachowanie odbiorcy. Należą jednak do różnych kategorii gramatycznych. O klasyfikacji decyduje budowa i funkcja konkretnego wyrazu.
+Porównaj:
+
+> <span class="interjection-call">Hej!</span> — sygnał zwracający uwagę;  
+> <span class="interjection-anchor">Mario!</span> — bezpośrednie zwrócenie się do osoby po imieniu;  
+> <span class="interjection-anchor">Poczekaj!</span> — forma czasownika wpływająca na zachowanie odbiorcy;  
+> <span class="interjection-call">Hej, Mario!</span> Poczekaj! — trzy elementy w jednej wypowiedzi.
+
+Dopiero po rozpoznaniu funkcji wprowadzamy nazwy:
+
+- **hej** — wykrzyknik przywołujący;
+- **Mario** — wołacz, czyli forma rzeczownika służąca bezpośredniemu zwrotowi;
+- **poczekaj** — tryb rozkazujący, czyli forma czasownika używana między innymi do poleceń, próśb i rad.
+
+Wszystkie elementy mogą zwracać uwagę albo wpływać na odbiorcę, lecz należą do różnych kategorii gramatycznych.
 
 ## Jak czytać ten dział?
 
-Najpierw uporządkujemy wykrzykniki emocjonalne, przywołujące, nakazujące i dźwiękonaśladowcze oraz zobaczymy, jak kontekst zmienia ich znaczenie. Następnie przyjrzymy się ich samodzielności składniowej, miejscu w wypowiedzi i interpunkcji. Później sprawdzimy, kiedy brzmią naturalnie, a kiedy są zbyt potoczne lub przesadnie ekspresywne. Na końcu przeanalizujemy ich pracę w spójnej opowieści.
+Najpierw uporządkujemy wykrzykniki wyrażające reakcje, przywołujące odbiorcę, wpływające na działanie i naśladujące dźwięki. Następnie przyjrzymy się ich samodzielności, miejscu w wypowiedzi i interpunkcji. Później sprawdzimy, kiedy brzmią naturalnie, a kiedy zbyt potocznie lub przesadnie ekspresywnie. Na końcu przeanalizujemy ich pracę w spójnej opowieści.
 
 <div class="topic-grid">
   <a class="topic-card topic-card--primary" href="rodzaje-i-znaczenie/"><span class="topic-number">01</span><strong>Jakie funkcje pełnią wykrzykniki?</strong><span>Emocje, reakcje, wezwania, nakazy, formuły kontaktu i dźwiękonaśladowanie.</span></a>
@@ -122,11 +139,11 @@ Najpierw uporządkujemy wykrzykniki emocjonalne, przywołujące, nakazujące i d
 <h3>Na początek</h3>
 <ul>
   <li>Wykrzyknik nie opisuje reakcji z dystansu, lecz bezpośrednio ją ujawnia.</li>
-  <li>Może tworzyć samodzielną wypowiedź bez podmiotu i orzeczenia.</li>
+  <li>Może tworzyć samodzielny komunikat bez czasownika przekazującego główną informację.</li>
   <li>Może wyrażać emocję, przywoływać, zatrzymywać działanie albo naśladować dźwięk.</li>
   <li>Znaczenie wielu wykrzykników zależy od intonacji i sytuacji.</li>
   <li>Znak wykrzyknienia nie oznacza automatycznie, że wypowiedź zawiera wykrzyknik.</li>
-  <li>Wykrzyknik trzeba odróżniać od wołacza, rozkazu i utrwalonej formuły grzecznościowej.</li>
+  <li>Wykrzyknik trzeba odróżniać od wołacza, formy rozkazującej i utrwalonej formuły grzecznościowej.</li>
 </ul>
 </div>
 
