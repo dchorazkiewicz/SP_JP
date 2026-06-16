@@ -103,6 +103,7 @@
 ./docs/gramatyka/skladnia/dopelnienie/dopelnienie-a-inne-czesci-zdania.md
 ./docs/gramatyka/skladnia/dopelnienie/dopelnienie-blizsze-i-dalsze.md
 ./docs/gramatyka/skladnia/dopelnienie/forma-i-rekcja.md
+./docs/gramatyka/skladnia/dopelnienie/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/dopelnienie/index.md
 ./docs/gramatyka/skladnia/dopelnienie/lesson-1.md
 ./docs/gramatyka/skladnia/dopelnienie/lesson-2.md
