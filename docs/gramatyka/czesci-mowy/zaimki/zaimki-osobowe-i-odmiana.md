@@ -2,17 +2,24 @@
 
 <div class="pronoun-lesson" markdown>
 
+## Ta sama osoba, różne formy
+
+> <span class="form-focus">Ja</span> przygotuję mapę.  
+> Dzisiaj nie będzie <span class="form-focus">mnie</span> na spotkaniu.  
+> Nauczyciel przekazał <span class="form-focus">mi</span> materiały.  
+> Paweł pracuje ze <span class="form-focus">mną</span>.
+
+Wszystkie wyróżnione formy odnoszą się do osoby mówiącej. Zmieniają się, ponieważ w każdym zdaniu pozostają w innej relacji z czasownikiem albo przyimkiem.
+
+Zmianę **ja — mnie — mi — mną** nazywamy **odmianą przez przypadki**. Przypadek to forma pokazująca związek wyrazu z innymi elementami zdania.
+
 <div class="lesson-lead" markdown>
 
-Zaimki osobowe mają nieregularne formy: **ja — mnie — mi — mną**, **ty — ciebie — ci — tobą**, **on — jego — go — mu — nim**. Ich wybór zależy od przypadku, przyimka, akcentu i tego, czy chcemy kogoś szczególnie podkreślić.
+Zaimki osobowe nie tworzą form przez proste wymienianie jednej końcówki. Postacie <em>ja — mnie — mi — mną</em> i <em>ty — ciebie — ci — tobą</em> różnią się znacznie. Dlatego ich odmianę nazywamy **nieregularną**.
 
 </div>
 
-## „Ja” i „ty” zależą od tego, kto mówi
-
-<div class="pronoun-story" markdown>
-  <div class="pronoun-story__title">Zmiana mówiącego</div>
-  <div class="pronoun-story__body" markdown>
+## „Ja” i „ty” zależą od mówiącego
 
 Maja powiedziała Kubie:
 
@@ -22,92 +29,86 @@ Kuba odpowiedział:
 
 > Dobrze. <span class="form-focus">Ja</span> wezmę latarkę, a <span class="form-focus">ty</span> pamiętaj o mapie.
 
-W pierwszej wypowiedzi **ja** oznacza Maję, a **ty** Kubę. W drugiej **ja** oznacza Kubę, a **ty** Maję. Formy pozostają te same, lecz zmienia się ich odniesienie.
-
-  </div>
-</div>
+W pierwszej wypowiedzi **ja** oznacza Maję, a **ty** Kubę. W drugiej odniesienie się odwraca. Znaczenie wynika z sytuacji rozmowy.
 
 ## Zaimek podmiotowy często można pominąć
 
 > <span class="form-focus">Ja</span> przygotuję mapę.  
 > Przygotuję mapę.
 
-Końcówka czasownika **-ę** wskazuje pierwszą osobę, dlatego zaimek **ja** nie jest konieczny. Używamy go częściej, gdy chcemy podkreślić kontrast:
+Końcówka czasownika wskazuje pierwszą osobę, dlatego **ja** nie jest konieczne. Zaimek zapisujemy częściej przy kontraście:
 
 > <span class="form-focus">Ja</span> przygotuję mapę, a <span class="form-focus">ty</span> sprawdzisz drogę.
 
-Podobnie:
+Podobnie zdanie:
 
 > Maja przyszła wcześniej, ponieważ miała klucz.
 
-brzmi zwykle naturalniej niż:
+brzmi neutralniej niż:
 
 > Maja przyszła wcześniej, ponieważ <span class="form-focus">ona</span> miała klucz.
 
-Zaimek **ona** może być potrzebny, gdy przeciwstawiamy Maję komuś innemu albo usuwamy niejasność.
+Forma **ona** jest potrzebna, gdy przeciwstawiamy Maję komuś innemu albo usuwamy niejasność.
 
-## Odmiana zaimka „ja”
-
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M. ja</span><p><span class="form-focus">Ja</span> przygotuję prezentację.</p><span class="change-note">kto?</span></div>
-  <div class="example-row"><span class="grammar-badge">D. mnie</span><p>Dzisiaj nie będzie <span class="form-focus">mnie</span> na spotkaniu.</p><span class="change-note">kogo?</span></div>
-  <div class="example-row"><span class="grammar-badge">C. mi</span><p>Nauczyciel przekazał <span class="form-focus">mi</span> materiały.</p><span class="change-note">forma krótka</span></div>
-  <div class="example-row"><span class="grammar-badge">C. mnie</span><p>To właśnie <span class="form-focus">mnie</span> przekazano materiały.</p><span class="change-note">forma akcentowana</span></div>
-  <div class="example-row"><span class="grammar-badge">B. mnie</span><p>Dyrektor poprosił <span class="form-focus">mnie</span> o rozmowę.</p><span class="change-note">kogo?</span></div>
-  <div class="example-row"><span class="grammar-badge">N. mną</span><p>Paweł pracuje ze <span class="form-focus">mną</span>.</p><span class="change-note">z kim?</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms. mnie</span><p>Rozmawiano o <span class="form-focus">mnie</span>.</p><span class="change-note">o kim?</span></div>
-</div>
-
-## Odmiana zaimka „ty”
+## Formy zaimka „ja”
 
 <div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M. ty</span><p><span class="form-focus">Ty</span> przedstawisz wnioski.</p><span class="change-note">kto?</span></div>
-  <div class="example-row"><span class="grammar-badge">D./B. cię</span><p>Nie widziałem <span class="form-focus">cię</span> w bibliotece.</p><span class="change-note">forma krótka</span></div>
-  <div class="example-row"><span class="grammar-badge">D./B. ciebie</span><p>Nie widziałem <span class="form-focus">ciebie</span>, lecz twoją siostrę.</p><span class="change-note">forma akcentowana</span></div>
-  <div class="example-row"><span class="grammar-badge">C. ci</span><p>Przekażę <span class="form-focus">ci</span> wiadomość.</p><span class="change-note">forma krótka</span></div>
-  <div class="example-row"><span class="grammar-badge">C. tobie</span><p>Właśnie <span class="form-focus">tobie</span> powierzę dokument.</p><span class="change-note">forma akcentowana</span></div>
-  <div class="example-row"><span class="grammar-badge">N. tobą</span><p>Chcę porozmawiać z <span class="form-focus">tobą</span>.</p><span class="change-note">z kim?</span></div>
-  <div class="example-row"><span class="grammar-badge">Ms. tobie</span><p>Wszyscy mówią o <span class="form-focus">tobie</span>.</p><span class="change-note">o kim?</span></div>
+  <div class="example-row"><span class="grammar-badge">forma podstawowa</span><p><span class="form-focus">Ja</span> przygotuję prezentację.</p><span class="change-note">mianownik</span></div>
+  <div class="example-row"><span class="grammar-badge">brak lub nieobecność</span><p>Dzisiaj nie będzie <span class="form-focus">mnie</span>.</p><span class="change-note">dopełniacz</span></div>
+  <div class="example-row"><span class="grammar-badge">odbiorca</span><p>Nauczyciel przekazał <span class="form-focus">mi</span> materiały.</p><span class="change-note">celownik, forma krótka</span></div>
+  <div class="example-row"><span class="grammar-badge">podkreślony odbiorca</span><p>To właśnie <span class="form-focus">mnie</span> przekazano materiały.</p><span class="change-note">celownik, forma akcentowana</span></div>
+  <div class="example-row"><span class="grammar-badge">osoba objęta czynnością</span><p>Dyrektor poprosił <span class="form-focus">mnie</span> o rozmowę.</p><span class="change-note">biernik</span></div>
+  <div class="example-row"><span class="grammar-badge">towarzystwo</span><p>Paweł pracuje ze <span class="form-focus">mną</span>.</p><span class="change-note">narzędnik</span></div>
+  <div class="example-row"><span class="grammar-badge">temat rozmowy</span><p>Rozmawiano o <span class="form-focus">mnie</span>.</p><span class="change-note">miejscownik</span></div>
 </div>
+
+Nazwy przypadków pojawiają się po rozpoznaniu relacji: forma podstawowa, brak, odbiorca, przedmiot czynności, towarzystwo albo temat.
+
+## Formy zaimka „ty”
+
+> <span class="form-focus">Ty</span> przedstawisz wnioski.  
+> Nie widziałem <span class="form-focus">cię</span> w bibliotece.  
+> Nie widziałem <span class="form-focus">ciebie</span>, lecz twoją siostrę.  
+> Przekażę <span class="form-focus">ci</span> wiadomość.  
+> Właśnie <span class="form-focus">tobie</span> powierzę dokument.  
+> Chcę porozmawiać z <span class="form-focus">tobą</span>.  
+> Wszyscy mówią o <span class="form-focus">tobie</span>.
+
+Formy **cię, ci** są krótkie. Formy **ciebie, tobie** mogą silniej podkreślać osobę albo uczestniczyć w przeciwstawieniu.
 
 ## Formy krótkie i akcentowane
 
-Formy **mi, ci, cię, go, mu** są zwykle nieakcentowane. W neutralnym zdaniu stoją wewnątrz wypowiedzenia:
+Porównaj:
 
 > Nauczyciel <span class="form-focus">mi</span> pomógł.  
-> Przekażę <span class="form-focus">ci</span> wiadomość.  
-> Widziałem <span class="form-focus">go</span> rano.
+> To <span class="form-focus">mnie</span> nauczyciel pomógł, nie Pawłowi.
 
-Formy dłuższe służą między innymi podkreśleniu i przeciwstawieniu:
+W pierwszym zdaniu zaimek nie jest szczególnie podkreślony. W drugim otrzymuje mocniejszy nacisk w wymowie i kontrast z inną osobą.
 
-> To <span class="form-focus">mnie</span> nauczyciel pomógł, nie Pawłowi.  
-> Właśnie <span class="form-focus">tobie</span> przekażę wiadomość.  
-> Spotkałem <span class="form-focus">jego</span>, a nie jego brata.
+Formę szczególnie podkreślaną nazywamy **akcentowaną**. Akcent to wyróżnienie sylaby lub wyrazu siłą głosu. W neutralnych zdaniach częste są krótkie formy **mi, ci, cię, go, mu**; przy kontraście wybieramy często **mnie, tobie, ciebie, jego, jemu**.
 
 <div class="pronoun-checkpoint">
-  <div class="pronoun-checkpoint__title">Forma krótka nie jest po prostu „mniej poprawna”</div>
-  <p><em>Mi, ci, go, mu, cię</em> są pełnoprawnymi formami gramatycznymi. Różnią się od form akcentowanych miejscem w zdaniu i siłą podkreślenia.</p>
+  <div class="pronoun-checkpoint__title">Forma krótka jest pełnoprawna</div>
+  <p><em>Mi, ci, go, mu, cię</em> nie są formami gorszymi ani mniej poprawnymi. Różnią się przede wszystkim miejscem w zdaniu i siłą podkreślenia.</p>
 </div>
 
-## Zaimek „on” i formy z „n-” po przyimku
+## Formy trzeciej osoby po przyimku
 
-<div class="example-series">
-  <div class="example-row"><span class="grammar-badge">M. on</span><p><span class="form-focus">On</span> prowadzi spotkanie.</p><span class="change-note">kto?</span></div>
-  <div class="example-row"><span class="grammar-badge">D. go / jego</span><p>Nie ma <span class="form-focus">go</span> w sali.</p><span class="change-note">bez przyimka</span></div>
-  <div class="example-row"><span class="grammar-badge">D. niego</span><p>Bez <span class="form-focus">niego</span> nie zaczniemy.</p><span class="change-note">po przyimku</span></div>
-  <div class="example-row"><span class="grammar-badge">C. mu / jemu</span><p>Przekazałem <span class="form-focus">mu</span> dokumenty.</p><span class="change-note">bez przyimka</span></div>
-  <div class="example-row"><span class="grammar-badge">C. niemu</span><p>Dzięki <span class="form-focus">niemu</span> skończyliśmy wcześniej.</p><span class="change-note">po przyimku</span></div>
-  <div class="example-row"><span class="grammar-badge">B. go / jego</span><p>Spotkałem <span class="form-focus">go</span> przed szkołą.</p><span class="change-note">bez przyimka</span></div>
-  <div class="example-row"><span class="grammar-badge">N./Ms. nim</span><p>Rozmawiałem z <span class="form-focus">nim</span> i o <span class="form-focus">nim</span>.</p><span class="change-note">po przyimku</span></div>
-</div>
+> Nie ma <span class="form-focus">go</span> w sali.  
+> Bez <span class="form-focus">niego</span> nie zaczniemy.  
+> Przekazałem <span class="form-focus">mu</span> dokumenty.  
+> Dzięki <span class="form-focus">niemu</span> skończyliśmy wcześniej.  
+> Spotkałem <span class="form-focus">go</span>.  
+> Rozmawiałem z <span class="form-focus">nim</span> i o <span class="form-focus">nim</span>.
 
-Po przyimkach pojawia się zwykle początkowe **n-**:
+Po przyimku formy trzeciej osoby otrzymują zwykle początkowe **n-**:
 
-> bez **niego**, do **niej**, dla **nich**;  
-> dzięki **niemu**, przeciw **niej**;  
-> przez **niego**, na **nią**;  
-> z **nim**, z **nią**, z **nimi**;  
-> o **nim**, o **niej**, o **nich**.
+> bez niego, do niej, dla nich;  
+> dzięki niemu, przeciw niej;  
+> z nim, z nią, z nimi;  
+> o nim, o niej, o nich.
+
+Przyimek to wyraz budujący relację z następującą formą, np. **bez niego**, **z nią**, **o nich**.
 
 ## Rodzaj i liczba w trzeciej osobie
 
@@ -117,11 +118,9 @@ Po przyimkach pojawia się zwykle początkowe **n-**:
 > <span class="form-focus">oni</span> — uczniowie, Maja i Kuba;  
 > <span class="form-focus">one</span> — uczennice, psy, książki, okna.
 
-Wybór **on, ona, ono** zależy od rodzaju gramatycznego rzeczownika, a nie od tego, czy rzecz jest żywa. Dlatego mówimy o książce **ona**, a o oknie **ono**.
+Wybór **on, ona, ono** zależy od rodzaju gramatycznego rzeczownika, a nie od tego, czy rzecz jest żywa. Dlatego o książce mówimy **ona**, a o oknie **ono**.
 
 ## Zaimek zwrotny „siebie”
-
-Zaimek **siebie** nie ma mianownika i odnosi się do podmiotu lub wykonawcy czynności:
 
 > Paweł zobaczył <span class="form-focus">siebie</span> w lustrze.  
 > Paweł szybko <span class="form-focus">się</span> ubrał.  
@@ -129,35 +128,35 @@ Zaimek **siebie** nie ma mianownika i odnosi się do podmiotu lub wykonawcy czyn
 > Zabrałem ze <span class="form-focus">sobą</span> dokumenty.  
 > Rzadko mówię o <span class="form-focus">sobie</span>.
 
-Forma **się** jest krótka i zwykle nie rozpoczyna neutralnego zdania. Zaimek zwrotny nie wskazuje samodzielnie osoby: jej tożsamość wynika z podmiotu.
+Formy **siebie, się, sobie, sobą** odsyłają do wykonawcy wskazanego w zdaniu. Zaimek ten nie ma mianownika, ponieważ nie służy do samodzielnego nazywania podmiotu.
 
-## „Swój” odsyła do posiadacza będącego podmiotem
+## „Swój” a „jej”
 
-> Anna zabrała <span class="form-focus">swoją</span> torbę. — torbę Anny  
-> Anna zabrała <span class="form-focus">jej</span> torbę. — zwykle torbę innej kobiety
+> Anna zabrała <span class="form-focus">swoją</span> torbę. — torbę Anny;  
+> Anna zabrała <span class="form-focus">jej</span> torbę. — zwykle torbę innej kobiety.
 
-Zaimek **swój** będzie dokładniej omówiony w następnej lekcji, ale już tutaj widać, że także on czerpie znaczenie z budowy całego zdania.
+**Swój** odsyła do posiadacza będącego podmiotem zdania.
 
 ## Jak analizować zaimek osobowy?
 
 <div class="pronoun-step-list">
-  <div class="pronoun-step"><strong>Ustal osobę odniesienia.</strong> Sprawdź, kto mówi i o kim jest mowa.</div>
-  <div class="pronoun-step"><strong>Znajdź przypadek.</strong> Ustal funkcję zaimka w zdaniu.</div>
-  <div class="pronoun-step"><strong>Sprawdź przyimek.</strong> Po przyimku formy trzeciej osoby zwykle otrzymują początkowe <em>n-</em>.</div>
-  <div class="pronoun-step"><strong>Rozpoznaj akcent.</strong> Forma krótka jest neutralna, a dłuższa może podkreślać lub przeciwstawiać.</div>
-  <div class="pronoun-step"><strong>Sprawdź, czy zaimek podmiotowy jest potrzebny.</strong> Osobę często pokazuje już czasownik.</div>
-  <div class="pronoun-step"><strong>Przy formach zwrotnych znajdź podmiot.</strong> To on wskazuje, do kogo odnosi się <em>siebie, się, sobie</em>.</div>
+  <div class="pronoun-step"><strong>Ustal osobę odniesienia.</strong> Kto mówi i o kim jest mowa?</div>
+  <div class="pronoun-step"><strong>Opisz relację formy w zdaniu.</strong></div>
+  <div class="pronoun-step"><strong>Dopiero potem nazwij przypadek.</strong></div>
+  <div class="pronoun-step"><strong>Sprawdź przyimek.</strong> Po nim formy trzeciej osoby zwykle otrzymują <em>n-</em>.</div>
+  <div class="pronoun-step"><strong>Sprawdź podkreślenie.</strong> Forma krótka jest neutralna, a dłuższa może być akcentowana.</div>
+  <div class="pronoun-step"><strong>Przy formach zwrotnych znajdź wykonawcę.</strong></div>
 </div>
 
 <div class="pronoun-summary">
 <h3>Podsumowanie</h3>
 <ul>
   <li>Formy <em>ja</em> i <em>ty</em> zmieniają odniesienie wraz ze zmianą mówiącego.</li>
-  <li>Zaimki osobowe odmieniają się nieregularnie.</li>
-  <li>Formy krótkie i akcentowane różnią się miejscem oraz siłą podkreślenia.</li>
+  <li>Nieregularność oznacza, że form nie tworzymy przez prostą wymianę jednej końcówki.</li>
+  <li>Nazwę przypadku podajemy po rozpoznaniu relacji w zdaniu.</li>
+  <li>Formy krótkie i akcentowane różnią się przede wszystkim siłą podkreślenia i miejscem.</li>
   <li>Po przyimkach formy trzeciej osoby zwykle zaczynają się od <em>n-</em>.</li>
-  <li>Zaimek podmiotowy można często pominąć, ponieważ osobę wskazuje czasownik.</li>
-  <li>Zaimek zwrotny odnosi się do podmiotu i nie ma mianownika.</li>
+  <li>Zaimek zwrotny odsyła do wykonawcy i nie ma mianownika.</li>
 </ul>
 </div>
 
