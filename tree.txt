@@ -192,6 +192,7 @@
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/wypowiedzenie-zdanie-rownowaznik-i-zawiadomienie.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-nierozwiniete-i-rozwiniete.md
+./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-pelne-i-niepelne.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-podmiotowe-i-bezpodmiotowe.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-pojedyncze-i-liczba-orzeczen.md
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone
