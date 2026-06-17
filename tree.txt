@@ -138,6 +138,7 @@
 ./docs/gramatyka/skladnia/okolicznik/warunek-i-przyzwolenie.md
 ./docs/gramatyka/skladnia/okolicznik/zdania-okolicznikowe.md
 ./docs/gramatyka/skladnia/orzeczenie
+./docs/gramatyka/skladnia/orzeczenie/AGENTS.md
 ./docs/gramatyka/skladnia/orzeczenie/bezosobowe-i-niewlasciwe.md
 ./docs/gramatyka/skladnia/orzeczenie/forma-przeczenie-i-szyk.md
 ./docs/gramatyka/skladnia/orzeczenie/granice-klasyfikacji.md
