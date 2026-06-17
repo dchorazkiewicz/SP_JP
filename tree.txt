@@ -179,6 +179,8 @@
 ./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/AGENTS.md
+./docs/gramatyka/skladnia/zdania-zlozone
+./docs/gramatyka/skladnia/zdania-zlozone/AGENTS.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/AGENTS.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/analiza-wielopoziomowa.md
