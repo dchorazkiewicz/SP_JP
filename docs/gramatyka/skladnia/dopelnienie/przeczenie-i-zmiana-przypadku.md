@@ -2,37 +2,41 @@
 
 <div class="object-lesson" markdown>
 
-## Ta sama rzecz, inna forma
+## Dlaczego „raport” zmienia się w „raportu”?
 
 Porównaj:
 
 <div class="object-comparison">
-  <div class="object-comparison-item"><span class="object-comparison-label">czynność twierdząca</span><p>Marta <span class="object-predicate">czyta</span> <span class="object-mark object-mark--direct"><strong>raport</strong></span>.</p><p>Dopełnienie ma formę biernika.</p></div>
-  <div class="object-comparison-item"><span class="object-comparison-label">czynność zaprzeczona</span><p>Marta <span class="object-predicate">nie czyta</span> <span class="object-mark object-mark--direct"><strong>raportu</strong></span>.</p><p>Dopełnienie ma formę dopełniacza.</p></div>
+  <div class="object-comparison-item"><span class="object-comparison-label">bez przeczenia</span><p>Marta <span class="object-predicate">czyta</span> <span class="object-mark object-mark--direct"><strong>raport</strong></span>.</p><p>Pytamy: <em>czyta co?</em></p></div>
+  <div class="object-comparison-item"><span class="object-comparison-label">z przeczeniem</span><p>Marta <span class="object-predicate">nie czyta</span> <span class="object-mark object-mark--direct"><strong>raportu</strong></span>.</p><p>Pytamy: <em>nie czyta czego?</em></p></div>
 </div>
 
-W obu zdaniach chodzi o rzecz bezpośrednio objętą czytaniem. Funkcja **raport — raportu** nie zmienia się: nadal jest to dopełnienie bliższe. Zmienia się jedynie przypadek.
+W obu zdaniach chodzi o tę samą rzecz objętą czytaniem. **Raport** i **raportu** są więc tym samym rodzajem dopełnienia — dopełnieniem bliższym. Zmieniła się tylko jego forma.
 
-Taką zmianę biernika na dopełniacz po zaprzeczeniu czasownika nazywamy **dopełniaczem negacji**.
+Gdy dodajemy **nie**, biernik często zmienia się w dopełniacz:
+
+> czytam raport → nie czytam raportu
+
+Taką zmianę nazywamy **dopełniaczem negacji**. Słowo **negacja** jest po prostu fachową nazwą przeczenia.
 
 <div class="object-concept">
   <span class="object-concept__label">Pojęcie</span>
   <strong>Dopełniacz negacji</strong>
-  <p>To forma dopełniacza używana zamiast biernika, gdy czasownik przechodni zostaje zaprzeczony: <em>czytam raport — nie czytam raportu</em>.</p>
+  <p>To dopełniacz używany zamiast biernika po zaprzeczonym czasowniku: <em>czytam książkę — nie czytam książki</em>, <em>piję kawę — nie piję kawy</em>.</p>
 </div>
 
-## Seria podstawowych zmian
+## Zobacz tę zmianę w kilku parach zdań
 
 <div class="object-series">
-  <div class="object-row"><span class="object-badge">czytać</span><p>Marta <span class="object-predicate">czyta</span> <span class="object-mark object-mark--direct"><strong>książkę</strong></span>.</p><span class="object-note">biernik</span></div>
-  <div class="object-row"><span class="object-badge">nie czytać</span><p>Marta <span class="object-predicate">nie czyta</span> <span class="object-mark object-mark--direct"><strong>książki</strong></span>.</p><span class="object-note">dopełniacz</span></div>
-  <div class="object-row"><span class="object-badge">pić</span><p>Paweł <span class="object-predicate">pije</span> <span class="object-mark object-mark--direct"><strong>kawę</strong></span>.</p><span class="object-note">biernik</span></div>
-  <div class="object-row"><span class="object-badge">nie pić</span><p>Paweł <span class="object-predicate">nie pije</span> <span class="object-mark object-mark--direct"><strong>kawy</strong></span>.</p><span class="object-note">dopełniacz</span></div>
+  <div class="object-row"><span class="object-badge">bez „nie”</span><p>Marta <span class="object-predicate">czyta</span> <span class="object-mark object-mark--direct"><strong>książkę</strong></span>.</p><span class="object-note">biernik</span></div>
+  <div class="object-row"><span class="object-badge">z „nie”</span><p>Marta <span class="object-predicate">nie czyta</span> <span class="object-mark object-mark--direct"><strong>książki</strong></span>.</p><span class="object-note">dopełniacz</span></div>
+  <div class="object-row"><span class="object-badge">bez „nie”</span><p>Paweł <span class="object-predicate">pije</span> <span class="object-mark object-mark--direct"><strong>kawę</strong></span>.</p><span class="object-note">biernik</span></div>
+  <div class="object-row"><span class="object-badge">z „nie”</span><p>Paweł <span class="object-predicate">nie pije</span> <span class="object-mark object-mark--direct"><strong>kawy</strong></span>.</p><span class="object-note">dopełniacz</span></div>
 </div>
 
-Kolor pozostaje ten sam, ponieważ nadal zaznaczamy dopełnienie bliższe. Nie tworzymy osobnej kategorii „dopełnienie przeczące”.
+Kolor ramki się nie zmienia, ponieważ nadal mamy dopełnienie bliższe. Nie tworzymy osobnego rodzaju „dopełnienie przeczące”.
 
-## Gdy czasownik już wymaga dopełniacza
+## Co się dzieje, gdy czasownik już wymaga dopełniacza?
 
 > Marta <span class="object-predicate">potrzebuje</span> <span class="object-mark object-mark--indirect"><strong>pomocy</strong></span>.
 
@@ -42,61 +46,63 @@ Kolor pozostaje ten sam, ponieważ nadal zaznaczamy dopełnienie bliższe. Nie t
 
 > Technik <span class="object-predicate">nie szuka</span> <span class="object-mark object-mark--indirect"><strong>dokumentu</strong></span>.
 
-Przeczenie nie powoduje kolejnej zmiany, ponieważ dopełniacz wynika już z rekcji czasowników **potrzebować** i **szukać**.
+Czasowniki **potrzebować** i **szukać** już bez przeczenia łączą się z pytaniem **kogo? czego?**. Dlatego po dodaniu **nie** forma **pomocy** albo **dokumentu** nie musi się zmieniać po raz drugi.
 
-## Celownik, narzędnik i konstrukcja przyimkowa zwykle pozostają
+## Inne wymagane formy zwykle pozostają takie same
 
 <div class="object-series">
-  <div class="object-row"><span class="object-badge">celownik</span><p>Marta <span class="object-predicate">pomaga</span> <span class="object-mark object-mark--indirect"><strong>koledze</strong></span>.</p><span class="object-note">bez zmiany</span></div>
-  <div class="object-row"><span class="object-badge">przeczenie</span><p>Marta <span class="object-predicate">nie pomaga</span> <span class="object-mark object-mark--indirect"><strong>koledze</strong></span>.</p><span class="object-note">bez zmiany</span></div>
-  <div class="object-row"><span class="object-badge">przyimek</span><p>Zespół <span class="object-predicate">czeka</span> <span class="object-mark object-mark--indirect">na <strong>decyzję</strong></span>.</p><span class="object-note">na + biernik</span></div>
-  <div class="object-row"><span class="object-badge">przeczenie</span><p>Zespół <span class="object-predicate">nie czeka</span> <span class="object-mark object-mark--indirect">na <strong>decyzję</strong></span>.</p><span class="object-note">bez zmiany</span></div>
+  <div class="object-row"><span class="object-badge">bez „nie”</span><p>Marta <span class="object-predicate">pomaga</span> <span class="object-mark object-mark--indirect"><strong>koledze</strong></span>.</p><span class="object-note">komu?</span></div>
+  <div class="object-row"><span class="object-badge">z „nie”</span><p>Marta <span class="object-predicate">nie pomaga</span> <span class="object-mark object-mark--indirect"><strong>koledze</strong></span>.</p><span class="object-note">komu?</span></div>
+  <div class="object-row"><span class="object-badge">bez „nie”</span><p>Zespół <span class="object-predicate">czeka</span> <span class="object-mark object-mark--indirect">na <strong>decyzję</strong></span>.</p><span class="object-note">na co?</span></div>
+  <div class="object-row"><span class="object-badge">z „nie”</span><p>Zespół <span class="object-predicate">nie czeka</span> <span class="object-mark object-mark--indirect">na <strong>decyzję</strong></span>.</p><span class="object-note">na co?</span></div>
 </div>
 
-Przeczenie obejmuje orzeczenie, ale nie usuwa rekcji celownikowej, narzędnikowej ani przyimkowej.
+Dodanie **nie** nie zmienia form **koledze** ani **na decyzję**, ponieważ czasowniki nadal wymagają pytań **komu?** oraz **na co?**
 
-## Przeczenie całej czynności czy tylko kontrast?
+## Co dokładnie zaprzeczamy?
 
 Porównaj:
 
 > Marta <span class="object-predicate">nie przeczytała</span> <span class="object-mark object-mark--direct"><strong>raportu</strong></span>.
 
-Czynność czytania raportu jest zaprzeczona, dlatego używamy dopełniacza.
+Tutaj zaprzeczamy całej czynności: Marta nie wykonała czytania raportu. Dlatego pojawia się dopełniacz **raportu**.
 
 > Marta <span class="object-predicate">przeczytała</span> nie <span class="object-mark object-mark--direct"><strong>raport</strong></span>, lecz <span class="object-mark object-mark--direct"><strong>instrukcję</strong></span>.
 
-Tutaj orzeczenie **przeczytała** pozostaje twierdzące. Partykuła **nie** przeciwstawia dwa dopełnienia, dlatego oba zachowują biernik.
+Tutaj Marta coś przeczytała. Wyraz **nie** tylko poprawia nasz wybór: nie raport, lecz instrukcję. Czasownik **przeczytała** nie jest zaprzeczony, dlatego oba dopełnienia pozostają w bierniku.
 
 > Marta <span class="object-predicate">wysłała</span> <span class="object-mark object-mark--direct"><strong>dokument</strong></span> nie <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span>, lecz <span class="object-mark object-mark--indirect"><strong>zastępczyni</strong></span>.
 
-Przeczenie dotyczy wyboru odbiorcy, a nie samego wysłania ani przekazywanego dokumentu.
+Dokument został wysłany. Poprawiamy tylko informację o odbiorcy.
 
 <div class="object-checkpoint">
-  <div class="object-checkpoint__title">Najpierw ustal zakres przeczenia</div>
-  <p>Dopełniacz negacji pojawia się wtedy, gdy zaprzeczona jest czynność skierowana na dopełnienie bliższe. Samo słowo <em>nie</em> w pobliżu rzeczownika nie wystarcza.</p>
+  <div class="object-checkpoint__title">Samo słowo „nie” nie wystarcza</div>
+  <p>Najpierw sprawdź, czy <em>nie</em> zaprzecza całej czynności, czy tylko przeciwstawia dwie osoby lub rzeczy. Dopełniacz pojawia się w podstawowym wzorze wtedy, gdy zaprzeczamy czynności skierowanej na dopełnienie bliższe.</p>
 </div>
 
-## Przeczenie w orzeczeniu złożonym
+## Gdy orzeczenie składa się z kilku wyrazów
 
 > Marta <span class="object-predicate">nie musi czytać</span> <span class="object-mark object-mark--direct"><strong>raportu</strong></span>.
 
 > Marta <span class="object-predicate">ma nie czytać</span> <span class="object-mark object-mark--direct"><strong>raportu</strong></span>.
 
-Pierwsze zdanie znosi obowiązek czytania. Drugie nakłada obowiązek niewykonywania czynności. W obu konstrukcjach czynność **czytać** jest związana z dopełnieniem w dopełniaczu.
+Pierwsze zdanie znaczy: Marta nie ma obowiązku czytania. Drugie znaczy: Marta ma obowiązek powstrzymać się od czytania. W obu zdaniach zaprzeczona czynność **czytać** łączy się z formą **raportu**.
 
-## Odległość nie usuwa zależności
+## Dopełnienie może stać daleko od czasownika
 
 > Marta <span class="object-predicate">nie przeczytała</span> wczoraj mimo wcześniejszej obietnicy <span class="object-mark object-mark--direct">pełnego <strong>raportu</strong></span>.
 
-Dopełnienie może stać daleko od czasownika. O jego formie nadal decyduje zaprzeczona czynność **nie przeczytała**.
+Między czasownikiem i dopełnieniem pojawiło się kilka wyrazów. Nadal jednak pytamy **nie przeczytała czego? — raportu**. Odległość nie zmienia tego związku.
 
-## Neutralny wzór i konstrukcje nacechowane
+## Jakiej formy używać jako podstawowej?
 
-W starannym, neutralnym wzorze szkolnym po zaprzeczonym czasowniku przechodnim wybieramy dopełniacz:
+W starannym zdaniu szkolnym po zaprzeczonym czasowniku wybieramy dopełniacz:
 
 > Nie przeczytała <strong>raportu</strong>.
 
-Biernik może pojawiać się w wypowiedziach z bardzo silnym kontrastem lub szczególnym zakresem przeczenia, ale nie powinien być podstawowym wzorem na początku nauki. Najpierw utrwalamy regularną zmianę **biernik → dopełniacz**.
+W swobodnych rozmowach można czasem usłyszeć biernik, szczególnie gdy ktoś bardzo mocno przeciwstawia jedną rzecz drugiej. Na początku nauki najlepiej jednak utrwalić regularny wzór:
+
+> biernik bez przeczenia → dopełniacz po przeczeniu.
 
 ## Krótki tekst
 
@@ -112,17 +118,17 @@ Kierowniczka <span class="object-predicate">otworzyła</span> <span class="objec
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-Po formach **nie znalazła** i **nie wysłał** dopełnienia bliższe przyjmują dopełniacz. Konstrukcje **zadzwonić do kogoś** oraz **rozmawiać z kimś** zachowują przyimki i wymagane przypadki. W ostatnim zdaniu czynność wysłania jest twierdząca, a **nie… lecz…** tylko przeciwstawia dwa możliwe przedmioty.
+Po formach **nie znalazła** i **nie wysłał** dopełnienia **załączników**, **raportu** i **tabel** stoją w dopełniaczu. Połączenia **zadzwonić do kogoś** oraz **rozmawiać z kimś** zachowują wymagane przyimki. W ostatnim zdaniu pracownik coś wysłał, więc **nie… lecz…** tylko poprawia nazwę wysłanej rzeczy.
 </div>
 
 <div class="object-summary">
 <h3>Jak analizować przeczenie?</h3>
 <ul>
-  <li>Sprawdź, czy zaprzeczona jest cała czynność, czy tylko jeden kontrastowany składnik.</li>
-  <li>Przy dopełnieniu bliższym stosuj neutralny wzór: biernik w twierdzeniu, dopełniacz po przeczeniu.</li>
-  <li>Nie zmieniaj klasyfikacji dopełnienia tylko dlatego, że zmienił się przypadek.</li>
-  <li>Rekcja dopełniaczowa, celownikowa, narzędnikowa i przyimkowa zwykle pozostaje bez zmian.</li>
-  <li>Uwzględniaj pełne orzeczenie, także wtedy, gdy jest wielowyrazowe.</li>
+  <li>Sprawdź, czy zaprzeczona jest cała czynność, czy tylko poprawiamy jedną informację.</li>
+  <li>Przy dopełnieniu bliższym zapamiętaj podstawowy wzór: <em>czytam raport — nie czytam raportu</em>.</li>
+  <li>Zmiana przypadku nie zmienia dopełnienia bliższego w dalsze.</li>
+  <li>Jeżeli czasownik już wymaga dopełniacza, celownika albo przyimka, forma zwykle pozostaje taka sama.</li>
+  <li>Patrz na całe orzeczenie, nawet gdy składa się z kilku wyrazów.</li>
 </ul>
 </div>
 
