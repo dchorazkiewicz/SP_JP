@@ -212,6 +212,7 @@
 ./docs/gramatyka/skladnia/zdania-zlozone/spojniki-zaimki-i-wskazniki-zespolenia.md
 ./docs/gramatyka/skladnia/zdania-zlozone/test-zapisu.md
 ./docs/gramatyka/skladnia/zdania-zlozone/wspolrzednosc-podstawy.md
+./docs/gramatyka/skladnia/zdania-zlozone/wykresy-zdan-zlozonych.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-dopelnieniowe-i-przydawkowe.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-okolicznikowe.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-podmiotowe-i-orzecznikowe.md
