@@ -207,6 +207,7 @@
 ./docs/gramatyka/skladnia/zdania-zlozone/AGENTS.md
 ./docs/gramatyka/skladnia/zdania-zlozone/ile-informacji-ile-orzeczen.md
 ./docs/gramatyka/skladnia/zdania-zlozone/index.md
+./docs/gramatyka/skladnia/zdania-zlozone/interpunkcja.md
 ./docs/gramatyka/skladnia/zdania-zlozone/podrzednosc-nadrzedne-i-podrzedne.md
 ./docs/gramatyka/skladnia/zdania-zlozone/proba-atomowa.md
 ./docs/gramatyka/skladnia/zdania-zlozone/spojniki-zaimki-i-wskazniki-zespolenia.md
