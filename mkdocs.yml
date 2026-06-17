@@ -47,6 +47,7 @@ extra_css:
   - stylesheets/attribute-lesson.css
   - stylesheets/adverbial-lesson.css
   - stylesheets/syntactic-relations.css
+  - stylesheets/sentence-lesson.css
 
 plugins:
   - search:
@@ -210,7 +211,18 @@ nav:
               - Granice klasyfikacji: gramatyka/skladnia/zwiazki-skladniowe/granice-klasyfikacji.md
               - Związki w tekście: gramatyka/skladnia/zwiazki-skladniowe/zwiazki-w-tekscie.md
           - Wypowiedzenie i zdanie pojedyncze:
-              - Plan rozdziału: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
+              - Wprowadzenie: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
+              - Wypowiedzenie, zdanie, równoważnik i zawiadomienie: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/wypowiedzenie-zdanie-rownowaznik-i-zawiadomienie.md
+              - Cel wypowiedzenia i intonacja: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/cel-wypowiedzenia-i-intonacja.md
+              - Zdanie pojedyncze i liczba orzeczeń: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-pojedyncze-i-liczba-orzeczen.md
+              - Zdanie nierozwinięte i rozwinięte: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-nierozwiniete-i-rozwiniete.md
+              - Zdanie podmiotowe i bezpodmiotowe: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-podmiotowe-i-bezpodmiotowe.md
+              - Zdanie pełne i niepełne: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdanie-pelne-i-niepelne.md
+              - Grupa podmiotu i grupa orzeczenia: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/grupa-podmiotu-i-grupa-orzeczenia.md
+              - Szeregi w zdaniu pojedynczym: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/szeregi-w-zdaniu-pojedynczym.md
+              - Pełny rozkład zdania pojedynczego: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/rozklad-zdania-pojedynczego.md
+              - Granice klasyfikacji: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/granice-klasyfikacji.md
+              - Zdania pojedyncze w tekście: gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/zdania-pojedyncze-w-tekscie.md
           - Zdania złożone:
               - Plan rozdziału: gramatyka/skladnia/zdania-zlozone/index.md
           - Zdania wielokrotnie złożone:
