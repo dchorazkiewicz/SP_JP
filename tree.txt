@@ -189,6 +189,7 @@
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/AGENTS.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/cel-wypowiedzenia-i-intonacja.md
+./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/grupa-podmiotu-i-grupa-orzeczenia.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/rozklad-zdania-pojedynczego.md
