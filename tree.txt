@@ -212,6 +212,7 @@
 ./docs/gramatyka/skladnia/zdania-zlozone/test-zapisu.md
 ./docs/gramatyka/skladnia/zdania-zlozone/wspolrzednosc-podstawy.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-dopelnieniowe-i-przydawkowe.md
+./docs/gramatyka/skladnia/zdania-zlozone/zdania-okolicznikowe.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-podmiotowe-i-orzecznikowe.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-skladowe-i-elementy-wspolne.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-wspolrzedne-laczne-rozlaczne-przeciwstawne-i-wynikowe.md
