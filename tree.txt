@@ -155,6 +155,7 @@
 ./docs/gramatyka/skladnia/orzeczenie/rozpoznawanie-i-centrum-zdania.md
 ./docs/gramatyka/skladnia/pelna-analiza-skladniowa
 ./docs/gramatyka/skladnia/pelna-analiza-skladniowa/AGENTS.md
+./docs/gramatyka/skladnia/pelna-analiza-skladniowa/index.md
 ./docs/gramatyka/skladnia/podmiot
 ./docs/gramatyka/skladnia/podmiot/AGENTS.md
 ./docs/gramatyka/skladnia/podmiot/granice-klasyfikacji.md
