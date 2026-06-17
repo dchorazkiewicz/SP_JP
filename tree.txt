@@ -206,6 +206,7 @@
 ./docs/gramatyka/skladnia/zdania-zlozone
 ./docs/gramatyka/skladnia/zdania-zlozone/AGENTS.md
 ./docs/gramatyka/skladnia/zdania-zlozone/index.md
+./docs/gramatyka/skladnia/zdania-zlozone/proba-atomowa.md
 ./docs/gramatyka/skladnia/zdania-zlozone/test-zapisu.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/AGENTS.md
