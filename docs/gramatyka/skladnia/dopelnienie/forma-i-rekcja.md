@@ -2,7 +2,7 @@
 
 <div class="object-lesson" markdown>
 
-## Ten sam przedmiot, różne formy
+## Dlaczego raz mówimy „książkę”, a raz „książki”?
 
 Porównaj zdania o tej samej książce:
 
@@ -13,19 +13,27 @@ Porównaj zdania o tej samej książce:
   <div class="object-row"><span class="object-badge">rozmawiać o</span><p>Marta <span class="object-predicate">rozmawia</span> <span class="object-mark object-mark--basic">o <strong>książce</strong></span>.</p><span class="object-note">o czym?</span></div>
 </div>
 
-Nie wybieramy form **książkę**, **książki**, **książce** i **o książce** dowolnie. Każdy czasownik tworzy własny schemat i wskazuje, w jakiej postaci ma pojawić się jego uzupełnienie.
+To nie jest dowolny wybór autora. Nie mówimy:
 
-Taką zdolność wyrazu do narzucania zależnemu składnikowi określonego przypadku, przyimka albo innej formy nazywamy **rekcją**.
+> potrzebuję książkę  
+> przyglądam się książkę
+
+Mówimy:
+
+> potrzebuję książki  
+> przyglądam się książce
+
+Czasownik jakby „ustawia” formę wyrazu, który do niego dołączamy. Czasownik **potrzebować** łączy się z pytaniem **czego?**, a czasownik **przyglądać się** — z pytaniem **czemu?**
+
+Takie wymaganie czasownika nazywamy **rekcją**.
 
 <div class="object-concept">
   <span class="object-concept__label">Pojęcie</span>
   <strong>Rekcja</strong>
-  <p>To wymaganie gramatyczne wyrazu nadrzędnego. Czasownik może wymagać określonego przypadku bez przyimka, połączenia przyimka z przypadkiem, bezokolicznika albo całego zdania.</p>
+  <p>Rekcja to zasada mówiąca, jakiej formy wymaga dany czasownik. Na przykład mówimy <em>potrzebować czegoś</em>, <em>pomagać komuś</em>, <em>czekać na coś</em> i <em>rozmawiać o czymś</em>.</p>
 </div>
 
-## Dopełnienie bez przyimka
-
-### Dopełniacz
+## Czasownik może wymagać dopełniacza
 
 > Zespół <span class="object-predicate">potrzebuje</span> <span class="object-mark object-mark--basic">dodatkowego <strong>czasu</strong></span>.
 
@@ -33,9 +41,13 @@ Taką zdolność wyrazu do narzucania zależnemu składnikowi określonego przyp
 
 > Uczniowie <span class="object-predicate">słuchają</span> <span class="object-mark object-mark--basic"><strong>nauczyciela</strong></span>.
 
-Czasowniki **potrzebować**, **szukać** i **słuchać** wymagają dopełniacza także w zdaniu twierdzącym.
+Po czasownikach **potrzebować**, **szukać** i **słuchać** pytamy **kogo? czego?**. Dlatego używamy dopełniacza:
 
-### Celownik
+- potrzebować czasu;
+- szukać dokumentu;
+- słuchać nauczyciela.
+
+## Czasownik może wymagać celownika
 
 > Marta <span class="object-predicate">pomaga</span> <span class="object-mark object-mark--basic">nowemu <strong>koledze</strong></span>.
 
@@ -43,9 +55,9 @@ Czasowniki **potrzebować**, **szukać** i **słuchać** wymagają dopełniacza 
 
 > Technik <span class="object-predicate">przygląda się</span> <span class="object-mark object-mark--basic"><strong>wykresowi</strong></span>.
 
-Celownik często nazywa odbiorcę, osobę odnoszącą korzyść albo uczestnika, ku któremu skierowana jest relacja.
+Po tych czasownikach pytamy **komu? czemu?**. Celownik często wskazuje osobę, której pomagamy lub ufamy, albo rzecz, której się przyglądamy.
 
-### Biernik
+## Czasownik może wymagać biernika
 
 > Marta <span class="object-predicate">czyta</span> <span class="object-mark object-mark--basic"><strong>raport</strong></span>.
 
@@ -53,9 +65,9 @@ Celownik często nazywa odbiorcę, osobę odnoszącą korzyść albo uczestnika,
 
 > Kierowniczka <span class="object-predicate">spotkała</span> <span class="object-mark object-mark--basic"><strong>inspektora</strong></span>.
 
-Biernik jest typową formą rzeczy lub osoby bezpośrednio objętej czynnością. Na następnej stronie zobaczymy, dlaczego właśnie takie dopełnienie nazywa się zwykle **bliższym**.
+Po czasownikach **czytać**, **naprawić** i **spotkać** pytamy **kogo? co?**. Biernik często nazywa osobę lub rzecz bezpośrednio objętą czynnością. Na następnej stronie zobaczymy, dlaczego takie dopełnienie nazywamy zwykle **bliższym**.
 
-### Narzędnik
+## Czasownik może wymagać narzędnika
 
 > Anna <span class="object-predicate">kieruje</span> <span class="object-mark object-mark--basic"><strong>zespołem</strong></span>.
 
@@ -63,11 +75,13 @@ Biernik jest typową formą rzeczy lub osoby bezpośrednio objętej czynnością
 
 > Technik <span class="object-predicate">posługuje się</span> <span class="object-mark object-mark--basic"><strong>miernikiem</strong></span>.
 
-Sama forma narzędnika nie przesądza funkcji. W zdaniu **Anna jedzie autobusem** wyraz **autobusem** opisuje środek transportu i w szkolnej analizie jest zwykle okolicznikiem.
+Tutaj pytamy **kim? czym?**. Sama końcówka narzędnika nie wystarcza jednak do rozpoznania dopełnienia:
 
-## Dopełnienie z przyimkiem
+> Anna jedzie autobusem.
 
-Porównaj:
+Wyraz **autobusem** mówi, jakim środkiem transportu Anna jedzie. Opisuje sposób podróży, dlatego jest okolicznikiem, a nie dopełnieniem.
+
+## Czasownik może wymagać przyimka
 
 > Marta <span class="object-predicate">myśli</span> <span class="object-mark object-mark--basic">o <strong>projekcie</strong></span>.
 
@@ -77,11 +91,16 @@ Porównaj:
 
 > Pracownicy <span class="object-predicate">zrezygnowali</span> <span class="object-mark object-mark--basic">z dodatkowego <strong>testu</strong></span>.
 
-Przyimek należy do całej wymaganej konstrukcji. Nie pytamy jedynie **projekcie?**, lecz **o czym?**; nie **decyzję?**, lecz **na co?**.
+Nie odrywamy przyimka od reszty dopełnienia. Pytamy:
+
+- **o czym?** — o projekcie;
+- **na co?** — na decyzję;
+- **od czego?** — od pogody;
+- **z czego?** — z testu.
 
 <div class="object-checkpoint">
-  <div class="object-checkpoint__title">Przyimek nie wystarcza do klasyfikacji</div>
-  <p>Wyrażenie przyimkowe może być dopełnieniem, okolicznikiem albo określeniem rzeczownika. Rozstrzyga to, od jakiego wyrazu zależy i jaką relację buduje.</p>
+  <div class="object-checkpoint__title">Sam przyimek nie mówi jeszcze, że mamy dopełnienie</div>
+  <p>W zdaniu <em>myśli o projekcie</em> wyrażenie <em>o projekcie</em> podaje treść myśli. W zdaniu <em>siedzi przy oknie</em> wyrażenie <em>przy oknie</em> mówi o miejscu. Trzeba sprawdzić, co całe wyrażenie dodaje do zdania.</p>
 </div>
 
 ## Miejscownik zawsze występuje z przyimkiem
@@ -90,9 +109,15 @@ Przyimek należy do całej wymaganej konstrukcji. Nie pytamy jedynie **projekcie
 
 > Test <span class="object-predicate">polega</span> <span class="object-mark object-mark--basic">na <strong>porównaniu</strong> próbek</span>.
 
-W polszczyźnie miejscownik nie występuje samodzielnie. Jego formę rozpoznajemy razem z przyimkiem, na przykład **o projekcie**, **na porównaniu**, **przy urządzeniu**. Ostatnie połączenie może jednak opisywać miejsce, dlatego zawsze trzeba sprawdzić zależność znaczeniową.
+Nie mówimy po prostu **wynikach** albo **porównaniu**. Potrzebujemy przyimka: **o wynikach**, **na porównaniu**. Miejscownik zawsze występuje z przyimkiem.
 
-## Zaimki także podlegają rekcji
+Nie każde połączenie z miejscownikiem jest jednak dopełnieniem:
+
+> Urządzenie stoi przy oknie.
+
+Wyrażenie **przy oknie** mówi, gdzie stoi urządzenie, więc opisuje miejsce.
+
+## Czasownik ustawia również formę zaimka
 
 <div class="object-series">
   <div class="object-row"><span class="object-badge">widzieć</span><p>Marta <span class="object-predicate">widzi</span> <span class="object-mark object-mark--basic"><strong>mnie</strong></span>.</p><span class="object-note">kogo?</span></div>
@@ -101,27 +126,33 @@ W polszczyźnie miejscownik nie występuje samodzielnie. Jego formę rozpoznajem
   <div class="object-row"><span class="object-badge">myśleć o</span><p>Marta <span class="object-predicate">myśli</span> <span class="object-mark object-mark--basic">o <strong>mnie</strong></span>.</p><span class="object-note">o kim?</span></div>
 </div>
 
-Zmienia się forma zaimka, ale jego funkcja pozostaje dopełnieniem zależnym od czasownika.
+Wyrazy **mnie**, **mi**, **mną** i **mnie** wskazują tę samą osobę. Ich forma zmienia się dlatego, że każdy czasownik łączy się z innym pytaniem.
 
-## Jeden czasownik może otwierać kilka miejsc
+## Jeden czasownik może potrzebować dwóch dopowiedzeń
 
 > Kierowniczka <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--basic"><strong>pracownikom</strong></span> <span class="object-mark object-mark--basic">nową <strong>instrukcję</strong></span>.
 
+Czasownik **przekazać** zwykle łączy się z dwiema informacjami:
+
+- **komu?** — pracownikom;
+- **co?** — instrukcję.
+
 > Kierowniczka <span class="object-predicate">poinformowała</span> <span class="object-mark object-mark--basic"><strong>pracowników</strong></span> <span class="object-mark object-mark--basic">o <strong>zmianie</strong> terminu</span>.
 
-Czasownik **przekazała** otwiera miejsce dla odbiorcy i przekazywanej rzeczy. Czasownik **poinformowała** łączy osobę poinformowaną z treścią informacji.
+Czasownik **poinformować** także potrzebuje dwóch dopowiedzeń:
 
-<div class="object-tree">poinformowała
-├── kogo? → pracowników
-└── o czym? → o zmianie terminu</div>
+- **kogo?** — pracowników;
+- **o czym?** — o zmianie terminu.
 
-## Uzupełnienie może pozostać niewypowiedziane
+## Czasem dopowiedzenie pomijamy, bo wiadomo, o co chodzi
 
 > Marta już <span class="object-predicate">wie</span>.
 
 > Paweł <span class="object-predicate">odmówił</span>.
 
-Zdania są możliwe, jeżeli kontekst podpowiada, **co Marta wie** albo **czego Paweł odmówił**. Rekcja opisuje miejsca dostępne w schemacie czasownika, ale nie wszystkie muszą być zawsze zapisane.
+Nie zapisaliśmy, **co Marta wie** ani **czego Paweł odmówił**. Takie zdania są jednak zrozumiałe, jeżeli wcześniejsza rozmowa podaje brakującą informację.
+
+Rekcja nadal istnieje: czasownik **wiedzieć** może łączyć się z odpowiedzią na pytanie **co?**, a **odmówić** — z odpowiedzią na pytanie **czego?**. Po prostu nie zawsze musimy tę odpowiedź wypowiedzieć.
 
 ## Krótki tekst
 
@@ -137,17 +168,24 @@ Kierowniczka <span class="object-predicate">potrzebowała</span> <span class="ob
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-Każde orzeczenie wybiera inny schemat: **potrzebować czegoś**, **przyglądać się czemuś**, **rozmawiać z kimś o czymś**, **przekazać komuś coś**. Formy dopełnień wynikają z użytych czasowników, a nie z dowolnego wyboru autora.
+Różne czasowniki łączą się z innymi pytaniami i formami:
+
+- potrzebować **czegoś**;
+- przyglądać się **czemuś**;
+- rozmawiać **z kimś o czymś**;
+- przekazać **komuś coś**.
+
+Tego właśnie dotyczy rekcja.
 </div>
 
 <div class="object-summary">
-<h3>Jak pracować z rekcją?</h3>
+<h3>Jak zapamiętać rekcję?</h3>
 <ul>
-  <li>Ucz się czasownika razem z pytaniem i formą: <em>potrzebować czego?</em>, <em>ufać komu?</em>, <em>myśleć o czym?</em>.</li>
-  <li>Obejmuj ramką przyimek razem z zależną grupą.</li>
-  <li>Nie uznawaj każdego narzędnika ani wyrażenia przyimkowego za dopełnienie.</li>
-  <li>Pamiętaj, że jeden czasownik może wymagać kilku różnych uzupełnień.</li>
-  <li>Brak zapisanego składnika nie zawsze oznacza, że czasownik nie otwiera dla niego miejsca.</li>
+  <li>Ucz się czasownika razem z pytaniem: <em>potrzebować czego?</em>, <em>ufać komu?</em>, <em>myśleć o czym?</em>.</li>
+  <li>Zapamiętuj całe połączenia: <em>czekać na coś</em>, <em>rozmawiać z kimś</em>, <em>zależeć od czegoś</em>.</li>
+  <li>Przyimek zaznaczaj razem z rzeczownikiem: <em>o projekcie</em>, <em>na decyzję</em>.</li>
+  <li>Nie każdy narzędnik i nie każde wyrażenie z przyimkiem jest dopełnieniem.</li>
+  <li>Czasem dopełnienie nie jest zapisane, ale można je odtworzyć z rozmowy.</li>
 </ul>
 </div>
 
