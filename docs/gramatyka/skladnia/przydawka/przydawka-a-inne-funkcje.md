@@ -47,11 +47,11 @@ Przydawka opisuje rzeczownik wewnątrz jego grupy. Orzecznik razem z łącznikie
 
 Porównaj także:
 
-> <span class="attribute-mark attribute-mark--adjective">Nauczycielka</span> <span class="attribute-head">Marta</span> rozpoczęła spotkanie.
+> <span class="attribute-head">Nauczycielka</span> <span class="attribute-mark attribute-mark--noun">Marta</span> rozpoczęła spotkanie.
 
 > Marta jest **nauczycielką**.
 
-W pierwszym zdaniu **nauczycielka** znajduje się przy nazwie osoby. W drugim **nauczycielką** podaje rolę Marty i należy do orzeczenia.
+W pierwszym zdaniu imię **Marta** doprecyzowuje rzeczownik **nauczycielka**. W drugim **nauczycielką** podaje rolę Marty i należy do orzeczenia.
 
 ## Przydawka a okolicznik
 
