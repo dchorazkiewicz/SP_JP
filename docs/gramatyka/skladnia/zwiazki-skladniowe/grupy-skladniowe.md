@@ -1,94 +1,168 @@
-# Grupy składniowe
+# Grupy składniowe — większe całości wokół centrum
 
 <div class="relations-lesson" markdown>
 
-<div class="relations-lead">
-Grupa składniowa ma własne centrum i składniki zależne. Nazwę grupy tworzymy od części mowy wyrazu nadrzędnego: grupa rzeczownikowa, czasownikowa, przymiotnikowa albo przysłówkowa.
-</div>
+## Jedna nazwa może rosnąć
+
+Porównaj:
+
+> raport
+>
+> dokładny raport
+>
+> bardzo dokładny raport
+>
+> bardzo dokładny raport zespołu badawczego
+
+Każda wersja nazywa raport, ale kolejne wyrazy tworzą coraz bogatszą całość. Nie analizujemy jej jako przypadkowego szeregu. Wokół wyrazu **raport** powstaje **grupa składniowa**.
+
+Grupa składniowa to wyraz główny wraz ze składnikami, które go rozwijają bezpośrednio lub pośrednio.
+
+## Nazwę grupy tworzymy od jej centrum
+
+W grupie **bardzo dokładny raport zespołu** centrum stanowi rzeczownik, dlatego mówimy o **grupie rzeczownikowej**. Nazwa nie zależy od liczby przymiotników ani od pierwszego wyrazu w zapisie.
+
+<div class="relations-tree">raport [centrum grupy rzeczownikowej]
+├── jaki? → dokładny
+│   └── jak bardzo? → bardzo
+└── czyj / czego? → zespołu</div>
 
 ## Grupa rzeczownikowa
 
 > <span class="relations-mark relations-mark--agreement">nowy szczegółowy</span> <span class="relations-head">raport</span> <span class="relations-mark relations-mark--government">zespołu</span>
 
-Centrum stanowi rzeczownik **raport**.
+Całość nazywa rzecz. Rzeczownik **raport** jest centrum, przymiotniki opisują cechy, a rzeczownik **zespołu** dopowiada przynależność lub autora.
 
-<div class="relations-tree">raport
-├── jaki? → nowy [zgoda]
-├── jaki? → szczegółowy [zgoda]
-└── czyj? → zespołu [rząd]</div>
+Grupa rzeczownikowa może pełnić różne funkcje w zdaniu:
+
+> <span class="relations-mark relations-mark--agreement">Nowa kierowniczka działu</span> podpisała dokument. — podmiot;
+>
+> Marta przeczytała <span class="relations-mark relations-mark--government">bardzo szczegółowy raport zespołu</span>. — dopełnienie.
+
+Funkcja całej grupy nie jest tym samym co zależności w jej wnętrzu.
 
 ## Grupa czasownikowa
 
 > <span class="relations-head">przygotowała</span> <span class="relations-mark relations-mark--government">raport</span> <span class="relations-mark relations-mark--adjunction">wczoraj</span> <span class="relations-mark relations-mark--adjunction">bardzo uważnie</span>
 
-Czasownik otwiera miejsce dla dopełnienia i może być rozwijany przez okoliczniki.
+Czasownik organizuje informację o czynności. Może otwierać miejsca dla uczestników i treści oraz być rozwijany przez informacje o czasie, miejscu i sposobie.
+
+W zdaniu **Marta przygotowała raport wczoraj bardzo uważnie** grupa czasownikowa obejmuje orzeczenie wraz z zależnymi od niego składnikami. Nie obejmuje podmiotu **Marta**.
 
 ## Grupa przymiotnikowa
 
 > <span class="relations-mark relations-mark--adjunction">bardzo</span> <span class="relations-head">dokładny</span> <span class="relations-mark relations-mark--government">w obliczeniach</span>
 
-Przymiotnik **dokładny** jest centrum. Przysłówek określa stopień, a grupa przyimkowa doprecyzowuje zakres cechy.
+Centrum stanowi przymiotnik **dokładny**. Wyraz **bardzo** określa stopień cechy, a grupa **w obliczeniach** wskazuje jej zakres.
+
+Cała grupa może następnie opisywać rzeczownik:
+
+> <span class="relations-mark relations-mark--agreement">bardzo dokładny w obliczeniach</span> analityk
+
+Wewnątrz długiej przydawki istnieje własna grupa przymiotnikowa.
 
 ## Grupa przysłówkowa
 
 > <span class="relations-mark relations-mark--adjunction">wyjątkowo</span> <span class="relations-head">szybko</span>
 
-Przysłówek może mieć własne określenie stopnia.
+Centrum stanowi przysłówek **szybko**, a **wyjątkowo** określa stopień. Cała grupa może opisywać czasownik:
 
-## Grupa przyimkowa
+> System działał <span class="relations-mark relations-mark--adjunction">wyjątkowo szybko</span>.
 
-> <span class="relations-head">w</span> <span class="relations-mark relations-mark--government">biurze</span>
+## Konstrukcja przyimkowa wymaga osobnego komentarza
 
-Przyimek narzuca rzeczownikowi przypadek. Cała grupa **w biurze** może następnie zależeć od czasownika:
+> <span class="relations-head">w</span> <span class="relations-mark relations-mark--government">bibliotece</span>
+
+Przyimek **w** wybiera formę rzeczownika **bibliotece**. Całość **w bibliotece** może jednak pełnić funkcję wobec innego centrum:
 
 <div class="relations-tree">pracowała
-└── gdzie? → w biurze
-    └── przyimek w → biurze [miejscownik]</div>
+└── gdzie? → w bibliotece [cała konstrukcja opisuje miejsce]
+    └── w → bibliotece [przyimek wymaga miejscownika]</div>
 
-## Grupa jako jeden składnik zdania
+Termin **grupa przyimkowa** opisuje budowę rozpoczynającą się przyimkiem. Nie oznacza automatycznie jednej części zdania. Całość może być dopełnieniem, przydawką albo okolicznikiem zależnie od kontekstu.
 
-> <span class="relations-mark relations-mark--agreement">Nowa kierowniczka działu</span> podpisała dokument.
+## Grupa podmiotu i grupa orzeczenia
 
-Cała grupa rzeczownikowa pełni funkcję podmiotu, chociaż wewnątrz zawiera kilka związków.
+> Nowa kierowniczka działu bardzo uważnie przeczytała końcowy raport zespołu.
 
-> Marta przeczytała <span class="relations-mark relations-mark--government">bardzo szczegółowy raport zespołu</span>.
+Możemy wydzielić dwie duże części:
 
-Cała rozbudowana grupa pełni funkcję dopełnienia.
+- **nowa kierowniczka działu** — grupa podmiotu;
+- **bardzo uważnie przeczytała końcowy raport zespołu** — grupa orzeczenia.
 
-## Granice grupy
+Nie są one po prostu „lewą” i „prawą” stroną zdania. Po zmianie szyku:
 
-> Marta przygotowała nowy raport w biurze.
+> Końcowy raport zespołu bardzo uważnie przeczytała nowa kierowniczka działu.
 
-Możliwe zależności:
+funkcje i zakres grup pozostają zasadniczo te same.
 
-- **nowy** należy do grupy rzeczownikowej **nowy raport**;
-- **w biurze** zależy od czasownika **przygotowała** i nie należy do grupy rzeczownikowej.
+## Granice grupy trzeba uzasadnić sensem
 
-Porównaj:
+> Marta przygotowała **nowy raport** **w biurze**.
+>
+> Marta przygotowała **raport z biura**.
 
-> Marta przygotowała raport z biura.
+W pierwszym zdaniu **w biurze** zwykle opisuje miejsce przygotowywania i zależy od czasownika. W drugim **z biura** może określać raport, np. dokument przesłany z określonego biura.
 
-Wyrażenie **z biura** może określać rzeczownik **raport**, zależnie od sensu.
+Sama bliskość wyrazów nie wystarcza. Sprawdzamy, co dany fragment opisuje i jak można sparafrazować zdanie.
 
-## Grupa z szeregiem
+## Grupa może zawierać szereg
 
 > nowy, szczegółowy i kompletny raport
 
-Trzy przymiotniki tworzą szereg współrzędny, ale cały szereg jest podrzędny wobec rzeczownika **raport**.
+Trzy przymiotniki są równorzędne między sobą, ale cały szereg zależy od rzeczownika **raport**:
 
 <div class="relations-tree">raport
 └── jakie? → nowy + szczegółowy + kompletny
     └── człony współrzędne</div>
 
-## Grupa a zdanie
+Współrzędność i podrzędność mogą więc występować w tej samej grupie na różnych poziomach.
 
-Grupa nie ma samodzielnego centrum predykacji. Wyrażenie **bardzo dokładny raport** nazywa obiekt, ale dopiero zdanie **Bardzo dokładny raport trafił do dyrekcji** coś o nim orzeka.
+## Grupa nie jest jeszcze zdaniem
+
+> bardzo dokładny raport zespołu
+
+Ta grupa nazywa obiekt, ale nie stwierdza jeszcze, co się wydarzyło. Dopiero zdanie:
+
+> Bardzo dokładny raport zespołu trafił do dyrekcji.
+
+zawiera pełną informację orzeczeniową.
+
+Nie definiujemy grupy przez brak czasownika, ponieważ grupa może mieć centrum czasownikowe. Ważne jest to, że grupa stanowi składnik większej konstrukcji, a zdanie organizuje pełne stwierdzenie wokół orzeczenia.
+
+## Krótki tekst: grupy w jednym zdaniu
+
+> Wczoraj nowa kierowniczka małego działu bardzo szybko zatwierdziła trzy poprawione wersje raportu rocznego.
+
+<div class="relations-tree">zatwierdziła [centrum grupy orzeczenia]
+├── kto? → kierowniczka [grupa rzeczownikowa]
+│   ├── jaka? → nowa
+│   └── czego? → działu
+│       └── jakiego? → małego
+├── co? → wersje [grupa rzeczownikowa]
+│   ├── ile? → trzy
+│   ├── jakie? → poprawione
+│   └── czego? → raportu
+│       └── jakiego? → rocznego
+├── kiedy? → wczoraj
+└── jak? → szybko [grupa przysłówkowa]
+    └── jak bardzo? → bardzo</div>
+
+## Jak wyznaczyć grupę?
+
+1. Znajdź wyraz główny analizowanej całości.
+2. Wskaż składniki zależne bezpośrednio od niego.
+3. Dołącz własne rozwinięcia tych składników.
+4. Oddziel elementy zależne od innych centrów.
+5. Nazwij grupę od części mowy jej centrum.
+6. Osobno określ funkcję całej grupy w zdaniu.
+7. Przy konstrukcji z przyimkiem rozróżnij jej budowę wewnętrzną i funkcję zewnętrzną.
 
 <div class="relations-summary">
-<h3>Grupa ma jedno centrum, ale może zawierać wiele pięter</h3>
-Najpierw znajdź wyraz nadrzędny całej grupy, następnie rozłóż jej wnętrze na mniejsze związki.
+<h3>Grupa ma centrum i własne granice</h3>
+<p>Najpierw ustalamy, wokół którego wyrazu powstała całość. Następnie rozwijamy kolejne poziomy i dopiero na końcu pytamy, jaką funkcję cała grupa pełni w zdaniu.</p>
 </div>
 
-[Przejdź dalej: analiza wielopoziomowa](../analiza-wielopoziomowa/){ .md-button .md-button--primary }
+[Przejdź dalej: kilka pięter zależności](../analiza-wielopoziomowa/){ .md-button .md-button--primary }
 
 </div>
