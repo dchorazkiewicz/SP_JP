@@ -100,6 +100,7 @@
 ./docs/gramatyka/rzeczownik/pdf/rzeczownik_w_jezyku_polskim_rozszerzone_notatki.pdf
 ./docs/gramatyka/skladnia
 ./docs/gramatyka/skladnia/AGENTS.md
+./docs/gramatyka/skladnia/PLAN_ROZBUDOWY.md
 ./docs/gramatyka/skladnia/dopelnienie
 ./docs/gramatyka/skladnia/dopelnienie/AGENTS.md
 ./docs/gramatyka/skladnia/dopelnienie/bezokolicznik-i-zdanie-dopelnieniowe.md
