@@ -1,302 +1,480 @@
-# AGENTS.md
+# AGENTS.md — konstytucja projektu „Język polski po ludzku”
 
 ## Zakres
 
-Niniejsze zasady obowiązują w całym repozytorium `dchorazkiewicz/SP_JP`, o ile plik `AGENTS.md` umieszczony w podkatalogu nie ustanowi zasad bardziej szczegółowych.
+Niniejszy plik obowiązuje w całym repozytorium `dchorazkiewicz/SP_JP`.
 
-Projekt jest materiałem dydaktycznym do nauki języka polskiego. Jego celem nie jest możliwie szybkie podanie pełnej terminologii, lecz doprowadzenie czytelnika do zrozumienia zjawiska, a następnie uporządkowanie tego zrozumienia za pomocą terminów.
+Pliki `AGENTS.md` umieszczone niżej w drzewie mogą dodawać zasady właściwe dla konkretnego działu. Nie mogą jednak odwracać nadrzędnej filozofii projektu.
 
-## Nadrzędna zasada dydaktyczna
+## Hierarchia instrukcji
 
-**Najpierw zjawisko, różnica i sens; dopiero potem nazwa oraz reguła.**
+Przed pracą należy odczytać instrukcje od najbardziej ogólnych do najbardziej lokalnych:
 
-Nowy termin specjalistyczny nie może pełnić funkcji wyjaśnienia, jeżeli wcześniej nie pokazano i nie objaśniono zjawiska, które ten termin nazywa.
+1. główny `AGENTS.md`;
+2. `AGENTS.md` działu nadrzędnego, jeżeli istnieje;
+3. najbliższy `AGENTS.md` w katalogu opracowywanego tematu.
 
-Niedopuszczalny początek:
+Dla materiałów gramatycznych obowiązują między innymi:
 
-> Orzeczenie imienne składa się z łącznika i orzecznika.
+- `docs/gramatyka/AGENTS.md` — wspólna konstytucja gramatyki;
+- `docs/gramatyka/czesci-mowy/AGENTS.md` — zasady części mowy;
+- `docs/gramatyka/skladnia/AGENTS.md` — wspólny standard składni;
+- lokalne pliki działów — wyłącznie reguły specyficzne dla danej kategorii.
 
-Właściwa kolejność:
+Plik lokalny nie powinien ponownie przepisywać całej wspólnej filozofii. Ma przechowywać wyjątki, przyjęty standard klasyfikacji, kolejność charakterystyczną dla działu i znaczenie jego oznaczeń wizualnych.
 
-1. pokazać kontrastowe przykłady;
-2. zapytać lub wskazać, co zmienia się w znaczeniu i budowie;
-3. opisać funkcję elementów zwykłym językiem;
-4. dopiero wtedy wprowadzić ich nazwy;
-5. utrwalić nazwę na dalszych przykładach;
-6. na końcu sformułować zwartą regułę.
+## Misja projektu
 
-## Model wprowadzania nowego pojęcia
+Projekt ma uczyć języka polskiego przez **obserwowanie, porównywanie, przekształcanie i używanie języka**.
 
-Każde ważne pojęcie powinno przejść przez następujące etapy.
+Nie tworzymy encyklopedii definicji. Odtwarzamy proces, dzięki któremu człowiek może sam zauważyć regularność, zrozumieć jej sens, a następnie uporządkować ją terminem gramatycznym.
 
-### 1. Obserwacja
+Gramatyka, stylistyka i analiza tekstu nie są zbiorem arbitralnych nakazów. Są sposobami opisu tego, co użytkownicy języka robią z formą, znaczeniem, kolejnością i kontekstem.
 
-Rozpocznij od jednego prostego przykładu lub krótkiego kontrastu. Nie przeciążaj pierwszego przykładu dodatkowymi trudnościami.
+Czytelnik powinien rozumieć:
 
-Przykład:
+- **co zauważamy** w przykładach;
+- **jaką różnicę** wywołuje zmiana;
+- **dlaczego** wyróżniamy dane zjawisko;
+- **po co** istnieje jego nazwa;
+- **jak zastosować** rozpoznaną regułę w następnym zdaniu.
 
-> Marta pracuje.
->
-> Marta jest spokojna.
+## Nadrzędna zasada
 
-### 2. Różnica
+**Najpierw zjawisko, różnica, intencja i sens; dopiero potem nazwa, klasyfikacja oraz reguła.**
 
-Wyjaśnij, co czytelnik może zauważyć bez znajomości terminologii.
-
-Przykład:
-
-> W pierwszym zdaniu jeden wyraz przekazuje informację o Marcie. W drugim potrzebne są dwa wyrazy: jeden umieszcza informację w czasie i łączy ją z Martą, drugi mówi, jaka jest Marta.
-
-### 3. Funkcja wyrażona zwykłym językiem
-
-Przed nazwą techniczną opisz, co dany element robi w zdaniu.
-
-Przykład:
-
-> Wyraz `jest` łączy Martę z przypisaną jej cechą. Wyraz `spokojna` podaje właściwą treść tej informacji.
-
-### 4. Nazwa
-
-Dopiero po objaśnieniu funkcji wprowadź termin.
-
-Przykład:
-
-> Część `jest` nazywamy **łącznikiem**, a część `spokojna` — **orzecznikiem**.
-
-Pierwsze wystąpienie nowego terminu powinno zawierać krótką definicję odnoszącą się bezpośrednio do widocznego przykładu.
-
-### 5. Utrwalenie
-
-Pokaż serię przykładów, w których zmienia się tylko jeden istotny element. Używaj tych samych osób, przedmiotów i sytuacji, gdy pozwala to lepiej zobaczyć różnicę gramatyczną.
-
-### 6. Przypadek graniczny
-
-Po przykładach typowych pokaż konstrukcję podobną, lecz należącą do innej kategorii. Wyjaśnij różnicę, a nie tylko podaj klasyfikację.
-
-### 7. Reguła i podsumowanie
-
-Definicja, terminologia zbiorcza i procedura powinny domykać obserwację. Nie powinny jej zastępować.
-
-## Dwa poziomy objaśnienia
-
-Materiały powinny rozdzielać dwa poziomy.
-
-### Poziom intuicyjny
-
-Opisuje funkcję zwykłym językiem:
-
-> Wyraz `badaczka` nazywa osobę, o której mówi zdanie. Wyrazy `młoda` i `z laboratorium` dodają informacje o tej osobie.
-
-### Poziom terminologiczny
-
-Porządkuje zrozumiane zjawisko:
-
-> `Badaczka` jest podmiotem. `Młoda badaczka z laboratorium` tworzy grupę podmiotu. `Badaczka` jest wyrazem głównym tej grupy.
-
-Nie wolno przechodzić bezpośrednio do poziomu terminologicznego, jeżeli termin nie został wcześniej przygotowany.
-
-## Terminologia
-
-### Pierwsze użycie terminu
-
-Przy pierwszym użyciu należy:
-
-- wskazać konkretny fragment przykładu;
-- opisać jego funkcję;
-- podać nazwę;
-- odróżnić go od pojęcia podobnego, jeżeli istnieje wysokie ryzyko pomyłki.
-
-Dotyczy to szczególnie terminów takich jak:
-
-- grupa podmiotu;
-- wyraz główny i wyraz nadrzędny;
-- zgoda;
-- podmiot logiczny;
-- podmiot szeregowy;
-- łącznik;
-- orzecznik;
-- modalność;
-- faza czynności;
-- elipsa;
-- centrum zdania składowego;
-- rekcja;
-- związek rządu, zgody i przynależności.
-
-### Nie definiuj terminu za pomocą innych niewyjaśnionych terminów
+Termin specjalistyczny nie może pełnić funkcji wyjaśnienia zjawiska, którego czytelnik jeszcze nie zobaczył.
 
 Niedopuszczalne:
 
-> Podmiot jest nadrzędnym składnikiem grupy nominalnej pozostającym w relacji predykatywnej z orzeczeniem.
+> Orzeczenie imienne składa się z łącznika i orzecznika.
 
-Właściwe:
-
-> W zdaniu `Młoda badaczka wróciła` wyraz `badaczka` nazywa osobę, o której coś mówimy. To właśnie ten wyraz nazywamy podmiotem.
-
-### Termin „rdzeń”
-
-W składni nie używaj słowa **rdzeń** jako pierwszego określenia wyrazu najważniejszego w grupie, ponieważ może być mylone z rdzeniem słowotwórczym.
-
-Najpierw użyj określenia **wyraz główny grupy**. Termin **wyraz nadrzędny** można wprowadzić po jego wyjaśnieniu. Słowa **rdzeń grupy** wolno użyć później jako pomocniczego synonimu, gdy różnica jest już jasna.
-
-### Podmiot a grupa podmiotu
-
-W szkolnym opisie należy zachować rozróżnienie:
-
-- **podmiot** — wyraz główny, np. `badaczka`;
-- **grupa podmiotu** — podmiot wraz z określeniami, np. `młoda badaczka z laboratorium`.
-
-Jeżeli kolorowa ramka obejmuje całą grupę, tekst musi to wyjaśnić. Pogrubienie powinno wskazywać sam podmiot lub wyraz główny grupy.
-
-### Łącznik i orzecznik
-
-Nie rozpoczynaj lekcji od zdania „orzeczenie imienne składa się z łącznika i orzecznika”.
-
-Najpierw pokaż, że:
-
-- jedna część łączy podmiot z informacją o nim i niesie informacje gramatyczne;
-- druga część podaje cechę, stan, rolę, zawód lub tożsamość.
-
-Dopiero potem nazwij te części **łącznikiem** i **orzecznikiem**.
-
-### Zgoda
-
-Nie używaj słowa **zgoda** jako samowyjaśniającego terminu.
-
-Najpierw pokaż zmianę:
-
-> badaczka wróciła
->
-> badacze wrócili
->
-> badaczki wróciły
-
-Następnie wyjaśnij:
-
-> Forma orzeczenia zmienia się razem z osobą lub grupą, o której mówimy.
-
-Dopiero potem wprowadź termin:
-
-> Takie dostosowanie form nazywamy zgodą podmiotu z orzeczeniem.
-
-## Konstrukcja strony lub lekcji
-
-Zalecana kolejność:
-
-1. krótki przykład lub kontrast;
-2. obserwacja wyrażona prostym językiem;
-3. pytania prowadzące albo analiza krok po kroku;
-4. wprowadzenie terminu;
-5. przykłady typowe;
-6. przykłady kontrastowe;
-7. kontrola zakresu kolorowego oznaczenia;
-8. przypadki graniczne;
-9. krótki naturalny tekst;
-10. komentarz do tekstu;
-11. zwięzłe podsumowanie operacyjne.
-
-Strona wprowadzająca nie powinna od razu przedstawiać pełnej klasyfikacji z wieloma nieznanymi nazwami. Może zapowiedzieć dalsze zjawiska zwykłym językiem, a pełną mapę terminów umieścić po pierwszym objaśnieniu lub na końcu wprowadzenia.
-
-## Przykłady
-
-### Przykład ma coś pokazywać
-
-Każdy przykład powinien mieć określoną funkcję dydaktyczną. Nie dodawaj wielu podobnych zdań bez komentarza, co czytelnik ma w nich zauważyć.
-
-### Kontroluj liczbę zmiennych
-
-W serii porównawczej zmieniaj możliwie jeden element naraz.
-
-Dobrze:
+Właściwa droga:
 
 > Marta pracuje.
 >
-> Marta będzie pracowała.
->
-> Marta musi pracować.
->
 > Marta jest spokojna.
 
-Gorzej: jednoczesna zmiana osoby, słownictwa, czasu, szyku i typu konstrukcji.
+Następnie:
 
-### Kontrast jest ważniejszy niż lista
+1. wskazać, że w pierwszym zdaniu jeden wyraz wystarcza do przekazania informacji;
+2. wskazać, że w drugim potrzebne są dwie współpracujące części;
+3. wyjaśnić zwykłym językiem, co każda z nich robi;
+4. dopiero potem nazwać je łącznikiem i orzecznikiem.
 
-Preferuj pary i krótkie serie pokazujące różnicę:
+## Język jako przedmiot badania
 
-> Marta jest zmęczona.
->
-> Marta wróciła zmęczona.
+Materiał powinien działać jak proste laboratorium językowe.
 
-Po każdym ważnym kontraście wyjaśnij, co zmiana robi ze strukturą i znaczeniem.
+Najważniejsze operacje:
 
-### Przykłady naturalne i tekst
+- zmiana jednego wyrazu;
+- zmiana formy tego samego wyrazu;
+- dodanie fragmentu;
+- usunięcie fragmentu;
+- przestawienie kolejności;
+- zamiana wyrazu na grupę;
+- zamiana grupy na całe zdanie;
+- przedstawienie tej samej sytuacji z innej perspektywy;
+- porównanie tej samej formy w innym kontekście.
 
-Po przykładach izolowanych użyj naturalnego fragmentu. Tekst powinien:
+Po każdej ważnej operacji tekst powinien odpowiedzieć:
 
-- być spójny znaczeniowo;
-- zawierać wcześniej wprowadzone konstrukcje;
-- nie wprowadzać bez objaśnienia nowej trudnej terminologii;
-- mieć komentarz po lekturze;
-- prowadzić do podsumowania.
+> Co się zmieniło w znaczeniu, formie albo funkcji?
 
-Nie dodawaj ćwiczeń, jeżeli użytkownik nie poprosi o nie wprost. Materiał ma uczyć przez wyjaśnienia, przykłady i komentarz.
+Nie wystarczy pokazać dwa zdania obok siebie bez komentarza.
 
-## Kolory i oznaczenia
+## Odbiorca
 
-Kolor i kształt mają kodować funkcję, nie pełnić roli dekoracyjnej.
+Podstawowym odbiorcą jest uczeń szkoły podstawowej albo osoba, która nie zna wcześniejszej terminologii językoznawczej.
 
-Przed użyciem nowego rodzaju oznaczenia należy wyjaśnić:
+Nie wolno zakładać znajomości pojęcia tylko dlatego, że występuje ono w szkolnym programie.
+
+Każde wyjaśnienie powinno przejść test:
+
+> Czy czytelnik potrafi własnymi słowami opisać zauważone zjawisko przed zobaczeniem jego nazwy?
+
+Jeżeli nie, materiał jest zbyt formalny albo termin pojawia się za wcześnie.
+
+## Model wprowadzania pojęcia
+
+Każde ważne pojęcie powinno przejść możliwie pełną drogę.
+
+### 1. Prosty przykład
+
+Pierwszy przykład ma być jednoznaczny i nie może łączyć kilku nowych trudności.
+
+### 2. Obserwacja
+
+Należy wskazać, co czytelnik może zauważyć bez specjalistycznego słownictwa.
+
+### 3. Kontrast lub manipulacja
+
+Trzeba zmienić jeden istotny element i pokazać skutek.
+
+### 4. Opis działania
+
+Przed nazwą należy zwykłym językiem powiedzieć, co fragment robi.
+
+### 5. Termin
+
+Dopiero teraz pojawia się nazwa. Jej pierwsza definicja ma odwoływać się bezpośrednio do widocznego przykładu.
+
+### 6. Utrwalenie
+
+Należy pokazać serię przykładów, w której zmienia się możliwie jedna rzecz naraz.
+
+### 7. Granica
+
+Trzeba zestawić zjawisko z podobnym przykładem należącym do innej kategorii.
+
+### 8. Naturalny tekst
+
+Pojęcie ma pojawić się w spójnym fragmencie, nie tylko w izolowanych zdaniach.
+
+### 9. Reguła operacyjna
+
+Podsumowanie ma mówić, jak rozpocząć analizę, co sprawdzić i z czym nie pomylić zjawiska.
+
+## Termin nie może wyjaśniać terminu
+
+Niedopuszczalne:
+
+> Rekcja jest relacją między wyrazem nadrzędnym a składnikiem zależnym.
+
+Właściwe:
+
+> Mówimy `potrzebuję książki`, a nie `potrzebuję książkę`. Czasownik `potrzebować` wymaga określonej formy następnego wyrazu. Takie wymaganie nazywamy rekcją.
+
+Słowa takie jak:
+
+- relacja;
+- struktura;
+- transformacja;
+- argument;
+- predykacja;
+- walencja;
+- nadrzędność;
+- podrzędność;
+- modalność;
+- faza;
+- rekcja;
+- elipsa;
+- apozycja;
+
+mogą pojawić się dopiero po pokazaniu konkretnego działania w języku.
+
+## Definicja jest podsumowaniem
+
+Pierwsza definicja powinna być:
+
+- krótka;
+- konkretna;
+- zrozumiała bez słownika terminów;
+- związana z przykładem stojącym obok;
+- użyteczna podczas samodzielnej analizy.
+
+Dokładniejsza definicja może pojawić się później. Nie wolno rozpoczynać strony od najbardziej formalnej wersji opisu.
+
+## Rozdzielaj poziomy analizy
+
+Nie wolno mieszać odpowiedzi na różne pytania.
+
+Należy rozróżniać:
+
+1. **znaczenie** — co wyraz lub konstrukcja wnosi;
+2. **formę** — jak wyraz wygląda i jak się zmienia;
+3. **część mowy** — jakim rodzajem wyrazu jest;
+4. **funkcję składniową** — co robi w konkretnym zdaniu;
+5. **funkcję tekstową** — jak organizuje większą wypowiedź.
+
+Niedopuszczalne uproszczenia:
+
+- rzeczownik to podmiot;
+- czasownik to orzeczenie;
+- przymiotnik to przydawka;
+- przysłówek to okolicznik.
+
+Prawidłowe wyjaśnienie pokazuje, że ta sama forma może działać różnie zależnie od zdania.
+
+## Wyraz, grupa i całe zdanie
+
+Tekst i oznaczenia muszą jednoznacznie odróżniać:
+
+- pojedynczy wyraz;
+- wyraz główny;
+- wyraz wraz z określeniami;
+- kilka równorzędnych członów;
+- konstrukcję wielowyrazową;
+- całe zdanie pełniące funkcję wewnątrz większego zdania.
+
+Nie używaj słowa **rdzeń** jako pierwszej nazwy wyrazu najważniejszego w grupie składniowej. Najpierw mów **wyraz główny grupy**.
+
+Jeżeli ramka obejmuje całą grupę, a pogrubienie tylko wyraz główny, trzeba to jawnie wyjaśnić.
+
+## Naturalny rozwój trudności
+
+Kolejność materiału powinna odtwarzać naturalne rozszerzanie intuicji:
+
+1. przypadek prosty i typowy;
+2. niewielkie rozwinięcie;
+3. zmiana formy lub znaczenia;
+4. pojęcie podstawowe;
+5. typowe odmiany;
+6. konstrukcja wielowyrazowa;
+7. element pominięty, domyślny albo nieobecny;
+8. całe zdanie pełniące daną funkcję;
+9. granice klasyfikacji;
+10. synteza w tekście.
+
+Nie wprowadzaj odmiany rzadkiej lub spornej przed odmianą podstawową.
+
+Nie używaj wczesnego przykładu, którego pełne zrozumienie wymaga kilku późniejszych działów, chyba że zostanie opisany wyłącznie na dostępnym poziomie intuicyjnym.
+
+## Kompletność bez sztucznej objętości
+
+Materiał ma obejmować kanoniczny zakres szkolny, lecz nie może być rozbudowywany dla samej liczby stron.
+
+Audyt ma odpowiadać na pytania:
+
+- Czy wszystkie podstawowe zjawiska są omówione?
+- Czy trudny temat nie został ukryty w jednym akapicie strony zbiorczej?
+- Czy każda nowa lekcja ma własną intuicję, kontrasty i granice?
+- Czy po wydzieleniu tematu usunięto powtórzenia?
+- Czy długość wynika ze złożoności zagadnienia?
+
+Nie wyrównuj działów mechanicznie. Dopełnienie, przydawka, podmiot i orzeczenie nie muszą mieć identycznej liczby stron.
+
+## Kanoniczność i uczciwość klasyfikacji
+
+Materiał powinien przedstawiać spójny standard używany w całym kursie.
+
+W przypadkach spornych:
+
+1. najpierw podaj standard kursu;
+2. pokaż kryterium rozstrzygnięcia;
+3. uzasadnij je formą, znaczeniem, zgodą, przypadkiem, zakresem albo zachowaniem po przekształceniu;
+4. na stronie granicznej krótko zaznacz istotne inne ujęcie;
+5. nie przedstawiaj szkolnej konwencji jako jedynej możliwej teorii;
+6. nie przeciążaj ucznia katalogiem wszystkich stanowisk językoznawczych.
+
+Uczeń ma rozumieć powód klasyfikacji, a nie tylko zapamiętać etykietę.
+
+## Pytania pomocnicze nie są definicją
+
+Pytania przypadków i części zdania mogą pomagać, lecz nie rozstrzygają samodzielnie.
+
+Po zadaniu pytania należy sprawdzić:
+
+- od którego wyrazu zależy fragment;
+- co opisuje albo uzupełnia;
+- jaką ma formę;
+- czy zmienia się razem z innym elementem;
+- czy po przestawieniu lub przekształceniu zachowuje funkcję.
+
+Nie ucz analizy jako mechanicznego dobierania pytań.
+
+## Konstrukcja strony wprowadzającej
+
+Strona `index.md` powinna:
+
+1. rozpocząć od prostego zjawiska;
+2. wyjaśnić podstawową intuicję;
+3. pokazać sposób oznaczania;
+4. pokazać pierwszy kontrast;
+5. dopiero potem przedstawić mapę działu;
+6. zakończyć procedurą startową i odsyłaczem do pierwszej lekcji.
+
+Mapa nie może wymagać znajomości nieobjaśnionych terminów. Każda karta powinna mówić zwykłym językiem, co będzie badane.
+
+## Konstrukcja lekcji
+
+Zalecany szkielet:
+
+1. pytanie lub tytuł wskazujący zjawisko;
+2. prosty przykład;
+3. obserwacja zwykłym językiem;
+4. minimalny kontrast albo manipulacja;
+5. nazwa pojęcia;
+6. przykłady typowe;
+7. kontrola zakresu oznaczenia;
+8. kontrast z kategorią podobną;
+9. przypadki graniczne;
+10. krótki naturalny tekst;
+11. komentarz do tekstu;
+12. podsumowanie operacyjne;
+13. odsyłacz do logicznie następnej lekcji.
+
+Nie każda strona musi mieć identyczną budowę, ale żadna nie może zastępować rozumienia samą tabelą lub definicją.
+
+## Przykłady
+
+Każdy przykład musi mieć określone zadanie dydaktyczne.
+
+Preferuj:
+
+- minimalne pary;
+- serie zmieniające jeden element;
+- tę samą sytuację przedstawioną na kilka sposobów;
+- powracające osoby, przedmioty i miejsca;
+- naturalne zdania możliwe do wypowiedzenia poza podręcznikiem.
+
+Nie twórz długich list niezależnych zdań bez komentarza.
+
+Po ważnej serii napisz wprost, co czytelnik powinien zauważyć.
+
+## Tekst końcowy
+
+Końcowa synteza ma być spójną historią, opisem albo krótkim fragmentem użytkowym.
+
+Powinna:
+
+- używać wcześniej omówionych konstrukcji;
+- łączyć kilka poziomów trudności;
+- nie wprowadzać nowej terminologii bez objaśnienia;
+- mieć komentarz wskazujący konkretne fragmenty;
+- prowadzić do procedury analizy;
+- pokazywać język w działaniu.
+
+Nie dodawaj ćwiczeń, jeżeli użytkownik nie poprosi o nie wprost. Projekt uczy przez przykład, porównanie, opis i zastosowanie.
+
+## Podsumowanie operacyjne
+
+Podsumowanie nie może być listą samych nazw.
+
+Powinno odpowiadać:
+
+- od czego rozpocząć;
+- co zauważyć;
+- co dokładnie zaznaczyć;
+- czego nie włączać;
+- po czym potwierdzić rozpoznanie;
+- z czym najłatwiej pomylić zjawisko;
+- jak uzasadnić decyzję.
+
+## Wizualizacja
+
+Kolor i kształt kodują analizę, nie dekorację.
+
+Przed użyciem oznaczenia należy wyjaśnić:
 
 - co obejmuje ramka;
-- czego ramka nie obejmuje;
+- czego nie obejmuje;
 - co oznacza pogrubienie;
-- dlaczego rozdzielone elementy otrzymują osobne oznaczenia.
+- co oznacza podkreślenie;
+- jak zaznaczane są części rozdzielone;
+- czy oznaczenie dotyczy wyrazu, grupy czy całego zdania.
 
-Nie pokazuj legendy z wieloma kategoriami, zanim czytelnik nie pozna ich sensu. Rozbudowana legenda może pojawić się jako mapa po wprowadzeniu podstawowych różnic.
+Ta sama klasa CSS musi mieć stałe znaczenie w całym dziale.
 
-Kontroluj każdy przykład pod kątem zgodności między opisem a zakresem ramki.
+Nie pokazuj rozbudowanej legendy przed wyjaśnieniem kategorii. Legenda ma podsumowywać, nie nauczać zamiast tekstu.
 
-## Merytoryka i standard klasyfikacji
+## Spójność między działami
 
-- Zawsze odróżniaj część mowy od funkcji składniowej.
-- Nie utożsamiaj podmiotu z wykonawcą czynności.
-- Nie utożsamiaj czasownika z orzeczeniem.
-- Przy przypadkach spornych podaj przyjęty w publikacji standard i kryterium rozstrzygnięcia.
-- Nie przedstawiaj konwencji szkolnej jako jedynej możliwej analizy językoznawczej, jeżeli istnieją istotne alternatywy.
-- Nie osłabiaj jednak klarowności przez wymienianie każdej teorii. Najpierw podaj spójny standard używany w materiale.
-- Każda klasyfikacja powinna mieć uzasadnienie oparte na formie, funkcji, zgodzie, przypadku lub relacji w zdaniu.
+Nowy dział powinien:
 
-## Podsumowania
+- korzystać z pojęć już poznanych;
+- krótko przypominać ich sens, gdy są niezbędne;
+- nie przepisywać całych wcześniejszych lekcji;
+- jawnie pokazywać granice z poprzednimi kategoriami;
+- przygotowywać narzędzia potrzebne dalej.
 
-Podsumowanie powinno zawierać reguły, które czytelnik może zastosować podczas analizy. Nie powinno być listą samych nazw.
+Przed zmianą sprawdź poprzednią i następną stronę w nawigacji. Materiał ma tworzyć jedną ścieżkę, a nie zbiór niezależnych artykułów.
 
-Dobre podsumowanie odpowiada na pytania:
+## Polityka lokalnych plików AGENTS.md
 
-- od czego zacząć analizę;
-- co dokładnie zaznaczyć;
-- po czym rozpoznać konstrukcję;
-- czego nie włączać do oznaczenia;
-- z czym najłatwiej ją pomylić.
+Nowy lokalny `AGENTS.md` jest uzasadniony, gdy dział wymaga co najmniej jednego z poniższych:
 
-## Kontrola redakcyjna przed commitem
+- własnego standardu klasyfikacji;
+- własnej kolejności dydaktycznej;
+- własnych granic z innymi kategoriami;
+- własnego systemu oznaczeń;
+- szczególnych reguł terminologicznych.
 
-Przed zapisaniem strony sprawdź:
+Plik lokalny powinien zawierać tylko te zasady, które nie wynikają już z plików nadrzędnych.
 
-1. Czy pierwsze użycie każdego terminu zostało przygotowane przykładem i prostym objaśnieniem?
-2. Czy definicja nie używa niewyjaśnionych pojęć?
-3. Czy czytelnik wie, co ma zauważyć w każdym ważnym przykładzie?
-4. Czy odróżniono poziom intuicyjny od terminologicznego?
-5. Czy ramki i pogrubienia odpowiadają opisowi?
-6. Czy tekst odróżnia podmiot od grupy podmiotu oraz orzeczenie od grupy orzeczenia?
-7. Czy przypadki graniczne mają uzasadnienie?
-8. Czy końcowe podsumowanie wynika z wcześniejszych przykładów?
-9. Czy odsyłacze prowadzą do istniejących plików?
-10. Czy zmiana zachowuje styl wizualny repozytorium?
+Podczas porządkowania istniejących instrukcji:
+
+- przenieś zasadę wspólną wyżej;
+- zostaw zasadę specyficzną niżej;
+- usuń sprzeczne lub powtarzające się wersje;
+- nie kopiuj całych sekcji między katalogami.
+
+## Audyt treści
+
+Audyt nie polega na liczeniu słów i stron.
+
+Należy sprawdzić:
+
+1. kolejność trudności;
+2. przygotowanie każdego terminu;
+3. kompletność kanoniczną;
+4. zgodność z wcześniejszymi działami;
+5. brak pomieszania poziomów analizy;
+6. jakość kontrastów;
+7. obecność naturalnego tekstu;
+8. jakość komentarza;
+9. przypadki graniczne;
+10. zgodność oznaczeń;
+11. potrzebę wydzielania albo scalania lekcji;
+12. aktualność nawigacji.
+
+Po audycie popraw istniejącą stronę, jeżeli wystarczy rozbudować przykład, komentarz lub przejście. Nową stronę twórz tylko wtedy, gdy temat potrzebuje własnej pełnej drogi dydaktycznej.
+
+## Kontrola redakcyjna
+
+Przed commitem sprawdź:
+
+1. Czy uczeń widzi zjawisko przed nazwą?
+2. Czy pierwszy przykład jest prosty?
+3. Czy wiadomo, co zmieniono między przykładami?
+4. Czy trudny termin ma zwykłe objaśnienie?
+5. Czy definicja nie używa niewyjaśnionych pojęć?
+6. Czy część mowy została oddzielona od funkcji?
+7. Czy wyraz został oddzielony od grupy?
+8. Czy oznaczenia odpowiadają komentarzowi?
+9. Czy przypadki graniczne mają kryterium?
+10. Czy tekst końcowy jest spójny i skomentowany?
+11. Czy podsumowanie można zastosować podczas analizy?
+12. Czy strona pasuje do całej ścieżki?
 
 ## Zasady pracy z repozytorium
 
-- Przed zmianami odczytaj `tree.txt` i niniejszy plik.
-- Korzystaj z istniejących klas CSS, chyba że nowy element wymaga rzeczywiście nowej semantyki wizualnej.
-- Nie edytuj wygenerowanych plików PDF ani wyników budowania zamiast źródeł.
-- Commituj logiczne zmiany osobno, najlepiej podstrona po podstronie.
-- Po każdym zapisie ponownie odczytaj zmieniony plik i sprawdź repozytorium oraz ścieżkę.
-- Aktualizuj `mkdocs.yml`, gdy zmieniają się tytuły, pliki lub kolejność lekcji.
+Przed rozpoczęciem pracy:
+
+1. odczytaj aktualny `tree.txt`;
+2. odczytaj główny `AGENTS.md`;
+3. odczytaj wszystkie nadrzędne i lokalne pliki `AGENTS.md` dotyczące ścieżki;
+4. sprawdź `mkdocs.yml`;
+5. odczytaj właściwe źródła Markdown i używane arkusze CSS;
+6. nie zgaduj ścieżek.
+
+Podczas pracy:
+
+- edytuj źródła na gałęzi `main`;
+- nie edytuj wygenerowanego `gh-pages` jako źródła;
+- nie edytuj gotowych plików PDF zamiast ich źródeł;
+- korzystaj z istniejących komponentów CSS, chyba że nowa semantyka wymaga nowej klasy;
+- commituj logiczne zmiany osobno;
+- przy zmianie struktury aktualizuj `mkdocs.yml`;
+- nie twórz martwych plików niewłączonych do nawigacji bez uzasadnienia.
+
+Po każdym zapisie:
+
+1. ponownie odczytaj zmieniony plik;
+2. sprawdź repozytorium, gałąź i ścieżkę;
+3. sprawdź zakres oznaczeń i odsyłacze;
+4. zweryfikuj publikację albo wynik budowania;
+5. przy zmianie struktury sprawdź zaktualizowany `tree.txt`.
+
+## Ostateczny test jakości
+
+Materiał spełnia filozofię projektu, gdy czytelnik po jego przeczytaniu potrafi:
+
+- własnymi słowami opisać różnicę;
+- wskazać przykład;
+- przeprowadzić podobne porównanie;
+- użyć terminu jako nazwy zrozumianego zjawiska;
+- uzasadnić klasyfikację;
+- rozpoznać najbliższy przypadek graniczny;
+- zobaczyć gramatykę jako opis działania języka, a nie zbiór formułek.
