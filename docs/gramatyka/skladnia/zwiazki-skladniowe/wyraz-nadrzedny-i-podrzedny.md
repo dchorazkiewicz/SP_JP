@@ -1,91 +1,157 @@
-# Wyraz nadrzędny i podrzędny
+# Centrum grupy i jej rozwinięcia
 
 <div class="relations-lesson" markdown>
 
-<div class="relations-lead">
-W związku podrzędnym jeden wyraz jest centrum, a drugi go rozwija. Wyraz nadrzędny nazywa główny element grupy, a wyraz podrzędny dopowiada jego cechę, uczestnika, okoliczność albo inną informację.
-</div>
+## Co pozostaje po usunięciu dodatków?
 
-## Podstawowy schemat
+Porównaj:
 
-> <span class="relations-head">raport</span> <span class="relations-arrow">→</span> <span class="relations-mark relations-mark--agreement">szczegółowy</span>
+> raport
+>
+> dokładny raport
+>
+> bardzo dokładny raport
+>
+> bardzo dokładny raport zespołu
 
-Pytamy od wyrazu nadrzędnego:
+Każdy kolejny fragment dodaje informację, ale wszystkie wersje nadal nazywają przede wszystkim **raport**. Możemy usunąć **bardzo**, **dokładny** i **zespołu**, a główna nazwa pozostanie.
 
-**raport jaki? — szczegółowy**.
+Nie działa to w drugą stronę. Po usunięciu wyrazu **raport** pozostaje ciąg *bardzo dokładny zespołu*, który nie tworzy tej samej całości. Rzeczownik **raport** jest więc centrum grupy.
 
-## Czasownik jako centrum
+## Wyraz główny i wyraz zależny
 
-> Marta <span class="relations-head">przygotowała</span> <span class="relations-mark relations-mark--government">raport</span> <span class="relations-mark relations-mark--adjunction">wczoraj</span>.
+W grupie **bardzo dokładny raport zespołu** wyraz **raport** jest wyrazem głównym całej grupy. Wyrazy **dokładny** i **zespołu** rozwijają go bezpośrednio, natomiast **bardzo** rozwija przymiotnik **dokładny**.
 
-Od czasownika zależą dwa różne składniki:
+<div class="relations-tree">raport
+├── jaki? → dokładny
+│   └── jak bardzo? → bardzo
+└── czyj / czego? → zespołu</div>
 
-- **przygotowała co? — raport**;
-- **przygotowała kiedy? — wczoraj**.
+Wyraz, wokół którego powstaje grupa, nazywamy **wyrazem głównym**. Wyraz, który go rozwija, nazywamy **wyrazem zależnym**.
 
-## Rzeczownik jako centrum
+W terminologii szkolnej wyraz główny nazywa się także **nadrzędnym**, a wyraz zależny — **podrzędnym**. Te nazwy opisują kierunek zależności, nie ważność wyrazów w całym tekście.
+
+## Centrum może być różną częścią mowy
+
+### Rzeczownik jako centrum
 
 > <span class="relations-mark relations-mark--agreement">nowy</span> <span class="relations-head">raport</span> <span class="relations-mark relations-mark--government">zespołu</span>
 
-<div class="relations-tree">raport
-├── jaki? → nowy
-└── czyj / czego? → zespołu</div>
+Grupa nazywa rzecz, więc jej centrum jest rzeczownik **raport**.
 
-## Przymiotnik jako centrum
+### Czasownik jako centrum
+
+> Marta <span class="relations-head">przygotowała</span> <span class="relations-mark relations-mark--government">raport</span> <span class="relations-mark relations-mark--adjunction">wczoraj</span>.
+
+Czasownik **przygotowała** organizuje informację o czynności. **Raport** nazywa jej przedmiot, a **wczoraj** określa czas.
+
+### Przymiotnik jako centrum
 
 > <span class="relations-mark relations-mark--adjunction">bardzo</span> <span class="relations-head">dokładny</span>
 
-Przysłówek **bardzo** określa stopień cechy wyrażonej przymiotnikiem.
+Całość nazywa stopień cechy. Wyraz **bardzo** nie opisuje raportu bezpośrednio; zwiększa natężenie cechy **dokładny**.
 
-## Przysłówek jako centrum
+### Przysłówek jako centrum
 
 > <span class="relations-mark relations-mark--adjunction">wyjątkowo</span> <span class="relations-head">szybko</span>
 
-Przysłówek może być rozwijany przez inny przysłówek.
+Wyraz **wyjątkowo** określa stopień szybkości.
 
-## Pytanie pomaga, ale nie rozstrzyga wszystkiego
+## Pytanie pomaga dopiero po znalezieniu centrum
 
-> potrzebować czego? — raportu;
+Porównaj:
 
-> analiza czego? — raportu.
+> potrzebować **raportu**;
+>
+> analiza **raportu**.
 
-W obu przykładach pojawia się pytanie **czego?**, ale raz centrum jest czasownik, a raz rzeczownik. Typ związku trzeba ustalać na podstawie formy i relacji.
+W obu połączeniach możemy zadać pytanie **czego?**, ale zależność zaczyna się od innego wyrazu:
 
-## Kierunek strzałki
+<div class="relations-tree">potrzebować
+└── czego? → raportu
 
-W tym rozdziale strzałka prowadzi od wyrazu nadrzędnego do podrzędnego:
+analiza
+└── czego? → raportu</div>
 
-> <span class="relations-head">czytać</span> <span class="relations-arrow">→</span> <span class="relations-mark relations-mark--government">raport</span>
+Samo pytanie nie mówi jeszcze, czy centrum jest czasownik, rzeczownik czy inny wyraz. Najpierw trzeba ustalić, co tworzy badaną grupę i jaki fragment rozwija.
 
-Nie oznacza to kolejności wyrazów w zdaniu. W zdaniu **Raport Marta przeczytała wczoraj** zależność pozostaje taka sama mimo innego szyku.
+## Kierunek zależności nie zależy od kolejności
 
-## Jedno centrum, kilka określeń
+Porównaj:
 
-> Marta <span class="relations-head">pracowała</span> <span class="relations-mark relations-mark--place relations-mark--adjunction">w biurze</span> <span class="relations-mark relations-mark--adjunction">bardzo uważnie</span>.
+> Marta przeczytała raport wczoraj.
+>
+> Raport Marta przeczytała wczoraj.
+>
+> Wczoraj raport przeczytała Marta.
 
-Kilka wyrazów może zależeć bezpośrednio od tego samego centrum.
+Szyk się zmienia, lecz podstawowe zależności pozostają:
 
-## Zależność wielopoziomowa
+<div class="relations-tree">przeczytała
+├── kto? → Marta
+├── co? → raport
+└── kiedy? → wczoraj</div>
 
-> bardzo szczegółowy raport zespołu badawczego
+Dlatego strzałka <span class="relations-arrow">→</span> pokazuje kierunek zależności, a nie kierunek czytania zdania.
 
-<div class="relations-tree">raport
-├── jaki? → szczegółowy
-│   └── jak bardzo? → bardzo
-└── czyj? → zespołu
-    └── jakiego? → badawczego</div>
+## Jedno centrum może mieć kilka rozwinięć
 
-## Człony równorzędne nie mają relacji nadrzędności
+> Marta <span class="relations-head">pracowała</span> <span class="relations-mark relations-mark--government">nad raportem</span> <span class="relations-mark relations-mark--adjunction">w bibliotece</span> <span class="relations-mark relations-mark--adjunction">bardzo uważnie</span>.
 
-> Marta i Piotr przygotowali raport.
+Trzy fragmenty zależą od czasownika **pracowała**, ale robią coś innego:
 
-Wyrazy **Marta** i **Piotr** tworzą szereg współrzędny. Żaden nie jest podrzędny wobec drugiego.
+- **nad raportem** uzupełnia treść czasownika;
+- **w bibliotece** wskazuje miejsce;
+- **bardzo uważnie** opisuje sposób, a wewnątrz zawiera własną zależność: **bardzo → uważnie**.
 
-<div class="relations-summary">
-<h3>Najpierw znajdź centrum grupy</h3>
-Dopiero po wskazaniu wyrazu nadrzędnego można poprawnie określić zależność i typ związku składniowego.
+## Nie każda para sąsiadujących wyrazów tworzy związek
+
+W grupie **bardzo dokładny raport** wyrazy **bardzo** i **raport** są oddzielone tylko jednym słowem, ale nie łączą się bezpośrednio. Wyraz **bardzo** zależy od **dokładny**.
+
+Podobnie w zdaniu **Wczoraj nowa kierowniczka szybko podpisała dokument** pierwszy wyraz **wczoraj** nie jest centrum zdania. Zależy od orzeczenia **podpisała**.
+
+## Człony równorzędne nie są sobie podporządkowane
+
+<div class="relations-comparison">
+  <div class="relations-comparison-item"><span class="relations-comparison-label">zależność</span><p><span class="relations-head">raport</span> <span class="relations-arrow">→</span> <span class="relations-mark relations-mark--agreement">dokładny</span></p><p><em>Dokładny</em> rozwija rzeczownik.</p></div>
+  <div class="relations-comparison-item"><span class="relations-comparison-label">równorzędność</span><p><span class="relations-mark relations-mark--coordination">raport i prezentacja</span></p><p>Oba rzeczowniki są osobnymi przedmiotami czynności.</p></div>
 </div>
 
-[Przejdź dalej: związek zgody](../zwiazek-zgody/){ .md-button .md-button--primary }
+Nie rysujemy strzałki od **raport** do **prezentacja**, ponieważ żaden człon nie jest centrum drugiego.
+
+## Krótki tekst: znajdowanie centrów
+
+> Rano nowa kierowniczka działu bardzo uważnie przeczytała końcowy raport zespołu.
+
+Najpierw odnajdujemy pełne orzeczenie **przeczytała**. Od niego zależą: **kierowniczka**, **raport**, **rano** i **bardzo uważnie**. Następnie rozwijamy każdą grupę osobno:
+
+<div class="relations-tree">przeczytała
+├── kto? → kierowniczka
+│   ├── jaka? → nowa
+│   └── czego? → działu
+├── co? → raport
+│   ├── jaki? → końcowy
+│   └── czyj / czego? → zespołu
+├── kiedy? → rano
+└── jak? → uważnie
+    └── jak bardzo? → bardzo</div>
+
+Nie łączymy wszystkich określeń bezpośrednio z czasownikiem. **Nowa** rozwija kierowniczkę, **końcowy** rozwija raport, a **bardzo** rozwija sposób opisany słowem **uważnie**.
+
+## Jak znaleźć centrum grupy?
+
+1. Ustal, co cała grupa nazywa albo opisuje.
+2. Usuń kolejno określenia i sprawdź, który wyraz zachowuje podstawowy charakter grupy.
+3. Wskaż składniki zależne bezpośrednio od centrum.
+4. Dla każdego składnika sprawdź, czy ma własne rozwinięcia.
+5. Nie kieruj się wyłącznie kolejnością ani jednym pytaniem.
+6. Oddziel zależność od szeregu równorzędnego.
+
+<div class="relations-summary">
+<h3>Analiza zaczyna się od centrum, nie od etykiety</h3>
+<p>Najpierw ustal, wokół którego wyrazu powstała grupa i co rozwija go bezpośrednio. Dopiero wtedy używaj terminów <em>nadrzędny</em> i <em>podrzędny</em> oraz nazywaj typ związku.</p>
+</div>
+
+[Przejdź dalej: formy zmieniają się razem](../zwiazek-zgody/){ .md-button .md-button--primary }
 
 </div>
