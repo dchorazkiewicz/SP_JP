@@ -1,88 +1,148 @@
-# Związek przynależności
+# Związek przynależności — zależność bez wspólnej odmiany
 
 <div class="relations-lesson" markdown>
 
-<div class="relations-lead">
-W związku przynależności wyraz podrzędny jest zwykle nieodmienny. Nie dopasowuje końcówki do centrum i nie jest przez nie wprowadzany w konkretnym przypadku. Zależność wynika przede wszystkim ze znaczenia i miejsca w grupie.
-</div>
+## Forma pozostaje, ale sens nadal łączy wyrazy
 
-## Czasownik i przysłówek
+Porównaj:
+
+> Marta pracuje <span class="relations-mark relations-mark--adjunction">dokładnie</span>.
+>
+> Marta pracowała <span class="relations-mark relations-mark--adjunction">dokładnie</span>.
+>
+> Marta będzie pracować <span class="relations-mark relations-mark--adjunction">dokładnie</span>.
+
+Czasownik zmienia czas i budowę, lecz wyraz **dokładnie** zachowuje jedną formę. Nie oznacza to, że jest niezależny. W każdym zdaniu mówi, jak przebiega praca.
+
+Usuńmy go:
+
+> Marta pracuje.
+
+Zdanie nadal jest poprawne, ale traci informację o sposobie. Wyraz **dokładnie** został dołączony do czasownika przez znaczenie, a nie przez wspólną odmianę ani wymagany przypadek.
+
+W tradycyjnej gramatyce szkolnej taką zależność nazywamy **związkiem przynależności**.
+
+## Nieodmienność jest wskazówką, nie pełną definicją
+
+Wyraz zależny często jest nieodmienny, lecz samo stwierdzenie „nie ma końcówki” nie wystarcza. Trzeba jeszcze ustalić:
+
+- co ten wyraz opisuje;
+- do którego centrum należy;
+- czy nie tworzy wymaganej konstrukcji;
+- czy nie jest częścią orzeczenia wielowyrazowego.
+
+W zdaniu **Marta odpowiedziała spokojnie** wyraz **spokojnie** określa sposób odpowiadania. W wypowiedzeniu **Spokojnie!** ten sam wyraz jest samodzielny i nie zależy od czasownika.
+
+## Przysłówek przy czasowniku
 
 - pracować <span class="relations-mark relations-mark--adjunction">uważnie</span>;
 - mówić <span class="relations-mark relations-mark--adjunction">spokojnie</span>;
 - wrócić <span class="relations-mark relations-mark--adjunction">wczoraj</span>;
 - mieszkać <span class="relations-mark relations-mark--adjunction">daleko</span>.
 
-Przysłówek nie zmienia formy, ale rozwija znaczenie czasownika.
+Każdy przysłówek dodaje inny rodzaj informacji: sposób, czas albo miejsce. Zależność rozpoznajemy przez pytanie, do jakiej sytuacji odnosi się dany wyraz.
 
-## Przymiotnik i przysłówek
+## Przysłówek przy przymiotniku
 
-> <span class="relations-mark relations-mark--adjunction">bardzo</span> <span class="relations-head">dokładny</span> raport;
+> dokładny raport
+>
+> <span class="relations-mark relations-mark--adjunction">bardzo</span> <span class="relations-head">dokładny</span> raport
 
-> <span class="relations-mark relations-mark--adjunction">wyjątkowo</span> <span class="relations-head">trudne</span> zadanie.
+Wyraz **bardzo** nie opisuje raportu jako osobnej cechy. Zwiększa natężenie cechy **dokładny**.
 
-Przysłówek określa stopień cechy.
+> <span class="relations-mark relations-mark--adjunction">wyjątkowo</span> <span class="relations-head">trudne</span> zadanie
 
-## Przysłówek rozwijany przez przysłówek
+Zmiana rodzaju i liczby przymiotnika nie zmienia formy przysłówka: **wyjątkowo trudny problem — wyjątkowo trudne zadania**.
 
-> pracować <span class="relations-mark relations-mark--adjunction">bardzo szybko</span>;
+## Przysłówek przy przysłówku
+
+> pracować <span class="relations-mark relations-mark--adjunction">bardzo szybko</span>
 
 <div class="relations-tree">pracować
 └── jak? → szybko
     └── jak bardzo? → bardzo</div>
 
-## Bezokolicznik zależny znaczeniowo
+Wyraz **bardzo** nie zależy bezpośrednio od czasownika **pracować**. Najpierw rozwija **szybko**, a dopiero cała grupa **bardzo szybko** opisuje pracę.
 
-> Technik poszedł <span class="relations-mark relations-mark--adjunction">sprawdzić urządzenie</span>.
+## Nieodmienne określenia czasu i miejsca
 
-Bezokolicznik celu nie odmienia się i zależy znaczeniowo od czasownika **poszedł**.
+> Spotkanie odbędzie się <span class="relations-mark relations-mark--adjunction">jutro</span>.
+>
+> Zespół pracował <span class="relations-mark relations-mark--adjunction">tutaj</span>.
+>
+> Marta wyjechała <span class="relations-mark relations-mark--adjunction">daleko</span>.
 
-Porównaj:
+Wyrazy te nie pokazują zależności końcówką. Ich miejsce w sieci zdania wynika z tego, jaką sytuację opisują.
 
-> Technik chciał <strong>sprawdzić urządzenie</strong>.
-
-W tej konstrukcji bezokolicznik jest silniej związany z czasownikiem modalnym. W różnych opisach bywa ujmowany jako składnik orzeczenia złożonego, nie zwykły związek przynależności.
-
-## Wyrażenia przyimkowe
-
-> pracować <span class="relations-mark relations-mark--adjunction">w biurze</span>;
-
-> spotkać się <span class="relations-mark relations-mark--adjunction">po południu</span>.
-
-W szkolnej analizie swobodne okoliczniki bywają zaliczane do związku przynależności, ponieważ cała grupa przyimkowa nie dopasowuje formy do czasownika.
-
-## Przynależność a rząd
+## Bezokolicznik: podobna forma, różne funkcje
 
 <div class="relations-comparison">
-  <div class="relations-comparison-item"><span class="relations-comparison-label">przynależność</span><p>pracować <span class="relations-mark relations-mark--adjunction">w biurze</span></p><p>Miejsce jest swobodną okolicznością.</p></div>
-  <div class="relations-comparison-item"><span class="relations-comparison-label">rząd</span><p>myśleć <span class="relations-mark relations-mark--government">o projekcie</span></p><p>Czasownik wymaga konstrukcji <em>o + miejscownik</em>.</p></div>
+  <div class="relations-comparison-item"><span class="relations-comparison-label">cel czynności</span><p>Technik poszedł <span class="relations-mark relations-mark--adjunction">sprawdzić urządzenie</span>.</p><p>Bezokolicznik mówi, po co technik poszedł. Możemy rozwinąć: <em>poszedł, aby sprawdzić urządzenie</em>.</p></div>
+  <div class="relations-comparison-item"><span class="relations-comparison-label">część orzeczenia</span><p>Technik <strong>musi sprawdzić</strong> urządzenie.</p><p><em>Musi sprawdzić</em> tworzy jedno złożone centrum orzeczeniowe.</p></div>
 </div>
 
-## Przynależność a zgoda
+Nie każdy bezokolicznik po czasowniku jest związkiem przynależności. Najpierw trzeba rozpoznać pełny zakres orzeczenia.
 
-> <span class="relations-mark relations-mark--agreement">bardzo dokładny raport</span>
+## Grupa przyimkowa może być swobodnie dołączona
 
-W tej grupie występują dwa związki:
+> Marta pracowała <span class="relations-mark relations-mark--adjunction">w bibliotece</span>.
+>
+> Zespół spotkał się <span class="relations-mark relations-mark--adjunction">po południu</span>.
 
-<div class="relations-tree">raport
-└── jaki? → dokładny [zgoda]
-    └── jak bardzo? → bardzo [przynależność]</div>
+Całe grupy **w bibliotece** i **po południu** opisują warunki sytuacji. W szkolnym ujęciu zaliczamy takie swobodne okoliczniki do przynależności.
 
-## Brak widocznej końcówki nie oznacza braku zależności
+Wewnątrz każdej grupy przyimek nadal wymaga przypadku rzeczownika. To osobny poziom:
 
-> Marta odpowiedziała spokojnie.
+<div class="relations-tree">pracowała
+└── gdzie? → w bibliotece [przynależność całej grupy]
+    └── w → bibliotece [miejscownik wymagany przez przyimek]</div>
 
-Wyraz **spokojnie** nie zmienia formy, ale nie jest samodzielnym dodatkiem bez związku. Określa sposób odpowiadania.
+## Przynależność czy rząd?
 
-## Termin tradycyjny
+<div class="relations-comparison">
+  <div class="relations-comparison-item"><span class="relations-comparison-label">swobodna okoliczność</span><p>pracować <span class="relations-mark relations-mark--adjunction">w bibliotece</span></p><p>Możemy podać inne miejsce albo nie podać go wcale.</p></div>
+  <div class="relations-comparison-item"><span class="relations-comparison-label">konstrukcja wymagana</span><p>myśleć <span class="relations-mark relations-mark--government">o projekcie</span></p><p>Czasownik w tym znaczeniu wymaga schematu <em>o + miejscownik</em>.</p></div>
+</div>
 
-Nazwa **związek przynależności** jest charakterystyczna dla szkolnej tradycji gramatycznej. W nowszych opisach często mówi się szerzej o **łączności** albo **adiunkcji**, czyli dołączaniu składnika niewymaganego przez centrum.
+Nie rozstrzygamy różnicy pytaniem **gdzie?** lub obecnością przyimka. Sprawdzamy, czy centrum stawia konkretne wymaganie.
+
+## Szyk pomaga, ale nie zawsze rozstrzyga
+
+> Marta szybko odpowiedziała.
+>
+> Szybko Marta odpowiedziała.
+>
+> Marta odpowiedziała szybko.
+
+W każdej wersji **szybko** opisuje odpowiadanie. Zmiana miejsca może zmienić nacisk, ale nie musi zmieniać zależności. Przy dłuższych zdaniach potrzebujemy sensu i parafrazy, a nie tylko odległości między wyrazami.
+
+## Krótki tekst: zależności niewidoczne w końcówkach
+
+> Wczoraj Marta bardzo spokojnie wyjaśniła problem. Później zespół pracował w bibliotece wyjątkowo długo. Technik wyszedł sprawdzić urządzenie.
+
+W tekście:
+
+- **wczoraj** opisuje czas wyjaśniania;
+- **bardzo** rozwija **spokojnie**, a całość opisuje sposób;
+- **w bibliotece** podaje miejsce pracy;
+- **wyjątkowo** rozwija **długo**;
+- **sprawdzić urządzenie** podaje cel wyjścia.
+
+## Jak rozpoznać przynależność?
+
+1. Wskaż centrum i fragment, który je rozwija.
+2. Sprawdź, czy formy nie zmieniają się razem.
+3. Sprawdź, czy centrum nie wymaga konkretnego przypadku lub przyimka.
+4. Ustal znaczenie: czas, miejsce, sposób, stopień, cel lub inne dopełnienie opisu.
+5. Wyznacz pełny zakres grupy, np. **bardzo spokojnie**, nie samo **spokojnie**.
+6. Przy bezokoliczniku najpierw sprawdź, czy nie należy do orzeczenia złożonego.
+7. Traktuj nieodmienność jako wskazówkę, nigdy jako jedyne kryterium.
 
 <div class="relations-summary">
-<h3>Przynależność nie ma widocznej zgody ani narzuconego przypadku</h3>
-Wyraz zależny pozostaje nieodmienny, a jego podporządkowanie rozpoznajemy przez znaczenie i funkcję w grupie.
+<h3>Brak wspólnej końcówki nie oznacza braku zależności</h3>
+<p>W przynależności miejsce składnika w grupie rozpoznajemy przede wszystkim przez znaczenie. Sprawdzamy, co opisuje i do którego centrum należy, a dopiero potem stosujemy tradycyjną nazwę.</p>
 </div>
 
-[Przejdź dalej: współrzędność i szeregi](../wspolrzednosc-i-szeregi/){ .md-button .md-button--primary }
+[Przejdź dalej: człony o tej samej randze](../wspolrzednosc-i-szeregi/){ .md-button .md-button--primary }
 
 </div>
