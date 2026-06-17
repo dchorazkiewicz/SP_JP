@@ -80,11 +80,11 @@ Zdanie jest rzeczowe. Rozwinięcia podają dokładnie te informacje, które poma
 
 ### Sens i pełne orzeczenie
 
-Nadawca przypisuje raportowi cechę. Sam wyraz **jest** nie przekazuje tej cechy, dlatego pełne orzeczenie obejmuje również przymiotnik:
+Nadawca przypisuje raportowi cechę. Sam wyraz **jest** nie przekazuje tej cechy, dlatego rdzeń pełnego orzeczenia obejmuje również przymiotnik **czytelny**:
 
-> Nowy raport zespołu <span class="sentence-mark sentence-mark--predicate">jest wyjątkowo czytelny</span>.
+> Nowy raport zespołu <span class="sentence-mark sentence-mark--predicate">jest</span> wyjątkowo <span class="sentence-mark sentence-mark--predicate">czytelny</span>.
 
-Wyraz **wyjątkowo** rozwija orzecznik **czytelny**, więc znajduje się wewnątrz pełnej grupy orzeczenia.
+Wyraz **wyjątkowo** określa stopień cechy **czytelny**. Należy do grupy orzeczenia, ale nie do rdzenia orzeczenia **jest czytelny**.
 
 ### Podmiot i grupy
 
@@ -92,7 +92,7 @@ Podmiotem jest **raport**. Wyrazy **nowy** i **zespołu** rozwijają jego nazwę
 
 <div class="sentence-analysis" markdown>
 **Grupa podmiotu:** <span class="sentence-mark sentence-mark--subject-group">nowy raport zespołu</span>  
-**Grupa orzeczenia:** <span class="sentence-mark sentence-mark--predicate-group"><span class="sentence-mark sentence-mark--predicate">jest wyjątkowo czytelny</span></span>
+**Grupa orzeczenia:** <span class="sentence-mark sentence-mark--predicate-group"><span class="sentence-mark sentence-mark--predicate">jest</span> wyjątkowo <span class="sentence-mark sentence-mark--predicate">czytelny</span></span>
 </div>
 
 ### Drzewo
@@ -121,9 +121,9 @@ Wypowiedzenie przekazuje ogólną konieczność. Nadawca nie wskazuje osoby odpo
 
 ### Pełne orzeczenie
 
-> Przed spotkaniem <span class="sentence-mark sentence-mark--predicate">trzeba dokładnie sprawdzić</span> wszystkie dane.
+> Przed spotkaniem <span class="sentence-mark sentence-mark--predicate">trzeba</span> dokładnie <span class="sentence-mark sentence-mark--predicate">sprawdzić</span> wszystkie dane.
 
-Centrum konstrukcji tworzą **trzeba sprawdzić**. Wyraz **dokładnie** rozwija sposób sprawdzania, dlatego w analizie warstwowej oddzielamy go od zasadniczej pary, choć całość należy do grupy orzeczenia.
+Rdzeń konstrukcji tworzą **trzeba sprawdzić**. Wyraz **dokładnie** opisuje sposób sprawdzania, dlatego należy do grupy orzeczenia, ale nie do rdzenia pełnego orzeczenia.
 
 ### Brak podmiotu
 
@@ -131,9 +131,9 @@ Nie można wskazać mianownika, z którym orzeczenie tworzyłoby związek głów
 
 ### Grupa orzeczenia
 
-> <span class="sentence-mark sentence-mark--predicate-group">Przed spotkaniem <span class="sentence-mark sentence-mark--predicate">trzeba sprawdzić</span> wszystkie dane dokładnie</span>.
+> <span class="sentence-mark sentence-mark--predicate-group">Przed spotkaniem <span class="sentence-mark sentence-mark--predicate">trzeba</span> dokładnie <span class="sentence-mark sentence-mark--predicate">sprawdzić</span> wszystkie dane</span>.
 
-Naturalny szyk umieszcza **dokładnie** przed bezokolicznikiem, ale jego funkcja pozostaje taka sama.
+Oznaczenie pokazuje dwa poziomy: niebieskie podkreślenie obejmuje rdzeń orzeczenia **trzeba sprawdzić**, a szersza ramka — wszystkie składniki grupy orzeczenia.
 
 ### Drzewo
 
