@@ -168,6 +168,7 @@
 ./docs/gramatyka/skladnia/podmiot/rozpoznawanie.md
 ./docs/gramatyka/skladnia/przeksztalcanie-i-skracanie-zdan
 ./docs/gramatyka/skladnia/przeksztalcanie-i-skracanie-zdan/AGENTS.md
+./docs/gramatyka/skladnia/przeksztalcanie-i-skracanie-zdan/index.md
 ./docs/gramatyka/skladnia/przydawka
 ./docs/gramatyka/skladnia/przydawka/AGENTS.md
 ./docs/gramatyka/skladnia/przydawka/granice-klasyfikacji.md
@@ -188,6 +189,7 @@
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone/AGENTS.md
+./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone/index.md
 ./docs/gramatyka/skladnia/zdania-zlozone
 ./docs/gramatyka/skladnia/zdania-zlozone/AGENTS.md
 ./docs/gramatyka/skladnia/zdania-zlozone/index.md
