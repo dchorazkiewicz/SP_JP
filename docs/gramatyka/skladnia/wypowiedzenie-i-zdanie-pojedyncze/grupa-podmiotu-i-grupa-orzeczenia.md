@@ -68,9 +68,9 @@ Pełnym orzeczeniem jest **jest spokojna**, nie samo **jest**. Dlatego grupa orz
 
 Jeżeli dodamy rozwinięcie:
 
-> <span class="sentence-mark sentence-mark--subject-group">Marta</span> <span class="sentence-mark sentence-mark--predicate-group"><span class="sentence-mark sentence-mark--predicate">jest wyjątkowo spokojna</span> podczas spotkań</span>.
+> <span class="sentence-mark sentence-mark--subject-group">Marta</span> <span class="sentence-mark sentence-mark--predicate-group"><span class="sentence-mark sentence-mark--predicate">jest</span> wyjątkowo <span class="sentence-mark sentence-mark--predicate">spokojna</span> podczas spotkań</span>.
 
-wyraz **wyjątkowo** rozwija orzecznik **spokojna**, a grupa **podczas spotkań** podaje warunki, w których cecha się ujawnia.
+Rdzeń pełnego orzeczenia tworzą **jest spokojna**. Wyraz **wyjątkowo** rozwija orzecznik **spokojna**, dlatego należy do grupy orzeczenia, ale nie do samego rdzenia orzeczenia. Grupa **podczas spotkań** podaje warunki, w których cecha się ujawnia.
 
 Podobnie:
 
@@ -143,7 +143,9 @@ Podział na grupę podmiotu i grupę orzeczenia jest gramatyczny. Nie odpowiada 
 
 Nie ma grupy podmiotu, ponieważ podmiotu nie można wskazać ani odtworzyć. Całe zdanie buduje grupa orzeczenia:
 
-> <span class="sentence-mark sentence-mark--predicate-group">W sali <span class="sentence-mark sentence-mark--predicate">zrobiło się bardzo cicho</span></span>.
+> <span class="sentence-mark sentence-mark--predicate-group">W sali <span class="sentence-mark sentence-mark--predicate">zrobiło się cicho</span> bardzo</span>.
+
+W naturalnym szyku mówimy **zrobiło się bardzo cicho**. W analizie rozdzielamy jednak rdzeń orzeczenia **zrobiło się cicho** od określenia stopnia **bardzo**.
 
 Podobnie:
 
