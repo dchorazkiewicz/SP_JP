@@ -1,38 +1,38 @@
-# Strona czynna, bierna i konstrukcja bezpodmiotowa
+# Strona czynna, bierna i zdanie bez podmiotu
 
 <div class="object-lesson" markdown>
 
-## Jedno zdarzenie, trzy sposoby jego przedstawienia
+## Jedno zdarzenie można opowiedzieć na trzy sposoby
 
 Porównaj:
 
 <div class="object-series">
-  <div class="object-row"><span class="object-badge">wykonawca na początku</span><p><span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="object-predicate">podpisała</span> <span class="object-mark object-mark--direct"><strong>umowę</strong></span>.</p><span class="object-note">strona czynna</span></div>
-  <div class="object-row"><span class="object-badge">dokument na początku</span><p><span class="subject-mark subject-mark--grammatical"><strong>Umowa</strong></span> <span class="object-predicate">została podpisana</span> <span class="object-mark object-mark--indirect">przez <strong>Martę</strong></span>.</p><span class="object-note">strona bierna</span></div>
-  <div class="object-row"><span class="object-badge">sama wykonana czynność</span><p><span class="object-mark object-mark--direct"><strong>Umowę</strong></span> <span class="object-predicate">podpisano</span> rano.</p><span class="object-note">brak podmiotu</span></div>
+  <div class="object-row"><span class="object-badge">zaczynamy od Marty</span><p><span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="object-predicate">podpisała</span> <span class="object-mark object-mark--direct"><strong>umowę</strong></span>.</p><span class="object-note">strona czynna</span></div>
+  <div class="object-row"><span class="object-badge">zaczynamy od umowy</span><p><span class="subject-mark subject-mark--grammatical"><strong>Umowa</strong></span> <span class="object-predicate">została podpisana</span> <span class="object-mark object-mark--indirect">przez <strong>Martę</strong></span>.</p><span class="object-note">strona bierna</span></div>
+  <div class="object-row"><span class="object-badge">mówimy tylko o wykonanej czynności</span><p><span class="object-mark object-mark--direct"><strong>Umowę</strong></span> <span class="object-predicate">podpisano</span> rano.</p><span class="object-note">brak podmiotu</span></div>
 </div>
 
-Wszystkie zdania mogą opisywać to samo zdarzenie, ale inaczej rozkładają uwagę.
+Wszystkie zdania mogą opisywać to samo wydarzenie. Każde wybiera jednak inny główny temat:
 
-- W zdaniu czynnym **Marta** jest podmiotem, a **umowę** dopełnieniem bliższym.
-- W zdaniu biernym **umowa** staje się podmiotem, a wykonawcę wskazuje wyrażenie **przez Martę**.
-- W konstrukcji **umowę podpisano** nie ma podmiotu; wyraz **umowę** pozostaje dopełnieniem bliższym.
+- **Marta podpisała umowę** — najważniejsza jest osoba wykonująca czynność;
+- **Umowa została podpisana przez Martę** — najważniejsza jest umowa;
+- **Umowę podpisano** — najważniejszy jest sam fakt podpisania.
 
-## Zmiana strony zmienia funkcję rzeczownika
+## Ten sam rzeczownik może zmienić rolę w zdaniu
 
 <div class="object-tree">Marta podpisała umowę
-├── Marta → podmiot i wykonawca
-├── podpisała → orzeczenie czasownikowe
-└── umowę → dopełnienie bliższe
+├── Marta → o niej mówi zdanie → podmiot
+├── podpisała → co zrobiła? → orzeczenie
+└── umowę → co podpisała? → dopełnienie bliższe
 
 Umowa została podpisana przez Martę
-├── umowa → podmiot i rzecz objęta czynnością
-├── została podpisana → orzeczenie imienne w stronie biernej
-└── przez Martę → dopełnienie wskazujące wykonawcę</div>
+├── umowa → o niej mówi zdanie → podmiot
+├── została podpisana → co się z nią stało? → orzeczenie
+└── przez Martę → kto wykonał czynność? → dopełnienie</div>
 
-Rzeczownik nie ma funkcji składniowej „na zawsze”. Funkcja wynika z jego relacji z orzeczeniem w konkretnym zdaniu.
+W pierwszym zdaniu wyraz **umowę** jest dopełnieniem. W drugim pojawia się jako **umowa** i staje się podmiotem. Nie jest więc podmiotem lub dopełnieniem „na zawsze”. Jego rola zależy od tego, jak zbudowaliśmy konkretne zdanie.
 
-## Dopełnienie bliższe staje się podmiotem
+## Dopełnienie bliższe może stać się podmiotem
 
 > Technik <span class="object-predicate">naprawił</span> <span class="object-mark object-mark--direct"><strong>czujnik</strong></span>.
 
@@ -42,36 +42,39 @@ Rzeczownik nie ma funkcji składniowej „na zawsze”. Funkcja wynika z jego re
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Wyniki</strong></span> <span class="object-predicate">zostały przeanalizowane</span> przez zespół.
 
-Po transformacji zmieniają się jednocześnie:
+Po zmianie zdania dzieją się trzy rzeczy:
 
-- funkcja rzeczownika;
-- jego przypadek: biernik przechodzi w mianownik;
-- typ orzeczenia: czasownikowe przechodzi w imienne z imiesłowem biernym;
-- perspektywa zdania.
+- **czujnik** lub **wyniki** stają się podmiotem;
+- biernik zmienia się w mianownik;
+- orzeczenie zmienia się z **naprawił** na **został naprawiony** albo z **przeanalizował** na **zostały przeanalizowane**.
 
-## Wykonawca strony biernej
+Nie trzeba zapamiętywać tego jako oderwanej formułki. Wystarczy śledzić ten sam wyraz w obu zdaniach.
+
+## Jak wskazujemy osobę, która wykonała czynność?
 
 > Raport <span class="object-predicate">został przygotowany</span> <span class="object-mark object-mark--indirect">przez doświadczony <strong>zespół</strong></span>.
 
-Wyrażenie **przez doświadczony zespół** nie jest podmiotem, ponieważ forma **został przygotowany** zgadza się z wyrazem **raport**. W szkolnej analizie traktujemy je jako dopełnienie dalsze wskazujące wykonawcę czynności.
+Podmiotem jest **raport**, ponieważ orzeczenie ma formę **został przygotowany**, dopasowaną do wyrazu **raport**. Wyrażenie **przez doświadczony zespół** mówi, kto wykonał czynność.
 
-Wykonawca może zostać pominięty:
+Taką osobę lub grupę nazywamy **wykonawcą czynności**. W szkolnej analizie wyrażenie z **przez** traktujemy jako dopełnienie dalsze, a nie podmiot.
+
+Wykonawcy nie trzeba podawać:
 
 > Raport <span class="object-predicate">został przygotowany</span> w poniedziałek.
 
-Zdanie nadal ma podmiot **raport**. Brak wyrażenia z **przez** nie czyni go bezpodmiotowym.
+Zdanie nadal ma podmiot **raport**. Nie znamy tylko osoby, która go przygotowała.
 
-## Dwa dopełnienia w zdaniu czynnym
+## Co dzieje się z drugim dopełnieniem?
 
 > Marta <span class="object-predicate">przekazała</span> <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span> <span class="object-mark object-mark--direct"><strong>dokument</strong></span>.
 
-Po zmianie strony:
+Zmieńmy zdanie:
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Dokument</strong></span> <span class="object-predicate">został przekazany</span> <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span> przez Martę.
 
-Do podmiotu przechodzi dopełnienie bliższe **dokument**. Odbiorca **kierownikowi** zachowuje funkcję dopełnienia dalszego.
+**Dokument** przeszedł na miejsce podmiotu. **Kierownikowi** nadal odpowiada na pytanie **komu?** i pozostaje dopełnieniem dalszym.
 
-## Konstrukcja na „-no” i „-to” nie ma podmiotu
+## Formy zakończone na „-no” i „-to” nie mają podmiotu
 
 > <span class="object-mark object-mark--direct"><strong>Dokument</strong></span> <span class="object-predicate">wysłano</span> rano.
 
@@ -79,29 +82,37 @@ Do podmiotu przechodzi dopełnienie bliższe **dokument**. Odbiorca **kierowniko
 
 > <span class="object-mark object-mark--direct"><strong>Próbki</strong></span> <span class="object-predicate">zbadano</span> w laboratorium.
 
-Formy **wysłano**, **zamknięto** i **zbadano** mówią o wykonanej czynności, ale nie pozwalają wprowadzić zwykłego podmiotu. Rzeczy objęte czynnością zachowują biernik i funkcję dopełnienia bliższego.
+Formy **wysłano**, **zamknięto** i **zbadano** mówią, że ktoś wykonał czynność, ale nie podają tej osoby jako podmiotu. Nie możemy powiedzieć, że ukrytym podmiotem jest **on** albo **oni**.
+
+Rzeczy objęte czynnością pozostają dopełnieniami:
+
+- wysłano **co?** — dokument;
+- zamknięto **co?** — drogę;
+- zbadano **co?** — próbki.
 
 <div class="object-checkpoint">
-  <div class="object-checkpoint__title">Pozycja przed orzeczeniem nie tworzy podmiotu</div>
-  <p>W zdaniu <em>Drogę zamknięto</em> wyraz <em>drogę</em> stoi pierwszy, ale forma biernika pokazuje, że nadal jest dopełnieniem. Podmiot nie został zapisany ani ukryty w końcówce czasownika.</p>
+  <div class="object-checkpoint__title">Pierwsze miejsce w zdaniu nie oznacza podmiotu</div>
+  <p>W zdaniu <em>Drogę zamknięto</em> wyraz <em>drogę</em> stoi na początku, ale ma formę biernika i odpowiada na pytanie <em>zamknięto co?</em> Nadal jest dopełnieniem.</p>
 </div>
 
-## Strona bierna i forma bezosobowa kierują uwagę inaczej
+## „Droga została zamknięta” i „Drogę zamknięto” nie są zbudowane tak samo
 
 <div class="object-comparison">
-  <div class="object-comparison-item"><span class="object-comparison-label">podmiot: rezultat lub obiekt</span><p><span class="subject-mark subject-mark--grammatical"><strong>Droga</strong></span> <span class="object-predicate">została zamknięta</span>.</p><p>Zdanie przedstawia drogę jako główny temat.</p></div>
-  <div class="object-comparison-item"><span class="object-comparison-label">brak podmiotu: samo zdarzenie</span><p><span class="object-mark object-mark--direct"><strong>Drogę</strong></span> <span class="object-predicate">zamknięto</span>.</p><p>Zdanie skupia się na fakcie wykonania czynności.</p></div>
+  <div class="object-comparison-item"><span class="object-comparison-label">zdanie ma podmiot</span><p><span class="subject-mark subject-mark--grammatical"><strong>Droga</strong></span> <span class="object-predicate">została zamknięta</span>.</p><p>Zdanie mówi przede wszystkim o drodze.</p></div>
+  <div class="object-comparison-item"><span class="object-comparison-label">zdanie nie ma podmiotu</span><p><span class="object-mark object-mark--direct"><strong>Drogę</strong></span> <span class="object-predicate">zamknięto</span>.</p><p>Zdanie mówi przede wszystkim o wykonanej czynności.</p></div>
 </div>
 
-Obie konstrukcje mogą pominąć wykonawcę, ale robią to inaczej. W stronie biernej istnieje podmiot **droga**. W konstrukcji na **-no, -to** podmiotu nie ma.
+W obu zdaniach możemy nie podać wykonawcy. Różnica polega na tym, że w pierwszym **droga** jest podmiotem, a w drugim **drogę** jest dopełnieniem i podmiotu nie ma.
 
-## Nie każdy czasownik tworzy stronę bierną
+## Nie każdy czasownik pozwala utworzyć stronę bierną
 
 > Marta <span class="object-predicate">ma</span> <span class="object-mark object-mark--direct"><strong>samochód</strong></span>.
 
 > Marta <span class="object-predicate">przyszła</span> rano.
 
-Czasownik **mieć** nie tworzy naturalnej strony biernej mimo obecności dopełnienia bliższego. Czasownik **przyjść** nie ma dopełnienia bliższego i jest nieprzechodni. Transformacja pomaga w analizie, lecz nie może zastąpić oceny znaczenia i naturalności.
+Czasownik **mieć** łączy się z dopełnieniem **samochód**, ale zdanie **samochód jest miany przez Martę** brzmi nienaturalnie. Czasownik **przyjść** nie ma dopełnienia bliższego, więc również nie utworzymy od niego zwykłej strony biernej.
+
+Zmiana zdania jest pomocnym sposobem sprawdzania dopełnienia bliższego, ale zawsze trzeba też posłuchać, czy nowe zdanie brzmi naturalnie.
 
 ## Krótki tekst
 
@@ -117,17 +128,19 @@ Komisja <span class="object-predicate">sprawdziła</span> <span class="object-ma
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-**Dokumentację** przechodzi z funkcji dopełnienia bliższego do funkcji podmiotu **dokumentacja**. **Archiwistce** pozostaje dopełnieniem dalszym, a **przez przewodniczącą** wskazuje wykonawczynię strony biernej. W zdaniu **stronę zeskanowano** wyraźna forma biernika potwierdza dopełnienie mimo pozycji przed orzeczeniem.
+Najpierw **dokumentację** jest dopełnieniem: komisja sprawdziła co? — dokumentację. W następnym zdaniu **dokumentacja** staje się podmiotem. **Archiwistce** pozostaje dopełnieniem dalszym, a **przez przewodniczącą** wskazuje wykonawczynię czynności.
+
+W zdaniu **brakującą stronę zeskanowano** wyraz **stronę** nadal jest dopełnieniem, mimo że stoi przed orzeczeniem.
 </div>
 
 <div class="object-summary">
-<h3>Jak śledzić zmianę funkcji?</h3>
+<h3>Jak śledzić zmianę?</h3>
 <ul>
-  <li>W stronie czynnej sprawdź, co jest podmiotem, a co dopełnieniem bliższym.</li>
-  <li>Po zmianie strony obserwuj, który rzeczownik przechodzi do mianownika i steruje zgodą.</li>
+  <li>W zdaniu czynnym znajdź podmiot, orzeczenie i dopełnienie bliższe.</li>
+  <li>Po zmianie na stronę bierną sprawdź, który wyraz stał się podmiotem.</li>
   <li>Wyrażenie z <em>przez</em> wskazuje wykonawcę, ale nie jest podmiotem.</li>
-  <li>W konstrukcji na <em>-no, -to</em> rzecz objęta czynnością pozostaje dopełnieniem.</li>
-  <li>Nie rozpoznawaj funkcji na podstawie samego szyku.</li>
+  <li>Po formach na <em>-no</em> i <em>-to</em> rzecz objęta czynnością pozostaje dopełnieniem.</li>
+  <li>Nie rozpoznawaj podmiotu tylko dlatego, że wyraz stoi na początku zdania.</li>
 </ul>
 </div>
 
