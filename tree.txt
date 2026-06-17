@@ -8,6 +8,7 @@
 ./README.md
 ./docs
 ./docs/gramatyka
+./docs/gramatyka/AGENTS.md
 ./docs/gramatyka/czasownik
 ./docs/gramatyka/czasownik/pdf
 ./docs/gramatyka/czasownik/pdf/czasownik_w_jezyku_polskim_rozszerzone_notatki.pdf
