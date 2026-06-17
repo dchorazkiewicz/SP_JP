@@ -53,8 +53,6 @@ Część, od której zadajemy pytanie, nazywamy **nadrzędną**. Część odpowi
 
 ## Numerowanie nie oznacza ważności
 
-Numerujemy części zgodnie z kolejnością zapisu:
-
 > [1] Że Marta wróciła, [2] wiem od rana.
 
 Część pierwsza nadal jest podrzędna, ponieważ odpowiada na pytanie **wiem co?**. Numer pokazuje położenie, a strzałka — zależność.
@@ -74,8 +72,6 @@ Granicy nie wyznaczamy mechanicznie przy spójniku. Trzeba uwzględnić elementy
 
 ## Przecinek wynika z budowy
 
-Porównaj:
-
 > Marta przygotowała raport i Paweł sprawdził dane.
 >
 > Marta przygotowała raport, a Paweł sprawdził dane.
@@ -84,21 +80,21 @@ Porównaj:
 
 We wszystkich wersjach istnieją dwie informacje. Zmienia się sposób połączenia i znakowanie granicy. Interpunkcja potwierdza analizę, ale jej nie zastępuje.
 
-## Plan rozdziału
+## Czytelna droga przez rozdział
 
-1. Ile informacji i ile pełnych orzeczeń?
-2. Zdania składowe i elementy wspólne.
-3. Podstawy współrzędności.
-4. Zdania łączne, rozłączne, przeciwstawne i wynikowe.
-5. Część nadrzędna i podrzędna.
-6. Zdania podmiotowe i orzecznikowe.
-7. Zdania dopełnieniowe i przydawkowe.
-8. Zdania okolicznikowe.
-9. Spójniki, zaimki i wskaźniki zespolenia.
-10. Wykresy zdań złożonych.
-11. Interpunkcja wynikająca z budowy.
-12. Granice klasyfikacji.
-13. Zdania złożone w tekście.
+1. [Ile informacji i ile pełnych orzeczeń?](ile-informacji-ile-orzeczen/)
+2. [Zdania składowe i elementy wspólne](zdania-skladowe-i-elementy-wspolne/)
+3. [Podstawy współrzędności](wspolrzednosc-podstawy/)
+4. [Zdania łączne, rozłączne, przeciwstawne i wynikowe](zdania-wspolrzedne-laczne-rozlaczne-przeciwstawne-i-wynikowe/)
+5. [Część nadrzędna i podrzędna](podrzednosc-nadrzedne-i-podrzedne/)
+6. [Zdania podmiotowe i orzecznikowe](zdania-podmiotowe-i-orzecznikowe/)
+7. [Zdania dopełnieniowe i przydawkowe](zdania-dopelnieniowe-i-przydawkowe/)
+8. [Zdania okolicznikowe](zdania-okolicznikowe/)
+9. [Spójniki, zaimki i wskaźniki zespolenia](spojniki-zaimki-i-wskazniki-zespolenia/)
+10. [Wykresy zdań złożonych](wykresy-zdan-zlozonych/)
+11. [Interpunkcja wynikająca z budowy](interpunkcja/)
+12. [Granice klasyfikacji](granice-klasyfikacji/)
+13. [Zdania złożone w tekście](zdania-zlozone-w-tekscie/)
 
 ## Stała procedura
 
