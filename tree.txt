@@ -164,6 +164,8 @@
 ./docs/gramatyka/skladnia/podmiot/podmiot-wyrazony-czynnoscia-i-zdaniem.md
 ./docs/gramatyka/skladnia/podmiot/podmioty-w-tekscie.md
 ./docs/gramatyka/skladnia/podmiot/rozpoznawanie.md
+./docs/gramatyka/skladnia/przeksztalcanie-i-skracanie-zdan
+./docs/gramatyka/skladnia/przeksztalcanie-i-skracanie-zdan/AGENTS.md
 ./docs/gramatyka/skladnia/przydawka
 ./docs/gramatyka/skladnia/przydawka/AGENTS.md
 ./docs/gramatyka/skladnia/przydawka/granice-klasyfikacji.md
