@@ -1,92 +1,139 @@
-# Związek zgody
+# Związek zgody — formy zmieniają się razem
 
 <div class="relations-lesson" markdown>
 
-<div class="relations-lead">
-W związku zgody wyraz podrzędny dostosowuje swoją formę do wyrazu nadrzędnego. Najczęściej przejmuje jego rodzaj, liczbę i przypadek.
-</div>
+## Zmień rzeczownik i obserwuj drugi wyraz
 
-## Przymiotnik i rzeczownik
+Porównaj:
 
 <div class="relations-series">
-  <div class="relations-row"><span class="relations-badge">mianownik</span><p><span class="relations-mark relations-mark--agreement">szczegółowy raport</span></p><span class="relations-note">r. męski, l. poj.</span></div>
-  <div class="relations-row"><span class="relations-badge">dopełniacz</span><p>nie ma <span class="relations-mark relations-mark--agreement">szczegółowego raportu</span></p><span class="relations-note">D. l. poj.</span></div>
-  <div class="relations-row"><span class="relations-badge">narzędnik</span><p>ze <span class="relations-mark relations-mark--agreement">szczegółowym raportem</span></p><span class="relations-note">N. l. poj.</span></div>
-  <div class="relations-row"><span class="relations-badge">liczba mnoga</span><p><span class="relations-mark relations-mark--agreement">szczegółowe raporty</span></p><span class="relations-note">l. mn.</span></div>
+  <div class="relations-row"><span class="relations-badge">jedna rzecz</span><p><span class="relations-mark relations-mark--agreement">nowy raport</span></p><span class="relations-note">mianownik</span></div>
+  <div class="relations-row"><span class="relations-badge">brak rzeczy</span><p>nie ma <span class="relations-mark relations-mark--agreement">nowego raportu</span></p><span class="relations-note">dopełniacz</span></div>
+  <div class="relations-row"><span class="relations-badge">mówimy o rzeczy</span><p>o <span class="relations-mark relations-mark--agreement">nowym raporcie</span></p><span class="relations-note">miejscownik</span></div>
+  <div class="relations-row"><span class="relations-badge">kilka rzeczy</span><p><span class="relations-mark relations-mark--agreement">nowe raporty</span></p><span class="relations-note">liczba mnoga</span></div>
 </div>
 
-Zmiana formy rzeczownika pociąga za sobą zmianę przymiotnika.
+Najpierw zmienia się forma rzeczownika: **raport — raportu — raporcie — raporty**. Przymiotnik nie może zachować jednej postaci. Musi zmieniać się razem z rzeczownikiem: **nowy — nowego — nowym — nowe**.
 
-## Zaimek i rzeczownik
+Porównania *nowy raportu* i *nowy raporty* pokazują, że zatrzymanie jednej formy daje połączenie niezgodne z polską odmianą. Końcówki nie przekazują wtedy wspólnie tej samej informacji o przypadku i liczbie.
 
-- <span class="relations-mark relations-mark--agreement">ten dokument</span>;
-- <span class="relations-mark relations-mark--agreement">tego dokumentu</span>;
-- <span class="relations-mark relations-mark--agreement">tym dokumentem</span>;
-- <span class="relations-mark relations-mark--agreement">te dokumenty</span>.
+Zależność, w której formy dwóch wyrazów dostosowują się do siebie, nazywamy **związkiem zgody**.
 
-Zaimki przymiotne zachowują się podobnie do przymiotników.
+## Co może być wspólne?
 
-## Imiesłów i rzeczownik
+W grupie rzeczownikowej wyraz zależny zwykle zgadza się z rzeczownikiem pod względem rodzaju, liczby i przypadku. Nie każda kategoria jest widoczna w każdej formie, ale seria odmiany pokazuje wspólne zachowanie.
 
-> <span class="relations-mark relations-mark--agreement">podpisany dokument</span>;
+## Nie tylko zwykły przymiotnik
 
-> <span class="relations-mark relations-mark--agreement">podpisane dokumenty</span>;
+### Zaimek przymiotny
 
-> z <span class="relations-mark relations-mark--agreement">podpisanym dokumentem</span>.
+> <span class="relations-mark relations-mark--agreement">ten dokument</span>
+>
+> nie ma <span class="relations-mark relations-mark--agreement">tego dokumentu</span>
+>
+> z <span class="relations-mark relations-mark--agreement">tym dokumentem</span>
 
-## Liczebnik porządkowy
+Wyraz **ten** wskazuje rzecz i zmienia się razem z jej nazwą.
 
-> <span class="relations-mark relations-mark--agreement">pierwszy rozdział</span>;
+### Imiesłów przymiotnikowy
 
-> w <span class="relations-mark relations-mark--agreement">pierwszym rozdziale</span>;
+> <span class="relations-mark relations-mark--agreement">podpisany dokument</span>
+>
+> <span class="relations-mark relations-mark--agreement">podpisane dokumenty</span>
+>
+> z <span class="relations-mark relations-mark--agreement">podpisanymi dokumentami</span>
 
-> <span class="relations-mark relations-mark--agreement">pierwsze rozdziały</span>.
+Forma **podpisany** pochodzi od czasownika, ale w tej grupie zachowuje się jak przymiotnik i opisuje dokument.
 
-Liczebnik porządkowy odmienia się jak przymiotnik.
+### Liczebnik porządkowy
 
-## Podmiot i orzeczenie
+> <span class="relations-mark relations-mark--agreement">pierwszy rozdział</span>
+>
+> w <span class="relations-mark relations-mark--agreement">pierwszym rozdziale</span>
+>
+> <span class="relations-mark relations-mark--agreement">pierwsze rozdziały</span>
 
-> <span class="relations-mark relations-mark--agreement">Marta przygotowała</span> raport.
+Wyraz **pierwszy** odpowiada na pytanie o kolejność i odmienia się razem z rzeczownikiem.
 
-> <span class="relations-mark relations-mark--agreement">Piotr przygotował</span> raport.
+## Zgoda pomaga utrzymać całą grupę
 
-> <span class="relations-mark relations-mark--agreement">Pracownicy przygotowali</span> raport.
+> Marta przeczytała trzy bardzo <span class="relations-mark relations-mark--agreement">dokładne raporty techniczne</span>.
 
-Orzeczenie dostosowuje osobę i liczbę do podmiotu, a w czasie przeszłym także rodzaj.
+Zgoda łączy rzeczownik **raporty** z wyrazami **dokładne** i **techniczne**. Wyraz **bardzo** nie zgadza się z rzeczownikiem; rozwija tylko przymiotnik **dokładne**.
 
-## Zgoda pełna i niepełna
+<div class="relations-tree">raporty
+├── jakie? → dokładne [zgoda]
+│   └── jak bardzo? → bardzo [przynależność]
+└── jakie? → techniczne [zgoda]</div>
 
-<div class="relations-comparison">
-  <div class="relations-comparison-item"><span class="relations-comparison-label">pełna</span><p><span class="relations-mark relations-mark--agreement">nowa instrukcja</span></p><p>Rodzaj, liczba i przypadek są wspólne.</p></div>
-  <div class="relations-comparison-item"><span class="relations-comparison-label">ograniczona</span><p><span class="relations-mark relations-mark--agreement">dwoje dzieci przyszło</span></p><p>Forma orzeczenia zależy od całej konstrukcji liczebnikowej, a nie od prostego dopasowania.</p></div>
-</div>
+Jedna grupa może więc zawierać kilka różnych typów zależności.
 
-## Szereg podmiotów
+## Podmiot i orzeczenie: podobne dopasowanie, inna rola
 
-> Marta i Piotr <span class="relations-mark relations-mark--agreement">przygotowali</span> raport.
+> Marta <span class="relations-mark relations-mark--agreement">przygotowała</span> raport.
+>
+> Piotr <span class="relations-mark relations-mark--agreement">przygotował</span> raport.
+>
+> Pracownicy <span class="relations-mark relations-mark--agreement">przygotowali</span> raport.
 
-Orzeczenie przyjmuje liczbę mnogą. Rodzaj męskoosobowy wynika z obecności mężczyzny w szeregu.
+Zmiana podmiotu wpływa na formę orzeczenia. W czasie przeszłym widzimy liczbę i rodzaj, a w innych formach także osobę: **ja przygotuję — my przygotujemy**.
 
-> Marta i Anna <span class="relations-mark relations-mark--agreement">przygotowały</span> raport.
+Relację podmiotu i orzeczenia nazywamy w tym kursie **związkiem głównym**. Zgoda pomaga ją zobaczyć, ale nie traktujemy podmiotu jak zwykłego określenia orzeczenia. Razem tworzą główną organizację zdania.
 
-## Zgoda a sens
+## Gdy zgoda nie jest prostym kopiowaniem form
 
-> Większość uczestników <span class="relations-mark relations-mark--agreement">przyszła</span> na czas.
+### Podmiot szeregowy
 
-Formalnym centrum jest rzeczownik **większość** w liczbie pojedynczej. W polszczyźnie potocznej może pojawić się również zgoda znaczeniowa, ale w tekście starannym preferowana jest forma pojedyncza.
+> Marta i Anna przygotowały raport.
+>
+> Marta i Piotr przygotowali raport.
+
+Orzeczenie ma liczbę mnogą, ponieważ podmiot zawiera kilka członów. Rodzaj formy czasu przeszłego zależy od składu szeregu.
+
+### Grupa liczebnikowa
+
+> Trzy raporty zostały wysłane.
+>
+> Pięć raportów zostało wysłanych.
+
+W pierwszym zdaniu rzeczownik ma mianownik liczby mnogiej, a orzeczenie przyjmuje liczbę mnogą. W drugim liczebnik **pięć** tworzy konstrukcję, po której rzeczownik ma dopełniacz, a orzeczenie występuje w liczbie pojedynczej i rodzaju nijakim. Forma orzeczenia zależy od budowy całej grupy liczebnikowej.
+
+### Nazwa zbiorowości
+
+> Większość uczestników przyszła na czas.
+
+Wyrazem głównym podmiotu jest **większość**, dlatego w starannym zdaniu orzeczenie ma liczbę pojedynczą. Sens wskazuje wiele osób, ale budowa gramatyczna opiera się na rzeczowniku **większość**.
+
+## Zgoda a rząd
+
+> potrzebuję <span class="relations-mark relations-mark--government">nowego raportu</span>
+
+<div class="relations-tree">potrzebuję
+└── czego? → raportu [rząd]
+    └── jakiego? → nowego [zgoda]</div>
+
+Czasownik **potrzebuję** wymaga dopełniacza: **raportu**. Dopiero wewnątrz tej grupy przymiotnik **nowego** dostosowuje formę do rzeczownika.
+
+## Krótki tekst: zgoda prowadzi czytelnika
+
+> Nowa kierowniczka otworzyła spotkanie. Pierwsze wyniki były niepełne, ale podpisane dokumenty leżały już na stole. Marta i Anna przygotowały poprawione zestawienia.
+
+W tekście końcówki pomagają rozpoznać grupy: **nowa kierowniczka**, **pierwsze wyniki**, **podpisane dokumenty** oraz związek główny **Marta i Anna przygotowały**.
 
 ## Jak rozpoznać zgodę?
 
-1. Odmień wyraz nadrzędny.
-2. Sprawdź, czy wyraz podrzędny zmienia się razem z nim.
-3. Ustal wspólne kategorie: rodzaj, liczba, przypadek albo osoba.
-4. Przy podmiocie i orzeczeniu uwzględnij czas oraz typ podmiotu.
+1. Wskaż wyraz główny grupy.
+2. Zmień jego liczbę albo przypadek.
+3. Sprawdź, czy wyraz zależny musi zmienić formę razem z nim.
+4. Ustal wspólne kategorie: rodzaj, liczba, przypadek albo osoba.
+5. Przy podmiocie i orzeczeniu sprawdź całą budowę podmiotu, nie tylko najbliższy rzeczownik.
+6. Nie nazywaj zgodą przypadkowego podobieństwa końcówek.
 
 <div class="relations-summary">
-<h3>Zgoda jest widoczna w końcówkach</h3>
-Formy obu wyrazów współpracują. Zmiana centrum grupy powoduje odpowiednią zmianę wyrazu zależnego.
+<h3>Zgoda jest współpracą form</h3>
+<p>Zmiana wyrazu głównego uruchamia odpowiednią zmianę wyrazu zależnego. W związku głównym forma orzeczenia reaguje na budowę podmiotu, ale relacja ta organizuje całe zdanie, a nie zwykłą grupę podrzędną.</p>
 </div>
 
-[Przejdź dalej: związek rządu](../zwiazek-rzadu/){ .md-button .md-button--primary }
+[Przejdź dalej: jeden wyraz ustawia formę drugiego](../zwiazek-rzadu/){ .md-button .md-button--primary }
 
 </div>
