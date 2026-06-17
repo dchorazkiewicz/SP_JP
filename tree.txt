@@ -210,7 +210,6 @@
 ./docs/gramatyka/skladnia/zdania-zlozone/index.md
 ./docs/gramatyka/skladnia/zdania-zlozone/interpunkcja.md
 ./docs/gramatyka/skladnia/zdania-zlozone/podrzednosc-nadrzedne-i-podrzedne.md
-./docs/gramatyka/skladnia/zdania-zlozone/proba-atomowa.md
 ./docs/gramatyka/skladnia/zdania-zlozone/spojniki-zaimki-i-wskazniki-zespolenia.md
 ./docs/gramatyka/skladnia/zdania-zlozone/wspolrzednosc-podstawy.md
 ./docs/gramatyka/skladnia/zdania-zlozone/wykresy-zdan-zlozonych.md
