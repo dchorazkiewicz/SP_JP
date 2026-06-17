@@ -211,6 +211,7 @@
 ./docs/gramatyka/skladnia/zdania-zlozone/test-zapisu.md
 ./docs/gramatyka/skladnia/zdania-zlozone/wspolrzednosc-podstawy.md
 ./docs/gramatyka/skladnia/zdania-zlozone/zdania-skladowe-i-elementy-wspolne.md
+./docs/gramatyka/skladnia/zdania-zlozone/zdania-wspolrzedne-laczne-rozlaczne-przeciwstawne-i-wynikowe.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/AGENTS.md
 ./docs/gramatyka/skladnia/zwiazki-skladniowe/analiza-wielopoziomowa.md
