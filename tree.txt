@@ -184,6 +184,7 @@
 ./docs/gramatyka/skladnia/przydawka/zdanie-przydawkowe.md
 ./docs/gramatyka/skladnia/szyk-i-niejednoznacznosc
 ./docs/gramatyka/skladnia/szyk-i-niejednoznacznosc/AGENTS.md
+./docs/gramatyka/skladnia/szyk-i-niejednoznacznosc/index.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/AGENTS.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
