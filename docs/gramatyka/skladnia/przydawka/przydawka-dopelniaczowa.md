@@ -2,110 +2,178 @@
 
 <div class="attribute-lesson" markdown>
 
-<div class="attribute-lead">
-Przydawka dopełniaczowa ma formę dopełniacza i zależy od rzeczownika. Może oznaczać właściciela, część większej całości, autora, temat, materiał, przeznaczenie albo inną relację między rzeczownikami.
-</div>
+## Ten sam przypadek może opisywać rzeczownik albo uzupełniać czasownik
 
-## Najprostsze przykłady
-
-- dom <span class="attribute-mark attribute-mark--genitive">ojca</span>;
-- raport <span class="attribute-mark attribute-mark--genitive">zespołu</span>;
-- wyniki <span class="attribute-mark attribute-mark--genitive">badań</span>;
-- kierownik <span class="attribute-mark attribute-mark--genitive">projektu</span>;
-- kubek <span class="attribute-mark attribute-mark--genitive">herbaty</span>.
-
-W każdym przykładzie drugi rzeczownik określa pierwszy.
-
-## Właściciel lub przynależność
-
-> Samochód <span class="attribute-mark attribute-mark--genitive">Marty</span> stał przed budynkiem.
-
-> Biuro <span class="attribute-mark attribute-mark--genitive">dyrektora</span> było zamknięte.
-
-> Decyzja <span class="attribute-mark attribute-mark--genitive">zarządu</span> wywołała dyskusję.
-
-## Część i całość
-
-> dach <span class="attribute-mark attribute-mark--genitive">budynku</span>;
-
-> początek <span class="attribute-mark attribute-mark--genitive">spotkania</span>;
-
-> koniec <span class="attribute-mark attribute-mark--genitive">raportu</span>;
-
-> fragment <span class="attribute-mark attribute-mark--genitive">instrukcji</span>.
-
-Przydawka wskazuje większą całość, do której należy część.
-
-## Autor lub twórca
-
-> powieść <span class="attribute-mark attribute-mark--genitive">Sienkiewicza</span>;
-
-> projekt <span class="attribute-mark attribute-mark--genitive">architekta</span>;
-
-> raport <span class="attribute-mark attribute-mark--genitive">komisji</span>.
-
-## Treść lub temat
-
-> analiza <span class="attribute-mark attribute-mark--genitive">wyników</span>;
-
-> opis <span class="attribute-mark attribute-mark--genitive">zdarzenia</span>;
-
-> kontrola <span class="attribute-mark attribute-mark--genitive">dokumentów</span>;
-
-> nauka <span class="attribute-mark attribute-mark--genitive">języka</span>.
-
-W takich konstrukcjach rzeczownik nadrzędny często pochodzi od czasownika i zachowuje jego wymagania.
-
-## Materiał lub zawartość
-
-> szklanka <span class="attribute-mark attribute-mark--genitive">wody</span>;
-
-> worek <span class="attribute-mark attribute-mark--genitive">piasku</span>;
-
-> stół <span class="attribute-mark attribute-mark--genitive">drewna</span> — konstrukcja nienaturalna; poprawniej: stół z drewna.
-
-Nie każda relacja materiałowa jest naturalna w dopełniaczu. Często potrzebne jest wyrażenie przyimkowe.
-
-## Przydawka a dopełnienie
+Porównaj:
 
 <div class="attribute-comparison">
-  <div class="attribute-comparison-item"><span class="attribute-comparison-label">przydawka</span><p>Marta dokonała analizy <span class="attribute-mark attribute-mark--genitive">wyników</span>.</p><p>Forma zależy od rzeczownika <em>analizy</em>.</p></div>
-  <div class="attribute-comparison-item"><span class="attribute-comparison-label">dopełnienie</span><p>Marta analizuje <strong>wyniki</strong>.</p><p>Forma zależy od czasownika <em>analizuje</em>.</p></div>
+  <div class="attribute-comparison-item"><span class="attribute-comparison-label">opis rzeczownika</span><p>Marta przeczytała <span class="attribute-head">raport</span> <span class="attribute-mark attribute-mark--genitive">zespołu</span>.</p><p><em>Zespołu</em> mówi, czyj był raport.</p></div>
+  <div class="attribute-comparison-item"><span class="attribute-comparison-label">dopowiedzenie do czasownika</span><p>Marta potrzebuje <strong>zespołu</strong>.</p><p><em>Zespołu</em> mówi, kogo potrzebuje Marta.</p></div>
 </div>
 
-## Wielopoziomowa grupa rzeczownikowa
+Forma **zespołu** jest w obu zdaniach dopełniaczem. W pierwszym opisuje rzeczownik **raport**, dlatego jest przydawką. W drugim uzupełnia czasownik **potrzebuje**, dlatego jest dopełnieniem.
 
-> raport <span class="attribute-mark attribute-mark--genitive">kierownika działu sprzedaży</span>;
+Przydawkę wyrażoną rzeczownikiem w dopełniaczu nazywamy **przydawką dopełniaczową**.
+
+<div class="attribute-concept">
+  <span class="attribute-concept__label">Pojęcie</span>
+  <strong>Przydawka dopełniaczowa</strong>
+  <p>To rzeczownik albo grupa rzeczownikowa w dopełniaczu, która opisuje inny rzeczownik. Może wskazywać właściciela, autora, część większej całości, temat, zawartość albo przeznaczenie.</p>
+</div>
+
+## Właściciel, autor albo osoba związana z rzeczą
+
+<div class="attribute-series">
+  <div class="attribute-row"><span class="attribute-badge">właściciel</span><p><span class="attribute-head">samochód</span> <span class="attribute-mark attribute-mark--genitive">Marty</span></p><span class="attribute-note">czyj?</span></div>
+  <div class="attribute-row"><span class="attribute-badge">użytkownik</span><p><span class="attribute-head">biuro</span> <span class="attribute-mark attribute-mark--genitive">dyrektora</span></p><span class="attribute-note">czyje?</span></div>
+  <div class="attribute-row"><span class="attribute-badge">autor decyzji</span><p><span class="attribute-head">decyzja</span> <span class="attribute-mark attribute-mark--genitive">zarządu</span></p><span class="attribute-note">czyja?</span></div>
+  <div class="attribute-row"><span class="attribute-badge">twórca</span><p><span class="attribute-head">powieść</span> <span class="attribute-mark attribute-mark--genitive">Sienkiewicza</span></p><span class="attribute-note">czyja?</span></div>
+</div>
+
+Dopełniacz nie zawsze oznacza dosłowne posiadanie. **Decyzja zarządu** to decyzja podjęta przez zarząd, a **powieść Sienkiewicza** to powieść napisana przez Sienkiewicza.
+
+## Część większej całości
+
+> <span class="attribute-head">dach</span> <span class="attribute-mark attribute-mark--genitive">budynku</span>;
+
+> <span class="attribute-head">początek</span> <span class="attribute-mark attribute-mark--genitive">spotkania</span>;
+
+> <span class="attribute-head">fragment</span> <span class="attribute-mark attribute-mark--genitive">instrukcji</span>;
+
+> <span class="attribute-head">brzeg</span> <span class="attribute-mark attribute-mark--genitive">rzeki</span>.
+
+Wyraz w dopełniaczu wskazuje większą całość, do której należy dach, początek, fragment albo brzeg.
+
+## Zawartość albo ilość czegoś
+
+> <span class="attribute-head">szklanka</span> <span class="attribute-mark attribute-mark--genitive">wody</span>;
+
+> <span class="attribute-head">worek</span> <span class="attribute-mark attribute-mark--genitive">piasku</span>;
+
+> <span class="attribute-head">kilogram</span> <span class="attribute-mark attribute-mark--genitive">jabłek</span>;
+
+> <span class="attribute-head">grupa</span> <span class="attribute-mark attribute-mark--genitive">uczniów</span>.
+
+W tych połączeniach pierwszy rzeczownik nazywa naczynie, miarę albo zbiór, a dopełniacz mówi, co się w nim znajduje lub czego dotyczy podana ilość.
+
+## Temat, treść albo przedmiot działania
+
+> <span class="attribute-head">analiza</span> <span class="attribute-mark attribute-mark--genitive">wyników</span>;
+
+> <span class="attribute-head">opis</span> <span class="attribute-mark attribute-mark--genitive">zdarzenia</span>;
+
+> <span class="attribute-head">kontrola</span> <span class="attribute-mark attribute-mark--genitive">dokumentów</span>;
+
+> <span class="attribute-head">nauka</span> <span class="attribute-mark attribute-mark--genitive">języka</span>.
+
+Wiele takich rzeczowników powstało od czasowników:
+
+> analizować wyniki → analiza wyników;
+>
+> opisać zdarzenie → opis zdarzenia;
+>
+> kontrolować dokumenty → kontrola dokumentów.
+
+W zdaniu z czasownikiem **wyniki** są dopełnieniem:
+
+> Marta analizuje **wyniki**.
+
+Po zamianie czynności na nazwę **analiza** ten sam wyraz zaczyna opisywać rzeczownik:
+
+> Marta dokonała <span class="attribute-head">analizy</span> <span class="attribute-mark attribute-mark--genitive">wyników</span>.
+
+<div class="attribute-checkpoint">
+  <div class="attribute-checkpoint__title">Najpierw sprawdź, co jest najważniejszą nazwą</div>
+  <p>W grupie <em>analiza wyników</em> wyrazem głównym jest <em>analiza</em>, a <em>wyników</em> opisuje tę analizę. W zdaniu <em>analizuje wyniki</em> nie ma rzeczownika <em>analiza</em>; wyraz <em>wyniki</em> uzupełnia bezpośrednio czasownik.</p>
+</div>
+
+## Nie każdą informację o materiale wyrażamy dopełniaczem
+
+Porównaj:
+
+> <span class="attribute-head">szklanka</span> <span class="attribute-mark attribute-mark--genitive">wody</span> — szklanka zawierająca wodę;
+
+> <span class="attribute-head">szklanka</span> <span class="attribute-mark attribute-mark--prepositional">ze szkła</span> — szklanka wykonana ze szkła.
+
+Zdanie:
+
+> stół drewna
+
+brzmi nienaturalnie. Mówimy:
+
+> <span class="attribute-head">stół</span> <span class="attribute-mark attribute-mark--prepositional">z drewna</span>.
+
+Dopełniacz często nazywa zawartość, ale materiał zwykle wyrażamy przyimkiem **z**.
+
+## Jedna grupa może mieć kilka pięter
+
+> <span class="attribute-head">raport</span> <span class="attribute-mark attribute-mark--genitive">kierownika działu sprzedaży</span> trafił do archiwum.
 
 <div class="attribute-tree">raport
 └── czyj? → kierownika
     └── czego? → działu
         └── czego? → sprzedaży</div>
 
-Każdy kolejny rzeczownik może tworzyć własne centrum dla następnej przydawki.
+Kolejne rzeczowniki nie opisują bezpośrednio tego samego wyrazu:
 
-## Niejednoznaczność związku
+- **kierownika** opisuje raport;
+- **działu** opisuje kierownika;
+- **sprzedaży** opisuje dział.
 
-> portret córki.
+Całość **kierownika działu sprzedaży** jest jednak jedną rozwiniętą przydawką określającą raport.
+
+## Sama forma nie zawsze podaje dokładne znaczenie
+
+> Na ścianie wisiał <span class="attribute-head">portret</span> <span class="attribute-mark attribute-mark--genitive">córki</span>.
 
 To wyrażenie może oznaczać:
 
+- portret przedstawiający córkę;
 - portret należący do córki;
-- portret przedstawiający córkę.
+- portret namalowany przez córkę.
 
-Sama forma dopełniacza nie rozstrzyga znaczenia. Potrzebny jest kontekst.
+Funkcja pozostaje taka sama: **córki** opisuje rzeczownik **portret**. Dopiero kontekst pozwala ustalić dokładny sens.
 
-## Szyk
+## Przydawka dopełniaczowa zwykle stoi po rzeczowniku
 
-> raport zespołu;
+> <span class="attribute-head">raport</span> <span class="attribute-mark attribute-mark--genitive">zespołu</span>;
 
-> zespołu raport — szyk wyjątkowy, poetycki albo silnie nacechowany.
+> <span class="attribute-head">wyniki</span> <span class="attribute-mark attribute-mark--genitive">badań</span>;
 
-Przydawka dopełniaczowa stoi zwykle po rzeczowniku nadrzędnym.
+> <span class="attribute-head">kierownik</span> <span class="attribute-mark attribute-mark--genitive">projektu</span>.
+
+Szyk:
+
+> zespołu raport
+
+jest możliwy tylko w szczególnym, zwykle poetyckim albo bardzo mocno podkreślającym stylu. W zwykłej wypowiedzi dopełniacz stoi po rzeczowniku, który opisuje.
+
+## Krótki tekst
+
+<div class="attribute-reading">
+  <div class="attribute-reading-header"><h2>Wizyta w szkolnym archiwum</h2></div>
+  <div class="attribute-reading-text" markdown>
+
+Uczniowie obejrzeli <span class="attribute-head">kronikę</span> <span class="attribute-mark attribute-mark--genitive">szkoły</span> oraz <span class="attribute-head">zdjęcia</span> <span class="attribute-mark attribute-mark--genitive">dawnych nauczycieli</span>. Na pierwszej stronie widniał <span class="attribute-head">podpis</span> <span class="attribute-mark attribute-mark--genitive">założyciela placówki</span>. Później grupa przeczytała <span class="attribute-head">opis</span> <span class="attribute-mark attribute-mark--genitive">otwarcia pierwszego budynku</span> i obejrzała <span class="attribute-head">plan</span> <span class="attribute-mark attribute-mark--genitive">starego boiska</span>.
+
+  </div>
+</div>
+
+<div class="attribute-reading__commentary" markdown>
+<strong>Co pokazuje tekst?</strong>
+
+Przydawki dopełniaczowe mogą wskazywać właściciela lub związek z instytucją (**kronika szkoły**), przedstawione osoby (**zdjęcia nauczycieli**), autora podpisu oraz temat opisu. W grupie **podpis założyciela placówki** wyraz **placówki** opisuje założyciela, a dopiero cała grupa określa podpis.
+</div>
 
 <div class="attribute-summary">
-<h3>Dopełniacz może określać rzeczownik, nie czasownik</h3>
-Najważniejsze jest ustalenie wyrazu nadrzędnego. Gdy forma dopełniacza zależy od rzeczownika, pełni funkcję przydawki dopełniaczowej.
+<h3>Jak rozpoznać przydawkę dopełniaczową?</h3>
+<ul>
+  <li>Ma formę dopełniacza i opisuje rzeczownik.</li>
+  <li>Może wskazywać właściciela, autora, część całości, zawartość, temat albo zbiór.</li>
+  <li>Nie myl jej z dopełnieniem zależnym od czasownika.</li>
+  <li>W długiej grupie sprawdź, który rzeczownik opisuje każdy kolejny dopełniacz.</li>
+  <li>Kontekst może być potrzebny do ustalenia dokładnego znaczenia.</li>
+</ul>
 </div>
 
 [Przejdź dalej: przydawka przyimkowa i rzeczowna](../przydawka-przyimkowa-i-rzeczowna/){ .md-button .md-button--primary }
