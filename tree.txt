@@ -188,6 +188,7 @@
 ./docs/gramatyka/skladnia/szyk-i-niejednoznacznosc/index.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/AGENTS.md
+./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/cel-wypowiedzenia-i-intonacja.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/wypowiedzenie-zdanie-rownowaznik-i-zawiadomienie.md
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone
