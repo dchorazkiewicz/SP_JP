@@ -185,6 +185,7 @@
 ./docs/gramatyka/skladnia/szyk-i-niejednoznacznosc/AGENTS.md
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze
 ./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/AGENTS.md
+./docs/gramatyka/skladnia/wypowiedzenie-i-zdanie-pojedyncze/index.md
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone/AGENTS.md
 ./docs/gramatyka/skladnia/zdania-zlozone
