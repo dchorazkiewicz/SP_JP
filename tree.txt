@@ -286,6 +286,9 @@
 ./docs/stylesheets/syntactic-relations.css
 ./docs/stylesheets/verb-lesson.css
 ./docs/stylesheets/verb-narrative.css
+./hooks
+./hooks/zdania_zlozone_nav.py
+./mkdocs-base.yml
 ./mkdocs.yml
 ./requirements.txt
 ./tree.txt
