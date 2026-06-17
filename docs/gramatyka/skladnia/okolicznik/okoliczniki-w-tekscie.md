@@ -36,11 +36,11 @@
 
 <span class="adverbial-sentence-no">2.</span> Najpierw <span class="adverbial-predicate">szli</span> <span class="adverbial-mark adverbial-mark--place">przez miejski park</span>, a potem <span class="adverbial-predicate">skręcili</span> <span class="adverbial-mark adverbial-mark--place">w stronę rzeki</span>.
 
-<span class="adverbial-sentence-no">3.</span> Nauczyciel <span class="adverbial-predicate">prowadził</span> grupę <span class="adverbial-mark adverbial-mark--manner">bardzo spokojnie</span>, ponieważ ścieżka była śliska.
+<span class="adverbial-sentence-no">3.</span> Nauczyciel <span class="adverbial-predicate">prowadził</span> grupę <span class="adverbial-mark adverbial-mark--manner">bardzo spokojnie</span>, <span class="adverbial-mark adverbial-mark--cause">ponieważ ścieżka była śliska</span>.
 
 <span class="adverbial-sentence-no">4.</span> <span class="adverbial-mark adverbial-mark--time">Po czterdziestu minutach</span> zespół <span class="adverbial-predicate">dotarł</span> <span class="adverbial-mark adverbial-mark--place">do stanowiska przy moście</span>.
 
-<span class="adverbial-sentence-no">5.</span> Uczniowie <span class="adverbial-predicate">rozłożyli</span> sprzęt <span class="adverbial-mark adverbial-mark--place">na płaskim brzegu</span> <span class="adverbial-mark adverbial-mark--purpose">do pierwszego pomiaru</span>.
+<span class="adverbial-sentence-no">5.</span> Uczniowie <span class="adverbial-predicate">rozłożyli</span> sprzęt <span class="adverbial-mark adverbial-mark--place">na płaskim brzegu</span> <span class="adverbial-mark adverbial-mark--time">przed pierwszym pomiarem</span>.
 
 <span class="adverbial-sentence-no">6.</span> Marta <span class="adverbial-predicate">sprawdzała</span> czujnik <span class="adverbial-mark adverbial-mark--manner">wyjątkowo dokładnie</span>.
 
@@ -54,7 +54,7 @@
 
 <span class="adverbial-sentence-no">11.</span> Zespół <span class="adverbial-predicate">powtarzał</span> pomiar <span class="adverbial-mark adverbial-mark--time">co dziesięć minut</span>.
 
-<span class="adverbial-sentence-no">12.</span> <span class="adverbial-mark adverbial-mark--cause">Z powodu silnego wiatru</span> jedna z próbek <span class="adverbial-predicate">została</span> źle opisana.
+<span class="adverbial-sentence-no">12.</span> <span class="adverbial-mark adverbial-mark--cause">Z powodu silnego wiatru</span> jedna z próbek <span class="adverbial-predicate">została</span> <span class="adverbial-mark adverbial-mark--manner">źle</span> opisana.
 
 <span class="adverbial-sentence-no">13.</span> Marta <span class="adverbial-predicate">wróciła</span> <span class="adverbial-mark adverbial-mark--place">do samochodu</span> <span class="adverbial-mark adverbial-mark--purpose">po nowe etykiety</span>.
 
@@ -68,15 +68,15 @@
 
 <span class="adverbial-sentence-no">18.</span> <span class="adverbial-mark adverbial-mark--time">Kiedy urządzenie ponownie się uruchomiło</span>, uczniowie <span class="adverbial-predicate">dokończyli</span> badanie.
 
-<span class="adverbial-sentence-no">19.</span> Paweł <span class="adverbial-predicate">czekał</span> <span class="adverbial-mark adverbial-mark--place">przy moście</span> na kierowcę autobusu.
+<span class="adverbial-sentence-no">19.</span> Paweł <span class="adverbial-predicate">czekał</span> <span class="adverbial-mark adverbial-mark--place">przy moście</span> **na kierowcę autobusu**.
 
-<span class="adverbial-sentence-no">20.</span> Raport z porannych pomiarów <span class="adverbial-predicate">powstał</span> <span class="adverbial-mark adverbial-mark--time">jeszcze tego samego dnia</span>.
+<span class="adverbial-sentence-no">20.</span> Raport **z porannych pomiarów** <span class="adverbial-predicate">powstał</span> <span class="adverbial-mark adverbial-mark--time">jeszcze tego samego dnia</span>.
 
-<span class="adverbial-sentence-no">21.</span> Nauczyciel <span class="adverbial-predicate">przeczytał</span> go <span class="adverbial-mark adverbial-mark--manner">bardzo uważnie</span>, ale Paweł wrócił z wyprawy zmęczony.
+<span class="adverbial-sentence-no">21.</span> Nauczyciel <span class="adverbial-predicate">przeczytał</span> go <span class="adverbial-mark adverbial-mark--manner">bardzo uważnie</span>, ale Paweł <span class="adverbial-predicate">wrócił</span> z wyprawy **zmęczony**.
 
-<span class="adverbial-sentence-no">22.</span> <strong>Na szczęście</strong> wszystkie wyniki <span class="adverbial-predicate">zostały zapisane</span> poprawnie.
+<span class="adverbial-sentence-no">22.</span> **Na szczęście** wszystkie wyniki <span class="adverbial-predicate">zostały zapisane</span> <span class="adverbial-mark adverbial-mark--manner">poprawnie</span>.
 
-<span class="adverbial-sentence-no">23.</span> <span class="adverbial-mark adverbial-mark--time">Następnego ranka</span> tylko Marta <span class="adverbial-predicate">pracowała</span> <span class="adverbial-mark adverbial-mark--place">w laboratorium</span> nad końcowym wykresem.
+<span class="adverbial-sentence-no">23.</span> <span class="adverbial-mark adverbial-mark--time">Następnego ranka</span> tylko Marta <span class="adverbial-predicate">pracowała</span> <span class="adverbial-mark adverbial-mark--place">w laboratorium</span> **nad końcowym wykresem**.
 
   </div>
 </div>
@@ -84,8 +84,8 @@
 ## Co pokazują kolejne części historii?
 
 <div class="adverbial-series">
-  <div class="adverbial-row"><span class="adverbial-badge">zdania 1–4</span><p>Okoliczniki tworzą czas rozpoczęcia oraz trasę od szkoły do stanowiska. <em>Bardzo spokojnie</em> łączy sposób ze stopniem.</p><span class="adverbial-note">czas i przestrzeń</span></div>
-  <div class="adverbial-row"><span class="adverbial-badge">zdania 5–11</span><p>Tekst pokazuje miejsce ustawienia sprzętu, cel pomiaru, sposób kontroli, narzędzie, warunek oraz różne sposoby mierzenia czasu i zmiany.</p><span class="adverbial-note">przebieg badania</span></div>
+  <div class="adverbial-row"><span class="adverbial-badge">zdania 1–4</span><p>Okoliczniki tworzą czas rozpoczęcia, trasę od szkoły do stanowiska, sposób prowadzenia grupy oraz przyczynę ostrożnego marszu.</p><span class="adverbial-note">czas i przestrzeń</span></div>
+  <div class="adverbial-row"><span class="adverbial-badge">zdania 5–11</span><p>Tekst pokazuje miejsce i czas przygotowania sprzętu, sposób kontroli, narzędzie, warunek oraz różne sposoby mierzenia czasu i zmiany.</p><span class="adverbial-note">przebieg badania</span></div>
   <div class="adverbial-row"><span class="adverbial-badge">zdania 12–18</span><p>Przyczyny prowadzą do błędu i przerwania pomiaru, cele wyjaśniają powrót oraz zapis kopii, a przyzwolenie pokazuje nieskuteczną przeszkodę.</p><span class="adverbial-note">zależności zdarzeń</span></div>
   <div class="adverbial-row"><span class="adverbial-badge">zdania 19–23</span><p>Występują granice z dopełnieniem, przydawką, stanem uczestnika i komentarzem do całego zdania. Szyk <em>tylko Marta</em> ogranicza liczbę osób.</p><span class="adverbial-note">przypadki graniczne</span></div>
 </div>
