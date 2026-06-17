@@ -205,6 +205,7 @@
 ./docs/gramatyka/skladnia/zdania-wielokrotnie-zlozone/index.md
 ./docs/gramatyka/skladnia/zdania-zlozone
 ./docs/gramatyka/skladnia/zdania-zlozone/AGENTS.md
+./docs/gramatyka/skladnia/zdania-zlozone/granice-klasyfikacji.md
 ./docs/gramatyka/skladnia/zdania-zlozone/ile-informacji-ile-orzeczen.md
 ./docs/gramatyka/skladnia/zdania-zlozone/index.md
 ./docs/gramatyka/skladnia/zdania-zlozone/interpunkcja.md
