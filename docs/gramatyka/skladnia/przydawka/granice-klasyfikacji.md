@@ -2,100 +2,227 @@
 
 <div class="attribute-lesson" markdown>
 
-<div class="attribute-lead">
-Niektóre konstrukcje można opisać na więcej niż jeden sposób. W takich miejscach trzeba wskazać wyraz nadrzędny, relację znaczeniową i przyjęty model analizy.
-</div>
+## W trudnym przykładzie trzeba wyjaśnić, co fragment opisuje
 
-## „Raport zespołu”
+W prostym połączeniu:
 
-> Marta przeczytała raport <span class="attribute-mark attribute-mark--genitive">zespołu</span>.
+> <span class="attribute-mark attribute-mark--adjective">nowy</span> <span class="attribute-head">raport</span>
 
-Forma **zespołu** może oznaczać autora raportu, jego właściciela albo grupę, której raport dotyczy. Funkcja składniowa pozostaje ta sama, ale znaczenie zależy od kontekstu.
+łatwo zauważyć, że **nowy** opisuje rzeczownik **raport**.
 
-## „Portret córki”
+W innych przykładach sama forma nie wystarcza. Trzeba sprawdzić:
 
-> Na ścianie wisiał portret <span class="attribute-mark attribute-mark--genitive">córki</span>.
+- który rzeczownik jest wyrazem głównym;
+- czy analizowany fragment tworzy z nim jedną grupę;
+- co dokładnie znaczy w danym kontekście;
+- czy nie opisuje zamiast tego czynności albo stanu osoby;
+- czy całe połączenie nie jest utrwaloną nazwą własną.
 
-Wyrażenie może oznaczać:
+## „Raport zespołu” — jedna funkcja, kilka możliwych znaczeń
+
+> Marta przeczytała <span class="attribute-head">raport</span> <span class="attribute-mark attribute-mark--genitive">zespołu</span>.
+
+Wyraz **zespołu** może oznaczać:
+
+- raport napisany przez zespół;
+- raport należący do zespołu;
+- raport dotyczący zespołu.
+
+W każdym znaczeniu opisuje rzeczownik **raport**, więc pozostaje przydawką dopełniaczową. Kontekst zmienia sens, ale nie musi zmieniać funkcji.
+
+## „Portret córki” — kogo przedstawia, do kogo należy czy kto go namalował?
+
+> Na ścianie wisiał <span class="attribute-head">portret</span> <span class="attribute-mark attribute-mark--genitive">córki</span>.
+
+Możliwe znaczenia:
 
 - portret przedstawiający córkę;
-- portret należący do córki.
+- portret należący do córki;
+- portret namalowany przez córkę.
 
-Sama forma dopełniacza nie rozstrzyga relacji znaczeniowej.
+Sama forma dopełniacza nie wybiera jednego znaczenia. Potrzebujemy szerszego tekstu albo sytuacji.
 
-## „Marta, kierowniczka projektu”
+<div class="attribute-checkpoint">
+  <div class="attribute-checkpoint__title">Znaczenie i funkcja to nie to samo</div>
+  <p>Wyraz może zachować funkcję przydawki, choć dokładny rodzaj związku — właściciel, autor, temat — zależy od kontekstu.</p>
+</div>
 
-> Marta, <strong>kierowniczka projektu</strong>, rozpoczęła spotkanie.
+## „Marta, kierowniczka projektu” — druga nazwa tej samej osoby
 
-Wydzielona grupa rzeczownikowa jest dopowiedzeniem. W szkolnym opisie można mówić o przydawce rzeczownej wydzielonej, ale dokładniejszy opis traktuje ją jako apozycję.
+> Marta, **kierowniczka projektu**, rozpoczęła spotkanie.
 
-## „Profesor Nowak”
+Część **kierowniczka projektu** podaje drugą nazwę Marty. Jest wydzielona przecinkami i można ją usunąć bez zniszczenia podstawowego zdania:
+
+> Marta rozpoczęła spotkanie.
+
+Taką wydzieloną drugą nazwę nazywamy **dopowiedzeniem rzeczownikowym** albo **apozycją**.
+
+W prostym opisie szkolnym można spotkać określenie **przydawka rzeczowna wydzielona**. Dokładniejsza nazwa **apozycja** lepiej pokazuje, że mamy dwie nazwy tej samej osoby.
+
+Porównaj:
+
+> Kierowniczka projektu Marta rozpoczęła spotkanie.
+
+Tutaj nie ma przecinków, a wyrazy tworzą zwartą grupę identyfikującą osobę.
+
+## „Profesor Nowak” — tytuł i nazwisko
 
 > Profesor <span class="attribute-mark attribute-mark--noun">Nowak</span> rozpoczął wykład.
 
-Nazwisko doprecyzowuje rzeczownik **profesor**. Można mówić o przydawce rzeczownej albo o członie identyfikującym w grupie nazw własnych.
+Nazwisko **Nowak** dokładniej wskazuje, o którego profesora chodzi. W szkolnym opisie nazywamy je przydawką rzeczowną.
 
-## Nazwa własna
+Można jednak spojrzeć na całość **profesor Nowak** jako na jedną rozbudowaną nazwę osoby. Dlatego nie należy mechanicznie rozdzielać takich grup bez uwzględnienia ich znaczenia.
+
+## Nazwa własna może przypominać zwykłą grupę z przydawką
 
 > Uniwersytet Jagielloński opublikował komunikat.
 
 > Morze Bałtyckie jest chłodne.
 
-Drugi człon ma formę przymiotnika i historycznie pełni funkcję określenia, ale całość jest utrwaloną nazwą własną. W analizie szkolnej zwykle wskazuje się przydawkę, w opisie nazw własnych traktuje się całość jako jednostkę nazewniczą.
+> Rzeczpospolita Polska obchodzi święto.
 
-## „Raport roczny”
+Wyrazy **Jagielloński**, **Bałtyckie** i **Polska** wyglądają jak określenia rzeczowników. Jednocześnie całe połączenia są utrwalonymi nazwami własnymi.
 
-> Raport <span class="attribute-mark attribute-mark--adjective">roczny</span> został opublikowany.
+W szkolnej analizie można wskazywać w nich przydawki. Podczas pisania, odmiany i rozpoznawania nazwy trzeba jednak traktować całe połączenie jako jedną nazwę.
 
-Przymiotnik klasyfikuje dokument jako określony typ raportu. Związek jest silniejszy niż w swobodnym połączeniu **obszerny raport**.
+## „Raport roczny” — opis czy nazwa typu?
 
-## „Marta wróciła zmęczona”
+> <span class="attribute-head">Raport</span> <span class="attribute-mark attribute-mark--adjective">roczny</span> został opublikowany.
 
-> Marta wróciła <strong>zmęczona</strong>.
+Wyraz **roczny** nie tylko dodaje przypadkową cechę. Pomaga nazwać określony typ dokumentu — raport podsumowujący rok.
 
-Wyraz **zmęczona** opisuje stan Marty podczas powrotu, ale nie tworzy z nią zwykłej grupy rzeczownikowej. Nie należy go mechanicznie nazywać przydawką. W dokładniejszym opisie jest to predykacja wtórna.
+Porównaj:
 
-## „Drzwi są zamknięte”
+> <span class="attribute-mark attribute-mark--adjective">Obszerny</span> <span class="attribute-head">raport</span> został opublikowany.
 
-> Drzwi są <strong>zamknięte</strong>.
+**Obszerny** opisuje rozmiar konkretnego raportu. **Roczny** klasyfikuje dokument jako określony rodzaj raportu.
 
-Forma **zamknięte** może opisywać stan i pełnić funkcję orzecznika. W zdaniu **zamknięte drzwi nie otwierały się** ta sama forma jest przydawką.
+Oba wyrazy są przydawkami przymiotnymi, ale pełnią nieco inne zadanie znaczeniowe.
 
-## Wyrażenie przyimkowe
+## „Marta wróciła zmęczona” — stan podczas czynności
 
-> Człowiek <span class="attribute-mark attribute-mark--prepositional">z parasolem</span> wszedł do sali.
+> Marta wróciła **zmęczona**.
 
-> Człowiek wszedł <strong>z parasolem</strong> do sali.
+Wyraz **zmęczona** opisuje Martę w chwili powrotu. Nie tworzy jednak zwartej grupy **zmęczona Marta**, ponieważ znajduje się po orzeczeniu i dodaje informację o stanie podczas czynności.
 
-W pierwszym zdaniu wyrażenie identyfikuje człowieka. W drugim może określać sposób lub towarzyszący przedmiot podczas wejścia. Szyk i kontekst wpływają na analizę.
+Porównaj:
 
-## „Droga do szkoły”
+> <span class="attribute-mark attribute-mark--adjective">Zmęczona</span> <span class="attribute-head">Marta</span> wróciła do domu.
 
-> Droga <span class="attribute-mark attribute-mark--prepositional">do szkoły</span> była zamknięta.
+Tutaj **zmęczona** jest zwykłą przydawką.
 
-Wyrażenie rozwija rzeczownik **droga**. Porównaj:
+> Marta była **zmęczona**.
 
-> Uczniowie szli <strong>do szkoły</strong>.
+Tutaj **była zmęczona** tworzy orzeczenie imienne.
 
-Tutaj wyrażenie zależy od czasownika ruchu i jest okolicznikiem kierunku.
+W dokładniejszym opisie forma ze zdania **Marta wróciła zmęczona** bywa nazywana **orzecznikiem wtórnym**. Na poziomie szkolnym najważniejsze jest, by nie nazywać jej automatycznie przydawką.
 
-## „Trzy raporty”
+## „Drzwi są zamknięte” — stan czy opis rzeczownika?
 
-> Trzy raporty trafiły do dyrekcji.
+> Drzwi są **zamknięte**.
 
-W szkolnej analizie liczebnik jest przydawką liczebną. W opisach składniowych liczebnik może być traktowany jako centrum całej grupy liczebnikowej, szczególnie przy formach **pięć raportów**.
+Wyraz **zamknięte** razem z **są** mówi o stanie drzwi. Jest orzecznikiem.
 
-## Jak uzasadniać analizę?
+> <span class="attribute-mark attribute-mark--adjective">Zamknięte</span> <span class="attribute-head">drzwi</span> nie otwierały się.
 
-1. Wskaż rzeczownik nadrzędny.
-2. Sprawdź, czy analizowany składnik tworzy z nim zwartą grupę.
-3. Ustal, czy składnik opisuje rzeczownik, czy stan uczestnika zdarzenia.
-4. Przy nazwach własnych zaznacz, że całość może być jednostką nazewniczą.
-5. Przy sporze podaj rozwiązanie szkolne i dokładniejsze określenie alternatywne.
+Tutaj **zamknięte** znajduje się w grupie rzeczownikowej i jest przydawką.
+
+> Drzwi zostały **zamknięte** przez woźnego.
+
+W tym zdaniu forma **zostały zamknięte** tworzy orzeczenie w stronie biernej i mówi o wykonanej czynności.
+
+Ta sama forma może więc:
+
+- opisywać rzeczownik;
+- podawać stan;
+- należeć do orzeczenia biernego.
+
+## „Człowiek z parasolem” — osoba czy sposób wejścia?
+
+> <span class="attribute-head">Człowiek</span> <span class="attribute-mark attribute-mark--prepositional">z parasolem</span> wszedł do sali.
+
+Najbardziej naturalnie rozumiemy, że **z parasolem** pomaga rozpoznać człowieka. Jest przydawką.
+
+> Człowiek wszedł **z parasolem** do sali.
+
+Tutaj wyrażenie może mówić, z czym człowiek wykonał czynność wejścia. Zbliża się do okolicznika towarzyszącego przedmiotu.
+
+Szyk i kontekst mogą przesuwać sposób rozumienia. Nie zawsze istnieje jedna mechaniczna odpowiedź bez znajomości całej wypowiedzi.
+
+## „Droga do szkoły” i „szli do szkoły”
+
+> <span class="attribute-head">Droga</span> <span class="attribute-mark attribute-mark--prepositional">do szkoły</span> była zamknięta.
+
+Wyrażenie **do szkoły** opisuje drogę.
+
+> Uczniowie szli **do szkoły**.
+
+Tutaj to samo wyrażenie mówi, dokąd szli uczniowie. Jest okolicznikiem miejsca.
+
+Najważniejsze pytanie nie brzmi więc tylko **dokąd?**, ale także:
+
+> Czy wyrażenie opisuje rzeczownik **droga**, czy czynność **szli**?
+
+## „Trzy raporty” i „pięć raportów”
+
+> <span class="attribute-mark attribute-mark--adjective">Trzy</span> <span class="attribute-head">raporty</span> trafiły do dyrekcji.
+
+> <span class="attribute-mark attribute-mark--adjective">Pięć</span> <span class="attribute-head">raportów</span> trafiło do dyrekcji.
+
+W szkolnym opisie liczebniki **trzy** i **pięć** pełnią funkcję przydawek liczebnych, ponieważ podają ilość raportów.
+
+Budowa obu grup jest jednak różna:
+
+- po **trzy** rzeczownik ma formę **raporty**, a orzeczenie — **trafiły**;
+- po **pięć** rzeczownik ma formę **raportów**, a orzeczenie — **trafiło**.
+
+W dokładniejszych opisach języka grupa z liczebnikiem **pięć** może być analizowana inaczej niż grupa z **trzy**. W tym kursie zachowujemy spójny szkolny standard, ale nie ukrywamy widocznej różnicy w budowie.
+
+## Długa grupa nie musi zależeć bezpośrednio od jednego rzeczownika
+
+> <span class="attribute-head">Raport</span> <span class="attribute-mark attribute-mark--genitive">kierownika działu sprzedaży</span> trafił do archiwum.
+
+Nie pytamy od razu:
+
+> raport czego? — sprzedaży.
+
+Kolejne poziomy wyglądają tak:
+
+<div class="attribute-tree">raport
+└── czyj? → kierownika
+    └── czego? → działu
+        └── czego? → sprzedaży</div>
+
+Cała przydawka opisuje raport, ale jej wewnętrzne wyrazy tworzą łańcuch kolejnych zależności.
+
+## Jak uzasadniać trudną analizę?
+
+Zamiast odpowiedzi:
+
+> To jest przydawka, bo odpowiada na pytanie „jaki?”
+
+lepiej powiedzieć:
+
+> W grupie **droga do szkoły** wyrazem głównym jest **droga**. Wyrażenie **do szkoły** mówi, o którą drogę chodzi, i razem z rzeczownikiem tworzy jedną grupę. Dlatego pełni funkcję przydawki przyimkowej.
+
+<div class="attribute-checklist">
+  <div><strong>Wskaż rzeczownik będący wyrazem głównym.</strong></div>
+  <div><strong>Sprawdź, czy analizowany fragment tworzy z nim jedną grupę.</strong></div>
+  <div><strong>Powiedz zwykłym językiem, co fragment dodaje.</strong> Cechę, właściciela, nazwę, typ, miejsce czy stan?</div>
+  <div><strong>Sprawdź, czy fragment nie opisuje czasownika albo całego zdarzenia.</strong></div>
+  <div><strong>Przy nazwie własnej lub dopowiedzeniu zaznacz, że całość może być utrwaloną jednostką.</strong></div>
+  <div><strong>Jeżeli istnieją różne opisy, najpierw podaj rozwiązanie używane w tym kursie.</strong></div>
+</div>
 
 <div class="attribute-summary">
-<h3>Granica zależy od struktury, nie od samej formy</h3>
-Przymiotnik, rzeczownik i wyrażenie przyimkowe mogą być przydawkami, ale mogą też pełnić inne funkcje. Rozstrzyga zależność w konkretnym zdaniu.
+<h3>Granicy nie rozstrzyga sam wygląd wyrazu</h3>
+<ul>
+  <li>Ta sama forma może być przydawką, orzecznikiem albo częścią orzeczenia biernego.</li>
+  <li>Dopełniacz może mieć kilka znaczeń bez zmiany funkcji.</li>
+  <li>Szyk może decydować, czy wyrażenie opisuje rzeczownik, czy czynność.</li>
+  <li>Nazwy własne i apozycje wymagają uwzględnienia całej utrwalonej grupy.</li>
+  <li>Dobra odpowiedź pokazuje wyraz główny, zakres grupy i znaczenie analizowanego fragmentu.</li>
+</ul>
 </div>
 
 [Przejdź dalej: przydawki w tekście](../przydawki-w-tekscie/){ .md-button .md-button--primary }
