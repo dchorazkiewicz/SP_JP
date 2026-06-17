@@ -2,92 +2,150 @@
 
 <div class="relations-lesson" markdown>
 
-<div class="relations-lead">
-Tradycyjny podział na zgodę, rząd i przynależność jest użyteczny, ale nie opisuje wszystkich konstrukcji bez wyjątków. W trudnych miejscach trzeba oddzielić szkolną klasyfikację od dokładniejszego opisu zależności.
-</div>
+## Proste nazwy nie rozwiązują każdego przypadku
 
-## Związek główny
+Podział na zgodę, rząd i przynależność porządkuje wiele typowych połączeń. Nie wszystkie konstrukcje zachowują się jednak jak zwykła para: jeden wyraz główny i jeden wyraz zależny.
+
+Na tej stronie najpierw pokazujemy, co dzieje się w przykładzie, a następnie podajemy standard używany w kursie. Gdy istnieje inne uzasadnione ujęcie, zaznaczamy je bez tworzenia katalogu wszystkich teorii.
+
+## Podmiot i orzeczenie: związek główny
 
 > Marta przygotowała raport.
+>
+> Pracownicy przygotowali raport.
 
-Relacja między podmiotem **Marta** a orzeczeniem **przygotowała** bywa nazywana **związkiem głównym**, ponieważ tworzy centrum zdania. Jednocześnie widoczna jest zgodność osoby, liczby i rodzaju.
+Zmiana podmiotu wpływa na formę orzeczenia. Widzimy więc zgodę. Jednocześnie podmiot nie jest zwykłym określeniem czasownika: razem z orzeczeniem tworzy podstawową organizację zdania.
 
-## Liczebniki
+**Standard kursu:** relację podmiotu i orzeczenia nazywamy **związkiem głównym**. Możemy wskazać zgodę form, ale nie przedstawiamy podmiotu jako zwykłego składnika podrzędnego.
+
+## Orzeczenie wielowyrazowe nie jest luźnym szeregiem zależności
+
+> Marta pracuje.
+>
+> Marta jest spokojna.
+>
+> Marta musi pracować.
+
+W pierwszym zdaniu jedno słowo przekazuje główną informację. W drugim **jest spokojna** współtworzy orzeczenie imienne. W trzecim **musi pracować** tworzy złożone centrum czasownikowe.
+
+**Standard kursu:** najpierw wyznaczamy pełny zakres orzeczenia. Nie rozbijamy automatycznie połączeń **jest spokojna** i **musi pracować** na zwykłe związki rządu lub przynależności.
+
+## Grupy liczebnikowe zmieniają budowę zależności
 
 > trzy raporty;
-
+>
 > pięć raportów.
 
-W pierwszym przykładzie rzeczownik zachowuje liczbę mnogą. W drugim liczebnik narzuca rzeczownikowi dopełniacz. Zależność w grupach liczebnikowych jest bardziej złożona niż prosta zgoda.
+W takich grupach w mianowniku po liczebnikach **dwa, trzy, cztery** rzeczownik ma liczbę mnogą. Po **pięć, sześć, wiele** występuje dopełniacz liczby mnogiej.
 
-## Podmiot liczebnikowy i orzeczenie
+> Trzy raporty zostały wysłane.
+>
+> Pięć raportów zostało wysłanych.
 
-> Pięć raportów <span class="relations-mark relations-mark--agreement">zostało wysłanych</span>.
+**Standard kursu:** konstrukcję liczebnikową analizujemy jako całość. Nie udajemy, że każdy liczebnik łączy się z rzeczownikiem przez prostą zgodę. Przy **pięć raportów** liczebnik wpływa na formę rzeczownika i na organizację zgody z orzeczeniem.
 
-Orzeczenie przyjmuje liczbę pojedynczą i rodzaj nijaki, mimo że mowa o kilku raportach. O formie decyduje cała konstrukcja liczebnikowa.
+## Przyimek tworzy zależność wewnętrzną i zewnętrzną
 
-## Orzecznik
+> Marta myśli o projekcie.
 
-> Marta jest kierowniczką.
+Wewnątrz grupy przyimek **o** wymaga miejscownika **projekcie**. Cała grupa **o projekcie** jest jednocześnie wymagana przez czasownik **myśli**.
 
-Rzeczownik **kierowniczką** współtworzy orzeczenie imienne. Nie jest zwykłym dopełnieniem czasownika **jest**, dlatego opis jako prosty związek rządu byłby niewystarczający.
+<div class="relations-tree">myśli
+└── o projekcie [grupa wymagana przez czasownik]
+    └── o → projekcie [miejscownik wymagany przez przyimek]</div>
 
-## Bezokolicznik po czasowniku modalnym
+**Standard kursu:** pokazujemy oba poziomy. Nie nazywamy rzeczownika **projekcie** bezpośrednim dopełnieniem czasownika z pominięciem przyimka.
 
-> Marta musi przygotować raport.
+## Stan uczestnika podczas czynności
 
-Czasowniki **musi** i **przygotować** tworzą jedno złożone centrum orzeczeniowe. Nie należy automatycznie analizować bezokolicznika jako luźnego składnika w związku przynależności.
+> Marta wróciła zmęczona.
 
-## Konstrukcja rezultatywna
+Wyraz **zmęczona** opisuje Martę, ale jednocześnie wiąże ten stan z chwilą powrotu. Nie zachowuje się jak zwykła przydawka w grupie **zmęczona Marta**, ponieważ nie służy tylko identyfikacji osoby.
+
+> Zmęczona Marta wróciła. — cecha w grupie rzeczownikowej;
+>
+> Marta wróciła zmęczona. — stan Marty podczas powrotu.
+
+**Standard kursu:** w analizie szkolnej zaznaczamy szczególną, predykatywną funkcję wyrazu odnoszącego się do uczestnika. Nie sprowadzamy przykładu mechanicznie do zwykłej przydawki ani zwykłego okolicznika sposobu.
+
+## Rezultat czynności
 
 > Technik pomalował ścianę na biało.
 
-Wyrażenie **na biało** opisuje rezultat czynności. W szkolnej analizie może być okolicznikiem, ale dokładniejszy opis wskazuje na składnik predykatywny odnoszący się do dopełnienia **ścianę**.
+Grupa **na biało** nie opisuje sposobu poruszania pędzlem. Mówi, jaki stan ściany powstał wskutek malowania.
 
-## Przyimek i podwójna zależność
+**Standard kursu:** wskazujemy znaczenie rezultatu i związek z dopełnieniem **ścianę**. W szkolnym opisie może pojawić się etykieta okolicznika, ale komentarz musi pokazać, że konstrukcja opisuje wynik czynności.
 
-> myśleć o projekcie
-
-Rzeczownik **projekcie** jest rządzony przez przyimek **o**, a cała grupa **o projekcie** jest wymagana przez czasownik **myśleć**. Analiza ma dwa poziomy.
-
-<div class="relations-tree">myśleć
-└── o projekcie [wymagana grupa]
-    └── o → projekcie [miejscownik]</div>
-
-## Nazwy własne i apozycja
+## Apozycja i konstrukcje nazewnicze
 
 > profesor Nowak;
-
+>
 > miasto Kraków;
-
+>
 > Marta, kierowniczka projektu, rozpoczęła spotkanie.
 
-Relacje między rzeczownikami mogą być opisywane jako przydawka rzeczowna, apozycja albo konstrukcja nazewnicza. Nie zawsze mieszczą się wygodnie w klasycznym podziale.
+Dwa rzeczowniki mogą nazywać ten sam obiekt z dwóch stron. W ostatnim zdaniu fragment **kierowniczka projektu** dopowiada, kim jest Marta, i jest oddzielony przecinkami.
 
-## Współrzędność z elipsą
+**Standard kursu:** termin **apozycja** wprowadzamy po pokazaniu współodniesienia. Nie próbujemy każdej takiej konstrukcji wtłoczyć bez komentarza w prosty rząd lub zgodę.
 
-> Marta przygotowała raport, a Piotr prezentację.
+## Połączenia utrwalone
 
-W drugim członie pominięto czasownik **przygotował**. Zależności trzeba odtworzyć z kontekstu, a nie wyłącznie z widocznych wyrazów.
+> wziąć udział;
+>
+> mieć na uwadze;
+>
+> zwrócić uwagę.
 
-## Przynależność a adiunkcja
+Znaczenie całości nie zawsze jest prostą sumą znaczeń poszczególnych wyrazów. Nadal możemy badać formy i funkcje, ale analiza czysto składniowa nie wyjaśnia całego sensu połączenia.
 
-Tradycyjny termin **związek przynależności** obejmuje wiele swobodnych, nieodmiennych określeń. W nowszych opisach częściej mówi się o **adiunkcji**, czyli dołączaniu składnika niewymaganego przez centrum.
+**Standard kursu:** zaznaczamy utrwalenie lub frazeologiczność. Nie tworzymy sztucznej, nadmiernie szczegółowej sieci, która sugerowałaby pełną swobodę łączenia wyrazów.
 
-## Jak analizować przypadki sporne?
+## Elipsa: zależność istnieje mimo braku wyrazu
 
-1. Wskaż centrum i składnik zależny.
-2. Sprawdź, czy zachodzi zgoda form.
-3. Sprawdź, czy centrum narzuca przypadek lub przyimek.
-4. Ustal, czy składnik jest wymagany, czy swobodnie dołączony.
-5. Zaznacz, gdy konstrukcja tworzy orzeczenie, nazwę własną albo predykację wtórną.
-6. Przy potrzebie podaj rozwiązanie szkolne i dokładniejsze alternatywne.
+> Marta przygotowała raport, a Piotr — prezentację.
+
+W drugim członie nie zapisano czasownika **przygotował**, ale czytelnik może go odtworzyć:
+
+> Marta przygotowała raport, a Piotr przygotował prezentację.
+
+**Standard kursu:** nazywamy to **elipsą**. Odtwarzamy pominięte centrum z kontekstu i dopiero wtedy pokazujemy zależności. Nie mówimy, że rzeczownik **prezentację** nie ma żadnego centrum.
+
+## Element domyślny, pominięty i rzeczywiście nieobecny
+
+> Wróciliśmy. — podmiot **my** wynika z formy czasownika;
+>
+> Marta weszła i usiadła. — wspólny podmiot drugiego orzeczenia wynika z kontekstu;
+>
+> Marta przygotowała raport, a Piotr — prezentację. — pominięto orzeczenie;
+>
+> Zagrzmiało. — podmiotu nie ma.
+
+**Standard kursu:** nie używamy jednej etykiety **domyślny** dla wszystkich czterech sytuacji. Inaczej opisujemy informację zawartą w formie, elipsę kontekstową i rzeczywisty brak składnika.
+
+## Przynależność i nowsze pojęcie adiunkcji
+
+> Marta pracowała uważnie.
+
+Szkolny termin **związek przynależności** podkreśla zależność niewidoczną we wspólnej odmianie. W nowszych opisach często używa się pojęcia **adiunkcji**, czyli dołączania składnika niewymaganego przez centrum.
+
+**Standard kursu:** w głównej ścieżce stosujemy nazwę szkolną **przynależność**, ale wyjaśniamy jej działanie przez sens, zakres i brak wymagania formy. Termin **adiunkcja** podajemy jako dokładniejszą nazwę spotykaną w innych opisach.
+
+## Jak rozstrzygać przypadek graniczny?
+
+1. Najpierw opisz zwykłym językiem, co robi analizowany fragment.
+2. Wyznacz pełne orzeczenie i granice grup.
+3. Sprawdź zgodę form.
+4. Sprawdź wymagany przypadek lub przyimek.
+5. Ustal, czy składnik jest wymagany, swobodnie dołączony, wspólny czy pominięty.
+6. Zobacz, czy konstrukcja nazywa ten sam obiekt, współtworzy orzeczenie albo opisuje rezultat lub stan uczestnika.
+7. Podaj standard kursu.
+8. Inne ujęcie zaznacz tylko wtedy, gdy rzeczywiście pomaga zrozumieć różnicę.
 
 <div class="relations-summary">
-<h3>Klasyfikacja jest narzędziem, nie celem samym w sobie</h3>
-Najważniejsze jest poprawne pokazanie zależności. Nazwa typu związku powinna wynikać ze struktury i formy, a nie zastępować ich analizę.
+<h3>Klasyfikacja ma wyjaśniać zachowanie konstrukcji</h3>
+<p>Gdy prosty schemat zawodzi, wracamy do formy, znaczenia, zakresu i przekształceń. Nazwa jest końcowym podsumowaniem analizy, a nie sposobem na ukrycie trudnego przypadku.</p>
 </div>
 
-[Przejdź dalej: związki w tekście](../zwiazki-w-tekscie/){ .md-button .md-button--primary }
+[Przejdź dalej: sieć zależności w historii](../zwiazki-w-tekscie/){ .md-button .md-button--primary }
 
 </div>
