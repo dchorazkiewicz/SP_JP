@@ -4,7 +4,8 @@
 
 ## Obecność i brak zmieniają formę uczestnika
 
-> W sali <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>dyrektor</strong></span>.  
+> W sali <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>dyrektor</strong></span>.
+
 > W sali <span class="subject-predicate">nie ma</span> <span class="subject-mark subject-mark--logical"><strong>dyrektora</strong></span>.
 
 W pierwszym zdaniu **dyrektor** stoi w mianowniku i jest typowym podmiotem gramatycznym. W drugim mówimy o nieobecności tej samej osoby, ale konstrukcja wymaga formy **dyrektora** w dopełniaczu.
@@ -14,115 +15,131 @@ Dopiero po zauważeniu tej zmiany wprowadzamy szkolną nazwę **podmiot logiczny
 <div class="subject-concept">
   <span class="subject-concept__label">Pojęcie</span>
   <strong>Podmiot logiczny</strong>
-  <p>To tradycyjna szkolna nazwa składnika w dopełniaczu, który przy braku, nieobecności, przybywaniu lub ubywaniu nazywa głównego uczestnika sytuacji.</p>
+  <p>To tradycyjna szkolna nazwa składnika w dopełniaczu, który w konstrukcji braku, nieobecności, przybywania lub ubywania nazywa głównego uczestnika sytuacji.</p>
 </div>
 
-> <span class="subject-mark subject-mark--logical"><strong>Marty</strong></span> <span class="subject-predicate">nie było</span> w domu.  
-> Na dyskusję <span class="subject-predicate">zabrakło</span> <span class="subject-mark subject-mark--logical"><strong>czasu</strong></span>.  
+## Typowe konstrukcje braku i ubywania
+
+> <span class="subject-mark subject-mark--logical"><strong>Marty</strong></span> <span class="subject-predicate">nie było</span> w domu.
+
+> Na dyskusję <span class="subject-predicate">zabrakło</span> <span class="subject-mark subject-mark--logical"><strong>czasu</strong></span>.
+
 > W zbiorniku <span class="subject-predicate">ubyło</span> <span class="subject-mark subject-mark--logical"><strong>wody</strong></span>.
 
-Samo przeczenie nie wystarcza:
+> Do sali <span class="subject-predicate">przybyło</span> <span class="subject-mark subject-mark--logical"><strong>gości</strong></span>.
+
+Dopełniacz nie pojawia się dlatego, że zdanie jest po prostu przeczące. Wynika z całej konstrukcji braku, nieobecności, przybywania albo ubywania.
+
+Porównaj:
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Dyrektor</strong></span> <span class="subject-predicate">nie przyszedł</span>.
 
-Podmiot nadal stoi w mianowniku.
+Podmiot nadal stoi w mianowniku. Samo **nie** nie tworzy podmiotu logicznego.
 
 ## Dwa, trzy, cztery oraz pięć i więcej
 
-> <span class="subject-mark subject-mark--grammatical">dwaj <strong>technicy</strong></span> <span class="subject-predicate">przyszli</span>.  
+> <span class="subject-mark subject-mark--grammatical">dwaj <strong>technicy</strong></span> <span class="subject-predicate">przyszli</span>.
+
 > <span class="subject-mark subject-mark--logical"><strong>Pięciu techników</strong></span> <span class="subject-predicate">przyszło</span>.
 
-Pierwsza grupa zachowuje liczbę mnogą i ma rzeczownik **technicy** jako wyraz główny. W drugiej liczebnik **pięciu** organizuje całą grupę, wymaga formy **techników**, a orzeczenie przyjmuje postać **przyszło**.
+Pierwsza grupa zachowuje zwykłą liczbę mnogą i ma rzeczownik **technicy** jako wyraz główny.
 
-Całość **pięciu techników** nazywa uczestników i pełni jedną funkcję. W tej publikacji używamy nazwy **podmiot liczebnikowy** albo dokładniej **podmiot liczebnikowo-rzeczownikowy**.
+W drugiej liczebnik **pięciu** organizuje całą grupę, wymaga formy **techników**, a orzeczenie przyjmuje postać **przyszło**.
+
+Całość **pięciu techników** nazywa uczestników i pełni jedną funkcję. W tej publikacji używamy nazwy **podmiot liczebnikowo-rzeczownikowy**.
 
 <div class="subject-summary" markdown>
 
-### Dlaczego nie nazywamy go po prostu logicznym?
+### Dlaczego nie nazywamy każdej takiej grupy podmiotem logicznym?
 
-W niektórych szkolnych ujęciach grupy typu **pięciu techników** bywają włączane do podmiotu logicznego, ponieważ rzeczownik stoi w dopełniaczu. Tutaj rozdzielamy oba zjawiska: **Marty nie było** opisuje brak osoby, natomiast **pięciu techników przyszło** jest grupą ilościową zorganizowaną przez liczebnik. Wspólny bursztynowy kolor oznacza jedynie nietypową budowę, nie identyczną kategorię.
+W niektórych szkolnych ujęciach grupy typu **pięciu techników** bywają włączane do podmiotu logicznego, ponieważ rzeczownik stoi w dopełniaczu. W tym kursie rozdzielamy dwa zjawiska:
+
+- **Marty nie było** — konstrukcja nieobecności;
+- **pięciu techników przyszło** — konstrukcja ilościowa zorganizowana przez liczebnik.
+
+Wspólny bursztynowy kolor oznacza nietypową budowę, a nie identyczną kategorię.
 
 </div>
 
 ## Liczebniki zbiorowe i wyrazy ilościowe
 
-> <span class="subject-mark subject-mark--logical"><strong>Dwoje dzieci</strong></span> <span class="subject-predicate">zostało</span> w sali.  
-> <span class="subject-mark subject-mark--logical"><strong>Kilku kontrolerów</strong></span> <span class="subject-predicate">weszło</span>.  
+> <span class="subject-mark subject-mark--logical"><strong>Dwoje dzieci</strong></span> <span class="subject-predicate">zostało</span> w sali.
+
+> <span class="subject-mark subject-mark--logical"><strong>Kilku kontrolerów</strong></span> <span class="subject-predicate">weszło</span>.
+
 > <span class="subject-mark subject-mark--logical"><strong>Dużo wody</strong></span> <span class="subject-predicate">wylało się</span>.
 
-Liczebniki zbiorowe oraz wyrazy **kilku**, **wielu**, **mało**, **dużo** i **sporo** tworzą grupy, po których zwykle pojawia się forma pojedyncza rodzaju nijakiego.
+> <span class="subject-mark subject-mark--logical"><strong>Wiele nowych danych</strong></span> <span class="subject-predicate">napłynęło</span> wieczorem.
+
+Liczebniki zbiorowe oraz wyrazy **kilku**, **wielu**, **mało**, **dużo**, **sporo** i **wiele** tworzą grupy, po których orzeczenie zwykle przyjmuje formę pojedynczą rodzaju nijakiego.
 
 ## Nazwa zbiorowości ma inną budowę
 
-> <span class="subject-mark subject-mark--grammatical"><strong>Grupa</strong> techników</span> <span class="subject-predicate">weszła</span>.  
+> <span class="subject-mark subject-mark--grammatical"><strong>Grupa</strong> techników</span> <span class="subject-predicate">weszła</span>.
+
 > <span class="subject-mark subject-mark--grammatical"><strong>Większość</strong> uczestników</span> <span class="subject-predicate">zagłosowała</span>.
 
-Wyrazami głównymi są rzeczowniki **grupa** i **większość** w mianowniku. To one sterują formą orzeczenia.
+Wyrazami głównymi są rzeczowniki **grupa** i **większość** w mianowniku. To do nich dostosowuje się forma orzeczenia.
+
+Porównaj:
+
+<div class="subject-comparison">
+  <div class="subject-comparison-item"><span class="subject-comparison-label">rzeczownik zbiorowy</span><p><span class="subject-mark subject-mark--grammatical"><strong>Grupa</strong> techników</span> <span class="subject-predicate">weszła</span>.</p><p>Wyrazem głównym jest <em>grupa</em>.</p></div>
+  <div class="subject-comparison-item"><span class="subject-comparison-label">liczebnik</span><p><span class="subject-mark subject-mark--logical"><strong>Pięciu techników</strong></span> <span class="subject-predicate">weszło</span>.</p><p>Całość organizuje liczebnik <em>pięciu</em>.</p></div>
+</div>
 
 ## Osoba doświadczająca nie musi być podmiotem
 
-> Marcie <span class="subject-predicate">jest zimno</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>  
+> Marcie <span class="subject-predicate">jest zimno</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
 > Nam <span class="subject-predicate">było przykro</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
+
+> Jednemu z uczestników <span class="subject-predicate">zrobiło się słabo</span>. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
 
 Formy w celowniku wskazują osobę odczuwającą stan, ale nie są podmiotami. W tej publikacji nie nazywamy ich podmiotami logicznymi.
 
-## „Podobać się”
+## „Podobać się” działa inaczej
 
-> Marcie <span class="subject-predicate">podoba się</span> <span class="subject-mark subject-mark--grammatical"><strong>muzyka</strong></span>.  
+> Marcie <span class="subject-predicate">podoba się</span> <span class="subject-mark subject-mark--grammatical"><strong>muzyka</strong></span>.
+
 > Marcie <span class="subject-predicate">podobają się</span> <span class="subject-mark subject-mark--grammatical">te <strong>piosenki</strong></span>.
 
-Zmiana **muzyka — piosenki** powoduje zmianę **podoba się — podobają się**. Podmiotem jest źródło wrażenia, a **Marcie** wskazuje osobę odbierającą.
+Zmiana **muzyka — piosenki** powoduje zmianę **podoba się — podobają się**. To pokazuje, że podmiotem jest źródło wrażenia, a **Marcie** wskazuje osobę odbierającą.
 
 ## Istnienie, strona bierna i forma bezpodmiotowa
 
-> W szufladzie <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>klucz</strong></span>.  
-> <span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="subject-predicate">został napisany</span> przez Martę.  
+> W szufladzie <span class="subject-predicate">jest</span> <span class="subject-mark subject-mark--grammatical"><strong>klucz</strong></span>.
+
+> <span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="subject-predicate">został napisany</span> przez Martę.
+
 > Raport <span class="subject-predicate">napisano</span> rano. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
 
 Wyrażenie miejsca nie jest podmiotem. W stronie biernej podmiotem staje się rzecz objęta czynnością. W formie **napisano** zdanie pozostaje bezpodmiotowe.
 
-## Czynność może sama stać się podmiotem
+## Krótki tekst
 
-> <span class="subject-mark subject-mark--grammatical"><strong>Czytać</strong></span> <span class="subject-predicate">jest przyjemnie</span>.  
-> <span class="subject-mark subject-mark--grammatical"><strong>Pomagać innym</strong></span> <span class="subject-predicate">jest ważne</span>.
+<div class="subject-reading">
+  <div class="subject-reading-header"><h2>Poranna kontrola magazynu</h2></div>
+  <div class="subject-reading-text" markdown>
 
-Bezokolicznik albo grupa z bezokolicznikiem nazywa czynność, o której coś stwierdzamy.
+W magazynie <span class="subject-predicate">nie było</span> <span class="subject-mark subject-mark--logical"><strong>kierownika</strong></span>. Do wejścia <span class="subject-predicate">przybyło</span> <span class="subject-mark subject-mark--logical"><strong>siedmiu pracowników</strong></span>, ale <span class="subject-mark subject-mark--grammatical"><strong>większość</strong> zespołu</span> <span class="subject-predicate">czekała</span> na zewnątrz. Jednej z pracownic <span class="subject-predicate">zrobiło się</span> słabo. <span class="subject-mark subject-mark--grammatical"><strong>Świeże powietrze</strong></span> <span class="subject-predicate">pomogło</span> jej po kilku minutach.
 
-> <span class="subject-predicate">Trzeba czytać</span> uważnie. <span class="subject-mark subject-mark--none">Brak podmiotu.</span>
-
-Tutaj bezokolicznik współtworzy konstrukcję bezpodmiotową.
-
-## Cała treść jako podmiot
-
-> <span class="subject-mark subject-mark--grammatical"><strong>To, że termin został przesunięty</strong></span>, <span class="subject-predicate">zaskoczyło</span> uczestników.  
-> <span class="subject-mark subject-mark--grammatical"><strong>Czy spotkanie się odbędzie</strong></span>, <span class="subject-predicate">pozostaje niejasne</span>.
-
-Cała wyróżniona treść jest tym, o czym coś stwierdzamy. Dopiero po tej obserwacji wprowadzamy nazwę **zdanie podrzędne podmiotowe**.
-
-> <span class="subject-mark subject-mark--grammatical"><strong>Uczestnicy</strong></span> <span class="subject-predicate">wiedzą</span>, że termin został przesunięty.
-
-Tutaj treść po **że** uzupełnia czasownik **wiedzą**, ale nie jest podmiotem.
-
-## „To” i konstrukcja „ten, kto”
-
-> <span class="subject-mark subject-mark--grammatical"><strong>To</strong></span> <span class="subject-predicate">mnie zaskoczyło</span>.  
-> <span class="subject-mark subject-mark--grammatical"><strong>Ten</strong>, kto zna odpowiedź</span>, <span class="subject-predicate">powinien zabrać głos</span>.  
-> <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="subject-predicate">to kierowniczka projektu</span>.
-
-W pierwszym zdaniu **to** zastępuje wcześniejszą sytuację. W drugim wyrazem głównym jest **ten**, a dalsza część go rozwija. W trzecim podmiotem jest **Marta**, a połączenie z **to** należy do orzeczenia imiennego.
+  </div>
+</div>
 
 <div class="subject-summary" markdown>
 
-### Nietypowa forma nadal podlega regułom
+### Jak rozpoznawać konstrukcje nietypowe?
 
-- Podmiot logiczny występuje głównie w konstrukcjach braku, nieobecności, przybywania i ubywania.
-- Grupy liczebnikowo-rzeczownikowe organizuje liczebnik i dlatego oznaczamy je jako cały podmiot.
+- Podmiot logiczny pojawia się przede wszystkim w konstrukcjach braku, nieobecności, przybywania i ubywania.
+- Grupy liczebnikowo-rzeczownikowe organizuje liczebnik, dlatego obejmujemy ramką całą grupę.
+- Rzeczowniki zbiorowe takie jak **grupa** i **większość** są zwykłymi wyrazami głównymi w mianowniku.
 - Celownik osoby doświadczającej nie jest podmiotem.
-- Bezokolicznik i całe zdanie mogą pełnić funkcję podmiotu.
-- Sama obecność dopełniacza, liczebnika lub spójnika nie wystarcza do klasyfikacji.
+- W konstrukcji **podoba się** podmiotem jest to, co wywołuje wrażenie.
+- Bezokolicznik i całe zdanie jako podmiot omawia następna lekcja.
 
 </div>
 
-[Przejdź dalej: granice klasyfikacji podmiotu](../granice-klasyfikacji/){ .md-button .md-button--primary }
+[Przejdź dalej: czynność i całe zdanie jako podmiot](../podmiot-wyrazony-czynnoscia-i-zdaniem/){ .md-button .md-button--primary }
 
 </div>
