@@ -77,4 +77,4 @@ Nie przyłączamy wspólnego składnika wyłącznie do jednej części.
 
 **Dobry wykres pokazuje wynik analizy, a nie ukrywa jej brak.**
 
-[Przejdź dalej](../interpunkcja-wynikajaca-z-budowy/)
+[Przejdź dalej](../interpunkcja/)
