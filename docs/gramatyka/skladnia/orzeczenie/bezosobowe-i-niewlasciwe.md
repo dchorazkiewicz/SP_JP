@@ -161,7 +161,7 @@ W pierwszym zdaniu **droga** jest podmiotem, a orzeczenie ma budowę imienną. W
   <div class="predicate-reading-header"><h2>Po burzy</h2></div>
   <div class="predicate-reading-text" markdown>
 
-Nad ranem <span class="predicate-mark predicate-mark--verbal">przestało padać</span>, ale nad doliną nadal <span class="predicate-mark predicate-mark--verbal">grzmiało</span>. W budynku <span class="predicate-mark predicate-mark--nominal">było ciemno</span>, ponieważ wcześniej <span class="predicate-mark predicate-mark--verbal">wyłączono</span> zasilanie. Przy wejściu <span class="predicate-mark predicate-mark--compound">trzeba było sprawdzić</span> instalację. Jednemu z techników <span class="predicate-mark predicate-mark--nominal">zrobiło się słabo</span>. Z korytarza <span class="predicate-mark predicate-mark--verbal">słychać było</span> tylko cichy alarm.
+Nad ranem <span class="predicate-mark predicate-mark--compound">przestało padać</span>, ale nad doliną nadal <span class="predicate-mark predicate-mark--verbal">grzmiało</span>. W budynku <span class="predicate-mark predicate-mark--nominal">było ciemno</span>, ponieważ wcześniej <span class="predicate-mark predicate-mark--verbal">wyłączono</span> zasilanie. Przy wejściu <span class="predicate-mark predicate-mark--compound">trzeba było sprawdzić</span> instalację. Jednemu z techników <span class="predicate-mark predicate-mark--nominal">zrobiło się słabo</span>. Z korytarza <span class="predicate-mark predicate-mark--verbal">słychać było</span> tylko cichy alarm.
 
   </div>
 </div>
