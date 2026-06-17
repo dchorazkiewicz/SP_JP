@@ -2,26 +2,26 @@
 
 <div class="object-lesson" markdown>
 
-## Co zmienia się po zmianie perspektywy?
+## Co dzieje się z wyrazem „raport”, gdy zmieniamy zdanie?
 
 Porównaj:
 
 <div class="object-comparison">
-  <div class="object-comparison-item"><span class="object-comparison-label">zdanie czynne</span><p><span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="object-predicate">napisała</span> <span class="object-mark object-mark--direct"><strong>raport</strong></span>.</p><p>Zdanie zaczyna się od wykonawczyni czynności.</p></div>
-  <div class="object-comparison-item"><span class="object-comparison-label">zdanie bierne</span><p><span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="object-predicate">został napisany</span> przez Martę.</p><p>Zdanie zaczyna się od rzeczy objętej czynnością.</p></div>
+  <div class="object-comparison-item"><span class="object-comparison-label">zdanie czynne</span><p><span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="object-predicate">napisała</span> <span class="object-mark object-mark--direct"><strong>raport</strong></span>.</p><p>Zaczynamy od osoby wykonującej czynność.</p></div>
+  <div class="object-comparison-item"><span class="object-comparison-label">zdanie bierne</span><p><span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="object-predicate">został napisany</span> przez Martę.</p><p>Zaczynamy od rzeczy objętej czynnością.</p></div>
 </div>
 
-W pierwszym zdaniu **raport** uzupełnia czasownik **napisała**. Po zmianie strony ten sam rzeczownik staje się podmiotem, a forma **został napisany** dopasowuje do niego liczbę i rodzaj.
+W pierwszym zdaniu **raport** odpowiada na pytanie **co Marta napisała?** i jest dopełnieniem. W drugim zdaniu ten sam wyraz staje się podmiotem: to o raporcie mówi teraz orzeczenie **został napisany**.
 
-Dopełnienie, które w typowej transformacji strony czynnej na bierną może stać się podmiotem, nazywamy **dopełnieniem bliższym**.
+Dopełnienie, które po takiej zmianie zdania może stać się podmiotem, nazywamy **dopełnieniem bliższym**.
 
 <div class="object-concept">
   <span class="object-concept__label">Pojęcie</span>
   <strong>Dopełnienie bliższe</strong>
-  <p>To dopełnienie bezpośrednio objęte czynnością czasownika przechodniego. W typowym zdaniu czynnym występuje w bierniku, a po zmianie strony może przejść do pozycji podmiotu.</p>
+  <p>To dopełnienie nazywające osobę lub rzecz bezpośrednio objętą czynnością. Często stoi w bierniku i może stać się podmiotem po zmianie zdania czynnego na bierne.</p>
 </div>
 
-## Typowe dopełnienia bliższe
+## Zobacz tę samą zmianę w kilku zdaniach
 
 <div class="object-series">
   <div class="object-row"><span class="object-badge">analizować</span><p>Zespół <span class="object-predicate">analizuje</span> <span class="object-mark object-mark--direct"><strong>wyniki</strong></span>.</p><span class="object-note">wyniki są analizowane</span></div>
@@ -30,9 +30,13 @@ Dopełnienie, które w typowej transformacji strony czynnej na bierną może sta
   <div class="object-row"><span class="object-badge">zamknąć</span><p>Ochrona <span class="object-predicate">zamknęła</span> <span class="object-mark object-mark--direct"><strong>drzwi</strong></span>.</p><span class="object-note">drzwi zostały zamknięte</span></div>
 </div>
 
-Czasownik pozwalający utworzyć taki układ nazywamy **przechodnim**. Nazwa wskazuje, że rzecz objęta czynnością może „przejść” z funkcji dopełnienia do funkcji podmiotu strony biernej.
+W każdym przykładzie rzecz objęta czynnością może przejść na miejsce podmiotu. Czasownik, który pozwala utworzyć takie zdanie bierne, nazywamy **czasownikiem przechodnim**.
 
-## Nie każde dopełnienie przechodzi do podmiotu
+Nazwa **przechodni** pomaga zapamiętać, że dopełnienie może „przejść” do roli podmiotu:
+
+> technik naprawił urządzenie → urządzenie zostało naprawione.
+
+## Nie każde dopełnienie może stać się podmiotem
 
 > Marta <span class="object-predicate">pomaga</span> <span class="object-mark object-mark--indirect"><strong>koledze</strong></span>.
 
@@ -42,33 +46,37 @@ Czasownik pozwalający utworzyć taki układ nazywamy **przechodnim**. Nazwa wsk
 
 > Marta <span class="object-predicate">myśli</span> <span class="object-mark object-mark--indirect">o <strong>projekcie</strong></span>.
 
-Składniki uzupełniają znaczenie czasowników, ale nie tworzymy neutralnych zdań biernych typu **kolega jest pomagany**, **czas jest potrzebowany** albo **projekt jest myślany**.
+Te dopełnienia są potrzebne do zrozumienia zdań, ale nie tworzymy naturalnych zdań:
 
-Takie dopełnienie nazywamy **dalszym**.
+> kolega jest pomagany  
+> czas jest potrzebowany  
+> projekt jest myślany
+
+Dopełnienie, które nie staje się w zwykły sposób podmiotem strony biernej, nazywamy **dopełnieniem dalszym**.
 
 <div class="object-concept">
   <span class="object-concept__label">Pojęcie</span>
   <strong>Dopełnienie dalsze</strong>
-  <p>To dopełnienie wymagane lub przewidywane przez czasownik, które nie staje się w zwykły sposób podmiotem strony biernej. Może występować w dopełniaczu, celowniku, narzędniku albo w konstrukcji przyimkowej.</p>
+  <p>To dopełnienie, które pozostaje dopowiedzeniem do czasownika i nie przechodzi naturalnie na miejsce podmiotu. Może mieć formę dopełniacza, celownika, narzędnika albo połączenia z przyimkiem.</p>
 </div>
 
-## Dwa dopełnienia przy jednym orzeczeniu
+## Jeden czasownik może potrzebować dopełnienia bliższego i dalszego
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Marta</strong></span> <span class="object-predicate">wysłała</span> <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span> <span class="object-mark object-mark--direct"><strong>raport</strong></span>.
 
-Czasownik **wysłała** otwiera dwa miejsca:
+Czasownik **wysłała** łączy się z dwoma dopowiedzeniami:
 
 <div class="object-tree">wysłała
 ├── komu? → kierownikowi → dopełnienie dalsze
 └── co? → raport → dopełnienie bliższe</div>
 
-Po zmianie strony:
+Zmieńmy zdanie:
 
 > <span class="subject-mark subject-mark--grammatical"><strong>Raport</strong></span> <span class="object-predicate">został wysłany</span> <span class="object-mark object-mark--indirect"><strong>kierownikowi</strong></span> przez Martę.
 
-Wyraz **raport** staje się podmiotem. Forma **kierownikowi** pozostaje dopełnieniem dalszym.
+**Raport** stał się podmiotem. **Kierownikowi** nadal odpowiada na pytanie **komu?** i pozostaje dopełnieniem dalszym.
 
-## Dopełnienie przyimkowe jest zwykle dalsze
+## Dopełnienie z przyimkiem jest zwykle dalsze
 
 > Marta <span class="object-predicate">czeka</span> <span class="object-mark object-mark--indirect">na <strong>autobus</strong></span>.
 
@@ -76,38 +84,40 @@ Wyraz **raport** staje się podmiotem. Forma **kierownikowi** pozostaje dopełni
 
 > Wynik <span class="object-predicate">zależy</span> <span class="object-mark object-mark--indirect">od <strong>pogody</strong></span>.
 
-Przyimek należy do grupy dopełnienia, ale nie tworzy osobnego równorzędnego rodzaju wobec dopełnienia bliższego i dalszego. Opisuje **formę**, natomiast podział bliższe–dalsze opisuje zachowanie składnika wobec strony biernej.
+Słowa **na**, **z** i **od** pokazują formę dopełnienia. Nie tworzą jednak osobnego rodzaju dopełnienia. Nadal pytamy, czy zaznaczona część może stać się podmiotem. W tych przykładach nie może, dlatego są to dopełnienia dalsze.
 
 <div class="object-checkpoint">
-  <div class="object-checkpoint__title">Dwa różne pytania klasyfikacyjne</div>
-  <p>Możemy jednocześnie powiedzieć, że <em>o projekcie</em> jest dopełnieniem <strong>dalszym</strong> i ma formę <strong>przyimkową</strong>. Te określenia nie konkurują ze sobą.</p>
+  <div class="object-checkpoint__title">O jednym dopełnieniu możemy powiedzieć dwie rzeczy</div>
+  <p>Wyrażenie <em>o projekcie</em> jest <strong>przyimkowe</strong>, bo zaczyna się od przyimka <em>o</em>. Jest też dopełnieniem <strong>dalszym</strong>, bo nie staje się podmiotem strony biernej.</p>
 </div>
 
-## Test strony biernej jest mocny, ale nie mechaniczny
+## Zmiana na stronę bierną pomaga, ale nie zawsze działa
 
 > Marta <span class="object-predicate">ma</span> <span class="object-mark object-mark--direct"><strong>samochód</strong></span>.
 
-Wyraz **samochód** ma typową formę dopełnienia bezpośrednio związanego z czasownikiem **mieć**, lecz zdanie **samochód jest miany przez Martę** jest nienaturalne. W tradycyjnym opisie nadal traktujemy **samochód** jako dopełnienie bliższe.
+Wyraz **samochód** odpowiada na pytanie **co Marta ma?** i w szkolnej analizie jest dopełnieniem bliższym. Nie mówimy jednak naturalnie:
 
-Transformacja bierna jest więc bardzo dobrym testem, ale nie algorytmem działającym bez wyjątków. Trzeba uwzględnić znaczenie czasownika i rzeczywiste możliwości polszczyzny.
+> samochód jest miany przez Martę
 
-## Dopełnienie bliższe nie zawsze ma widoczny biernik
+Nie każdy czasownik pozwala zbudować zwykłe zdanie bierne, nawet gdy ma dopełnienie bliższe. Dlatego zmiana zdania jest bardzo pomocna, ale czasem trzeba też sprawdzić znaczenie czasownika i to, czy nowe zdanie brzmi naturalnie.
 
-Porównaj:
+## Przeczenie zmienia formę, ale nie rodzaj dopełnienia
 
 > Marta <span class="object-predicate">czyta</span> <span class="object-mark object-mark--direct"><strong>raport</strong></span>.
 
 > Marta <span class="object-predicate">nie czyta</span> <span class="object-mark object-mark--direct"><strong>raportu</strong></span>.
 
-Po przeczeniu forma zmienia się na dopełniacz, ale funkcja pozostaje ta sama. Nadal jest to rzecz bezpośrednio objęta czytaniem. Szczegółowo wyjaśni to następna lekcja.
+Po przeczeniu mówimy **raportu**, a nie **raport**. Nadal chodzi jednak o rzecz bezpośrednio objętą czytaniem. Dopełnienie pozostaje bliższe. Następna lekcja dokładnie pokaże tę zmianę.
 
-## Czasownik nieprzechodni
+## Czasowniki, które nie mają dopełnienia bliższego
 
 > Marta <span class="object-predicate">przyszła</span> rano.
 
 > Dziecko <span class="object-predicate">śpi</span> spokojnie.
 
-Czasowniki **przyjść** i **spać** nie otwierają miejsca dla dopełnienia bliższego. Informacje **rano** i **spokojnie** opisują okoliczności zdarzenia.
+Po czasownikach **przyjść** i **spać** nie dopowiadamy rzeczy bezpośrednio objętej czynnością. Wyrazy **rano** i **spokojnie** mówią tylko, kiedy lub jak coś się dzieje.
+
+Czasownik, który nie tworzy dopełnienia bliższego i zwykłej strony biernej, nazywamy **nieprzechodnim**.
 
 ## Krótki tekst
 
@@ -123,17 +133,19 @@ Kierowniczka <span class="object-predicate">przekazała</span> <span class="obje
 <div class="object-reading__commentary" markdown>
 <strong>Co pokazuje tekst?</strong>
 
-**Próbkę**, **adres** i **kierowniczkę** można uczynić podmiotami strony biernej, dlatego są dopełnieniami bliższymi. **Kurierowi**, **o godzinę odbioru** i **laborantce** nazywają odbiorców albo treść relacji i pozostają dopełnieniami dalszymi. Po transformacji próbka staje się podmiotem, a odbiorczyni nadal jest dopełnieniem.
+**Próbkę**, **adres** i **kierowniczkę** możemy po odpowiedniej zmianie zdania uczynić podmiotami: próbka została przekazana, adres został sprawdzony, kierowniczka została zapytana. Dlatego są to dopełnienia bliższe.
+
+**Kurierowi**, **o godzinę odbioru** i **laborantce** nie przechodzą w ten sposób na miejsce podmiotu. Są dopełnieniami dalszymi.
 </div>
 
 <div class="object-summary">
 <h3>Jak odróżnić bliższe od dalszego?</h3>
 <ul>
-  <li>Najpierw sprawdź, czy składnik nazywa rzecz lub osobę bezpośrednio objętą czynnością.</li>
-  <li>Spróbuj zmienić stronę czynną na bierną.</li>
-  <li>Jeżeli składnik staje się podmiotem, jest silnym kandydatem na dopełnienie bliższe.</li>
-  <li>Dopełnienia dalsze pozostają zależne od czasownika, ale nie przechodzą do podmiotu.</li>
-  <li>Testu nie stosuj mechanicznie; uwzględniaj znaczenie i naturalność zdania.</li>
+  <li>Znajdź dopełnienie i sprawdź, kogo lub co nazywa.</li>
+  <li>Spróbuj ułożyć zdanie bierne, w którym to dopełnienie stanie się podmiotem.</li>
+  <li>Jeżeli nowe zdanie brzmi naturalnie, zwykle masz dopełnienie bliższe.</li>
+  <li>Jeżeli dopełnienie pozostaje dopowiedzeniem do czasownika, jest zwykle dalsze.</li>
+  <li>Nie stosuj tej próby bezmyślnie — czasownik <em>mieć</em> pokazuje, że istnieją wyjątki.</li>
 </ul>
 </div>
 
