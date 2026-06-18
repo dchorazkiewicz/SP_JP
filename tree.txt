@@ -269,6 +269,7 @@
 ./docs/stylesheets/borderline-classification.css
 ./docs/stylesheets/conjunction-narrative.css
 ./docs/stylesheets/extra.css
+./docs/stylesheets/home-layout.css
 ./docs/stylesheets/indeclinable-parts.css
 ./docs/stylesheets/interjection-narrative.css
 ./docs/stylesheets/lesson-style-compat.css
