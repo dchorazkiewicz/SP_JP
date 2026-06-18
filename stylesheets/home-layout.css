@@ -1,0 +1,49 @@
+/* Korekty układu dotyczące wyłącznie strony startowej. */
+
+@media screen and (min-width: 960px) {
+  body:has(.home-hero) .md-sidebar--secondary {
+    display: none;
+  }
+
+  body:has(.home-hero) .md-main__inner {
+    grid-template-columns: minmax(0, 1fr);
+    width: min(92vw, 1560px);
+  }
+
+  body:has(.home-hero) .md-content {
+    max-width: none;
+  }
+
+  body:has(.home-hero) .md-content__inner {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    max-width: none;
+  }
+}
+
+.home-hero {
+  padding: clamp(2rem, 4vw, 3.4rem);
+}
+
+.home-hero h1 {
+  font-size: clamp(2.25rem, 3.5vw, 3.65rem);
+  line-height: 1.06;
+  max-width: 22ch;
+}
+
+.home-hero__lead {
+  max-width: 52rem;
+}
+
+@media screen and (min-width: 1280px) {
+  .home-hero h1 {
+    max-width: 24ch;
+  }
+}
+
+@media screen and (max-width: 959px) {
+  .home-hero h1 {
+    font-size: clamp(2rem, 7vw, 3rem);
+    max-width: 18ch;
+  }
+}
