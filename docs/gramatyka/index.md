@@ -1,43 +1,73 @@
+<link rel="stylesheet" href="../stylesheets/grammar-home.css">
+
+<div class="grammar-home-hero" markdown>
+
+<div class="grammar-home-hero__eyebrow">Poznawanie języka</div>
+
 # Gramatyka
+
+<div class="grammar-home-hero__lead">
 
 Gramatyka pomaga zobaczyć, **jak słowa zmieniają swoje formy, jak łączą się ze sobą i jak wspólnie budują znaczenie wypowiedzi**.
 
-Porównajmy trzy zdania:
+Nie zaczynamy od listy terminów. Najpierw obserwujemy, co zmienia się w zdaniu — a dopiero potem nazywamy zauważone zjawisko.
 
-> Lena **czyta** opowiadanie.
+</div>
 
-> Lena **przeczytała** opowiadanie.
+</div>
 
-> Opowiadanie **zostało przeczytane** przez Lenę.
+<div class="grammar-home-lab">
+  <div class="grammar-home-lab__label">Porównaj trzy zdania</div>
+  <h2>Jedno wydarzenie, różne sposoby przedstawienia</h2>
 
-W każdym z nich mowa o Lenie i czytaniu. Zdania nie przekazują jednak dokładnie tej samej informacji. Pierwsze przedstawia czynność w trakcie, drugie mówi o jej zakończeniu, a trzecie kieruje uwagę przede wszystkim na opowiadanie.
+  <div class="grammar-example-grid">
+    <div class="grammar-example-card grammar-example-card--process">
+      <span class="grammar-example-card__label">Czynność w trakcie</span>
+      <p>Lena <strong>czyta</strong> opowiadanie.</p>
+    </div>
 
-Takimi różnicami zajmuje się gramatyka. Będziemy obserwować wyrazy, ich formy oraz związki między nimi. Zamiast uczyć się samych nazw, będziemy sprawdzać, **co dana forma wnosi do zdania i dlaczego mówiący lub autor mógł ją wybrać**.
+    <div class="grammar-example-card grammar-example-card--result">
+      <span class="grammar-example-card__label">Czynność zakończona</span>
+      <p>Lena <strong>przeczytała</strong> opowiadanie.</p>
+    </div>
 
-<div class="lead-box" markdown>
+    <div class="grammar-example-card grammar-example-card--focus">
+      <span class="grammar-example-card__label">Uwaga skierowana na tekst</span>
+      <p>Opowiadanie <strong>zostało przeczytane</strong> przez Lenę.</p>
+    </div>
+  </div>
 
-Nie trzeba najpierw poznawać wszystkich terminów gramatycznych. Potrzebne pojęcia będziemy wprowadzać stopniowo — wtedy, gdy pomogą nazwać coś, co wcześniej zauważyliśmy w przykładach.
+  <p>W każdym zdaniu mowa o Lenie i czytaniu, ale nie przekazują one dokładnie tej samej informacji. Pierwsze pokazuje czynność w trakcie, drugie jej zakończenie, a trzecie kieruje uwagę przede wszystkim na opowiadanie.</p>
+</div>
 
+<div class="grammar-home-note">
+  <strong>Tak będziemy pracować:</strong> obserwować wyrazy, ich formy i związki między nimi, a następnie sprawdzać, co dana forma wnosi do zdania i dlaczego mówiący lub autor mógł ją wybrać.
 </div>
 
 ## Od czego zacząć?
 
-<div class="section-grid">
-  <a class="section-card" href="czesci-mowy/">
-    <span class="section-kicker">Wyrazy i ich właściwości</span>
+<div class="grammar-path-grid">
+  <a class="grammar-path-card grammar-path-card--words" href="czesci-mowy/">
+    <span class="grammar-path-card__icon" aria-hidden="true">Aa</span>
+    <span class="grammar-path-card__kicker">Wyrazy i ich właściwości</span>
     <strong>Części mowy</strong>
     <span>Sprawdzimy, czym różnią się czasowniki, rzeczowniki, przymiotniki i inne części mowy oraz jak zachowują się w wypowiedziach.</span>
+    <span class="grammar-path-card__link">Poznaj części mowy →</span>
   </a>
 
-  <a class="section-card" href="skladnia/">
-    <span class="section-kicker">Budowa zdań</span>
+  <a class="grammar-path-card grammar-path-card--sentences" href="skladnia/">
+    <span class="grammar-path-card__icon" aria-hidden="true">↔</span>
+    <span class="grammar-path-card__kicker">Budowa zdań</span>
     <strong>Składnia</strong>
     <span>Zobaczymy, jak wyrazy łączą się w zdania, jakie pełnią w nich funkcje i jak ich układ wpływa na znaczenie.</span>
+    <span class="grammar-path-card__link">Zobacz budowę zdań →</span>
   </a>
 
-  <a class="section-card" href="../praktyka/">
-    <span class="section-kicker">Język w opowieści</span>
+  <a class="grammar-path-card grammar-path-card--text" href="../praktyka/">
+    <span class="grammar-path-card__icon" aria-hidden="true">¶</span>
+    <span class="grammar-path-card__kicker">Język w opowieści</span>
     <strong>Czytanie i analiza tekstu</strong>
     <span>Przyjrzymy się temu, jak części mowy i budowa zdań działają w dłuższych wypowiedziach.</span>
+    <span class="grammar-path-card__link">Przejdź do tekstów →</span>
   </a>
 </div>
