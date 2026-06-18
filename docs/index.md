@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="stylesheets/home-layout.css">
+
 <div class="home-hero" markdown>
 
 <div class="home-hero__eyebrow">Język polski po ludzku</div>
