@@ -8,7 +8,7 @@
 
 <div class="grammar-home-hero__lead">
 
-Gramatyka pomaga zobaczyć, **jak słowa zmieniają swoje formy, jak łączą się ze sobą i jak wspólnie budują znaczenie wypowiedzi**.
+Gramatyka pomaga zobaczyć, <strong>jak słowa zmieniają swoje formy, jak łączą się ze sobą i jak wspólnie budują znaczenie wypowiedzi</strong>.
 
 Nie zaczynamy od listy terminów. Najpierw obserwujemy, co zmienia się w zdaniu — a dopiero potem nazywamy zauważone zjawisko.
 
